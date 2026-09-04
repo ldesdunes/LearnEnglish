@@ -22,11 +22,16 @@ Los 306 archivos de audio (`malditos_phrasal/`) cubren 153 phrasal verbs organiz
 ### 1. En la Calle / Desplazamientos (PWA Móvil)
 * **Acceso:** [https://ldesdunes.github.io/LearnEnglish/](https://ldesdunes.github.io/LearnEnglish/)
 * **Instalación:** Abre el enlace en Safari (iOS) o Chrome (Android) y pulsa **"Añadir a la pantalla de inicio"**. Se comporta como una app nativa con su icono.
-* **Características:**
+* **Características y Herramientas de Fluidez:**
+  * **🗣️ Hands-Free Shadowing (Auto-Pausa):** Pulsa un botón y la app reproduce cada frase en inglés, hace una pausa calculada con barra de progreso visual (*"¡Tu turno! Repite en voz alta..."*) y pasa automáticamente a la siguiente frase sin tocar la pantalla.
+  * **🔊 Audio Frase a Frase:** Escucha cualquier frase de forma aislada a la velocidad que elijas (0.8x, 1.0x, 1.2x).
+  * **🎙️ Feedback de Pronunciación In-App:** Pulsa el micrófono en cualquier frase, pronuncia en inglés y recibe retroalimentación instantánea (palabras acertadas en verde, fallos en rojo y porcentaje de precisión).
+  * **🗖 Modo Enfoque Calle / Pantalla Completa:** Vista minimalista con tipografía grande y fondo oscuro pensada para practicar mientras caminas.
+  * **⚡ Quiz de Latencia (Entrenador de Reflejos):** Temporizador de 3 segundos para responder la frase en inglés antes de que se muestre la solución, acelerando la velocidad de respuesta oral.
+  * **🔴 🟡 🟢 Sistema de Dominio y Sincronización Transparente:** Marca tu nivel en 1 toque (Focus, Progreso, Dominado) y sincronízalo automáticamente en segundo plano con tu Google Drive para que ChatGPT y Claude conozcan tus puntos débiles.
   * **Buscador semántico:** Busca por intención en español (*"cancelar"*, *"subir"*, *"aguantar"*), por verbo en inglés o por ID.
-  * **Filtros rápidos:** Filtra por familias (*GET, PUT, TAKE, GO, TURN, COME, LOOK*), situaciones (*Movimiento, Trabajo, Vida Cotidiana, Relaciones, Viajes*) o tipo (*Solo Prácticas* vs *Solo Historias*).
-  * **Reproductor:** Control de velocidad (0.8x, 1.0x, 1.2x), retroceso/avance ±5s, y repetición en bucle (*loop*).
-  * **Modo Azar (🎲):** Reproduce una unidad aleatoria para practicar sin pensar cuál elegir.
+  * **Filtros rápidos:** Filtra por estado de dominio (🔴 Focus, 🟡 Progreso, 🟢 Dominados), familias (*GET, PUT, TAKE, GO, TURN, COME, LOOK*), situaciones (*Movimiento, Trabajo, Relaciones...*) o tipo (*Solo Prácticas* vs *Solo Historias*).
+  * **Reproductor:** Control de velocidad (0.8x, 1.0x, 1.2x), retroceso/avance ±5s, repetición en bucle (*loop*) y modo aleatorio (🎲 Azar).
   * **Active Recall:** Toca cualquier frase en inglés para ocultarla/mostrarla (*blur*), poniéndote a prueba antes de escucharla.
 
 ### 2. En Casa con ChatGPT o Claude (Entrenamiento por Voz)

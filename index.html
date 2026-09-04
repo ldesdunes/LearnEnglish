@@ -473,6 +473,13 @@
       padding: 12px;
       margin-bottom: 10px;
       border-left: 3px solid var(--accent);
+      transition: background 0.2s, box-shadow 0.2s;
+    }
+
+    .drill-item.active-shadowing {
+      border-left: 3px solid #38bdf8;
+      background: #172554;
+      box-shadow: 0 0 12px rgba(56, 189, 248, 0.25);
     }
 
     .drill-es {
@@ -492,6 +499,364 @@
     .drill-en.blurred {
       filter: blur(5px);
       user-select: none;
+    }
+
+    .drill-actions {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      margin-top: 8px;
+      flex-wrap: wrap;
+    }
+
+    .btn-drill-act {
+      background: #1e293b;
+      border: 1px solid #334155;
+      color: #cbd5e1;
+      padding: 4px 10px;
+      border-radius: 6px;
+      font-size: 0.78rem;
+      font-weight: 600;
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+      transition: all 0.15s ease;
+      user-select: none;
+    }
+
+    .btn-drill-act:hover {
+      background: #334155;
+      color: #fff;
+    }
+
+    .btn-drill-act.btn-mic {
+      color: #38bdf8;
+    }
+
+    .btn-drill-act.btn-mic.recording {
+      background: #7f1d1d;
+      color: #fca5a5;
+      border-color: #ef4444;
+      animation: pulseRecord 1s infinite;
+    }
+
+    @keyframes pulseRecord {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.6; }
+    }
+
+    .drill-feedback {
+      font-size: 0.78rem;
+      margin-left: 4px;
+    }
+
+    .word-ok {
+      color: #34d399;
+      font-weight: 600;
+    }
+
+    .word-err {
+      color: #f87171;
+      text-decoration: line-through;
+    }
+
+    /* Modal Feature Bar */
+    .modal-feature-bar {
+      display: flex;
+      gap: 8px;
+      margin: 12px 0;
+    }
+
+    .btn-feature {
+      flex: 1;
+      padding: 8px 12px;
+      border-radius: 8px;
+      font-size: 0.8rem;
+      font-weight: 600;
+      border: 1px solid #334155;
+      background: #0f172a;
+      color: #f1f5f9;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 6px;
+      transition: all 0.2s;
+    }
+
+    .btn-feature:hover {
+      border-color: var(--accent);
+      background: #1e293b;
+    }
+
+    .btn-shadowing-mode.active {
+      background: #0284c7;
+      border-color: #38bdf8;
+      color: #fff;
+      box-shadow: 0 0 10px rgba(56, 189, 248, 0.4);
+    }
+
+    /* Shadowing Banner */
+    .shadowing-banner {
+      background: #1e3a5f;
+      border: 1px solid #38bdf8;
+      border-radius: 10px;
+      padding: 10px 14px;
+      margin-bottom: 12px;
+    }
+
+    .shadowing-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.85rem;
+      font-weight: 600;
+      color: #f8fafc;
+      margin-bottom: 6px;
+    }
+
+    .btn-banner-close {
+      background: #334155;
+      border: none;
+      color: #fff;
+      padding: 2px 8px;
+      border-radius: 4px;
+      font-size: 0.72rem;
+      cursor: pointer;
+    }
+
+    .shadowing-progress-bg {
+      background: #0f172a;
+      border-radius: 6px;
+      height: 6px;
+      overflow: hidden;
+    }
+
+    .shadowing-progress-bar {
+      background: linear-gradient(90deg, #38bdf8, #34d399);
+      height: 100%;
+      width: 0%;
+      transition: width 0.1s linear;
+    }
+
+    /* Fullscreen Focus Mode Overlay */
+    .focus-overlay {
+      display: none;
+      position: fixed;
+      inset: 0;
+      background: #090d16;
+      z-index: 200;
+      padding: 24px 20px;
+      flex-direction: column;
+      justify-content: space-between;
+    }
+
+    .focus-overlay.active {
+      display: flex;
+    }
+
+    .focus-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      border-bottom: 1px solid #1e293b;
+      padding-bottom: 12px;
+    }
+
+    .focus-verb-info span {
+      font-size: 1.15rem;
+      font-weight: 800;
+      color: var(--accent);
+      display: block;
+    }
+
+    .focus-verb-info small {
+      font-size: 0.85rem;
+      color: var(--text-muted);
+    }
+
+    .focus-close {
+      background: #1e293b;
+      border: none;
+      color: #fff;
+      width: 36px;
+      height: 36px;
+      border-radius: 50%;
+      font-size: 1rem;
+      cursor: pointer;
+    }
+
+    .focus-body {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      padding: 20px 10px;
+    }
+
+    .focus-counter {
+      font-size: 0.8rem;
+      color: var(--accent);
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      margin-bottom: 14px;
+    }
+
+    .focus-phrase-es {
+      font-size: 1.35rem;
+      font-weight: 600;
+      color: #f8fafc;
+      margin-bottom: 20px;
+      line-height: 1.4;
+      max-width: 600px;
+    }
+
+    .focus-phrase-en {
+      font-size: 1.25rem;
+      color: #38bdf8;
+      font-weight: 500;
+      line-height: 1.4;
+      cursor: pointer;
+      filter: blur(7px);
+      transition: filter 0.25s ease;
+      user-select: none;
+      max-width: 600px;
+    }
+
+    .focus-phrase-en.revealed {
+      filter: blur(0);
+      user-select: auto;
+    }
+
+    .focus-hint {
+      font-size: 0.78rem;
+      color: var(--text-muted);
+      margin-top: 14px;
+    }
+
+    .focus-feedback-box {
+      margin-top: 14px;
+      font-size: 0.95rem;
+      min-height: 24px;
+    }
+
+    .focus-controls {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 12px;
+      padding-top: 16px;
+      border-top: 1px solid #1e293b;
+    }
+
+    .focus-btn {
+      background: #1e293b;
+      border: 1px solid #334155;
+      color: #fff;
+      border-radius: 12px;
+      padding: 12px 18px;
+      font-size: 1rem;
+      cursor: pointer;
+      font-weight: 600;
+    }
+
+    .focus-btn-act {
+      background: #0284c7;
+      border-color: #38bdf8;
+      flex: 1;
+      max-width: 140px;
+    }
+
+    .focus-btn-mic {
+      background: #0f766e;
+      border-color: #14b8a6;
+      flex: 1;
+      max-width: 140px;
+    }
+
+    .focus-btn-mic.recording {
+      background: #7f1d1d;
+      border-color: #ef4444;
+      animation: pulseRecord 1s infinite;
+    }
+
+    /* Quiz Modal styles */
+    .btn-quiz {
+      background: #7c3aed;
+    }
+
+    .btn-quiz:hover {
+      background: #6d28d9;
+    }
+
+    .quiz-card {
+      background: #0f172a;
+      border: 1px solid #334155;
+      border-radius: 12px;
+      padding: 18px 16px;
+      margin: 12px 0 16px 0;
+      text-align: center;
+    }
+
+    .quiz-verb-hint {
+      font-size: 0.85rem;
+      color: var(--accent);
+      margin-bottom: 12px;
+    }
+
+    .quiz-timer-container {
+      background: #1e293b;
+      height: 8px;
+      border-radius: 4px;
+      overflow: hidden;
+      margin-bottom: 8px;
+    }
+
+    .quiz-timer-bar {
+      height: 100%;
+      background: linear-gradient(90deg, #10b981, #f59e0b, #ef4444);
+      width: 100%;
+      transition: width 0.1s linear;
+    }
+
+    .quiz-timer-label {
+      font-size: 0.75rem;
+      color: var(--text-muted);
+      margin-bottom: 14px;
+    }
+
+    .quiz-es-prompt {
+      font-size: 1.25rem;
+      font-weight: 700;
+      color: #fff;
+      margin-bottom: 14px;
+      line-height: 1.4;
+    }
+
+    .quiz-en-solution {
+      border-top: 1px dashed #334155;
+      padding-top: 14px;
+      margin-top: 10px;
+    }
+
+    .quiz-en-text {
+      font-size: 1.15rem;
+      font-weight: 600;
+      color: #38bdf8;
+      margin-bottom: 10px;
+    }
+
+    .btn-quiz-audio {
+      background: #1e293b;
+      border: 1px solid #334155;
+      color: #f1f5f9;
+      font-size: 0.8rem;
+      padding: 6px 12px;
+      border-radius: 6px;
+      cursor: pointer;
     }
 
     .modal-btn-row {
@@ -614,6 +979,7 @@
         <span>⚡ Phrasal Coach</span>
       </div>
       <div class="top-actions">
+        <button class="btn-top btn-quiz" onclick="openQuizModal()" title="Entrenador de velocidad y latencia de respuesta">⚡ Quiz</button>
         <button class="btn-top btn-sync" id="btnSyncStatus" onclick="openSyncModal()" title="Sincronización transparente con Google Drive / Sheets">
           <span id="syncIcon">☁️</span> <span id="syncText">Drive</span>
         </button>
@@ -675,6 +1041,26 @@
             <button class="status-pill pill-progress" id="modalPillProgress" onclick="setModalStatus('in_progress')">🟡 Progreso</button>
             <button class="status-pill pill-mastered" id="modalPillMastered" onclick="setModalStatus('mastered')">🟢 Dominado</button>
           </div>
+        </div>
+      </div>
+
+      <div class="modal-feature-bar">
+        <button class="btn-feature btn-shadowing-mode" id="btnShadowingToggle" onclick="toggleHandsFreeShadowing()">
+          🗣️ Modo Shadowing Manos Libres
+        </button>
+        <button class="btn-feature" onclick="openFocusMode()">
+          🗖 Modo Enfoque Calle
+        </button>
+      </div>
+
+      <!-- Shadowing Progress Banner -->
+      <div id="shadowingBanner" class="shadowing-banner" style="display: none;">
+        <div class="shadowing-header">
+          <span id="shadowingStatusText">🎧 Escuchando frase 1...</span>
+          <button class="btn-banner-close" onclick="stopHandsFreeShadowing()">✕ Detener</button>
+        </div>
+        <div class="shadowing-progress-bg">
+          <div id="shadowingProgressBar" class="shadowing-progress-bar"></div>
         </div>
       </div>
 
@@ -756,6 +1142,78 @@
           3. Configura: <em>Ejecutar como: Yo</em> y <em>Quién tiene acceso: Cualquier persona</em>.<br>
           4. Pega la URL obtenida en el campo de arriba y listo.
         </p>
+      </div>
+    </div>
+  </div>
+
+  <!-- Fullscreen Focus Mode (Lyrics style for walking/hands-free) -->
+  <div class="focus-overlay" id="focusOverlay">
+    <div class="focus-header">
+      <div class="focus-verb-info">
+        <span id="focusVerbTag">#1 go up</span>
+        <small id="focusMeaningTag">Subir, ascender</small>
+      </div>
+      <button class="focus-close" onclick="closeFocusMode()">✕</button>
+    </div>
+    
+    <div class="focus-body">
+      <div class="focus-counter" id="focusCounter">Frase 1 de 10</div>
+      <div class="focus-phrase-es" id="focusPhraseEs">Tienes que subir a la quinta planta.</div>
+      <div class="focus-phrase-en" id="focusPhraseEn" onclick="this.classList.toggle('revealed')">
+        You have to go up to the fifth floor.
+      </div>
+      <div class="focus-hint" id="focusHint">👆 Toca para mostrar / ocultar en inglés</div>
+      <div id="focusFeedback" class="focus-feedback-box"></div>
+    </div>
+
+    <div class="focus-controls">
+      <button class="focus-btn" onclick="focusPrevPhrase()">⏮️</button>
+      <button class="focus-btn focus-btn-act" onclick="focusSpeakCurrent()">🔊 Escuchar</button>
+      <button class="focus-btn focus-btn-mic" id="focusMicBtn" onclick="focusRecordSpeech()">🎙️ Hablar</button>
+      <button class="focus-btn" onclick="focusNextPhrase()">⏭️</button>
+    </div>
+  </div>
+
+  <!-- Latency Quiz Modal (Entrenador de Fluidez) -->
+  <div class="modal" id="quizModal" onclick="closeQuizModalOnBackdrop(event)">
+    <div class="modal-content" style="max-width: 560px;">
+      <button class="modal-close" onclick="closeQuizModal()">✕</button>
+      <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
+        <span class="badge-type drill">⚡ Entrenador de Fluidez</span>
+        <span style="font-size: 0.85rem; color: #fde68a; font-weight: 700;" id="quizScore">Racha: 0 🔥</span>
+      </div>
+
+      <div class="quiz-card">
+        <div class="quiz-verb-hint" id="quizVerbHint">Phrasal Verb: <strong>...</strong></div>
+        <div class="quiz-timer-container">
+          <div class="quiz-timer-bar" id="quizTimerBar"></div>
+        </div>
+        <div class="quiz-timer-label" id="quizTimerLabel">⏱️ 3 segundos para responder en voz alta...</div>
+        
+        <div class="quiz-es-prompt" id="quizEsPrompt">...</div>
+        
+        <div class="quiz-en-solution" id="quizEnSolution" style="display: none;">
+          <div class="quiz-en-text" id="quizEnText">...</div>
+          <button class="btn-quiz-audio" onclick="playQuizSolutionAudio()">🔊 Escuchar de nuevo</button>
+        </div>
+      </div>
+
+      <div class="quiz-actions" id="quizActionsBefore" style="display: flex;">
+        <button class="btn-modal-action" style="background: #38bdf8; color: #0f172a;" onclick="revealQuizSolution()">
+          👁️ Ver Respuesta (o espera al temporizador)
+        </button>
+      </div>
+
+      <div class="quiz-actions" id="quizActionsAfter" style="display: none; gap: 8px;">
+        <button class="btn-modal-action" style="background: #7f1d1d; color: #fca5a5;" onclick="rateQuizAnswer('focus')">
+          ❌ Me trabé (🔴)
+        </button>
+        <button class="btn-modal-action" style="background: #78350f; color: #fde68a;" onclick="rateQuizAnswer('in_progress')">
+          ⚠️ Dudé (🟡)
+        </button>
+        <button class="btn-modal-action" style="background: #064e3b; color: #6ee7b7;" onclick="rateQuizAnswer('mastered')">
+          ✅ Fluido (🟢)
+        </button>
       </div>
     </div>
   </div>
@@ -1025,6 +1483,7 @@
       const item = currentData.find(x => x.id === id);
       if (!item) return;
       activeModalItem = item;
+      stopHandsFreeShadowing();
 
       const isDrill = item.type === 'drill';
       const typeBadge = document.getElementById('modalTypeBadge');
@@ -1046,10 +1505,19 @@
 
       const drillsContainer = document.getElementById('modalDrillsList');
       drillsContainer.innerHTML = (item.drills || []).map((d, i) => `
-        <div class="drill-item">
+        <div class="drill-item" id="drill-item-${i}">
           <div class="drill-es">${i + 1}. ${d.es}</div>
-          <div class="drill-en ${blurEnglish ? 'blurred' : ''}" onclick="this.classList.toggle('blurred')">
+          <div class="drill-en ${blurEnglish ? 'blurred' : ''}" id="drill-en-${i}" onclick="this.classList.toggle('blurred')">
             ${d.en}
+          </div>
+          <div class="drill-actions">
+            <button class="btn-drill-act" onclick="speakDrillPhrase(${i})">
+              🔊 Escuchar
+            </button>
+            <button class="btn-drill-act btn-mic" id="mic-btn-${i}" onclick="recordDrillPhrase(${i})">
+              🎙️ Pronunciar
+            </button>
+            <span class="drill-feedback" id="drill-feedback-${i}"></span>
           </div>
         </div>
       `).join('');
@@ -1059,12 +1527,19 @@
     }
 
     function switchToPair() {
+      stopHandsFreeShadowing();
       if (activeModalItem && activeModalItem.pair_id) {
         openDetails(activeModalItem.pair_id);
       }
     }
 
     function closeModal() {
+      stopHandsFreeShadowing();
+      if (window.speechSynthesis) window.speechSynthesis.cancel();
+      if (activeRecognition) {
+        try { activeRecognition.stop(); } catch(e){}
+        activeRecognition = null;
+      }
       document.getElementById('drillModal').classList.remove('active');
       activeModalItem = null;
     }
@@ -1096,6 +1571,391 @@ ${drillLines}`;
       }).catch(() => {
         prompt('Copia este texto manualmente:', prompt);
       });
+    }
+
+    // Speech Synthesis (Audio Nativo por Frase)
+    let englishVoice = null;
+    function loadVoices() {
+      if (!('speechSynthesis' in window)) return;
+      const voices = window.speechSynthesis.getVoices();
+      englishVoice = voices.find(v => v.lang.startsWith('en') && (v.name.includes('Google') || v.name.includes('Natural') || v.name.includes('Samantha') || v.name.includes('Daniel'))) ||
+                     voices.find(v => v.lang === 'en-US') ||
+                     voices.find(v => v.lang.startsWith('en')) || null;
+    }
+    if ('speechSynthesis' in window) {
+      loadVoices();
+      window.speechSynthesis.onvoiceschanged = loadVoices;
+    }
+
+    function speakText(text, onEnd) {
+      if (!('speechSynthesis' in window)) {
+        if (onEnd) onEnd();
+        return;
+      }
+      window.speechSynthesis.cancel();
+      const utter = new SpeechSynthesisUtterance(text);
+      if (englishVoice) utter.voice = englishVoice;
+      utter.lang = 'en-US';
+      utter.rate = playbackSpeed;
+      utter.onend = () => { if (onEnd) onEnd(); };
+      utter.onerror = () => { if (onEnd) onEnd(); };
+      window.speechSynthesis.speak(utter);
+    }
+
+    function speakDrillPhrase(index) {
+      if (!activeModalItem || !activeModalItem.drills || !activeModalItem.drills[index]) return;
+      speakText(activeModalItem.drills[index].en);
+    }
+
+    // Pronunciation Recognition & Comparison
+    let activeRecognition = null;
+
+    function comparePronunciation(spoken, target) {
+      const clean = str => str.toLowerCase().replace(/[^a-z0-9\s']/g, '').trim().split(/\s+/).filter(Boolean);
+      const spokenWords = clean(spoken);
+      const targetWords = clean(target);
+
+      let matches = 0;
+      const resultHtml = targetWords.map(tWord => {
+        if (spokenWords.includes(tWord)) {
+          matches++;
+          return `<span class="word-ok">${tWord}</span>`;
+        } else {
+          return `<span class="word-err">${tWord}</span>`;
+        }
+      }).join(' ');
+
+      const score = targetWords.length > 0 ? Math.round((matches / targetWords.length) * 100) : 0;
+      return { score, html: resultHtml };
+    }
+
+    function recordDrillPhrase(index) {
+      const SpeechRec = window.SpeechRecognition || window.webkitSpeechRecognition;
+      const micBtn = document.getElementById(`mic-btn-${index}`);
+      const feedbackEl = document.getElementById(`drill-feedback-${index}`);
+
+      if (!SpeechRec) {
+        alert('Tu navegador no soporta reconocimiento de voz nativo. Prueba en Chrome, Edge o Safari.');
+        return;
+      }
+
+      if (activeRecognition) {
+        try { activeRecognition.stop(); } catch(e){}
+        activeRecognition = null;
+        document.querySelectorAll('.btn-drill-act.btn-mic').forEach(b => b.classList.remove('recording'));
+      }
+
+      const recognition = new SpeechRec();
+      activeRecognition = recognition;
+      recognition.lang = 'en-US';
+      recognition.interimResults = false;
+      recognition.maxAlternatives = 1;
+
+      micBtn.classList.add('recording');
+      feedbackEl.innerHTML = '<span style="color:var(--accent);"><i>Escuchando pronunciación...</i></span>';
+
+      recognition.onresult = (event) => {
+        const spoken = event.results[0][0].transcript;
+        const target = activeModalItem.drills[index].en;
+        const { score, html } = comparePronunciation(spoken, target);
+
+        const drillEn = document.getElementById(`drill-en-${index}`);
+        if (drillEn) drillEn.classList.remove('blurred');
+
+        let badge = score >= 80 ? '✅ Excelente' : score >= 50 ? '⚠️ Bien' : '❌ Repite';
+        feedbackEl.innerHTML = `${badge} (${score}%): ${html}`;
+      };
+
+      recognition.onerror = (event) => {
+        feedbackEl.innerHTML = `<span style="color:#f87171;">⚠️ ${event.error === 'not-allowed' ? 'Permiso de micro denegado' : 'No se detectó audio'}</span>`;
+      };
+
+      recognition.onend = () => {
+        micBtn.classList.remove('recording');
+        activeRecognition = null;
+      };
+
+      try {
+        recognition.start();
+      } catch (err) {
+        micBtn.classList.remove('recording');
+      }
+    }
+
+    // Hands-Free Shadowing Mode
+    let isHandsFreeActive = false;
+    let shadowingIndex = 0;
+    let shadowingStepTimer = null;
+    let shadowingProgressInterval = null;
+
+    function toggleHandsFreeShadowing() {
+      if (isHandsFreeActive) {
+        stopHandsFreeShadowing();
+      } else {
+        startHandsFreeShadowing();
+      }
+    }
+
+    function startHandsFreeShadowing() {
+      if (!activeModalItem || !activeModalItem.drills || activeModalItem.drills.length === 0) return;
+      isHandsFreeActive = true;
+      shadowingIndex = 0;
+
+      const btn = document.getElementById('btnShadowingToggle');
+      if (btn) {
+        btn.classList.add('active');
+        btn.textContent = '⏸️ Pausar Shadowing';
+      }
+
+      const banner = document.getElementById('shadowingBanner');
+      if (banner) banner.style.display = 'block';
+
+      if (!audio.paused) {
+        audio.pause();
+        btnPlayPause.textContent = '▶';
+      }
+
+      runShadowingStep(0);
+    }
+
+    function runShadowingStep(index) {
+      if (!isHandsFreeActive || !activeModalItem) return;
+      const drills = activeModalItem.drills;
+      if (index >= drills.length) {
+        const statusText = document.getElementById('shadowingStatusText');
+        if (statusText) statusText.textContent = '🎉 ¡Unidad completada! Excelente sesión.';
+        setTimeout(() => stopHandsFreeShadowing(), 2500);
+        return;
+      }
+
+      shadowingIndex = index;
+      document.querySelectorAll('.drill-item').forEach(el => el.classList.remove('active-shadowing'));
+      const activeEl = document.getElementById(`drill-item-${index}`);
+      if (activeEl) {
+        activeEl.classList.add('active-shadowing');
+        activeEl.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+      }
+
+      const statusText = document.getElementById('shadowingStatusText');
+      const progressBar = document.getElementById('shadowingProgressBar');
+      if (statusText) statusText.textContent = `🎧 Escuchando frase ${index + 1} de ${drills.length}...`;
+      if (progressBar) progressBar.style.width = '0%';
+
+      speakText(drills[index].en, () => {
+        if (!isHandsFreeActive) return;
+        if (statusText) statusText.textContent = `🗣️ ¡Tu turno! Repite en voz alta ahora...`;
+
+        const repeatWindowMs = Math.max(3500, drills[index].en.split(' ').length * 550);
+        const startTime = Date.now();
+
+        if (shadowingProgressInterval) clearInterval(shadowingProgressInterval);
+        shadowingProgressInterval = setInterval(() => {
+          if (!isHandsFreeActive) {
+            clearInterval(shadowingProgressInterval);
+            return;
+          }
+          const elapsed = Date.now() - startTime;
+          const pct = Math.min(100, (elapsed / repeatWindowMs) * 100);
+          if (progressBar) progressBar.style.width = pct + '%';
+        }, 50);
+
+        shadowingStepTimer = setTimeout(() => {
+          clearInterval(shadowingProgressInterval);
+          if (progressBar) progressBar.style.width = '100%';
+          if (isHandsFreeActive) {
+            runShadowingStep(index + 1);
+          }
+        }, repeatWindowMs);
+      });
+    }
+
+    function stopHandsFreeShadowing() {
+      isHandsFreeActive = false;
+      if (shadowingStepTimer) clearTimeout(shadowingStepTimer);
+      if (shadowingProgressInterval) clearInterval(shadowingProgressInterval);
+      if (window.speechSynthesis) window.speechSynthesis.cancel();
+
+      const btn = document.getElementById('btnShadowingToggle');
+      if (btn) {
+        btn.classList.remove('active');
+        btn.textContent = '🗣️ Modo Shadowing Manos Libres';
+      }
+
+      const banner = document.getElementById('shadowingBanner');
+      if (banner) banner.style.display = 'none';
+
+      document.querySelectorAll('.drill-item').forEach(el => el.classList.remove('active-shadowing'));
+    }
+
+    // Fullscreen Focus Mode (Modo Enfoque Calle)
+    let focusPhraseIdx = 0;
+    function openFocusMode() {
+      if (!activeModalItem || !activeModalItem.drills || activeModalItem.drills.length === 0) return;
+      focusPhraseIdx = 0;
+      document.getElementById('focusVerbTag').textContent = `#${activeModalItem.id} ${activeModalItem.phrasal_verb}`;
+      document.getElementById('focusMeaningTag').textContent = activeModalItem.meaning_es;
+      renderFocusPhrase();
+      document.getElementById('focusOverlay').classList.add('active');
+    }
+
+    function closeFocusMode() {
+      document.getElementById('focusOverlay').classList.remove('active');
+      if (window.speechSynthesis) window.speechSynthesis.cancel();
+      if (activeRecognition) {
+        try { activeRecognition.stop(); } catch(e){}
+        activeRecognition = null;
+      }
+    }
+
+    function renderFocusPhrase() {
+      if (!activeModalItem) return;
+      const drill = activeModalItem.drills[focusPhraseIdx];
+      document.getElementById('focusCounter').textContent = `Frase ${focusPhraseIdx + 1} de ${activeModalItem.drills.length}`;
+      document.getElementById('focusPhraseEs').textContent = drill.es;
+      const enEl = document.getElementById('focusPhraseEn');
+      enEl.textContent = drill.en;
+      enEl.classList.remove('revealed');
+      document.getElementById('focusFeedback').innerHTML = '';
+      const micBtn = document.getElementById('focusMicBtn');
+      if (micBtn) micBtn.classList.remove('recording');
+    }
+
+    function focusPrevPhrase() {
+      if (!activeModalItem) return;
+      if (focusPhraseIdx > 0) {
+        focusPhraseIdx--;
+        renderFocusPhrase();
+      }
+    }
+
+    function focusNextPhrase() {
+      if (!activeModalItem) return;
+      if (focusPhraseIdx < activeModalItem.drills.length - 1) {
+        focusPhraseIdx++;
+        renderFocusPhrase();
+      }
+    }
+
+    function focusSpeakCurrent() {
+      if (!activeModalItem) return;
+      speakText(activeModalItem.drills[focusPhraseIdx].en);
+    }
+
+    function focusRecordSpeech() {
+      if (!activeModalItem) return;
+      const SpeechRec = window.SpeechRecognition || window.webkitSpeechRecognition;
+      const micBtn = document.getElementById('focusMicBtn');
+      const feedbackEl = document.getElementById('focusFeedback');
+      const drillEn = document.getElementById('focusPhraseEn');
+
+      if (!SpeechRec) {
+        alert('Reconocimiento de voz no soportado en este navegador.');
+        return;
+      }
+
+      const rec = new SpeechRec();
+      rec.lang = 'en-US';
+      micBtn.classList.add('recording');
+      feedbackEl.innerHTML = '<span style="color:var(--accent);"><i>Escuchando...</i></span>';
+
+      rec.onresult = (e) => {
+        const spoken = e.results[0][0].transcript;
+        const target = activeModalItem.drills[focusPhraseIdx].en;
+        const { score, html } = comparePronunciation(spoken, target);
+        drillEn.classList.add('revealed');
+        let badge = score >= 80 ? '✅ Excelente' : score >= 50 ? '⚠️ Bien' : '❌ Repite';
+        feedbackEl.innerHTML = `${badge} (${score}%): ${html}`;
+      };
+
+      rec.onerror = () => {
+        feedbackEl.innerHTML = `<span style="color:#f87171;">⚠️ No se detectó audio</span>`;
+      };
+
+      rec.onend = () => {
+        micBtn.classList.remove('recording');
+      };
+
+      rec.start();
+    }
+
+    // Latency Quiz Flashcard Mode (Modo Ráfaga de Fluidez)
+    let quizActiveCard = null;
+    let quizActiveDrill = null;
+    let quizStreak = 0;
+    let quizTimerId = null;
+
+    function openQuizModal() {
+      document.getElementById('quizModal').classList.add('active');
+      loadNextQuizQuestion();
+    }
+
+    function closeQuizModal() {
+      if (quizTimerId) clearTimeout(quizTimerId);
+      if (window.speechSynthesis) window.speechSynthesis.cancel();
+      document.getElementById('quizModal').classList.remove('active');
+    }
+
+    function closeQuizModalOnBackdrop(e) {
+      if (e.target.id === 'quizModal') closeQuizModal();
+    }
+
+    function loadNextQuizQuestion() {
+      if (quizTimerId) clearTimeout(quizTimerId);
+
+      const focusCards = currentData.filter(x => cardStatuses[x.id] === 'focus');
+      const progressCards = currentData.filter(x => cardStatuses[x.id] === 'in_progress');
+      let pool = focusCards.length > 0 ? focusCards : (progressCards.length > 0 ? progressCards : currentData);
+
+      quizActiveCard = pool[Math.floor(Math.random() * pool.length)];
+      const drills = quizActiveCard.drills && quizActiveCard.drills.length > 0 ? quizActiveCard.drills : [{ es: quizActiveCard.meaning_es, en: quizActiveCard.phrasal_verb }];
+      quizActiveDrill = drills[Math.floor(Math.random() * drills.length)];
+
+      document.getElementById('quizVerbHint').innerHTML = `Phrasal Verb: <strong>${quizActiveCard.phrasal_verb}</strong> <small style="color:var(--text-muted);">(${quizActiveCard.meaning_es})</small>`;
+      document.getElementById('quizEsPrompt').textContent = quizActiveDrill.es;
+      document.getElementById('quizEnText').textContent = quizActiveDrill.en;
+      document.getElementById('quizEnSolution').style.display = 'none';
+      document.getElementById('quizActionsBefore').style.display = 'flex';
+      document.getElementById('quizActionsAfter').style.display = 'none';
+      document.getElementById('quizTimerLabel').textContent = '⏱️ 3 segundos para responder en voz alta...';
+
+      const timerBar = document.getElementById('quizTimerBar');
+      timerBar.style.transition = 'none';
+      timerBar.style.width = '100%';
+      void timerBar.offsetWidth; // forzar reflow
+      timerBar.style.transition = 'width 3.5s linear';
+      timerBar.style.width = '0%';
+
+      quizTimerId = setTimeout(() => {
+        revealQuizSolution(true);
+      }, 3500);
+    }
+
+    function revealQuizSolution(fromTimer = false) {
+      if (quizTimerId) clearTimeout(quizTimerId);
+      document.getElementById('quizTimerLabel').textContent = fromTimer ? '⏰ ¡Tiempo cumplido!' : '💡 Respuesta mostrada';
+      document.getElementById('quizEnSolution').style.display = 'block';
+      document.getElementById('quizActionsBefore').style.display = 'none';
+      document.getElementById('quizActionsAfter').style.display = 'flex';
+
+      speakText(quizActiveDrill.en);
+    }
+
+    function playQuizSolutionAudio() {
+      if (quizActiveDrill) {
+        speakText(quizActiveDrill.en);
+      }
+    }
+
+    function rateQuizAnswer(rating) {
+      if (rating === 'mastered') {
+        quizStreak++;
+      } else {
+        quizStreak = 0;
+      }
+      document.getElementById('quizScore').textContent = `Racha: ${quizStreak} 🔥`;
+
+      setCardStatus(quizActiveCard.id, rating);
+      loadNextQuizQuestion();
     }
 
     // Status Management
