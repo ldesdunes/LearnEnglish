@@ -5,24 +5,45 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
   <title>Phrasal Verbs Coach - 306 Audios</title>
   <link rel="manifest" href="manifest.json">
-  <meta name="theme-color" content="#0f172a">
+  <meta name="theme-color" content="var(--bg)">
   <link rel="icon" type="image/svg+xml" href="icon.svg">
   <style>
     :root {
-      --bg: #0f172a;
-      --card-bg: #1e293b;
-      --card-border: #334155;
-      --text: #f8fafc;
-      --text-muted: #94a3b8;
-      --accent: #38bdf8;
-      --accent-hover: #0284c7;
-      --success: #34d399;
-      --drill-badge-bg: #064e3b;
-      --drill-badge-text: #6ee7b7;
-      --story-badge-bg: #4c1d95;
-      --story-badge-text: #c4b5fd;
-      --tag-bg: #1e3a5f;
-      --tag-text: #7dd3fc;
+      /* Neutrales: una sola familia fría de baja saturación en oklch */
+      --bg: oklch(20% 0.02 250);
+      --card-bg: oklch(26% 0.022 250);
+      --card-border: oklch(36% 0.022 250);
+      --border-strong: oklch(46% 0.025 250);
+      --text: oklch(97% 0.005 250);
+      --text-secondary: oklch(88% 0.012 250);
+      --text-muted: oklch(74% 0.02 250);
+
+      /* Acento de marca: azul y violeta comparten cromaticidad y luminosidad, solo cambia el tono */
+      --accent: oklch(72% 0.15 230);
+      --accent-hover: oklch(58% 0.17 230);
+      --accent-2: oklch(72% 0.15 300);
+      --success: oklch(78% 0.15 150);
+
+      /* Tipo de pista (práctica/historia): familia propia, distinta de la tríada de estado */
+      --drill-badge-bg: oklch(26% 0.06 230);
+      --drill-badge-text: oklch(80% 0.10 230);
+      --story-badge-bg: oklch(28% 0.07 300);
+      --story-badge-text: oklch(80% 0.11 300);
+
+      /* Categoría/situación: mismo tono que el acento, más contenido */
+      --tag-bg: oklch(30% 0.06 230);
+      --tag-text: oklch(82% 0.09 230);
+
+      /* Tríada de estado de dominio: mismo L y C, solo cambia el tono (rojo/ámbar/verde) */
+      --status-focus-bg: oklch(30% 0.09 25);
+      --status-focus-text: oklch(82% 0.12 25);
+      --status-focus-border: oklch(62% 0.16 25);
+      --status-progress-bg: oklch(30% 0.09 85);
+      --status-progress-text: oklch(82% 0.12 85);
+      --status-progress-border: oklch(62% 0.16 85);
+      --status-mastered-bg: oklch(30% 0.09 150);
+      --status-mastered-text: oklch(82% 0.12 150);
+      --status-mastered-border: oklch(62% 0.16 150);
     }
 
     * {
@@ -66,7 +87,7 @@
     }
 
     .title span {
-      background: linear-gradient(135deg, #38bdf8, #818cf8);
+      background: linear-gradient(135deg, var(--accent), var(--accent-2));
       -webkit-background-clip: text;
       -webkit-text-fill-color: transparent;
     }
@@ -76,10 +97,11 @@
       gap: 8px;
     }
 
+    /* Botones de cabecera: una acción primaria rellena (Azar) + secundarias tipo ghost (Quiz, Drive) */
     .btn-top {
-      background: #2563eb;
-      color: #fff;
-      border: none;
+      background: transparent;
+      color: var(--text-muted);
+      border: 1px solid var(--card-border);
       border-radius: 8px;
       padding: 6px 12px;
       font-size: 0.85rem;
@@ -91,23 +113,30 @@
     }
 
     .btn-top:hover {
-      background: #1d4ed8;
+      border-color: var(--border-strong);
+      color: var(--text);
     }
 
-    .btn-sync {
-      background: #0f766e;
+    .btn-top.btn-primary {
+      background: var(--accent);
+      border-color: var(--accent);
+      color: var(--bg);
     }
 
-    .btn-sync:hover {
-      background: #0d9488;
+    .btn-top.btn-primary:hover {
+      background: var(--accent-hover);
+      border-color: var(--accent-hover);
+      color: var(--bg);
     }
 
     .btn-sync.syncing {
-      background: #b45309;
+      border-color: var(--status-progress-border);
+      color: var(--status-progress-text);
     }
 
     .btn-sync.connected {
-      background: #047857;
+      border-color: var(--status-mastered-border);
+      color: var(--status-mastered-text);
     }
 
     .search-box {
@@ -117,11 +146,11 @@
 
     .search-input {
       width: 100%;
-      background: #1e293b;
+      background: var(--card-bg);
       border: 1px solid var(--card-border);
       border-radius: 10px;
       padding: 10px 14px 10px 36px;
-      color: #fff;
+      color: var(--text);
       font-size: 0.95rem;
       outline: none;
       transition: border-color 0.2s;
@@ -153,7 +182,7 @@
     }
 
     .filter-chip {
-      background: #1e293b;
+      background: var(--card-bg);
       border: 1px solid var(--card-border);
       color: var(--text-muted);
       border-radius: 20px;
@@ -171,22 +200,67 @@
       font-weight: 600;
     }
 
-    .filter-chip.filter-focus.active {
-      background: #7f1d1d;
-      color: #fca5a5;
-      border-color: #ef4444;
+    .filter-label {
+      font-size: 0.7rem;
+      color: var(--text-muted);
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      font-weight: 700;
+      margin-bottom: 6px;
     }
 
-    .filter-chip.filter-progress.active {
-      background: #78350f;
-      color: #fde68a;
-      border-color: #f59e0b;
+    .segmented {
+      display: flex;
+      background: var(--card-bg);
+      border: 1px solid var(--card-border);
+      border-radius: 10px;
+      padding: 3px;
+      gap: 2px;
+      margin-bottom: 10px;
     }
 
-    .filter-chip.filter-mastered.active {
-      background: #064e3b;
-      color: #6ee7b7;
-      border-color: #10b981;
+    .segmented .filter-chip.seg {
+      flex: 1;
+      text-align: center;
+      background: transparent;
+      border: none;
+      border-radius: 7px;
+      padding: 6px 4px;
+      font-size: 0.78rem;
+      white-space: nowrap;
+    }
+
+    .segmented .filter-chip.seg.active {
+      border: none;
+      font-weight: 700;
+    }
+
+    .segmented .filter-chip.seg.seg-focus.active {
+      background: var(--status-focus-bg);
+      color: var(--status-focus-text);
+    }
+
+    .segmented .filter-chip.seg.seg-progress.active {
+      background: var(--status-progress-bg);
+      color: var(--status-progress-text);
+    }
+
+    .segmented .filter-chip.seg.seg-mastered.active {
+      background: var(--status-mastered-bg);
+      color: var(--status-mastered-text);
+    }
+
+    .more-filters-row {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .more-label {
+      font-size: 0.72rem;
+      color: var(--text-muted);
+      white-space: nowrap;
+      font-weight: 600;
     }
 
     .card-status-bar {
@@ -195,9 +269,9 @@
       justify-content: space-between;
       margin: 8px 0 10px 0;
       padding: 6px 8px;
-      background: #0f172a;
+      background: var(--bg);
       border-radius: 8px;
-      border: 1px solid #1e293b;
+      border: 1px solid var(--card-bg);
     }
 
     .status-title {
@@ -214,8 +288,8 @@
     }
 
     .status-pill {
-      background: #1e293b;
-      border: 1px solid #334155;
+      background: var(--card-bg);
+      border: 1px solid var(--card-border);
       color: var(--text-muted);
       font-size: 0.72rem;
       padding: 3px 8px;
@@ -230,35 +304,35 @@
     }
 
     .status-pill:hover {
-      border-color: #64748b;
-      color: #fff;
+      border-color: var(--border-strong);
+      color: var(--text);
     }
 
     .status-pill.pill-focus.active {
-      background: #7f1d1d;
-      color: #fca5a5;
-      border-color: #ef4444;
+      background: var(--status-focus-bg);
+      color: var(--status-focus-text);
+      border-color: var(--status-focus-border);
       font-weight: 700;
     }
 
     .status-pill.pill-progress.active {
-      background: #78350f;
-      color: #fde68a;
-      border-color: #f59e0b;
+      background: var(--status-progress-bg);
+      color: var(--status-progress-text);
+      border-color: var(--status-progress-border);
       font-weight: 700;
     }
 
     .status-pill.pill-mastered.active {
-      background: #064e3b;
-      color: #6ee7b7;
-      border-color: #10b981;
+      background: var(--status-mastered-bg);
+      color: var(--status-mastered-text);
+      border-color: var(--status-mastered-border);
       font-weight: 700;
     }
 
     .sync-badge-notice {
       display: inline-block;
       font-size: 0.75rem;
-      color: #94a3b8;
+      color: var(--text-muted);
       margin-top: 4px;
       line-height: 1.4;
     }
@@ -288,7 +362,7 @@
     }
 
     .card:hover {
-      border-color: #475569;
+      border-color: var(--border-strong);
     }
 
     .card.playing {
@@ -312,8 +386,8 @@
     }
 
     .card-id {
-      background: #334155;
-      color: #94a3b8;
+      background: var(--card-border);
+      color: var(--text-muted);
       font-size: 0.75rem;
       font-weight: 700;
       padding: 2px 8px;
@@ -323,7 +397,7 @@
     .card-verb {
       font-size: 1.15rem;
       font-weight: 700;
-      color: #fff;
+      color: var(--text);
     }
 
     .badge-type {
@@ -344,6 +418,62 @@
       color: var(--story-badge-text);
     }
 
+    /* Chip compacto de estado en la tarjeta (sustituye a la barra de 3 pills siempre visible) */
+    .status-chip {
+      display: inline-flex;
+      align-items: center;
+      gap: 5px;
+      font-size: 0.72rem;
+      font-weight: 700;
+      padding: 2px 9px 2px 7px;
+      border-radius: 20px;
+      border: none;
+      cursor: pointer;
+    }
+
+    .status-chip .dot {
+      width: 7px;
+      height: 7px;
+      border-radius: 50%;
+    }
+
+    .status-chip.status-focus {
+      background: var(--status-focus-bg);
+      color: var(--status-focus-text);
+    }
+
+    .status-chip.status-focus .dot {
+      background: var(--status-focus-border);
+    }
+
+    .status-chip.status-progress {
+      background: var(--status-progress-bg);
+      color: var(--status-progress-text);
+    }
+
+    .status-chip.status-progress .dot {
+      background: var(--status-progress-border);
+    }
+
+    .status-chip.status-mastered {
+      background: var(--status-mastered-bg);
+      color: var(--status-mastered-text);
+    }
+
+    .status-chip.status-mastered .dot {
+      background: var(--status-mastered-border);
+    }
+
+    .status-chip.status-none {
+      background: var(--bg);
+      color: var(--text-muted);
+      border: 1px dashed var(--card-border);
+    }
+
+    .status-chip.status-none .dot {
+      background: var(--border-strong);
+    }
+
     .card-category {
       font-size: 0.72rem;
       background: var(--tag-bg);
@@ -355,7 +485,7 @@
 
     .card-meaning {
       font-size: 0.9rem;
-      color: #cbd5e1;
+      color: var(--text-secondary);
       margin-bottom: 8px;
     }
 
@@ -371,48 +501,64 @@
 
     .card-actions {
       display: flex;
-      gap: 8px;
+      align-items: center;
+      gap: 10px;
       margin-top: 10px;
     }
 
-    .btn-card {
-      flex: 1;
-      padding: 8px;
+    /* Un botón primario relleno (Reproducir), un icono secundario (Frases)
+       y el enlace a la pareja como texto — jerarquía en vez de 3 botones iguales */
+    .btn-card-primary {
+      flex: 2;
+      padding: 9px;
       border-radius: 8px;
-      font-size: 0.82rem;
-      font-weight: 600;
+      font-size: 0.85rem;
+      font-weight: 700;
       border: none;
       cursor: pointer;
+      background: var(--accent);
+      color: var(--bg);
       display: flex;
       justify-content: center;
       align-items: center;
       gap: 6px;
     }
 
-    .btn-play-card {
-      background: #0284c7;
-      color: #fff;
+    .btn-card-primary:hover {
+      background: var(--accent-hover);
     }
 
-    .btn-play-card:hover {
-      background: #0369a1;
+    .btn-card-icon {
+      width: 38px;
+      height: 38px;
+      border-radius: 8px;
+      background: var(--bg);
+      border: 1px solid var(--card-border);
+      color: var(--text-secondary);
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 1rem;
+      flex-shrink: 0;
     }
 
-    .btn-details-card {
-      background: #334155;
-      color: #f1f5f9;
+    .btn-card-icon:hover {
+      border-color: var(--border-strong);
+      color: var(--text);
     }
 
-    .btn-pair-card {
-      background: #1e293b;
-      border: 1px solid #475569;
-      color: #94a3b8;
-      max-width: 140px;
+    .link-pair {
+      margin-left: auto;
+      font-size: 0.78rem;
+      color: var(--text-muted);
+      font-weight: 600;
+      cursor: pointer;
+      white-space: nowrap;
     }
 
-    .btn-pair-card:hover {
-      color: #fff;
-      border-color: var(--accent);
+    .link-pair:hover {
+      color: var(--accent);
     }
 
     /* Modal / Detail View */
@@ -442,8 +588,8 @@
     }
 
     .modal-content {
-      background: #1e293b;
-      border: 1px solid #475569;
+      background: var(--card-bg);
+      border: 1px solid var(--border-strong);
       border-radius: 16px;
       width: 100%;
       max-width: 620px;
@@ -457,9 +603,9 @@
       position: absolute;
       top: 14px;
       right: 16px;
-      background: #334155;
+      background: var(--card-border);
       border: none;
-      color: #fff;
+      color: var(--text);
       width: 32px;
       height: 32px;
       border-radius: 50%;
@@ -468,7 +614,7 @@
     }
 
     .drill-item {
-      background: #0f172a;
+      background: var(--bg);
       border-radius: 8px;
       padding: 12px;
       margin-bottom: 10px;
@@ -477,7 +623,7 @@
     }
 
     .drill-item.active-shadowing {
-      border-left: 3px solid #38bdf8;
+      border-left: 3px solid var(--accent);
       background: #172554;
       box-shadow: 0 0 12px rgba(56, 189, 248, 0.25);
     }
@@ -485,13 +631,13 @@
     .drill-es {
       font-size: 0.95rem;
       font-weight: 600;
-      color: #f1f5f9;
+      color: var(--text-secondary);
       margin-bottom: 4px;
     }
 
     .drill-en {
       font-size: 0.9rem;
-      color: #38bdf8;
+      color: var(--accent);
       cursor: pointer;
       transition: filter 0.2s;
     }
@@ -510,9 +656,9 @@
     }
 
     .btn-drill-act {
-      background: #1e293b;
-      border: 1px solid #334155;
-      color: #cbd5e1;
+      background: var(--card-bg);
+      border: 1px solid var(--card-border);
+      color: var(--text-secondary);
       padding: 4px 10px;
       border-radius: 6px;
       font-size: 0.78rem;
@@ -526,18 +672,18 @@
     }
 
     .btn-drill-act:hover {
-      background: #334155;
-      color: #fff;
+      background: var(--card-border);
+      color: var(--text);
     }
 
     .btn-drill-act.btn-mic {
-      color: #38bdf8;
+      color: var(--accent);
     }
 
     .btn-drill-act.btn-mic.recording {
-      background: #7f1d1d;
-      color: #fca5a5;
-      border-color: #ef4444;
+      background: var(--status-focus-bg);
+      color: var(--status-focus-text);
+      border-color: var(--status-focus-border);
       animation: pulseRecord 1s infinite;
     }
 
@@ -552,7 +698,7 @@
     }
 
     .word-ok {
-      color: #34d399;
+      color: var(--success);
       font-weight: 600;
     }
 
@@ -574,9 +720,9 @@
       border-radius: 8px;
       font-size: 0.8rem;
       font-weight: 600;
-      border: 1px solid #334155;
-      background: #0f172a;
-      color: #f1f5f9;
+      border: 1px solid var(--card-border);
+      background: var(--bg);
+      color: var(--text-secondary);
       cursor: pointer;
       display: flex;
       align-items: center;
@@ -587,20 +733,20 @@
 
     .btn-feature:hover {
       border-color: var(--accent);
-      background: #1e293b;
+      background: var(--card-bg);
     }
 
     .btn-shadowing-mode.active {
-      background: #0284c7;
-      border-color: #38bdf8;
-      color: #fff;
+      background: var(--accent-hover);
+      border-color: var(--accent);
+      color: var(--text);
       box-shadow: 0 0 10px rgba(56, 189, 248, 0.4);
     }
 
     /* Shadowing Banner */
     .shadowing-banner {
-      background: #1e3a5f;
-      border: 1px solid #38bdf8;
+      background: var(--tag-bg);
+      border: 1px solid var(--accent);
       border-radius: 10px;
       padding: 10px 14px;
       margin-bottom: 12px;
@@ -612,14 +758,14 @@
       align-items: center;
       font-size: 0.85rem;
       font-weight: 600;
-      color: #f8fafc;
+      color: var(--text);
       margin-bottom: 6px;
     }
 
     .btn-banner-close {
-      background: #334155;
+      background: var(--card-border);
       border: none;
-      color: #fff;
+      color: var(--text);
       padding: 2px 8px;
       border-radius: 4px;
       font-size: 0.72rem;
@@ -627,14 +773,14 @@
     }
 
     .shadowing-progress-bg {
-      background: #0f172a;
+      background: var(--bg);
       border-radius: 6px;
       height: 6px;
       overflow: hidden;
     }
 
     .shadowing-progress-bar {
-      background: linear-gradient(90deg, #38bdf8, #34d399);
+      background: linear-gradient(90deg, var(--accent), var(--success));
       height: 100%;
       width: 0%;
       transition: width 0.1s linear;
@@ -660,7 +806,7 @@
       display: flex;
       justify-content: space-between;
       align-items: center;
-      border-bottom: 1px solid #1e293b;
+      border-bottom: 1px solid var(--card-bg);
       padding-bottom: 12px;
     }
 
@@ -677,9 +823,9 @@
     }
 
     .focus-close {
-      background: #1e293b;
+      background: var(--card-bg);
       border: none;
-      color: #fff;
+      color: var(--text);
       width: 36px;
       height: 36px;
       border-radius: 50%;
@@ -708,7 +854,7 @@
     .focus-phrase-es {
       font-size: 1.35rem;
       font-weight: 600;
-      color: #f8fafc;
+      color: var(--text);
       margin-bottom: 20px;
       line-height: 1.4;
       max-width: 600px;
@@ -716,7 +862,7 @@
 
     .focus-phrase-en {
       font-size: 1.25rem;
-      color: #38bdf8;
+      color: var(--accent);
       font-weight: 500;
       line-height: 1.4;
       cursor: pointer;
@@ -749,13 +895,13 @@
       justify-content: center;
       gap: 12px;
       padding-top: 16px;
-      border-top: 1px solid #1e293b;
+      border-top: 1px solid var(--card-bg);
     }
 
     .focus-btn {
-      background: #1e293b;
-      border: 1px solid #334155;
-      color: #fff;
+      background: var(--card-bg);
+      border: 1px solid var(--card-border);
+      color: var(--text);
       border-radius: 12px;
       padding: 12px 18px;
       font-size: 1rem;
@@ -764,8 +910,8 @@
     }
 
     .focus-btn-act {
-      background: #0284c7;
-      border-color: #38bdf8;
+      background: var(--accent-hover);
+      border-color: var(--accent);
       flex: 1;
       max-width: 140px;
     }
@@ -778,23 +924,15 @@
     }
 
     .focus-btn-mic.recording {
-      background: #7f1d1d;
-      border-color: #ef4444;
+      background: var(--status-focus-bg);
+      border-color: var(--status-focus-border);
       animation: pulseRecord 1s infinite;
     }
 
-    /* Quiz Modal styles */
-    .btn-quiz {
-      background: #7c3aed;
-    }
-
-    .btn-quiz:hover {
-      background: #6d28d9;
-    }
-
+    /* Quiz Modal styles (el botón de cabecera .btn-quiz usa el estilo ghost compartido de .btn-top) */
     .quiz-card {
-      background: #0f172a;
-      border: 1px solid #334155;
+      background: var(--bg);
+      border: 1px solid var(--card-border);
       border-radius: 12px;
       padding: 18px 16px;
       margin: 12px 0 16px 0;
@@ -808,7 +946,7 @@
     }
 
     .quiz-timer-container {
-      background: #1e293b;
+      background: var(--card-bg);
       height: 8px;
       border-radius: 4px;
       overflow: hidden;
@@ -817,7 +955,7 @@
 
     .quiz-timer-bar {
       height: 100%;
-      background: linear-gradient(90deg, #10b981, #f59e0b, #ef4444);
+      background: linear-gradient(90deg, var(--status-mastered-border), var(--status-progress-border), var(--status-focus-border));
       width: 100%;
       transition: width 0.1s linear;
     }
@@ -831,13 +969,13 @@
     .quiz-es-prompt {
       font-size: 1.25rem;
       font-weight: 700;
-      color: #fff;
+      color: var(--text);
       margin-bottom: 14px;
       line-height: 1.4;
     }
 
     .quiz-en-solution {
-      border-top: 1px dashed #334155;
+      border-top: 1px dashed var(--card-border);
       padding-top: 14px;
       margin-top: 10px;
     }
@@ -845,14 +983,14 @@
     .quiz-en-text {
       font-size: 1.15rem;
       font-weight: 600;
-      color: #38bdf8;
+      color: var(--accent);
       margin-bottom: 10px;
     }
 
     .btn-quiz-audio {
-      background: #1e293b;
-      border: 1px solid #334155;
-      color: #f1f5f9;
+      background: var(--card-bg);
+      border: 1px solid var(--card-border);
+      color: var(--text-secondary);
       font-size: 0.8rem;
       padding: 6px 12px;
       border-radius: 6px;
@@ -881,8 +1019,8 @@
     }
 
     .btn-copy-prompt {
-      background: #10b981;
-      color: #fff;
+      background: var(--status-mastered-border);
+      color: var(--text);
     }
 
     .btn-copy-prompt:hover {
@@ -890,12 +1028,12 @@
     }
 
     .btn-switch-pair {
-      background: #475569;
-      color: #fff;
+      background: var(--border-strong);
+      color: var(--text);
     }
 
     .btn-switch-pair:hover {
-      background: #64748b;
+      background: var(--border-strong);
     }
 
     /* Bottom Player */
@@ -904,7 +1042,7 @@
       bottom: 0;
       left: 0;
       right: 0;
-      background: #0f172a;
+      background: var(--bg);
       border-top: 1px solid var(--card-border);
       padding: 10px 16px;
       z-index: 60;
@@ -924,7 +1062,7 @@
       white-space: nowrap;
       overflow: hidden;
       text-overflow: ellipsis;
-      color: #fff;
+      color: var(--text);
     }
 
     .player-track small {
@@ -941,9 +1079,9 @@
     }
 
     .ctrl-btn {
-      background: #1e293b;
+      background: var(--card-bg);
       border: 1px solid var(--card-border);
-      color: #fff;
+      color: var(--text);
       border-radius: 8px;
       padding: 8px 12px;
       font-size: 0.85rem;
@@ -957,8 +1095,8 @@
     }
 
     .ctrl-btn-play {
-      background: #38bdf8;
-      color: #0f172a;
+      background: var(--accent);
+      color: var(--bg);
       border: none;
       font-size: 1.1rem;
       font-weight: bold;
@@ -983,7 +1121,7 @@
         <button class="btn-top btn-sync" id="btnSyncStatus" onclick="openSyncModal()" title="Sincronización transparente con Google Drive / Sheets">
           <span id="syncIcon">☁️</span> <span id="syncText">Drive</span>
         </button>
-        <button class="btn-top" onclick="playRandom()">🎲 Azar</button>
+        <button class="btn-top btn-primary" onclick="playRandom()">🎲 Azar</button>
       </div>
     </div>
 
@@ -992,25 +1130,32 @@
       <input type="text" id="searchInput" class="search-input" placeholder="Buscar verbo o significado (ej: 'cancelar', 'get', 'subir')..." oninput="onSearch()">
     </div>
 
-    <div class="filters-scroll" id="filtersScroll">
-      <div class="filter-chip active" onclick="setFilter('ALL', this)">Todos (306)</div>
-      <div class="filter-chip filter-focus" id="chipFilterFocus" onclick="setFilter('STATUS_FOCUS', this)">🔴 Focus (0)</div>
-      <div class="filter-chip filter-progress" id="chipFilterProgress" onclick="setFilter('STATUS_PROGRESS', this)">🟡 Progreso (0)</div>
-      <div class="filter-chip filter-mastered" id="chipFilterMastered" onclick="setFilter('STATUS_MASTERED', this)">🟢 Dominados (0)</div>
-      <div class="filter-chip" onclick="setFilter('TYPE_DRILL', this)">🎯 Solo Prácticas (153)</div>
-      <div class="filter-chip" onclick="setFilter('TYPE_STORY', this)">📖 Solo Historias (153)</div>
-      <div class="filter-chip" onclick="setFilter('GET', this)">GET</div>
-      <div class="filter-chip" onclick="setFilter('PUT', this)">PUT</div>
-      <div class="filter-chip" onclick="setFilter('TAKE', this)">TAKE</div>
-      <div class="filter-chip" onclick="setFilter('GO', this)">GO</div>
-      <div class="filter-chip" onclick="setFilter('TURN', this)">TURN</div>
-      <div class="filter-chip" onclick="setFilter('COME', this)">COME</div>
-      <div class="filter-chip" onclick="setFilter('LOOK', this)">LOOK</div>
-      <div class="filter-chip" onclick="setFilter('Movimiento', this)">Movimiento</div>
-      <div class="filter-chip" onclick="setFilter('Trabajo', this)">Trabajo</div>
-      <div class="filter-chip" onclick="setFilter('Cotidiana', this)">Vida Cotidiana</div>
-      <div class="filter-chip" onclick="setFilter('Relaciones', this)">Relaciones</div>
-      <div class="filter-chip" onclick="setFilter('Viajes', this)">Viajes</div>
+    <div class="filter-label">Tu progreso</div>
+    <div class="segmented">
+      <div class="filter-chip seg active" onclick="setFilter('ALL', this)">Todos (306)</div>
+      <div class="filter-chip seg seg-focus" id="chipFilterFocus" onclick="setFilter('STATUS_FOCUS', this)">🔴 Focus (0)</div>
+      <div class="filter-chip seg seg-progress" id="chipFilterProgress" onclick="setFilter('STATUS_PROGRESS', this)">🟡 Progreso (0)</div>
+      <div class="filter-chip seg seg-mastered" id="chipFilterMastered" onclick="setFilter('STATUS_MASTERED', this)">🟢 Dominados (0)</div>
+    </div>
+
+    <div class="more-filters-row">
+      <span class="more-label">Más filtros</span>
+      <div class="filters-scroll">
+        <div class="filter-chip" onclick="setFilter('TYPE_DRILL', this)">🎯 Solo Prácticas (153)</div>
+        <div class="filter-chip" onclick="setFilter('TYPE_STORY', this)">📖 Solo Historias (153)</div>
+        <div class="filter-chip" onclick="setFilter('GET', this)">GET</div>
+        <div class="filter-chip" onclick="setFilter('PUT', this)">PUT</div>
+        <div class="filter-chip" onclick="setFilter('TAKE', this)">TAKE</div>
+        <div class="filter-chip" onclick="setFilter('GO', this)">GO</div>
+        <div class="filter-chip" onclick="setFilter('TURN', this)">TURN</div>
+        <div class="filter-chip" onclick="setFilter('COME', this)">COME</div>
+        <div class="filter-chip" onclick="setFilter('LOOK', this)">LOOK</div>
+        <div class="filter-chip" onclick="setFilter('Movimiento', this)">Movimiento</div>
+        <div class="filter-chip" onclick="setFilter('Trabajo', this)">Trabajo</div>
+        <div class="filter-chip" onclick="setFilter('Cotidiana', this)">Vida Cotidiana</div>
+        <div class="filter-chip" onclick="setFilter('Relaciones', this)">Relaciones</div>
+        <div class="filter-chip" onclick="setFilter('Viajes', this)">Viajes</div>
+      </div>
     </div>
   </header>
 
@@ -1031,7 +1176,7 @@
           <span class="badge-type" id="modalTypeBadge">🎯 Práctica Guiada</span>
         </div>
         <h2 id="modalVerb" style="margin: 4px 0;">go up</h2>
-        <p id="modalMeaning" style="color: #cbd5e1; font-size: 0.95rem;"></p>
+        <p id="modalMeaning" style="color: var(--text-secondary); font-size: 0.95rem;"></p>
         <p id="modalSituation" style="color: var(--accent); font-size: 0.8rem; margin-top: 4px;"></p>
         
         <div class="card-status-bar" style="margin-top: 10px;">
@@ -1091,34 +1236,34 @@
           <span style="font-size: 1.4rem;">☁️</span>
           <h2 style="font-size: 1.2rem; margin: 0;">Sincronización Transparente</h2>
         </div>
-        <p style="color: #94a3b8; font-size: 0.85rem; line-height: 1.4;">
+        <p style="color: var(--text-muted); font-size: 0.85rem; line-height: 1.4;">
           Tus marcas de estudio (🔴 Focus, 🟡 Progreso, 🟢 Dominado) se sincronizan <strong>automáticamente en segundo plano</strong> con tu Google Drive para que <strong>ChatGPT y Claude</strong> conozcan tu progreso en tiempo real.
         </p>
       </div>
 
-      <div style="background: #0f172a; border: 1px solid #334155; border-radius: 10px; padding: 12px; margin-bottom: 14px;">
-        <div style="font-size: 0.78rem; color: #94a3b8; margin-bottom: 6px; font-weight: 600;">ESTADO ACTUAL DE DOMINIO</div>
+      <div style="background: var(--bg); border: 1px solid var(--card-border); border-radius: 10px; padding: 12px; margin-bottom: 14px;">
+        <div style="font-size: 0.78rem; color: var(--text-muted); margin-bottom: 6px; font-weight: 600;">ESTADO ACTUAL DE DOMINIO</div>
         <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; text-align: center;">
-          <div style="background: #1e293b; padding: 8px; border-radius: 8px; border-left: 3px solid #ef4444;">
-            <div style="font-size: 1.2rem; font-weight: bold; color: #fca5a5;" id="statCountFocus">0</div>
-            <div style="font-size: 0.72rem; color: #94a3b8;">🔴 Focus / Difícil</div>
+          <div style="background: var(--card-bg); padding: 8px; border-radius: 8px; border-left: 3px solid var(--status-focus-border);">
+            <div style="font-size: 1.2rem; font-weight: bold; color: var(--status-focus-text);" id="statCountFocus">0</div>
+            <div style="font-size: 0.72rem; color: var(--text-muted);">🔴 Focus / Difícil</div>
           </div>
-          <div style="background: #1e293b; padding: 8px; border-radius: 8px; border-left: 3px solid #f59e0b;">
-            <div style="font-size: 1.2rem; font-weight: bold; color: #fde68a;" id="statCountProgress">0</div>
-            <div style="font-size: 0.72rem; color: #94a3b8;">🟡 En Progreso</div>
+          <div style="background: var(--card-bg); padding: 8px; border-radius: 8px; border-left: 3px solid var(--status-progress-border);">
+            <div style="font-size: 1.2rem; font-weight: bold; color: var(--status-progress-text);" id="statCountProgress">0</div>
+            <div style="font-size: 0.72rem; color: var(--text-muted);">🟡 En Progreso</div>
           </div>
-          <div style="background: #1e293b; padding: 8px; border-radius: 8px; border-left: 3px solid #10b981;">
-            <div style="font-size: 1.2rem; font-weight: bold; color: #6ee7b7;" id="statCountMastered">0</div>
-            <div style="font-size: 0.72rem; color: #94a3b8;">🟢 Dominados</div>
+          <div style="background: var(--card-bg); padding: 8px; border-radius: 8px; border-left: 3px solid var(--status-mastered-border);">
+            <div style="font-size: 1.2rem; font-weight: bold; color: var(--status-mastered-text);" id="statCountMastered">0</div>
+            <div style="font-size: 0.72rem; color: var(--text-muted);">🟢 Dominados</div>
           </div>
         </div>
-        <div style="font-size: 0.75rem; color: #64748b; margin-top: 8px; text-align: right;" id="syncLastTimeLabel">
+        <div style="font-size: 0.75rem; color: var(--border-strong); margin-top: 8px; text-align: right;" id="syncLastTimeLabel">
           Última sincronización: Sin configurar
         </div>
       </div>
 
       <div style="margin-bottom: 14px;">
-        <label style="display: block; font-size: 0.85rem; font-weight: 600; margin-bottom: 6px; color: #cbd5e1;">
+        <label style="display: block; font-size: 0.85rem; font-weight: 600; margin-bottom: 6px; color: var(--text-secondary);">
           URL de tu Webhook (Google Apps Script):
         </label>
         <input type="text" id="webhookUrlInput" class="search-input" style="padding-left: 14px; font-size: 0.85rem;" placeholder="https://script.google.com/macros/s/.../exec">
@@ -1131,12 +1276,12 @@
         </button>
       </div>
 
-      <div style="border-top: 1px dashed #334155; padding-top: 12px;">
+      <div style="border-top: 1px dashed var(--card-border); padding-top: 12px;">
         <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
-          <h4 style="font-size: 0.85rem; color: #94a3b8;">CÓDIGO DE GOOGLE APPS SCRIPT</h4>
-          <button onclick="copyAppsScriptCode()" style="background: #334155; border: none; color: #38bdf8; font-size: 0.75rem; padding: 4px 10px; border-radius: 6px; cursor: pointer; font-weight: 600;">📋 Copiar Código</button>
+          <h4 style="font-size: 0.85rem; color: var(--text-muted);">CÓDIGO DE GOOGLE APPS SCRIPT</h4>
+          <button onclick="copyAppsScriptCode()" style="background: var(--card-border); border: none; color: var(--accent); font-size: 0.75rem; padding: 4px 10px; border-radius: 6px; cursor: pointer; font-weight: 600;">📋 Copiar Código</button>
         </div>
-        <p style="font-size: 0.78rem; color: #94a3b8; margin-bottom: 6px; line-height: 1.4;">
+        <p style="font-size: 0.78rem; color: var(--text-muted); margin-bottom: 6px; line-height: 1.4;">
           1. En tu Google Drive, crea una hoja de cálculo llamada <strong>Phrasal_Verbs_Progress</strong>.<br>
           2. Ve a <strong>Extensiones > Apps Script</strong>, pega el código copiado y haz clic en <strong>Implementar > Nueva implementación > Tipo: Aplicación web</strong>.<br>
           3. Configura: <em>Ejecutar como: Yo</em> y <em>Quién tiene acceso: Cualquier persona</em>.<br>
@@ -1180,7 +1325,7 @@
       <button class="modal-close" onclick="closeQuizModal()">✕</button>
       <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
         <span class="badge-type drill">⚡ Entrenador de Fluidez</span>
-        <span style="font-size: 0.85rem; color: #fde68a; font-weight: 700;" id="quizScore">Racha: 0 🔥</span>
+        <span style="font-size: 0.85rem; color: var(--status-progress-text); font-weight: 700;" id="quizScore">Racha: 0 🔥</span>
       </div>
 
       <div class="quiz-card">
@@ -1199,19 +1344,19 @@
       </div>
 
       <div class="quiz-actions" id="quizActionsBefore" style="display: flex;">
-        <button class="btn-modal-action" style="background: #38bdf8; color: #0f172a;" onclick="revealQuizSolution()">
+        <button class="btn-modal-action" style="background: var(--accent); color: var(--bg);" onclick="revealQuizSolution()">
           👁️ Ver Respuesta (o espera al temporizador)
         </button>
       </div>
 
       <div class="quiz-actions" id="quizActionsAfter" style="display: none; gap: 8px;">
-        <button class="btn-modal-action" style="background: #7f1d1d; color: #fca5a5;" onclick="rateQuizAnswer('focus')">
+        <button class="btn-modal-action" style="background: var(--status-focus-bg); color: var(--status-focus-text);" onclick="rateQuizAnswer('focus')">
           ❌ Me trabé (🔴)
         </button>
-        <button class="btn-modal-action" style="background: #78350f; color: #fde68a;" onclick="rateQuizAnswer('in_progress')">
+        <button class="btn-modal-action" style="background: var(--status-progress-bg); color: var(--status-progress-text);" onclick="rateQuizAnswer('in_progress')">
           ⚠️ Dudé (🟡)
         </button>
-        <button class="btn-modal-action" style="background: #064e3b; color: #6ee7b7;" onclick="rateQuizAnswer('mastered')">
+        <button class="btn-modal-action" style="background: var(--status-mastered-bg); color: var(--status-mastered-text);" onclick="rateQuizAnswer('mastered')">
           ✅ Fluido (🟢)
         </button>
       </div>
@@ -1287,8 +1432,9 @@
         const isDrill = item.type === 'drill';
         const typeClass = isDrill ? 'drill' : 'story';
         const typeLabel = isDrill ? '🎯 Práctica' : '📖 Historia';
-        const pairBtnLabel = isDrill ? `📖 Ver Historia #${item.pair_id}` : `🎯 Ver Práctica #${item.pair_id}`;
+        const pairLinkLabel = isDrill ? 'Historia' : 'Práctica';
         const status = cardStatuses[item.id] || null;
+        const statusMeta = statusChipMeta(status);
 
         return `
           <div class="card ${isCurrent ? 'playing' : ''}" id="card-${item.id}">
@@ -1297,34 +1443,26 @@
                 <span class="card-id">#${item.id}</span>
                 <span class="card-verb">${item.phrasal_verb}</span>
                 <span class="badge-type ${typeClass}">${typeLabel}</span>
+                <button class="status-chip ${statusMeta.cls}" id="status-chip-${item.id}" onclick="cycleCardStatus(${item.id}, event)" title="Toca para cambiar tu nivel de dominio">
+                  <span class="dot"></span>${statusMeta.label}
+                </button>
               </div>
               <span class="card-category">${item.situation ? item.situation.split(' ')[0] : 'General'}</span>
             </div>
             <div class="card-meaning">${item.meaning_es}</div>
-            
-            <div class="card-status-bar">
-              <span class="status-title">Dominio:</span>
-              <div class="status-pills">
-                <button class="status-pill pill-focus ${status === 'focus' ? 'active' : ''}" onclick="setCardStatus(${item.id}, 'focus', event)" title="🔴 Necesita repetición urgente">🔴 Focus</button>
-                <button class="status-pill pill-progress ${status === 'in_progress' ? 'active' : ''}" onclick="setCardStatus(${item.id}, 'in_progress', event)" title="🟡 En progreso">🟡 Progreso</button>
-                <button class="status-pill pill-mastered ${status === 'mastered' ? 'active' : ''}" onclick="setCardStatus(${item.id}, 'mastered', event)" title="🟢 Dominado">🟢 Dominado</button>
-              </div>
-            </div>
 
             <div class="card-drills-preview">
               <span>🗣️ ${drillsCount} frases de ${isDrill ? 'shadowing guiado' : 'lectura en contexto'}</span>
               <span style="color: var(--accent);">Escuchar 🎧</span>
             </div>
             <div class="card-actions">
-              <button class="btn-card btn-play-card" onclick="playById(${item.id}, event)">
+              <button class="btn-card-primary" onclick="playById(${item.id}, event)">
                 ${isCurrent && !audio.paused ? '⏸️ Pausar' : '▶️ Reproducir'}
               </button>
-              <button class="btn-card btn-details-card" onclick="openDetails(${item.id}, event)">
-                📖 Frases
+              <button class="btn-card-icon" onclick="openDetails(${item.id}, event)" title="Ver frases">
+                📖
               </button>
-              <button class="btn-card btn-pair-card" onclick="goToPair(${item.pair_id}, event)">
-                ${pairBtnLabel}
-              </button>
+              <span class="link-pair" onclick="goToPair(${item.pair_id}, event)">${pairLinkLabel} #${item.pair_id} →</span>
             </div>
           </div>
         `;
@@ -1959,12 +2097,18 @@ ${drillLines}`;
     }
 
     // Status Management
-    function setCardStatus(id, newStatus, event) {
-      if (event) event.stopPropagation();
-      if (cardStatuses[id] === newStatus) {
-        delete cardStatuses[id];
-      } else {
+    function statusChipMeta(status) {
+      if (status === 'focus') return { cls: 'status-focus', label: 'Focus' };
+      if (status === 'in_progress') return { cls: 'status-progress', label: 'Progreso' };
+      if (status === 'mastered') return { cls: 'status-mastered', label: 'Dominado' };
+      return { cls: 'status-none', label: 'Sin marcar' };
+    }
+
+    function applyCardStatus(id, newStatus) {
+      if (newStatus) {
         cardStatuses[id] = newStatus;
+      } else {
+        delete cardStatuses[id];
       }
       localStorage.setItem('phrasal_card_statuses', JSON.stringify(cardStatuses));
 
@@ -1982,20 +2126,33 @@ ${drillLines}`;
       scheduleAutoSync();
     }
 
+    function setCardStatus(id, newStatus, event) {
+      if (event) event.stopPropagation();
+      const next = cardStatuses[id] === newStatus ? null : newStatus;
+      applyCardStatus(id, next);
+    }
+
+    // El chip compacto de la tarjeta cicla Sin marcar -> Focus -> Progreso -> Dominado -> Sin marcar
+    function cycleCardStatus(id, event) {
+      if (event) event.stopPropagation();
+      const order = [null, 'focus', 'in_progress', 'mastered'];
+      const idx = order.indexOf(cardStatuses[id] || null);
+      const next = order[(idx + 1) % order.length];
+      applyCardStatus(id, next);
+    }
+
     function setModalStatus(newStatus) {
       if (!activeModalItem) return;
       setCardStatus(activeModalItem.id, newStatus);
     }
 
     function updateCardStatusDOM(id) {
-      const cardEl = document.getElementById(`card-${id}`);
-      if (!cardEl) return;
+      const chipEl = document.getElementById(`status-chip-${id}`);
+      if (!chipEl) return;
       const status = cardStatuses[id];
-      const pills = cardEl.querySelectorAll('.status-pill');
-      pills.forEach(p => p.classList.remove('active'));
-      if (status === 'focus') cardEl.querySelector('.pill-focus')?.classList.add('active');
-      if (status === 'in_progress') cardEl.querySelector('.pill-progress')?.classList.add('active');
-      if (status === 'mastered') cardEl.querySelector('.pill-mastered')?.classList.add('active');
+      const meta = statusChipMeta(status);
+      chipEl.className = `status-chip ${meta.cls}`;
+      chipEl.innerHTML = `<span class="dot"></span>${meta.label}`;
     }
 
     function updateModalStatusPills() {
