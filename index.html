@@ -94,6 +94,22 @@
       background: #1d4ed8;
     }
 
+    .btn-sync {
+      background: #0f766e;
+    }
+
+    .btn-sync:hover {
+      background: #0d9488;
+    }
+
+    .btn-sync.syncing {
+      background: #b45309;
+    }
+
+    .btn-sync.connected {
+      background: #047857;
+    }
+
     .search-box {
       position: relative;
       margin-bottom: 8px;
@@ -153,6 +169,98 @@
       color: var(--tag-text);
       border-color: var(--accent);
       font-weight: 600;
+    }
+
+    .filter-chip.filter-focus.active {
+      background: #7f1d1d;
+      color: #fca5a5;
+      border-color: #ef4444;
+    }
+
+    .filter-chip.filter-progress.active {
+      background: #78350f;
+      color: #fde68a;
+      border-color: #f59e0b;
+    }
+
+    .filter-chip.filter-mastered.active {
+      background: #064e3b;
+      color: #6ee7b7;
+      border-color: #10b981;
+    }
+
+    .card-status-bar {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin: 8px 0 10px 0;
+      padding: 6px 8px;
+      background: #0f172a;
+      border-radius: 8px;
+      border: 1px solid #1e293b;
+    }
+
+    .status-title {
+      font-size: 0.72rem;
+      color: var(--text-muted);
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      font-weight: 600;
+    }
+
+    .status-pills {
+      display: flex;
+      gap: 4px;
+    }
+
+    .status-pill {
+      background: #1e293b;
+      border: 1px solid #334155;
+      color: var(--text-muted);
+      font-size: 0.72rem;
+      padding: 3px 8px;
+      border-radius: 6px;
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      gap: 3px;
+      transition: all 0.15s ease;
+      font-weight: 500;
+      user-select: none;
+    }
+
+    .status-pill:hover {
+      border-color: #64748b;
+      color: #fff;
+    }
+
+    .status-pill.pill-focus.active {
+      background: #7f1d1d;
+      color: #fca5a5;
+      border-color: #ef4444;
+      font-weight: 700;
+    }
+
+    .status-pill.pill-progress.active {
+      background: #78350f;
+      color: #fde68a;
+      border-color: #f59e0b;
+      font-weight: 700;
+    }
+
+    .status-pill.pill-mastered.active {
+      background: #064e3b;
+      color: #6ee7b7;
+      border-color: #10b981;
+      font-weight: 700;
+    }
+
+    .sync-badge-notice {
+      display: inline-block;
+      font-size: 0.75rem;
+      color: #94a3b8;
+      margin-top: 4px;
+      line-height: 1.4;
     }
 
     .stats-bar {
@@ -506,6 +614,9 @@
         <span>⚡ Phrasal Coach</span>
       </div>
       <div class="top-actions">
+        <button class="btn-top btn-sync" id="btnSyncStatus" onclick="openSyncModal()" title="Sincronización transparente con Google Drive / Sheets">
+          <span id="syncIcon">☁️</span> <span id="syncText">Drive</span>
+        </button>
         <button class="btn-top" onclick="playRandom()">🎲 Azar</button>
       </div>
     </div>
@@ -517,6 +628,9 @@
 
     <div class="filters-scroll" id="filtersScroll">
       <div class="filter-chip active" onclick="setFilter('ALL', this)">Todos (306)</div>
+      <div class="filter-chip filter-focus" id="chipFilterFocus" onclick="setFilter('STATUS_FOCUS', this)">🔴 Focus (0)</div>
+      <div class="filter-chip filter-progress" id="chipFilterProgress" onclick="setFilter('STATUS_PROGRESS', this)">🟡 Progreso (0)</div>
+      <div class="filter-chip filter-mastered" id="chipFilterMastered" onclick="setFilter('STATUS_MASTERED', this)">🟢 Dominados (0)</div>
       <div class="filter-chip" onclick="setFilter('TYPE_DRILL', this)">🎯 Solo Prácticas (153)</div>
       <div class="filter-chip" onclick="setFilter('TYPE_STORY', this)">📖 Solo Historias (153)</div>
       <div class="filter-chip" onclick="setFilter('GET', this)">GET</div>
@@ -553,6 +667,15 @@
         <h2 id="modalVerb" style="margin: 4px 0;">go up</h2>
         <p id="modalMeaning" style="color: #cbd5e1; font-size: 0.95rem;"></p>
         <p id="modalSituation" style="color: var(--accent); font-size: 0.8rem; margin-top: 4px;"></p>
+        
+        <div class="card-status-bar" style="margin-top: 10px;">
+          <span class="status-title">Tu Dominio:</span>
+          <div class="status-pills">
+            <button class="status-pill pill-focus" id="modalPillFocus" onclick="setModalStatus('focus')">🔴 Focus</button>
+            <button class="status-pill pill-progress" id="modalPillProgress" onclick="setModalStatus('in_progress')">🟡 Progreso</button>
+            <button class="status-pill pill-mastered" id="modalPillMastered" onclick="setModalStatus('mastered')">🟢 Dominado</button>
+          </div>
+        </div>
       </div>
 
       <div style="display: flex; justify-content: space-between; align-items: center; margin: 16px 0 8px 0;">
@@ -569,6 +692,70 @@
         <button class="btn-modal-action btn-switch-pair" id="btnModalPair" onclick="switchToPair()">
           Ver Historia ➡️
         </button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Google Drive / Sheets Sync Modal -->
+  <div class="modal" id="syncModal" onclick="closeSyncModalOnBackdrop(event)">
+    <div class="modal-content" style="max-width: 580px;">
+      <button class="modal-close" onclick="closeSyncModal()">✕</button>
+      <div style="margin-bottom: 14px;">
+        <div style="display: flex; gap: 8px; align-items: center; margin-bottom: 6px;">
+          <span style="font-size: 1.4rem;">☁️</span>
+          <h2 style="font-size: 1.2rem; margin: 0;">Sincronización Transparente</h2>
+        </div>
+        <p style="color: #94a3b8; font-size: 0.85rem; line-height: 1.4;">
+          Tus marcas de estudio (🔴 Focus, 🟡 Progreso, 🟢 Dominado) se sincronizan <strong>automáticamente en segundo plano</strong> con tu Google Drive para que <strong>ChatGPT y Claude</strong> conozcan tu progreso en tiempo real.
+        </p>
+      </div>
+
+      <div style="background: #0f172a; border: 1px solid #334155; border-radius: 10px; padding: 12px; margin-bottom: 14px;">
+        <div style="font-size: 0.78rem; color: #94a3b8; margin-bottom: 6px; font-weight: 600;">ESTADO ACTUAL DE DOMINIO</div>
+        <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; text-align: center;">
+          <div style="background: #1e293b; padding: 8px; border-radius: 8px; border-left: 3px solid #ef4444;">
+            <div style="font-size: 1.2rem; font-weight: bold; color: #fca5a5;" id="statCountFocus">0</div>
+            <div style="font-size: 0.72rem; color: #94a3b8;">🔴 Focus / Difícil</div>
+          </div>
+          <div style="background: #1e293b; padding: 8px; border-radius: 8px; border-left: 3px solid #f59e0b;">
+            <div style="font-size: 1.2rem; font-weight: bold; color: #fde68a;" id="statCountProgress">0</div>
+            <div style="font-size: 0.72rem; color: #94a3b8;">🟡 En Progreso</div>
+          </div>
+          <div style="background: #1e293b; padding: 8px; border-radius: 8px; border-left: 3px solid #10b981;">
+            <div style="font-size: 1.2rem; font-weight: bold; color: #6ee7b7;" id="statCountMastered">0</div>
+            <div style="font-size: 0.72rem; color: #94a3b8;">🟢 Dominados</div>
+          </div>
+        </div>
+        <div style="font-size: 0.75rem; color: #64748b; margin-top: 8px; text-align: right;" id="syncLastTimeLabel">
+          Última sincronización: Sin configurar
+        </div>
+      </div>
+
+      <div style="margin-bottom: 14px;">
+        <label style="display: block; font-size: 0.85rem; font-weight: 600; margin-bottom: 6px; color: #cbd5e1;">
+          URL de tu Webhook (Google Apps Script):
+        </label>
+        <input type="text" id="webhookUrlInput" class="search-input" style="padding-left: 14px; font-size: 0.85rem;" placeholder="https://script.google.com/macros/s/.../exec">
+        <span class="sync-badge-notice">Se almacena en tu dispositivo. Cada vez que tocas 🔴, 🟡 o 🟢 se sincroniza silenciosamente sin interrumpir tu estudio.</span>
+      </div>
+
+      <div style="display: flex; gap: 8px; margin-bottom: 16px;">
+        <button class="btn-modal-action btn-copy-prompt" onclick="saveAndSyncNow()">
+          💾 Guardar y Sincronizar Ahora
+        </button>
+      </div>
+
+      <div style="border-top: 1px dashed #334155; padding-top: 12px;">
+        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
+          <h4 style="font-size: 0.85rem; color: #94a3b8;">CÓDIGO DE GOOGLE APPS SCRIPT</h4>
+          <button onclick="copyAppsScriptCode()" style="background: #334155; border: none; color: #38bdf8; font-size: 0.75rem; padding: 4px 10px; border-radius: 6px; cursor: pointer; font-weight: 600;">📋 Copiar Código</button>
+        </div>
+        <p style="font-size: 0.78rem; color: #94a3b8; margin-bottom: 6px; line-height: 1.4;">
+          1. En tu Google Drive, crea una hoja de cálculo llamada <strong>Phrasal_Verbs_Progress</strong>.<br>
+          2. Ve a <strong>Extensiones > Apps Script</strong>, pega el código copiado y haz clic en <strong>Implementar > Nueva implementación > Tipo: Aplicación web</strong>.<br>
+          3. Configura: <em>Ejecutar como: Yo</em> y <em>Quién tiene acceso: Cualquier persona</em>.<br>
+          4. Pega la URL obtenida en el campo de arriba y listo.
+        </p>
       </div>
     </div>
   </div>
@@ -601,6 +788,16 @@
     let blurEnglish = false;
     let activeModalItem = null;
 
+    let cardStatuses = {};
+    try {
+      cardStatuses = JSON.parse(localStorage.getItem('phrasal_card_statuses') || '{}');
+    } catch (e) {
+      cardStatuses = {};
+    }
+    let googleWebhookUrl = localStorage.getItem('phrasal_webhook_url') || '';
+    let lastSyncTimestamp = localStorage.getItem('phrasal_last_sync') || '';
+    let autoSyncTimer = null;
+
     const audio = document.getElementById('audioElement');
     const cardsList = document.getElementById('cardsList');
     const searchInput = document.getElementById('searchInput');
@@ -611,6 +808,8 @@
     const btnSpeed = document.getElementById('btnSpeed');
 
     function init() {
+      updateStatusCounts();
+      updateSyncUI();
       renderCards(filteredData);
       if ('serviceWorker' in navigator) {
         navigator.serviceWorker.register('sw.js').catch(() => {});
@@ -631,6 +830,7 @@
         const typeClass = isDrill ? 'drill' : 'story';
         const typeLabel = isDrill ? '🎯 Práctica' : '📖 Historia';
         const pairBtnLabel = isDrill ? `📖 Ver Historia #${item.pair_id}` : `🎯 Ver Práctica #${item.pair_id}`;
+        const status = cardStatuses[item.id] || null;
 
         return `
           <div class="card ${isCurrent ? 'playing' : ''}" id="card-${item.id}">
@@ -643,6 +843,16 @@
               <span class="card-category">${item.situation ? item.situation.split(' ')[0] : 'General'}</span>
             </div>
             <div class="card-meaning">${item.meaning_es}</div>
+            
+            <div class="card-status-bar">
+              <span class="status-title">Dominio:</span>
+              <div class="status-pills">
+                <button class="status-pill pill-focus ${status === 'focus' ? 'active' : ''}" onclick="setCardStatus(${item.id}, 'focus', event)" title="🔴 Necesita repetición urgente">🔴 Focus</button>
+                <button class="status-pill pill-progress ${status === 'in_progress' ? 'active' : ''}" onclick="setCardStatus(${item.id}, 'in_progress', event)" title="🟡 En progreso">🟡 Progreso</button>
+                <button class="status-pill pill-mastered ${status === 'mastered' ? 'active' : ''}" onclick="setCardStatus(${item.id}, 'mastered', event)" title="🟢 Dominado">🟢 Dominado</button>
+              </div>
+            </div>
+
             <div class="card-drills-preview">
               <span>🗣️ ${drillsCount} frases de ${isDrill ? 'shadowing guiado' : 'lectura en contexto'}</span>
               <span style="color: var(--accent);">Escuchar 🎧</span>
@@ -687,6 +897,12 @@
         let matchesFilter = true;
         if (filter === 'ALL') {
           matchesFilter = true;
+        } else if (filter === 'STATUS_FOCUS') {
+          matchesFilter = cardStatuses[item.id] === 'focus';
+        } else if (filter === 'STATUS_PROGRESS') {
+          matchesFilter = cardStatuses[item.id] === 'in_progress';
+        } else if (filter === 'STATUS_MASTERED') {
+          matchesFilter = cardStatuses[item.id] === 'mastered';
         } else if (filter === 'TYPE_DRILL') {
           matchesFilter = item.type === 'drill';
         } else if (filter === 'TYPE_STORY') {
@@ -838,6 +1054,7 @@
         </div>
       `).join('');
 
+      updateModalStatusPills();
       document.getElementById('drillModal').classList.add('active');
     }
 
@@ -878,6 +1095,263 @@ ${drillLines}`;
         alert('✅ ¡Copiado al portapapeles! Pégalo en ChatGPT o Claude.');
       }).catch(() => {
         prompt('Copia este texto manualmente:', prompt);
+      });
+    }
+
+    // Status Management
+    function setCardStatus(id, newStatus, event) {
+      if (event) event.stopPropagation();
+      if (cardStatuses[id] === newStatus) {
+        delete cardStatuses[id];
+      } else {
+        cardStatuses[id] = newStatus;
+      }
+      localStorage.setItem('phrasal_card_statuses', JSON.stringify(cardStatuses));
+
+      updateStatusCounts();
+      updateCardStatusDOM(id);
+
+      if (activeModalItem && activeModalItem.id === id) {
+        updateModalStatusPills();
+      }
+
+      if (['STATUS_FOCUS', 'STATUS_PROGRESS', 'STATUS_MASTERED'].includes(currentFilter)) {
+        applyFilters(searchInput.value.toLowerCase().trim(), currentFilter);
+      }
+
+      scheduleAutoSync();
+    }
+
+    function setModalStatus(newStatus) {
+      if (!activeModalItem) return;
+      setCardStatus(activeModalItem.id, newStatus);
+    }
+
+    function updateCardStatusDOM(id) {
+      const cardEl = document.getElementById(`card-${id}`);
+      if (!cardEl) return;
+      const status = cardStatuses[id];
+      const pills = cardEl.querySelectorAll('.status-pill');
+      pills.forEach(p => p.classList.remove('active'));
+      if (status === 'focus') cardEl.querySelector('.pill-focus')?.classList.add('active');
+      if (status === 'in_progress') cardEl.querySelector('.pill-progress')?.classList.add('active');
+      if (status === 'mastered') cardEl.querySelector('.pill-mastered')?.classList.add('active');
+    }
+
+    function updateModalStatusPills() {
+      if (!activeModalItem) return;
+      const status = cardStatuses[activeModalItem.id];
+      const focusBtn = document.getElementById('modalPillFocus');
+      const progressBtn = document.getElementById('modalPillProgress');
+      const masteredBtn = document.getElementById('modalPillMastered');
+      if (!focusBtn || !progressBtn || !masteredBtn) return;
+
+      focusBtn.classList.toggle('active', status === 'focus');
+      progressBtn.classList.toggle('active', status === 'in_progress');
+      masteredBtn.classList.toggle('active', status === 'mastered');
+    }
+
+    function updateStatusCounts() {
+      let focus = 0, progress = 0, mastered = 0;
+      Object.values(cardStatuses).forEach(st => {
+        if (st === 'focus') focus++;
+        else if (st === 'in_progress') progress++;
+        else if (st === 'mastered') mastered++;
+      });
+
+      const chipFocus = document.getElementById('chipFilterFocus');
+      const chipProgress = document.getElementById('chipFilterProgress');
+      const chipMastered = document.getElementById('chipFilterMastered');
+      if (chipFocus) chipFocus.textContent = `🔴 Focus (${focus})`;
+      if (chipProgress) chipProgress.textContent = `🟡 Progreso (${progress})`;
+      if (chipMastered) chipMastered.textContent = `🟢 Dominados (${mastered})`;
+
+      const statFocus = document.getElementById('statCountFocus');
+      const statProgress = document.getElementById('statCountProgress');
+      const statMastered = document.getElementById('statCountMastered');
+      if (statFocus) statFocus.textContent = focus;
+      if (statProgress) statProgress.textContent = progress;
+      if (statMastered) statMastered.textContent = mastered;
+
+      const lastSyncLabel = document.getElementById('syncLastTimeLabel');
+      if (lastSyncLabel) {
+        lastSyncLabel.textContent = lastSyncTimestamp ? `Última sincronización: ${lastSyncTimestamp}` : 'Última sincronización: Sin configurar';
+      }
+    }
+
+    // Transparent Background Sync
+    function updateSyncUI(state = 'idle') {
+      const icon = document.getElementById('syncIcon');
+      const text = document.getElementById('syncText');
+      const btn = document.getElementById('btnSyncStatus');
+      if (!icon || !text || !btn) return;
+
+      if (!googleWebhookUrl) {
+        icon.textContent = '☁️';
+        text.textContent = 'Drive';
+        btn.className = 'btn-top btn-sync';
+        return;
+      }
+
+      if (state === 'syncing') {
+        icon.textContent = '🔄';
+        text.textContent = 'Sync...';
+        btn.className = 'btn-top btn-sync syncing';
+      } else if (state === 'success') {
+        icon.textContent = '☁️';
+        text.textContent = 'OK';
+        btn.className = 'btn-top btn-sync connected';
+      } else {
+        icon.textContent = '☁️';
+        text.textContent = 'Drive';
+        btn.className = 'btn-top btn-sync connected';
+      }
+    }
+
+    function scheduleAutoSync() {
+      if (!googleWebhookUrl) {
+        updateSyncUI('idle');
+        return;
+      }
+      updateSyncUI('syncing');
+      if (autoSyncTimer) clearTimeout(autoSyncTimer);
+      autoSyncTimer = setTimeout(() => {
+        performGoogleSync();
+      }, 1500);
+    }
+
+    function performGoogleSync() {
+      if (!googleWebhookUrl) return;
+      updateSyncUI('syncing');
+
+      const itemsToSync = Object.entries(cardStatuses).map(([idStr, st]) => {
+        const item = currentData.find(x => x.id === parseInt(idStr));
+        return {
+          id: parseInt(idStr),
+          phrasal_verb: item ? item.phrasal_verb : '',
+          meaning_es: item ? item.meaning_es : '',
+          status: st,
+          type: item ? item.type : '',
+          situation: item ? item.situation : '',
+          last_updated: new Date().toLocaleString()
+        };
+      });
+
+      const payload = {
+        updatedAt: new Date().toISOString(),
+        summary: {
+          total_marked: Object.keys(cardStatuses).length
+        },
+        items: itemsToSync
+      };
+
+      fetch(googleWebhookUrl, {
+        method: 'POST',
+        mode: 'no-cors',
+        headers: {
+          'Content-Type': 'text/plain;charset=utf-8'
+        },
+        body: JSON.stringify(payload)
+      }).then(() => {
+        lastSyncTimestamp = new Date().toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' });
+        localStorage.setItem('phrasal_last_sync', lastSyncTimestamp);
+        updateStatusCounts();
+        updateSyncUI('success');
+        setTimeout(() => updateSyncUI('idle'), 3500);
+      }).catch(err => {
+        console.warn('Sync warning:', err);
+        updateSyncUI('idle');
+      });
+    }
+
+    function openSyncModal() {
+      const input = document.getElementById('webhookUrlInput');
+      if (input) input.value = googleWebhookUrl;
+      updateStatusCounts();
+      document.getElementById('syncModal').classList.add('active');
+    }
+
+    function closeSyncModal() {
+      document.getElementById('syncModal').classList.remove('active');
+    }
+
+    function closeSyncModalOnBackdrop(e) {
+      if (e.target.id === 'syncModal') closeSyncModal();
+    }
+
+    function saveAndSyncNow() {
+      const input = document.getElementById('webhookUrlInput');
+      const url = input.value.trim();
+      googleWebhookUrl = url;
+      localStorage.setItem('phrasal_webhook_url', url);
+      updateSyncUI(url ? 'syncing' : 'idle');
+
+      if (!url) {
+        alert('URL eliminada. La sincronización automática está en pausa.');
+        return;
+      }
+
+      performGoogleSync();
+      setTimeout(() => {
+        alert('✅ Conexión establecida. Se ha enviado el estado actual a tu Google Drive.');
+        closeSyncModal();
+      }, 800);
+    }
+
+    const APPS_SCRIPT_CODE = `function doPost(e) {
+  try {
+    var ss = SpreadsheetApp.getActiveSpreadsheet();
+    var sheet = ss.getSheetByName("Progreso_Phrasals") || ss.getActiveSheet();
+    sheet.setName("Progreso_Phrasals");
+    
+    var data = JSON.parse(e.postData.contents);
+    var items = data.items || [];
+    
+    sheet.clearContents();
+    
+    // Encabezados claros para lectura de ChatGPT / Claude
+    sheet.appendRow(["ID", "Phrasal Verb", "Estado", "Significado", "Tipo", "Última Actualización"]);
+    sheet.getRange(1, 1, 1, 6).setFontWeight("bold").setBackground("#1e293b").setFontColor("#f8fafc");
+    
+    // Prioridad: Focus (🔴) primero, luego En Progreso (🟡), luego Dominados (🟢)
+    var orderMap = { "focus": 1, "in_progress": 2, "mastered": 3 };
+    items.sort(function(a, b) {
+      var oa = orderMap[a.status] || 99;
+      var ob = orderMap[b.status] || 99;
+      return oa - ob || a.id - b.id;
+    });
+    
+    var rows = items.map(function(item) {
+      var statusLabel = item.status === 'focus' ? '🔴 Focus / Difícil' :
+                         item.status === 'in_progress' ? '🟡 En Progreso' :
+                         item.status === 'mastered' ? '🟢 Dominado' : item.status;
+      return [
+        item.id,
+        item.phrasal_verb,
+        statusLabel,
+        item.meaning_es,
+        item.type === 'drill' ? '🎯 Práctica' : '📖 Historia',
+        item.last_updated || new Date().toLocaleString()
+      ];
+    });
+    
+    if (rows.length > 0) {
+      sheet.getRange(2, 1, rows.length, 6).setValues(rows);
+    }
+    
+    return ContentService.createTextOutput(JSON.stringify({ status: "success", count: rows.length }))
+      .setMimeType(ContentService.MimeType.JSON);
+  } catch (err) {
+    return ContentService.createTextOutput(JSON.stringify({ status: "error", message: err.toString() }))
+      .setMimeType(ContentService.MimeType.JSON);
+  }
+}`;
+
+    function copyAppsScriptCode() {
+      navigator.clipboard.writeText(APPS_SCRIPT_CODE).then(() => {
+        alert('✅ Código de Google Apps Script copiado al portapapeles. Pégalo en Extensiones > Apps Script de tu Google Sheet.');
+      }).catch(() => {
+        prompt('Copia este código manualmente:', APPS_SCRIPT_CODE);
       });
     }
 
