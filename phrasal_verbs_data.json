@@ -68,7 +68,10 @@
         "es": "No subas ahí arriba, está encantado.",
         "en": "Don't go up there, it's haunted."
       }
-    ]
+    ],
+    "type": "drill",
+    "pair_id": 2,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 2,
@@ -129,12 +132,15 @@
         "es": "Si tan solo Peter hubiera subido las escaleras.",
         "en": "If only Peter had gone up the stairs."
       }
-    ]
+    ],
+    "type": "story",
+    "pair_id": 1,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 3,
     "file_name": "Phrasal_verbs_3.mp3",
-    "phrasal_verb": "to pick up",
+    "phrasal_verb": "pick up",
     "base_verb": "pick",
     "particle": "up",
     "meaning_es": "Recoger (objetos, ropa, cosas, personas), coger/responder al teléfono",
@@ -203,7 +209,10 @@
         "es": "Sería más fácil si no tuviera que ir a buscarle.",
         "en": "It would be easier if I didn't have to pick him up."
       }
-    ]
+    ],
+    "type": "drill",
+    "pair_id": 4,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 4,
@@ -268,7 +277,10 @@
         "es": "Él recogió el acento muy rápido.",
         "en": "He picked up the accent very quickly."
       }
-    ]
+    ],
+    "type": "story",
+    "pair_id": 3,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 5,
@@ -338,7 +350,10 @@
         "es": "Si subimos, ¿cómo bajaremos?",
         "en": "If we climb up, how will we climb back down?"
       }
-    ]
+    ],
+    "type": "drill",
+    "pair_id": 6,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 6,
@@ -402,7 +417,9 @@
         "es": "Después de pensarlo un rato, Peter decide construir una montaña de libros debajo de la puerta del ático y subir por ella.",
         "en": "After thinking about it for a while, Peter decides to build a mountain of books under the attic door and climb up it."
       }
-    ]
+    ],
+    "pair_id": 5,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 7,
@@ -474,7 +491,10 @@
         "es": "Amplíalo a 50 puntos.",
         "en": "Blow it up to font size 50."
       }
-    ]
+    ],
+    "type": "drill",
+    "pair_id": 8,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 8,
@@ -527,12 +547,14 @@
         "es": "Su compañera de trabajo estaba agradecida por los globos que Peter había inflado, pero le dijo que deseaba que no hubiera ampliado una foto tan vergonzosa de ella.",
         "en": "His co-worker was grateful for the balloons Peter had blown up, but told him she wished he hadn't blown up such an embarrassing photo of her."
       }
-    ]
+    ],
+    "pair_id": 7,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 9,
     "file_name": "Phrasal_verbs_9.mp3",
-    "phrasal_verb": "to fill up",
+    "phrasal_verb": "fill up",
     "base_verb": "fill",
     "particle": "up",
     "meaning_es": "Llenar (un recipiente, espacio, formulario, etc.) completamente; ocupar todo el espacio disponible.",
@@ -600,7 +622,10 @@
         "es": "Las habitaciones en ese hotel siempre se llenan rápido.",
         "en": "The rooms in that hotel always fill up quickly."
       }
-    ]
+    ],
+    "type": "drill",
+    "pair_id": 10,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 10,
@@ -641,7 +666,10 @@
         "es": "Los niños llenaron la piscina con agua para el verano.",
         "en": "The children filled up the swimming pool with water for the summer."
       }
-    ]
+    ],
+    "type": "story",
+    "pair_id": 9,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 11,
@@ -710,12 +738,15 @@
         "es": "Si no hablas más alto, nadie podrá oírte.",
         "en": "If you don't speak up, no one will be able to hear you."
       }
-    ]
+    ],
+    "type": "drill",
+    "pair_id": 12,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 12,
     "file_name": "Phrasal_verbs_12.mp3",
-    "phrasal_verb": "Story: Speak up",
+    "phrasal_verb": "speak up",
     "base_verb": "speak",
     "particle": "up",
     "meaning_es": "Hablar más alto, subir la voz para ser escuchado. En el contexto de la historia, también se ilustra un malentendido.",
@@ -757,12 +788,15 @@
         "es": "Después de la actuación, se descubrió que los pobres actores no habían estado hablando más alto porque eran artistas de mímica.",
         "en": "After the performance, it was discovered that the poor actors hadn't been speaking up because they were mime artists."
       }
-    ]
+    ],
+    "pair_id": 11,
+    "track_type_label": "📖 Historia en Contexto",
+    "story_title": "Story: Speak up"
   },
   {
     "id": 13,
     "file_name": "Phrasal_verbs_13.mp3",
-    "phrasal_verb": "to speed up",
+    "phrasal_verb": "speed up",
     "base_verb": "speed",
     "particle": "up",
     "meaning_es": "Acelerar, agilizar, ir más rápido",
@@ -826,12 +860,15 @@
         "es": "Esperemos que pueda acelerar las cosas.",
         "en": "Let's hope he can speed things up."
       }
-    ]
+    ],
+    "type": "drill",
+    "pair_id": 14,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 14,
     "file_name": "Phrasal_verbs_14.mp3",
-    "phrasal_verb": "Story: Speed Up",
+    "phrasal_verb": "speed up",
     "base_verb": "speed",
     "particle": "up",
     "meaning_es": "Acelerar, aumentar la velocidad, apresurar.",
@@ -873,12 +910,15 @@
         "es": "Peter sabía que iba a recibir una multa, pero deseaba que el policía acelerara el proceso para poder llegar al trabajo.",
         "en": "Peter knew that he was going to get a ticket, but he wished the policeman would speed the process up so that he could get to work."
       }
-    ]
+    ],
+    "pair_id": 13,
+    "track_type_label": "📖 Historia en Contexto",
+    "story_title": "Story: Speed Up"
   },
   {
     "id": 15,
     "file_name": "Phrasal_verbs_15.mp3",
-    "phrasal_verb": "to turn up",
+    "phrasal_verb": "turn up",
     "base_verb": "turn",
     "particle": "up",
     "meaning_es": "Aumentar el volumen o la intensidad de algo (música, calefacción, ventilador, horno, etc.)",
@@ -944,7 +984,10 @@
         "es": "Si subes tu MP3 más, te quedarás sordo.",
         "en": "If you turn your MP3 player up any more, you'll go deaf."
       }
-    ]
+    ],
+    "type": "drill",
+    "pair_id": 16,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 16,
@@ -1017,12 +1060,15 @@
         "es": "Nosotros nunca subimos el volumen de la radio.",
         "en": "We never turn up the radio."
       }
-    ]
+    ],
+    "type": "story",
+    "pair_id": 15,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 17,
     "file_name": "Phrasal_verbs_17.mp3",
-    "phrasal_verb": "to break up",
+    "phrasal_verb": "break up",
     "base_verb": "break",
     "particle": "up",
     "meaning_es": "Terminar una relación sentimental, separarse un grupo o pareja, disolverse una multitud.",
@@ -1087,7 +1133,10 @@
         "es": "Hay muchas rupturas de pareja después del verano.",
         "en": "There are a lot of breakups after summer."
       }
-    ]
+    ],
+    "type": "drill",
+    "pair_id": 18,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 18,
@@ -1144,12 +1193,14 @@
         "es": "Le dijeron que el concierto había sido un éxito tan grande que quizás no se separarían después de todo.",
         "en": "They told him that the concert had been such a big success that they might not break up after all."
       }
-    ]
+    ],
+    "pair_id": 17,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 19,
     "file_name": "Phrasal_verbs_19.mp3",
-    "phrasal_verb": "to end up",
+    "phrasal_verb": "end up",
     "base_verb": "end",
     "particle": "up",
     "meaning_es": "Significa 'acabar' o 'terminar' en una situación, lugar, o estado particular, a menudo de forma inesperada o no planificada. Puede referirse al resultado final de una serie de eventos o acciones.",
@@ -1215,14 +1266,17 @@
         "es": "Ella acabó uniéndose a un circo ambulante.",
         "en": "She ended up joining a traveling circus."
       }
-    ]
+    ],
+    "type": "drill",
+    "pair_id": 20,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 20,
     "file_name": "Phrasal_verbs_20.mp3",
-    "phrasal_verb": "Story: Hitchhiking and Ending Up",
-    "base_verb": null,
-    "particle": null,
+    "phrasal_verb": "end up",
+    "base_verb": "end",
+    "particle": "up",
     "meaning_es": "Una historia sobre dos amigos que viajan a dedo por Europa y cómo terminaron en diferentes situaciones y lugares inesperados.",
     "situation": "Viajes y Transporte",
     "tags_es": [
@@ -1273,12 +1327,15 @@
         "es": "El viaje terminó llevándoles un total de dos semanas.",
         "en": "The trip ended up taking them a total of two weeks."
       }
-    ]
+    ],
+    "pair_id": 19,
+    "track_type_label": "📖 Historia en Contexto",
+    "story_title": "Story: Hitchhiking and Ending Up"
   },
   {
     "id": 21,
     "file_name": "Phrasal_verbs_21.mp3",
-    "phrasal_verb": "to give up",
+    "phrasal_verb": "give up",
     "base_verb": "give",
     "particle": "up",
     "meaning_es": "Dejar de hacer algo, abandonar, renunciar a algo o a un hábito, rendirse.",
@@ -1344,7 +1401,10 @@
         "es": "Él dejó de tocar en una banda para ser médico.",
         "en": "He gave up playing in a band to become a doctor."
       }
-    ]
+    ],
+    "type": "drill",
+    "pair_id": 22,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 22,
@@ -1396,12 +1456,14 @@
         "es": "Así que ha decidido dejar de hacer propósitos de Año Nuevo.",
         "en": "So he has decided to give up making New Year's resolutions."
       }
-    ]
+    ],
+    "pair_id": 21,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 23,
     "file_name": "Phrasal_verbs_23.mp3",
-    "phrasal_verb": "to hang up",
+    "phrasal_verb": "hang up",
     "base_verb": "hang",
     "particle": "up",
     "meaning_es": "1. Colgar el teléfono: finalizar una llamada telefónica. 2. Colgar las botas: retirarse de una actividad, especialmente del deporte o una profesión.",
@@ -1469,7 +1531,10 @@
         "es": "Debería haberlas colgado hace una década.",
         "en": "He should have hung them up a decade ago."
       }
-    ]
+    ],
+    "type": "drill",
+    "pair_id": 24,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 24,
@@ -1529,12 +1594,14 @@
         "es": "Pero ella fue tan grosera que Peter le colgó.",
         "en": "But she was so rude that Peter hung up on her."
       }
-    ]
+    ],
+    "pair_id": 23,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 25,
     "file_name": "Phrasal_verbs_25.mp3",
-    "phrasal_verb": "to use up",
+    "phrasal_verb": "use up",
     "base_verb": "use",
     "particle": "up",
     "meaning_es": "Consumir o gastar completamente algo hasta agotarlo o no quedar nada.",
@@ -1605,7 +1672,10 @@
         "es": "Pide más en cuanto se haya acabado.",
         "en": "Order some more as soon as it's all been used up."
       }
-    ]
+    ],
+    "type": "drill",
+    "pair_id": 26,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 26,
@@ -1663,12 +1733,14 @@
         "es": "y no pudo usar un teléfono público porque ya había gastado todas sus monedas canadienses.",
         "en": "and he couldn't use a payphone because he'd already used up all his Canadian coins."
       }
-    ]
+    ],
+    "pair_id": 25,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 27,
     "file_name": "Phrasal_verbs_27.mp3",
-    "phrasal_verb": "to wake up",
+    "phrasal_verb": "wake up",
     "base_verb": "wake",
     "particle": "up",
     "meaning_es": "Despertar o despertarse. Puede usarse de forma transitiva (despertar a alguien) o intransitiva (despertarse uno mismo).",
@@ -1732,7 +1804,10 @@
         "es": "¡Despiértate!",
         "en": "Wake up!"
       }
-    ]
+    ],
+    "type": "drill",
+    "pair_id": 28,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 28,
@@ -1793,12 +1868,14 @@
         "es": "Con razón el despertador de Peter no lo había despertado.",
         "en": "No wonder Peter's alarm clock hadn't woken him up."
       }
-    ]
+    ],
+    "pair_id": 27,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 29,
     "file_name": "Phrasal_verbs_29.mp3",
-    "phrasal_verb": "to wait up",
+    "phrasal_verb": "wait up",
     "base_verb": "wait",
     "particle": "up",
     "meaning_es": "Permanecer despierto, especialmente por la noche, esperando a alguien o algo.",
@@ -1862,7 +1939,10 @@
         "es": "Sus padres le esperaron levantados.",
         "en": "His parents waited up for him."
       }
-    ]
+    ],
+    "type": "drill",
+    "pair_id": 30,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 30,
@@ -1919,12 +1999,14 @@
         "es": "Peter se preguntó cuánto tiempo más tendría que esperar despierto a su hermana.",
         "en": "Peter wondered how much longer he would have to wait up for his sister."
       }
-    ]
+    ],
+    "pair_id": 29,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 31,
     "file_name": "Phrasal_verbs_31.mp3",
-    "phrasal_verb": "to stay up",
+    "phrasal_verb": "stay up",
     "base_verb": "stay",
     "particle": "up",
     "meaning_es": "quedarse levantado o despierto, no irse a la cama, especialmente hasta tarde.",
@@ -1988,7 +2070,10 @@
         "es": "Nunca me quedo despierto hasta tarde.",
         "en": "I never stay up late."
       }
-    ]
+    ],
+    "type": "drill",
+    "pair_id": 32,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 32,
@@ -2039,12 +2124,14 @@
         "es": "Excepto, por supuesto, en la víspera de Año Nuevo, pero incluso entonces, solo logra quedarse despierto el tiempo suficiente para ver el reloj dar la medianoche.",
         "en": "Except of course on New Year's Eve, but even then he only manages to stay up just long enough to see the clock strike midnight."
       }
-    ]
+    ],
+    "pair_id": 31,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 33,
     "file_name": "Phrasal_verbs_33.mp3",
-    "phrasal_verb": "to get up",
+    "phrasal_verb": "get up",
     "base_verb": "get",
     "particle": "up",
     "meaning_es": "significa levantarse (de la cama, de una silla, etc.)",
@@ -2108,7 +2195,10 @@
         "es": "Ella se levantó tarde y perdió el autobús.",
         "en": "She got up late and missed her bus."
       }
-    ]
+    ],
+    "type": "drill",
+    "pair_id": 34,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 34,
@@ -2227,12 +2317,15 @@
         "es": "Me gusta levantarme con el sol.",
         "en": "I like to get up with the sun."
       }
-    ]
+    ],
+    "type": "story",
+    "pair_id": 33,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 35,
     "file_name": "Phrasal_verbs_35.mp3",
-    "phrasal_verb": "to catch up",
+    "phrasal_verb": "catch up",
     "base_verb": "catch",
     "particle": "up",
     "meaning_es": "Alcanzar a alguien o algo que va adelante; ponerse al día o al mismo nivel que otros.",
@@ -2296,7 +2389,10 @@
         "es": "La policía le alcanzó en la frontera.",
         "en": "The police caught up with him at the border."
       }
-    ]
+    ],
+    "type": "drill",
+    "pair_id": 36,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 36,
@@ -2344,12 +2440,14 @@
         "es": "Faltando cinco vueltas, Otto había alcanzado al piloto en tercer lugar y parecía haber sellado la victoria cuando de repente, en la última vuelta, el piloto en cuarto lugar alcanzó a Otto y lo adelantó.",
         "en": "With five laps to go, Otto had caught up with the third-place driver and looked to have sealed victory when suddenly, on the final lap, the driver in fourth place caught up with Otto and overtook him."
       }
-    ]
+    ],
+    "pair_id": 35,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 37,
     "file_name": "Phrasal_verbs_37.mp3",
-    "phrasal_verb": "to come up",
+    "phrasal_verb": "come up",
     "base_verb": "come",
     "particle": "up",
     "meaning_es": "Aproximarse, acercarse, llegar, suceder pronto, subir a un nivel.",
@@ -2419,14 +2517,17 @@
         "es": "Hay una buena película justo después del telediario.",
         "en": "There's a good movie coming up right after the news."
       }
-    ]
+    ],
+    "type": "drill",
+    "pair_id": 38,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 38,
     "file_name": "Phrasal_verbs_38.mp3",
-    "phrasal_verb": "Story: The short arm of the law",
-    "base_verb": null,
-    "particle": null,
+    "phrasal_verb": "come up",
+    "base_verb": "come",
+    "particle": "up",
     "meaning_es": "Una historia que juega con la expresión idiomática 'el brazo corto de la ley' (refiriéndose a la ineficacia o limitaciones de la autoridad) al describir un encuentro con un policía literalmente de baja estatura. Ilustra el uso repetido del phrasal verb 'come up' en diferentes contextos.",
     "situation": "Vida Cotidiana",
     "tags_es": [
@@ -2480,12 +2581,15 @@
         "es": "Peter se sorprendió al ver que el policía era tan bajo que ni siquiera llegaba a la ventanilla.",
         "en": "Peter was shocked to see that the policeman was so short, he didn't even come up to the window."
       }
-    ]
+    ],
+    "pair_id": 37,
+    "track_type_label": "📖 Historia en Contexto",
+    "story_title": "Story: The short arm of the law"
   },
   {
     "id": 39,
     "file_name": "Phrasal_verbs_39.mp3",
-    "phrasal_verb": "to go up",
+    "phrasal_verb": "go up",
     "base_verb": "go",
     "particle": "up",
     "meaning_es": "Acercarse a (una persona o cosa), aproximarse.",
@@ -2549,7 +2653,10 @@
         "es": "Ella nunca se ha acercado a él.",
         "en": "She has never gone up to him."
       }
-    ]
+    ],
+    "type": "drill",
+    "pair_id": 40,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 40,
@@ -2594,7 +2701,9 @@
         "es": "Ella aceptó, y Peter rápidamente se acercó a uno de sus colegas para darle la buena noticia.",
         "en": "She agreed, and Peter quickly went up to one of his colleagues to tell him the good news."
       }
-    ]
+    ],
+    "pair_id": 39,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 41,
@@ -2665,14 +2774,17 @@
         "es": "Qué mentiroso, se lo inventó todo.",
         "en": "What a liar, he made everything up."
       }
-    ]
+    ],
+    "type": "drill",
+    "pair_id": 42,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 42,
     "file_name": "Phrasal_verbs_42.mp3",
-    "phrasal_verb": "Story: Peter's Stage Fright (make up, sign up)",
-    "base_verb": null,
-    "particle": null,
+    "phrasal_verb": "make up",
+    "base_verb": "make",
+    "particle": "up",
     "meaning_es": "Una historia sobre Peter, que es bueno inventando chistes ('make up jokes') pero sufre de miedo escénico. El relato también incluye el phrasal verb 'sign up' (inscribirse).",
     "situation": "Vida Cotidiana, Relaciones y Emociones",
     "tags_es": [
@@ -2715,12 +2827,15 @@
         "es": "El día del show, Peter no había inventado una excusa lo suficientemente buena para quedarse en casa, así que se sentó y comenzó a inventar nuevo material.",
         "en": "On the day of the show, Peter hadn't made up a good enough excuse to stay at home, so he sat down and started making up new material."
       }
-    ]
+    ],
+    "pair_id": 41,
+    "track_type_label": "📖 Historia en Contexto",
+    "story_title": "Story: Peter's Stage Fright (make up, sign up)"
   },
   {
     "id": 43,
     "file_name": "Phrasal_verbs_43.mp3",
-    "phrasal_verb": "to draw up",
+    "phrasal_verb": "draw up",
     "base_verb": "draw",
     "particle": "up",
     "meaning_es": "Redactar, elaborar o preparar un documento, un plan, una lista, un contrato, etc.",
@@ -2788,7 +2903,10 @@
         "es": "Smith dijo que redactaría una lista.",
         "en": "Smith said he'd draw up a list."
       }
-    ]
+    ],
+    "type": "drill",
+    "pair_id": 44,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 44,
@@ -2837,12 +2955,15 @@
         "es": "Es importante que redactemos el contrato cuidadosamente.",
         "en": "It's important that we draw up the contract carefully."
       }
-    ]
+    ],
+    "type": "story",
+    "pair_id": 43,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 45,
     "file_name": "Phrasal_verbs_45.mp3",
-    "phrasal_verb": "to come up with",
+    "phrasal_verb": "come up with",
     "base_verb": "come",
     "particle": "up with",
     "meaning_es": "Idear, sugerir, proponer, inventar, ocurrirsele a uno (una idea, solución).",
@@ -2909,7 +3030,10 @@
         "es": "Qué se ha propuesto hasta ahora?",
         "en": "What have they come up with so far?"
       }
-    ]
+    ],
+    "type": "drill",
+    "pair_id": 46,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 46,
@@ -3013,12 +3137,15 @@
         "es": "No se nos ocurrió nada.",
         "en": "We didn't come up with anything."
       }
-    ]
+    ],
+    "type": "story",
+    "pair_id": 45,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 47,
     "file_name": "Phrasal_verbs_47.mp3",
-    "phrasal_verb": "to take up",
+    "phrasal_verb": "take up",
     "base_verb": "take",
     "particle": "up",
     "meaning_es": "Empezar una actividad, un hobby, un deporte, una ocupación. También puede significar 'ocupar espacio' o 'aceptar una oferta', pero en este audio se enfoca en 'empezar una actividad'.",
@@ -3084,7 +3211,10 @@
         "es": "¿Cuándo empezaste a hacerlo?",
         "en": "When did you take it up?"
       }
-    ]
+    ],
+    "type": "drill",
+    "pair_id": 48,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 48,
@@ -3140,12 +3270,14 @@
         "es": "Todos estos deportes eran caros y sus padres tuvieron que empezar a trabajar en segundos empleos para pagarlos todos.",
         "en": "All of these sports were expensive and his parents had to take up second jobs to pay for them all."
       }
-    ]
+    ],
+    "pair_id": 47,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 49,
     "file_name": "Phrasal_verbs_49.mp3",
-    "phrasal_verb": "to set up",
+    "phrasal_verb": "set up",
     "base_verb": "set",
     "particle": "up",
     "meaning_es": "Significa 'montar', 'establecer' o 'instalar' algo. Puede referirse a ensamblar una estructura (como una tienda de campaña), establecer un negocio, organizar un sistema o preparar algo para su uso.",
@@ -3214,7 +3346,10 @@
         "es": "Él solo no podrá montar una oficina.",
         "en": "He won't be able to set up an office by himself."
       }
-    ]
+    ],
+    "type": "drill",
+    "pair_id": 50,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 50,
@@ -3286,12 +3421,15 @@
         "es": "Me gustaría establecer un horario regular de ejercicio.",
         "en": "I would like to set up a regular exercise schedule."
       }
-    ]
+    ],
+    "type": "story",
+    "pair_id": 49,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 51,
     "file_name": "Phrasal_verbs_51.mp3",
-    "phrasal_verb": "to start up",
+    "phrasal_verb": "start up",
     "base_verb": "start",
     "particle": "up",
     "meaning_es": "Iniciar, arrancar, poner en marcha, establecer, encender. Se usa para referirse a la puesta en marcha de un negocio, un coche, un proyecto, una conversación, etc.",
@@ -3360,7 +3498,10 @@
         "es": "¿Te harías socio si montara uno?",
         "en": "Would you join if I started one up?"
       }
-    ]
+    ],
+    "type": "drill",
+    "pair_id": 52,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 52,
@@ -3411,12 +3552,14 @@
         "es": "Necesitaba dinero para ponerla en marcha, por eso estaba iniciando conversaciones con posibles inversores.",
         "en": "She needed money to start it up, which was why she was starting up conversations with potential investors."
       }
-    ]
+    ],
+    "pair_id": 51,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 53,
     "file_name": "Phrasal_verbs_53.mp3",
-    "phrasal_verb": "to sign up",
+    "phrasal_verb": "sign up",
     "base_verb": "sign",
     "particle": "up",
     "meaning_es": "Inscribirse, apuntarse o matricularse en algo (un curso, un evento, etc.).",
@@ -3482,14 +3625,17 @@
         "es": "Ella está apuntada en el curso más avanzado.",
         "en": "She has signed up for the most advanced course."
       }
-    ]
+    ],
+    "type": "drill",
+    "pair_id": 54,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 54,
     "file_name": "Phrasal_verbs_54.mp3",
-    "phrasal_verb": "Story: Signing Up",
-    "base_verb": null,
-    "particle": null,
+    "phrasal_verb": "sign up",
+    "base_verb": "sign",
+    "particle": "up",
     "meaning_es": "Una historia sobre Peter y su decisión de apuntarse a un curso, utilizando los phrasal verbs 'sign up for' y 'make up his mind'.",
     "situation": "Vida Cotidiana",
     "tags_es": [
@@ -3529,12 +3675,15 @@
         "es": "El único problema era que necesitaría conseguir que alguien más se inscribiera con él para ser su compañero de buceo.",
         "en": "The only problem was that he would need to get someone else to sign up with him to be his scuba diving partner."
       }
-    ]
+    ],
+    "pair_id": 53,
+    "track_type_label": "📖 Historia en Contexto",
+    "story_title": "Story: Signing Up"
   },
   {
     "id": 55,
     "file_name": "Phrasal_verbs_55.mp3",
-    "phrasal_verb": "to back up",
+    "phrasal_verb": "back up",
     "base_verb": "back",
     "particle": "up",
     "meaning_es": "Apoyar o dar respaldo a alguien.",
@@ -3598,7 +3747,10 @@
         "es": "¿Le apoyarías a él si él te lo pidiera?",
         "en": "Would you back him up if he asked you to?"
       }
-    ]
+    ],
+    "type": "drill",
+    "pair_id": 56,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 56,
@@ -3648,12 +3800,14 @@
         "es": "Su hermana no podía respaldarlo ya que no había contestado el teléfono, pero los registros telefónicos respaldarían su historia.",
         "en": "His sister couldn't back him up since she hadn't answered the phone, but the phone records would back up his story."
       }
-    ]
+    ],
+    "pair_id": 55,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 57,
     "file_name": "Phrasal_verbs_57.mp3",
-    "phrasal_verb": "to dress up",
+    "phrasal_verb": "dress up",
     "base_verb": "dress",
     "particle": "up",
     "meaning_es": "disfrazarse, o vestir elegante/formal",
@@ -3719,7 +3873,10 @@
         "es": "Asegúrate de ir elegante a la fiesta.",
         "en": "Make sure you dress up for the party."
       }
-    ]
+    ],
+    "type": "drill",
+    "pair_id": 58,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 58,
@@ -3761,12 +3918,15 @@
         "es": "¿Te vas a disfrazar para la fiesta de disfraces?",
         "en": "Are you going to dress up for the costume party?"
       }
-    ]
+    ],
+    "type": "story",
+    "pair_id": 57,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 59,
     "file_name": "Phrasal_verbs_59.mp3",
-    "phrasal_verb": "to look up",
+    "phrasal_verb": "look up",
     "base_verb": "look",
     "particle": "up",
     "meaning_es": "Buscar información en una fuente de referencia (diccionario, libro, internet, etc.)",
@@ -3832,7 +3992,10 @@
         "es": "La biblioteca es un buen sitio donde buscar información.",
         "en": "A library is a good place to look up information."
       }
-    ]
+    ],
+    "type": "drill",
+    "pair_id": 60,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 60,
@@ -3878,12 +4041,14 @@
         "es": "Fue entonces cuando se dio cuenta de que si podía buscar números de teléfono en internet, también podía buscar vocabulario en español.",
         "en": "It was then that he realized that if he could look up phone numbers on the internet, he could look up Spanish vocabulary too."
       }
-    ]
+    ],
+    "pair_id": 59,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 61,
     "file_name": "Phrasal_verbs_61.mp3",
-    "phrasal_verb": "to make up",
+    "phrasal_verb": "make up",
     "base_verb": "make",
     "particle": "up",
     "meaning_es": "reconciliarse, hacer las paces",
@@ -3947,7 +4112,10 @@
         "es": "Él vino a casa e hicieron las paces.",
         "en": "He came home and they made up."
       }
-    ]
+    ],
+    "type": "drill",
+    "pair_id": 62,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 62,
@@ -3998,7 +4166,9 @@
         "es": "Lo que Peter no sabía era que su vecino estaba esperando que tocara a la puerta en cualquier momento y se reconciliara, como siempre hacía.",
         "en": "What Peter didn't know was that his neighbor was expecting him to knock on the door any minute and make up, like he always did."
       }
-    ]
+    ],
+    "pair_id": 61,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 63,
@@ -4072,7 +4242,10 @@
         "es": "Podremos jugar hasta que se ponga el sol.",
         "en": "We'll be able to play until the sun goes down."
       }
-    ]
+    ],
+    "type": "drill",
+    "pair_id": 64,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 64,
@@ -4125,7 +4298,9 @@
         "es": "De hecho, bajó con tanto cuidado que no se dio cuenta de que había bajado al piso 17 por error.",
         "en": "In fact, he went down so carefully that he didn't realize that he had gone down to the 17th floor by mistake."
       }
-    ]
+    ],
+    "pair_id": 63,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 65,
@@ -4194,14 +4369,17 @@
         "es": "Suelta la maleta y únete a nosotros.",
         "en": "Put your suitcase down and join us."
       }
-    ]
+    ],
+    "type": "drill",
+    "pair_id": 66,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 66,
     "file_name": "Phrasal_verbs_66.mp3",
-    "phrasal_verb": "Story: In a hurry",
-    "base_verb": null,
-    "particle": null,
+    "phrasal_verb": "put down",
+    "base_verb": "put",
+    "particle": "down",
     "meaning_es": "Una historia sobre Peter que está apurado y olvida dónde deja sus llaves, usando varios 'phrasal verbs' como 'put down', 'pick up', 'go back', 'look for' y 'sit down'.",
     "situation": "Vida Cotidiana",
     "tags_es": [
@@ -4264,12 +4442,15 @@
         "es": "Las había dejado en la puerta.",
         "en": "He had left them in the door."
       }
-    ]
+    ],
+    "pair_id": 65,
+    "track_type_label": "📖 Historia en Contexto",
+    "story_title": "Story: In a hurry"
   },
   {
     "id": 67,
     "file_name": "Phrasal_verbs_67.mp3",
-    "phrasal_verb": "to sit down",
+    "phrasal_verb": "sit down",
     "base_verb": "sit",
     "particle": "down",
     "meaning_es": "Sentarse, tomar asiento. Puede usarse en sentido literal (tomar una silla) o figurado (para discutir o negociar).",
@@ -4336,7 +4517,10 @@
         "es": "Por fin las dos partes se sentaron juntas para hablar.",
         "en": "The two sides finally sat down together for talks."
       }
-    ]
+    ],
+    "type": "drill",
+    "pair_id": 68,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 68,
@@ -4404,12 +4588,15 @@
         "es": "El perro se sentó pacientemente junto a la puerta.",
         "en": "The dog sat down patiently by the door."
       }
-    ]
+    ],
+    "type": "story",
+    "pair_id": 67,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 69,
     "file_name": "Phrasal_verbs_69.mp3",
-    "phrasal_verb": "to lie down",
+    "phrasal_verb": "lie down",
     "base_verb": "lie",
     "particle": "down",
     "meaning_es": "tumbarse, echarse, acostarse",
@@ -4478,7 +4665,10 @@
         "es": "El perro se tumbó delante de la chimenea.",
         "en": "The dog lay down in front of the fire."
       }
-    ]
+    ],
+    "type": "drill",
+    "pair_id": 70,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 70,
@@ -4530,7 +4720,9 @@
         "es": "Había oído que acostarse en el suelo era bueno para la espalda, pero preferiría acostarse en su viejo colchón chirriante antes que acostarse en el suelo cada noche.",
         "en": "He had heard that lying down on the floor was good for your back, but he'd rather lie down on his old squeaky mattress than lie down on the floor every night."
       }
-    ]
+    ],
+    "pair_id": 69,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 71,
@@ -4602,7 +4794,10 @@
         "es": "La vacuna ralentizó la propagación de la enfermedad.",
         "en": "The vaccine slowed down the spread of the disease."
       }
-    ]
+    ],
+    "type": "drill",
+    "pair_id": 72,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 72,
@@ -4650,12 +4845,14 @@
         "es": "Sin embargo, su ritmo cardíaco no se calmaría hasta que sus padres estuvieran en su avión.",
         "en": "However, his heart rate wouldn't slow down until his parents were on their plane."
       }
-    ]
+    ],
+    "pair_id": 71,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 73,
     "file_name": "Phrasal_verbs_73.mp3",
-    "phrasal_verb": "to calm down",
+    "phrasal_verb": "calm down",
     "base_verb": "calm",
     "particle": "down",
     "meaning_es": "tranquilizarse, calmarse, serenarse, apaciguar",
@@ -4723,7 +4920,10 @@
         "es": "Probablemente fueron los caramelos lo que la calmaron.",
         "en": "It was probably the sweets that calmed her down."
       }
-    ]
+    ],
+    "type": "drill",
+    "pair_id": 74,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 74,
@@ -4776,12 +4976,14 @@
         "es": "Quizás se dedicaría a la meditación, ya que había oído que te calma.",
         "en": "Perhaps he would take up meditation, as he had heard it calms you down."
       }
-    ]
+    ],
+    "pair_id": 73,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 75,
     "file_name": "Phrasal_verbs_75.mp3",
-    "phrasal_verb": "to turn down",
+    "phrasal_verb": "turn down",
     "base_verb": "turn",
     "particle": "down",
     "meaning_es": "Disminuir el volumen, la intensidad o la temperatura de algo. También puede significar rechazar algo, aunque este sentido no se ejemplifica en este audio.",
@@ -4845,7 +5047,10 @@
         "es": "Deberías bajar el volumen de tu teléfono.",
         "en": "You should turn down the volume on your phone."
       }
-    ]
+    ],
+    "type": "drill",
+    "pair_id": 76,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 76,
@@ -4896,12 +5101,14 @@
         "es": "La bibliotecaria le dijo a Peter que tendría que bajarlo o buscar otro lugar para leer.",
         "en": "The librarian told Peter he would either have to turn it down or find somewhere else to read."
       }
-    ]
+    ],
+    "pair_id": 75,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 77,
     "file_name": "Phrasal_verbs_77.mp3",
-    "phrasal_verb": "to copy down",
+    "phrasal_verb": "copy down",
     "base_verb": "copy",
     "particle": "down",
     "meaning_es": "Registrar o transcribir información (nombres, números, respuestas) de un lugar a otro, especialmente por escrito. Puede implicar copiar de forma completa o detallada.",
@@ -4966,7 +5173,10 @@
         "es": "Copia las respuestas de prisa.",
         "en": "Copy down the answers quickly."
       }
-    ]
+    ],
+    "type": "drill",
+    "pair_id": 78,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 78,
@@ -5013,12 +5223,14 @@
         "es": "Mientras esperaba, Peter anotó otros cinco números de teléfono de productos que quería comprar.",
         "en": "While he was waiting, Peter copied down five other phone numbers of products he wanted to buy."
       }
-    ]
+    ],
+    "pair_id": 77,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 79,
     "file_name": "Phrasal_verbs_79.mp3",
-    "phrasal_verb": "to note down",
+    "phrasal_verb": "note down",
     "base_verb": "note",
     "particle": "down",
     "meaning_es": "Anotar, apuntar, tomar nota de algo.",
@@ -5083,7 +5295,10 @@
         "es": "Ella intentó anotar la letra de la canción.",
         "en": "She tried to note down the lyrics to the song."
       }
-    ]
+    ],
+    "type": "drill",
+    "pair_id": 80,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 80,
@@ -5128,12 +5343,15 @@
         "es": "Apuntó cada detalle de la conversación.",
         "en": "He noted down every detail of the conversation."
       }
-    ]
+    ],
+    "type": "story",
+    "pair_id": 79,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 81,
     "file_name": "Phrasal_verbs_81.mp3",
-    "phrasal_verb": "to write down",
+    "phrasal_verb": "write down",
     "base_verb": "write",
     "particle": "down",
     "meaning_es": "Apuntar, anotar, registrar por escrito.",
@@ -5199,14 +5417,17 @@
         "es": "Mi médico me dijo que tengo que apuntarlo todo.",
         "en": "My doctor told me I need to write everything down."
       }
-    ]
+    ],
+    "type": "drill",
+    "pair_id": 82,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 82,
     "file_name": "Phrasal_verbs_82.mp3",
-    "phrasal_verb": "Story: Peter and his Post-it notes",
-    "base_verb": null,
-    "particle": null,
+    "phrasal_verb": "write down",
+    "base_verb": "write",
+    "particle": "down",
     "meaning_es": "La historia trata sobre Peter, un hombre tradicional al que le gusta anotar todo a mano, a pesar de que la mayoría de la gente usa dispositivos electrónicos. Usa muchas notas Post-it cada día. Su problema es que, aunque anota todo para no olvidarlo, termina olvidando dónde puso las notas.",
     "situation": "Vida Cotidiana",
     "tags_es": [
@@ -5250,7 +5471,10 @@
         "es": "El problema es que anota tantas cosas que olvida dónde las ha anotado.",
         "en": "The problem is that he writes so many things down that he forgets where he has written them down."
       }
-    ]
+    ],
+    "pair_id": 81,
+    "track_type_label": "📖 Historia en Contexto",
+    "story_title": "Story: Peter and his Post-it notes"
   },
   {
     "id": 83,
@@ -5322,7 +5546,10 @@
         "es": "Él compró un coche nuevo que no se averiaría tanto.",
         "en": "He bought a new car that wouldn't break down so much."
       }
-    ]
+    ],
+    "type": "drill",
+    "pair_id": 84,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 84,
@@ -5376,12 +5603,15 @@
         "es": "Si tu ordenador se estropea, puedes utilizar el mío.",
         "en": "If your computer breaks down, you can use mine."
       }
-    ]
+    ],
+    "type": "story",
+    "pair_id": 83,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 85,
     "file_name": "Phrasal_verbs_85.mp3",
-    "phrasal_verb": "to let down",
+    "phrasal_verb": "let down",
     "base_verb": "let",
     "particle": "down",
     "meaning_es": "Decepcionar o fallar a alguien o algo, no cumplir con las expectativas de alguien.",
@@ -5444,7 +5674,10 @@
         "es": "Estaba muy decepcionada cuando se lo conté.",
         "en": "She was really let down when I told her."
       }
-    ]
+    ],
+    "type": "drill",
+    "pair_id": 86,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 86,
@@ -5484,12 +5717,14 @@
         "es": "Peter ciertamente no iba a recomendar el libro a nadie más, porque, al igual que el niño de la historia, no quería decepcionar a nadie.",
         "en": "Peter certainly wasn't going to recommend the book to anyone else, because, like the boy in the story, he didn't want to let anyone down."
       }
-    ]
+    ],
+    "pair_id": 85,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 87,
     "file_name": "Phrasal_verbs_87.mp3",
-    "phrasal_verb": "to break down",
+    "phrasal_verb": "break down",
     "base_verb": "break",
     "particle": "down",
     "meaning_es": "Desglosar, analizar, dividir en partes.",
@@ -5556,7 +5791,10 @@
         "es": "Desglosa el presupuesto, por favor.",
         "en": "Break down the estimate, please."
       }
-    ]
+    ],
+    "type": "drill",
+    "pair_id": 88,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 88,
@@ -5615,12 +5853,14 @@
         "es": "Esperaba que su desglose no fuera demasiado específico.",
         "en": "He hoped his breakdown wasn't too specific."
       }
-    ]
+    ],
+    "pair_id": 87,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 89,
     "file_name": "Phrasal_verbs_89.mp3",
-    "phrasal_verb": "to shut down",
+    "phrasal_verb": "shut down",
     "base_verb": "shut",
     "particle": "down",
     "meaning_es": "cerrar, clausurar (un negocio, una fábrica, un establecimiento, etc.)",
@@ -5686,7 +5926,10 @@
         "es": "Fueron clausurados sin ningún aviso.",
         "en": "They were shut down without any warning."
       }
-    ]
+    ],
+    "type": "drill",
+    "pair_id": 90,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 90,
@@ -5744,12 +5987,15 @@
         "es": "Y a juzgar por el número de clientes en la panadería, también cerraría pronto.",
         "en": "And judging by the number of customers in the bakery, it would shut down soon too."
       }
-    ]
+    ],
+    "type": "story",
+    "pair_id": 89,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 91,
     "file_name": "Phrasal_verbs_91.mp3",
-    "phrasal_verb": "to turn down",
+    "phrasal_verb": "turn down",
     "base_verb": "turn",
     "particle": "down",
     "meaning_es": "Rechazar, denegar una oferta, una persona, una solicitud, etc.",
@@ -5815,7 +6061,10 @@
         "es": "Espero que no me rechacen.",
         "en": "I hope they don't turn me down."
       }
-    ]
+    ],
+    "type": "drill",
+    "pair_id": 92,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 92,
@@ -5866,7 +6115,9 @@
         "es": "Quizás lo siguen rechazando porque solo mide 1 metro 40 de altura.",
         "en": "Perhaps he keeps getting turned down because he's only 1 meter 40 tall."
       }
-    ]
+    ],
+    "pair_id": 91,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 93,
@@ -5934,14 +6185,17 @@
         "es": "Cierra la puerta para que nadie pueda entrar.",
         "en": "Lock the door so nobody can come in."
       }
-    ]
+    ],
+    "type": "drill",
+    "pair_id": 94,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 94,
     "file_name": "Phrasal_verbs_94.mp3",
     "phrasal_verb": "Coming and going: A visit to the doctor",
-    "base_verb": null,
-    "particle": null,
+    "base_verb": "come",
+    "particle": "in",
     "meaning_es": "Narrativa que ilustra el uso de varios 'phrasal verbs' relacionados con el movimiento y la interacción en el contexto de una visita médica, como 'got to' (llegar), 'go in' / 'come in' (entrar) y 'go into' (ir a).",
     "situation": "Vida Cotidiana",
     "tags_es": [
@@ -5987,7 +6241,9 @@
         "es": "Y finalmente, una hora y media después, el médico entró para verla.",
         "en": "And finally, an hour and a half later, the doctor came in to see her."
       }
-    ]
+    ],
+    "pair_id": 93,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 95,
@@ -6057,7 +6313,10 @@
         "es": "Yo no me subo a ese bote, es demasiado pequeño.",
         "en": "I'm not getting into that boat. It's too small."
       }
-    ]
+    ],
+    "type": "drill",
+    "pair_id": 96,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 96,
@@ -6125,12 +6384,15 @@
         "es": "Se metió en política para hacer un cambio.",
         "en": "He got into politics to make a change."
       }
-    ]
+    ],
+    "type": "story",
+    "pair_id": 95,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 97,
     "file_name": "Phrasal_verbs_97.mp3",
-    "phrasal_verb": "to run in",
+    "phrasal_verb": "run in",
     "base_verb": "run",
     "particle": "in",
     "meaning_es": "entrar corriendo",
@@ -6194,7 +6456,10 @@
         "es": "Él entra corriendo en la casa siempre que ve un perro.",
         "en": "He runs into the house whenever he sees a dog."
       }
-    ]
+    ],
+    "type": "drill",
+    "pair_id": 98,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 98,
@@ -6235,12 +6500,15 @@
         "es": "Deja de correr y enfréntate al problema.",
         "en": "Stop running around and face the problem."
       }
-    ]
+    ],
+    "type": "story",
+    "pair_id": 97,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 99,
     "file_name": "Phrasal_verbs_99.mp3",
-    "phrasal_verb": "to walk in",
+    "phrasal_verb": "walk in",
     "base_verb": "walk",
     "particle": "in",
     "meaning_es": "entrar andando",
@@ -6304,14 +6572,17 @@
         "es": "Él entró en el bar y pidió una copa.",
         "en": "He walked into the bar and ordered a drink."
       }
-    ]
+    ],
+    "type": "drill",
+    "pair_id": 100,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 100,
     "file_name": "Phrasal_verbs_100.mp3",
-    "phrasal_verb": "Story: A man walks into a bar",
-    "base_verb": null,
-    "particle": null,
+    "phrasal_verb": "walk in",
+    "base_verb": "walk",
+    "particle": "in",
     "meaning_es": "Una historia corta con un giro inesperado donde un hombre entra en lo que cree que es un bar, pero resulta ser una comisaría de policía.",
     "situation": "Humor y Vida Cotidiana",
     "tags_es": [
@@ -6361,12 +6632,15 @@
         "es": "El camarero responde: \"Señor, ha entrado en una comisaría de policía y está bajo arresto por estar borracho y en desorden público.\"",
         "en": "The bartender replies: \"Sir, you've walked into a police station, and you're under arrest for being drunk and disorderly.\""
       }
-    ]
+    ],
+    "pair_id": 99,
+    "track_type_label": "📖 Historia en Contexto",
+    "story_title": "Story: A man walks into a bar"
   },
   {
     "id": 101,
     "file_name": "Phrasal_verbs_101.mp3",
-    "phrasal_verb": "to break in",
+    "phrasal_verb": "break in",
     "base_verb": "break",
     "particle": "in",
     "meaning_es": "Entrar a la fuerza, entrar a robar.",
@@ -6430,7 +6704,10 @@
         "es": "Si alguien quiere entrar a robar, encontrará la manera.",
         "en": "If someone wants to break in, they'll find a way."
       }
-    ]
+    ],
+    "type": "drill",
+    "pair_id": 102,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 102,
@@ -6472,12 +6749,15 @@
         "es": "Sarah tuvo que forzar la entrada a su propio coche para recuperar sus llaves.",
         "en": "Sarah had to break into her own car to get her keys back."
       }
-    ]
+    ],
+    "type": "story",
+    "pair_id": 101,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 103,
     "file_name": "Phrasal_verbs_103.mp3",
-    "phrasal_verb": "to take in",
+    "phrasal_verb": "take in",
     "base_verb": "take",
     "particle": "in",
     "meaning_es": "comprender, asimilar",
@@ -6541,7 +6821,10 @@
         "es": "Era difícil comprender lo que estaba oyendo.",
         "en": "It was difficult to take in what I was hearing."
       }
-    ]
+    ],
+    "type": "drill",
+    "pair_id": 104,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 104,
@@ -6592,12 +6875,15 @@
         "es": "Pero ahora sabía que necesitaría al menos un año para asimilarlo todo.",
         "en": "But now she knew that she would need at least a year to take everything in."
       }
-    ]
+    ],
+    "type": "story",
+    "pair_id": 103,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 105,
     "file_name": "Phrasal_verbs_105.mp3",
-    "phrasal_verb": "to sink in",
+    "phrasal_verb": "sink in",
     "base_verb": "sink",
     "particle": "in",
     "meaning_es": "asimilar, asumir",
@@ -6664,7 +6950,10 @@
         "es": "Cuando finalmente él cayó en la cuenta, lloró y lloró.",
         "en": "When it finally sank in, he cried and cried."
       }
-    ]
+    ],
+    "type": "drill",
+    "pair_id": 106,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 106,
@@ -6718,7 +7007,9 @@
         "es": "Antes de colgar el teléfono, la hermana de Sarah le preguntó si ya había asimilado que iba a ser tía.",
         "en": "Before hanging up the phone, Sarah's sister asked her if it had sunk in that she was going to be an aunt."
       }
-    ]
+    ],
+    "pair_id": 105,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 107,
@@ -6789,7 +7080,10 @@
         "es": "Mi trabajo es tan fácil que un mono podría sustituirme.",
         "en": "My job is so easy that a monkey could fill in for me."
       }
-    ]
+    ],
+    "type": "drill",
+    "pair_id": 108,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 108,
@@ -6838,12 +7132,14 @@
         "es": "Por supuesto, mientras Sarah estaba cubriendo a la secretaria, nadie la estaba cubriendo a ella, y su trabajo se estaba acumulando.",
         "en": "Of course, while Sarah was filling in for the secretary, no one was filling in for her, and her work was piling up."
       }
-    ]
+    ],
+    "pair_id": 107,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 109,
     "file_name": "Phrasal_verbs_109.mp3",
-    "phrasal_verb": "to stand in",
+    "phrasal_verb": "stand in",
     "base_verb": "stand",
     "particle": "in",
     "meaning_es": "sustituir",
@@ -6907,7 +7203,10 @@
         "es": "El cámara tuvo que sustituir al presentador.",
         "en": "The cameraman had to stand in for the news anchor."
       }
-    ]
+    ],
+    "type": "drill",
+    "pair_id": 110,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 110,
@@ -6965,12 +7264,14 @@
         "es": "Al final, el gerente de finanzas sustituyó al vicepresidente, y el presidente le pidió a su esposa que lo sustituyera a él.",
         "en": "In the end, the finance manager stood in for the vice president, and the president asked his wife to stand in for him."
       }
-    ]
+    ],
+    "pair_id": 109,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 111,
     "file_name": "Phrasal_verbs_111.mp3",
-    "phrasal_verb": "to hand in",
+    "phrasal_verb": "hand in",
     "base_verb": "hand",
     "particle": "in",
     "meaning_es": "entregar, presentar",
@@ -7039,14 +7340,17 @@
         "es": "Smith presentó su renuncia la semana pasada.",
         "en": "Smith handed in his notice last week."
       }
-    ]
+    ],
+    "type": "drill",
+    "pair_id": 112,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 112,
     "file_name": "Phrasal_verbs_112.mp3",
     "phrasal_verb": "fill in, hand in",
-    "base_verb": null,
-    "particle": null,
+    "base_verb": "hand",
+    "particle": "in",
     "meaning_es": "Fill in: Rellenar (un formulario). Hand in: Entregar (documentos, una tarea).",
     "situation": "Vida Cotidiana, Trámites y Documentos, Viajes y Transporte",
     "tags_es": [
@@ -7082,7 +7386,9 @@
         "es": "La única esperanza de Sarah era que alguien lo hubiera encontrado y lo hubiera entregado.",
         "en": "Sarah's only hope was that someone had found it and handed it in."
       }
-    ]
+    ],
+    "pair_id": 111,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 113,
@@ -7153,14 +7459,16 @@
         "es": "Quizás necesitan mandar a los marines.",
         "en": "Perhaps they need to send in the Marines."
       }
-    ]
+    ],
+    "pair_id": 114,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 114,
     "file_name": "Phrasal_verbs_114.mp3",
-    "phrasal_verb": "Story: Hiring and Job Applications (send in, set up, deal with, narrow down)",
-    "base_verb": null,
-    "particle": null,
+    "phrasal_verb": "send in",
+    "base_verb": "send",
+    "particle": "in",
     "meaning_es": "Una historia sobre el proceso de contratación en una empresa, destacando el uso de phrasal verbs como 'send in' (enviar), 'set up' (establecer), 'deal with' (lidiar con) y 'narrow down' (reducir).",
     "situation": "Trabajo y Negocios",
     "tags_es": [
@@ -7201,7 +7509,10 @@
         "es": "A los 10 seleccionados se les pidió entonces que enviaran una carta detallada explicando por qué serían perfectos para el puesto.",
         "en": "The 10 that were chosen were then asked to send in a detailed letter explaining why they would be perfect for the job."
       }
-    ]
+    ],
+    "pair_id": 113,
+    "track_type_label": "📖 Historia en Contexto",
+    "story_title": "Story: Hiring and Job Applications (send in, set up, deal with, narrow down)"
   },
   {
     "id": 115,
@@ -7272,7 +7583,9 @@
         "es": "Se pasaron por el pub para tomarse una copa rápida.",
         "en": "They popped into the pub for a quick drink."
       }
-    ]
+    ],
+    "pair_id": 116,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 116,
@@ -7318,7 +7631,9 @@
         "es": "Sarah decidió que pasaría por la farmacia mientras fingía hablar por su teléfono móvil para que el farmacéutico entrometido no la molestara.",
         "en": "Sarah decided she'd pop into the pharmacy while pretending to talk on her mobile phone, so the nosy pharmacist wouldn't bother her."
       }
-    ]
+    ],
+    "pair_id": 115,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 117,
@@ -7388,7 +7703,9 @@
         "es": "Esperaba que vinieras a verme.",
         "en": "I was hoping you'd drop in."
       }
-    ]
+    ],
+    "pair_id": 118,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 118,
@@ -7436,12 +7753,14 @@
         "es": "Los padres estaban en casa, pero los niños habían ido a visitar a su abuela que vivía al otro lado de la ciudad.",
         "en": "The parents were home, but the children had gone to drop in on their grandmother who lived on the other side of town."
       }
-    ]
+    ],
+    "pair_id": 117,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 119,
     "file_name": "Phrasal_verbs_119.mp3",
-    "phrasal_verb": "to put in",
+    "phrasal_verb": "put in",
     "base_verb": "put",
     "particle": "in",
     "meaning_es": "meter, poner, introducir",
@@ -7505,7 +7824,9 @@
         "es": "Ella encontró $20 y los metió en su monedero.",
         "en": "She found $20 and put it in her purse."
       }
-    ]
+    ],
+    "pair_id": 120,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 120,
@@ -7563,7 +7884,9 @@
         "es": "Sarah estaba segura de que se le había olvidado meter algo en su maleta, pero ya había metido tanta ropa que no podía meter nada más de todos modos.",
         "en": "Sarah was sure she had forgotten to put something in her suitcase, but she had already put in so many clothes that she couldn't put anything else in anyway."
       }
-    ]
+    ],
+    "pair_id": 119,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 121,
@@ -7635,7 +7958,9 @@
         "es": "Metí un euro en la máquina, pero se lo tragó.",
         "en": "I popped a euro in the machine, but it swallowed it."
       }
-    ]
+    ],
+    "pair_id": 122,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 122,
@@ -7698,12 +8023,14 @@
         "es": "Habría puesto una película, pero sabía que se quedaría dormida de inmediato.",
         "en": "She would have popped in a movie, but she knew she would fall asleep right away."
       }
-    ]
+    ],
+    "pair_id": 121,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 123,
     "file_name": "Phrasal_verbs_123.mp3",
-    "phrasal_verb": "to stuff in",
+    "phrasal_verb": "stuff in",
     "base_verb": "stuff",
     "particle": "in",
     "meaning_es": "Meter con fuerza, introducir a la fuerza, embutir.",
@@ -7774,7 +8101,9 @@
         "es": "Él se metió una manzana en el bolsillo.",
         "en": "He stuffed an apple in his pocket."
       }
-    ]
+    ],
+    "pair_id": 124,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 124,
@@ -7833,12 +8162,14 @@
         "es": "Lamentablemente, George había metido demasiados papeles en su billetera, y cuando intentó cerrarla, esta reventó, enviando miles de recibos volando hacia el Cadillac.",
         "en": "Sadly, George had stuffed too many pieces of paper in his wallet, and when he tried to close it, it burst, sending thousands of receipts blowing towards the Cadillac."
       }
-    ]
+    ],
+    "pair_id": 123,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 125,
     "file_name": "Phrasal_verbs_125.mp3",
-    "phrasal_verb": "to plug in",
+    "phrasal_verb": "plug in",
     "base_verb": "plug",
     "particle": "in",
     "meaning_es": "enchufar, conectar un aparato eléctrico a la corriente",
@@ -7910,7 +8241,9 @@
         "es": "Podríamos enchufarlo en un alargador.",
         "en": "We could plug it into an extension cord."
       }
-    ]
+    ],
+    "pair_id": 126,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 126,
@@ -7976,7 +8309,9 @@
         "es": "Dos días después, se produjo un pequeño incendio porque Sarah había enchufado demasiadas cosas.",
         "en": "Two days later, a small fire broke out because Sarah had plugged in too many things."
       }
-    ]
+    ],
+    "pair_id": 125,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 127,
@@ -8046,14 +8381,16 @@
         "es": "No me estoy colando.",
         "en": "I'm not pushing in."
       }
-    ]
+    ],
+    "pair_id": 128,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 128,
     "file_name": "Phrasal_verbs_128.mp3",
-    "phrasal_verb": "Story: Push in",
-    "base_verb": null,
-    "particle": null,
+    "phrasal_verb": "push in",
+    "base_verb": "push",
+    "particle": "in",
     "meaning_es": "La historia ilustra el uso del phrasal verb 'push in', que significa 'colarse' o 'saltarse la fila/cola' de forma inapropiada.",
     "situation": "Vida Cotidiana",
     "tags_es": [
@@ -8102,7 +8439,10 @@
         "es": "Sarah dejó pasar al hombre delante de ella, pero en lo que a ella respectaba, él fue quien se había colado.",
         "en": "Sarah let the man in front of her, but as far as she was concerned, he was the one who had pushed in."
       }
-    ]
+    ],
+    "pair_id": 127,
+    "track_type_label": "📖 Historia en Contexto",
+    "story_title": "Story: Push in"
   },
   {
     "id": 129,
@@ -8173,7 +8513,9 @@
         "es": "¿De verdad interrumpiste al jefe cuando estaba hablando?",
         "en": "Did you really butt in while the boss was speaking?"
       }
-    ]
+    ],
+    "pair_id": 130,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 130,
@@ -8224,7 +8566,9 @@
         "es": "Después de todo, a nadie le gusta cuando alguien interrumpe sus conversaciones.",
         "en": "After all, nobody likes it when someone butts in on their conversations."
       }
-    ]
+    ],
+    "pair_id": 129,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 131,
@@ -8296,7 +8640,9 @@
         "es": "Él se chocó contra la puerta de cristal.",
         "en": "He bumped into the glass door."
       }
-    ]
+    ],
+    "pair_id": 132,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 132,
@@ -8349,7 +8695,9 @@
         "es": "Dado que el maestro de Sarah se había topado con ambos en el mismo vecindario, era posible que Sarah también se topara con su vieja amiga algún día.",
         "en": "Since Sarah's teacher had bumped into them both in the same neighborhood, it was possible that Sarah would bump into her old friend someday as well."
       }
-    ]
+    ],
+    "pair_id": 131,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 133,
@@ -8435,7 +8783,9 @@
         "es": "Voy a transformar la habitación libre en una oficina.",
         "en": "I'm going to turn the spare bedroom into an office."
       }
-    ]
+    ],
+    "pair_id": 134,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 134,
@@ -8480,7 +8830,9 @@
         "es": "A Sarah no le importaban todos los cambios, pero esperaba no convertirse en una yuppie exagerada.",
         "en": "Sarah didn't mind all the changes, but hoped she wouldn't turn into too much of a yuppie."
       }
-    ]
+    ],
+    "pair_id": 133,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 135,
@@ -8552,7 +8904,9 @@
         "es": "Están investigando un posible avistamiento de un OVNI.",
         "en": "They are looking into a possible UFO sighting."
       }
-    ]
+    ],
+    "pair_id": 136,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 136,
@@ -8607,7 +8961,9 @@
         "es": "La policía le dijo al alcalde que era hora de investigar la posibilidad de contratar a un abogado.",
         "en": "The police told the mayor it was time to look into the possibility of hiring a lawyer."
       }
-    ]
+    ],
+    "pair_id": 135,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 137,
@@ -8678,7 +9034,9 @@
         "es": "Múdate aquí conmigo. Podemos compartir el alquiler.",
         "en": "Move in here with me. We could split the rent."
       }
-    ]
+    ],
+    "pair_id": 138,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 138,
@@ -8729,7 +9087,9 @@
         "es": "Sin embargo, si vuelve a ver cualquier tipo de instrumento siendo trasladado, se mudará a un hostal.",
         "en": "However, if she sees any type of instrument being moved in again, she'll move into a hostel."
       }
-    ]
+    ],
+    "pair_id": 137,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 139,
@@ -8805,7 +9165,9 @@
         "es": "Trajeron un nuevo director general para afrontar la crisis.",
         "en": "A new MD was brought in to deal with the crisis."
       }
-    ]
+    ],
+    "pair_id": 140,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 140,
@@ -8853,7 +9215,9 @@
         "es": "Todos esperan que las reformas se implementen rápidamente y sin ningún problema.",
         "en": "Everyone expects the reforms to be brought in quickly and without any problems."
       }
-    ]
+    ],
+    "pair_id": 139,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 141,
@@ -8934,7 +9298,9 @@
         "es": "Rellena el impreso de descuento.",
         "en": "Fill out the rebate form."
       }
-    ]
+    ],
+    "pair_id": 142,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 142,
@@ -8980,7 +9346,9 @@
         "es": "Era la página más importante, y si no estaba rellenada, los formularios le serían devueltos y tendría que rellenar todo de nuevo.",
         "en": "It was the most important page, and if it wasn't filled in, the forms would be returned to her, and she would have to fill in everything again."
       }
-    ]
+    ],
+    "pair_id": 141,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 143,
@@ -9053,7 +9421,9 @@
         "es": "Regístranos en el hotel y yo iré a recoger el coche.",
         "en": "Check us in at the hotel and I'll go pick up the car."
       }
-    ]
+    ],
+    "pair_id": 144,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 144,
@@ -9100,7 +9470,9 @@
         "es": "Ahora siempre viaja ligera, así no pierde tiempo haciendo el check-in.",
         "en": "Now she always travels light, so she doesn't waste time checking in."
       }
-    ]
+    ],
+    "pair_id": 143,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 145,
@@ -9171,7 +9543,9 @@
         "es": "Siempre está repartiendo consejos a todo el mundo.",
         "en": "He's always handing out advice to everyone."
       }
-    ]
+    ],
+    "pair_id": 146,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 146,
@@ -9219,7 +9593,9 @@
         "es": "Si Sarah era inteligente, podía terminar de repartir los folletos de su empresa y conseguir suficientes obsequios para llenar su armario.",
         "en": "If Sarah was clever, she could finish handing out her company's brochures and get enough handouts to fill her wardrobe."
       }
-    ]
+    ],
+    "pair_id": 145,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 147,
@@ -9295,7 +9671,9 @@
         "es": "Creo que algunos elfos le ayudan a repartirlos.",
         "en": "I think some elves help him give them out."
       }
-    ]
+    ],
+    "pair_id": 148,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 148,
@@ -9353,7 +9731,9 @@
         "es": "Cuando el dueño del gimnasio se dio cuenta de que la gente estaba dando información falsa, canceló la promoción.",
         "en": "When the gym owner realized that people were giving out phony information, he cancelled the promotion."
       }
-    ]
+    ],
+    "pair_id": 147,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 149,
@@ -9424,7 +9804,9 @@
         "es": "Envié un memorándum esta mañana.",
         "en": "I sent a memo out this morning."
       }
-    ]
+    ],
+    "pair_id": 150,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 150,
@@ -9474,7 +9856,9 @@
         "es": "Quizás Sarah debería empezar a enviar algunos currículums.",
         "en": "Perhaps Sarah should start sending out a few CVs."
       }
-    ]
+    ],
+    "pair_id": 149,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 151,
@@ -9551,14 +9935,16 @@
         "es": "Puedes volver a salir. Se han ido.",
         "en": "You can come back out now. They've gone."
       }
-    ]
+    ],
+    "pair_id": 152,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 152,
     "file_name": "Phrasal_verbs_152.mp3",
-    "phrasal_verb": "Story: Go out / Come out (leaving a place)",
-    "base_verb": null,
-    "particle": null,
+    "phrasal_verb": "come out / go out",
+    "base_verb": "come / go",
+    "particle": "out",
     "meaning_es": "Salir (de un lugar, para un evento o para evitar algo)",
     "situation": "Vida Cotidiana",
     "tags_es": [
@@ -9597,7 +9983,10 @@
         "es": "Después de aproximadamente media hora, Miguel Bahía salió y firmó algunos autógrafos, pero las estrellas habían salido por la puerta trasera del cine para evitar a la multitud.",
         "en": "After about half an hour, Miguel Bahia came out and signed a few autographs, but the stars had gone out the back door of the cinema to avoid the crowds."
       }
-    ]
+    ],
+    "pair_id": 151,
+    "track_type_label": "📖 Historia en Contexto",
+    "story_title": "Story: Go out / Come out (leaving a place)"
   },
   {
     "id": 153,
@@ -9668,14 +10057,16 @@
         "es": "El ratón consiguió salir de la trampa.",
         "en": "The mouse managed to get out of the trap."
       }
-    ]
+    ],
+    "pair_id": 154,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 154,
     "file_name": "Phrasal_verbs_154.mp3",
     "phrasal_verb": "get out of, figure out",
-    "base_verb": null,
-    "particle": null,
+    "base_verb": "get",
+    "particle": "out",
     "meaning_es": "La historia ilustra 'get out of' (salir de, escapar de, librarse de una situación o lugar) y 'figure out' (resolver, descifrar, encontrar una solución a un problema).",
     "situation": "Aventuras y Desafíos",
     "tags_es": [
@@ -9722,12 +10113,14 @@
         "es": "Si es comido por un tiburón, tendrá que encontrar una manera de salir de su estómago.",
         "en": "If he is eaten by a shark, he will have to figure out a way to get out of its stomach."
       }
-    ]
+    ],
+    "pair_id": 153,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 155,
     "file_name": "Phrasal_verbs_155.mp3",
-    "phrasal_verb": "to run out / to rush out",
+    "phrasal_verb": "run out / to rush out",
     "base_verb": "run / rush",
     "particle": "out",
     "meaning_es": "Salir corriendo, salir deprisa, huir.",
@@ -9798,14 +10191,16 @@
         "es": "Salimos corriendo del aeropuerto y cogimos un taxi.",
         "en": "We rushed out of the airport and took a taxi."
       }
-    ]
+    ],
+    "pair_id": 156,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 156,
     "file_name": "Phrasal_verbs_156.mp3",
-    "phrasal_verb": "Story: A Thief at the Mall (run out of, knock out)",
-    "base_verb": null,
-    "particle": null,
+    "phrasal_verb": "run out / to rush out",
+    "base_verb": "run / rush",
+    "particle": "out",
     "meaning_es": "Una historia sobre Sarah de compras en el centro comercial. Un ladrón le roba el bolso y sale corriendo. Ella y un guardia de seguridad lo persiguen. El ladrón intenta escapar por una salida bloqueada y se golpea a sí mismo dejándose inconsciente.",
     "situation": "Vida Cotidiana",
     "tags_es": [
@@ -9856,7 +10251,10 @@
         "es": "La suerte estuvo de su lado, porque el ladrón intentó salir por una salida que estaba cerrada con llave y se golpeó hasta quedar inconsciente.",
         "en": "Luck was on her side, because the thief tried to run out of an exit that was locked and knocked himself out."
       }
-    ]
+    ],
+    "pair_id": 155,
+    "track_type_label": "📖 Historia en Contexto",
+    "story_title": "Story: A Thief at the Mall (run out of, knock out)"
   },
   {
     "id": 157,
@@ -9926,12 +10324,14 @@
         "es": "Él salió de la cárcel como un hombre libre.",
         "en": "He walked out of prison a free man."
       }
-    ]
+    ],
+    "pair_id": 158,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 158,
     "file_name": "Phrasal_verbs_158.mp3",
-    "phrasal_verb": "Story: The comedian walks out",
+    "phrasal_verb": "walk out",
     "base_verb": "walk",
     "particle": "out",
     "meaning_es": "Salir o abandonar un lugar, ya sea para aparecer en un escenario, irse por insatisfacción o protesta, o simplemente marcharse. También se ilustra 'go home' (ir a casa).",
@@ -9986,7 +10386,10 @@
         "es": "Sarah no quería irse del espectáculo porque no quería herir los sentimientos del comediante, pero al final, no tuvo que hacerlo porque el comediante se fue y regresó a casa.",
         "en": "Sarah didn't want to walk out of the show because she didn't want to hurt the comedian's feelings, but in the end, she didn't have to because the comedian walked out and went home."
       }
-    ]
+    ],
+    "pair_id": 157,
+    "track_type_label": "📖 Historia en Contexto",
+    "story_title": "Story: The comedian walks out"
   },
   {
     "id": 159,
@@ -10062,14 +10465,16 @@
         "es": "Se aseguraron de que el fuego no se apagase.",
         "en": "They made sure the fire didn't go out."
       }
-    ]
+    ],
+    "pair_id": 160,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 160,
     "file_name": "Phrasal_verbs_160.mp3",
-    "phrasal_verb": "Story: In the Dark",
-    "base_verb": null,
-    "particle": null,
+    "phrasal_verb": "go out",
+    "base_verb": "go",
+    "particle": "out",
     "meaning_es": "Una historia sobre Sarah en la oscuridad, donde se utilizan varios phrasal verbs en contexto como 'go out' (apagarse), 'look out' (mirar por), 'go down' (bajar), 'carry on' (continuar) y 'find out' (averiguar).",
     "situation": "Vida Cotidiana",
     "tags_es": [
@@ -10133,7 +10538,10 @@
         "es": "Los fósforos también se seguían apagando, y Sarah esperaba tener suficientes para llegar al sótano y averiguar por qué las luces se habían apagado.",
         "en": "The matches kept going out too, and Sarah hoped she had enough to get to the basement and find out why the lights had gone out."
       }
-    ]
+    ],
+    "pair_id": 159,
+    "track_type_label": "📖 Historia en Contexto",
+    "story_title": "Story: In the Dark"
   },
   {
     "id": 161,
@@ -10205,7 +10613,9 @@
         "es": "Apaga las velas y pide un deseo.",
         "en": "Blow the candles out and make a wish."
       }
-    ]
+    ],
+    "pair_id": 162,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 162,
@@ -10268,12 +10678,14 @@
         "es": "Más tarde se descubrió que el fuego había comenzado porque alguien no había apagado su cigarro correctamente.",
         "en": "Later it was discovered that the fire had started because someone hadn't put their cigar out properly."
       }
-    ]
+    ],
+    "pair_id": 161,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 163,
     "file_name": "Phrasal_verbs_163.mp3",
-    "phrasal_verb": "to bring out",
+    "phrasal_verb": "bring out",
     "base_verb": "bring",
     "particle": "out",
     "meaning_es": "Lanzar, sacar, publicar (un producto, libro, álbum, etc., al mercado).",
@@ -10342,7 +10754,9 @@
         "es": "Sacaron su nuevo disco y se fueron de gira.",
         "en": "They brought out their new disc and went on tour."
       }
-    ]
+    ],
+    "pair_id": 164,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 164,
@@ -10396,7 +10810,9 @@
         "es": "Sarah estaba feliz de que J.O. King finalmente estuviera lanzando la última entrega, pero al mismo tiempo, estaba triste de que no fuera a sacar más libros.",
         "en": "Sarah was happy that J.O. King was finally bringing out the final installment, but at the same time, she was sad that she wouldn't be bringing out any more books."
       }
-    ]
+    ],
+    "pair_id": 163,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 165,
@@ -10469,7 +10885,9 @@
         "es": "Los libros de tapa dura siempre salen primero.",
         "en": "Hardback books always come out first."
       }
-    ]
+    ],
+    "pair_id": 166,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 166,
@@ -10522,12 +10940,14 @@
         "es": "Ahora que la tercera y última parte está a punto de salir, Sara ha notado que muchas compañías están lanzando productos promocionales basados en la trilogía.",
         "en": "Now that the third and final part is about to come out, Sara has noticed a lot of companies coming out with promotional products based on the trilogy."
       }
-    ]
+    ],
+    "pair_id": 165,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 167,
     "file_name": "Phrasal_verbs_167.mp3",
-    "phrasal_verb": "to back out",
+    "phrasal_verb": "back out",
     "base_verb": "back",
     "particle": "out",
     "meaning_es": "retirarse de un compromiso, acuerdo o situación",
@@ -10601,7 +11021,9 @@
         "es": "Le sobornaron para que no se echara atrás.",
         "en": "They bribed him so he wouldn't back out."
       }
-    ]
+    ],
+    "pair_id": 168,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 168,
@@ -10654,7 +11076,9 @@
         "es": "Les dijo que si se echaban atrás ahora, se arrepentirían más tarde.",
         "en": "She told them that if they backed out now, they would regret it later."
       }
-    ]
+    ],
+    "pair_id": 167,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 169,
@@ -10736,7 +11160,9 @@
         "es": "¿Les ha dicho él a sus padres que ha dejado los estudios?",
         "en": "Has he told his parents he dropped out?"
       }
-    ]
+    ],
+    "pair_id": 170,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 170,
@@ -10793,7 +11219,9 @@
         "es": "Al contrario, ella iba a votar por él porque abandonar la escuela para ayudar a tu familia mostraba lealtad y una buena ética de trabajo.",
         "en": "On the contrary, she was going to vote for him because dropping out of school to help your family showed loyalty and a good work ethic."
       }
-    ]
+    ],
+    "pair_id": 169,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 171,
@@ -10869,7 +11297,9 @@
         "es": "Todos los inversores se han retirado.",
         "en": "All the investors have pulled out."
       }
-    ]
+    ],
+    "pair_id": 172,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 172,
@@ -10918,7 +11348,9 @@
         "es": "Por supuesto, el principal candidato de la oposición había estado a favor de retirar las tropas desde que comenzó la guerra.",
         "en": "Of course, the main opposition candidate had been in favor of pulling troops out since the war began."
       }
-    ]
+    ],
+    "pair_id": 171,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 173,
@@ -10988,7 +11420,9 @@
         "es": "Si ese es tu plan, no cuentes conmigo.",
         "en": "If that's your plan, you can count me out."
       }
-    ]
+    ],
+    "pair_id": 174,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 174,
@@ -11053,7 +11487,9 @@
         "es": "Para su sorpresa, él dijo: 'Cuenta conmigo'.",
         "en": "To her surprise, he said, 'Count me in.'"
       }
-    ]
+    ],
+    "pair_id": 173,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 175,
@@ -11131,7 +11567,9 @@
         "es": "No la excluyas tan rápido. Ella es lista.",
         "en": "Don't be so quick to rule her out. She's clever."
       }
-    ]
+    ],
+    "pair_id": 176,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 176,
@@ -11182,7 +11620,9 @@
         "es": "De hecho, Sarah descartó tantos lugares que al final, el único lugar que no había descartado era Escocia, así que allí fue.",
         "en": "In fact, Sarah ruled out so many places that in the end, the only place she hadn't ruled out was Scotland, so that's where she went."
       }
-    ]
+    ],
+    "pair_id": 175,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 177,
@@ -11252,7 +11692,9 @@
         "es": "¿Por qué no lo han echado todavía?",
         "en": "Why hasn't she been kicked out yet?"
       }
-    ]
+    ],
+    "pair_id": 178,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 178,
@@ -11309,7 +11751,9 @@
         "es": "Matt ha sido expulsado de tantas escuelas que sus padres están pensando en echarlo de la casa.",
         "en": "Matt has been kicked out of so many schools that his parents are thinking about kicking him out of the house."
       }
-    ]
+    ],
+    "pair_id": 177,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 179,
@@ -11384,7 +11828,9 @@
         "es": "El flautista de Hamelin echó a las ratas.",
         "en": "The Pied Piper of Hamelin drove the rats out."
       }
-    ]
+    ],
+    "pair_id": 180,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 180,
@@ -11457,7 +11903,9 @@
         "es": "La fábrica de cemento no expulsaría a Sarah de su casa, porque acababa de ser nombrada Gerente de Recursos Humanos de la fábrica de cemento.",
         "en": "The cement factory wouldn't drive Sarah out of her house because she had just been named Human Resources Manager of the cement factory."
       }
-    ]
+    ],
+    "pair_id": 179,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 181,
@@ -11529,7 +11977,9 @@
         "es": "Les llevó toda la noche eliminarlos.",
         "en": "It took them all night to iron them out."
       }
-    ]
+    ],
+    "pair_id": 182,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 182,
@@ -11583,7 +12033,9 @@
         "es": "Ambos tuvieron que contratar abogados para redactar los papeles y solucionar algunas disputas sobre pertenencias, como la plancha y la tabla de planchar.",
         "en": "Both of them had to get lawyers in order to drop up the papers and iron out a few disputes over belongings, such as the iron and the ironing board."
       }
-    ]
+    ],
+    "pair_id": 181,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 183,
@@ -11657,14 +12109,16 @@
         "es": "Él puso en orden sus finanzas antes de morir.",
         "en": "He sorted his finances out before he died."
       }
-    ]
+    ],
+    "pair_id": 184,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 184,
     "file_name": "Phrasal_verbs_184.mp3",
-    "phrasal_verb": "Story: A vicious circle (sort out)",
-    "base_verb": null,
-    "particle": null,
+    "phrasal_verb": "sort out",
+    "base_verb": "sort",
+    "particle": "out",
     "meaning_es": "Una historia que ilustra el uso repetido del phrasal verb 'sort out' (resolver, solucionar) en un contexto de un problema recurrente y frustrante.",
     "situation": "Vida Cotidiana",
     "tags_es": [
@@ -11722,7 +12176,10 @@
         "es": "Desafortunadamente, el ayuntamiento no pudo solucionar el problema de los nuevos cables de energía porque había demasiado tráfico para comenzar cualquier obra vial.",
         "en": "Unfortunately, the council couldn't sort out the issue of the new power cables because there was too much traffic to start any roadworks."
       }
-    ]
+    ],
+    "pair_id": 183,
+    "track_type_label": "📖 Historia en Contexto",
+    "story_title": "Story: A vicious circle (sort out)"
   },
   {
     "id": 185,
@@ -11794,14 +12251,16 @@
         "es": "Llevo muchísimo tiempo intentando averiguarlo.",
         "en": "I've been trying to figure it out for ages."
       }
-    ]
+    ],
+    "pair_id": 186,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 186,
     "file_name": "Phrasal_verbs_186.mp3",
-    "phrasal_verb": "Story: Rubik's Cube",
-    "base_verb": null,
-    "particle": null,
+    "phrasal_verb": "figure out",
+    "base_verb": "figure",
+    "particle": "out",
     "meaning_es": "Una historia sobre Sarah intentando resolver un Cubo de Rubik viejo que encontró, usando y explicando varios 'phrasal verbs' como 'looking through', 'figured out' y 'gave up' en contexto.",
     "situation": "Vida Cotidiana",
     "tags_es": [
@@ -11839,12 +12298,15 @@
         "es": "Sarah pasó casi una hora en su ático intentando resolverlo, pero finalmente, se dio por vencida.",
         "en": "Sarah spent almost an hour in her attic trying to figure it out, but eventually, gave up."
       }
-    ]
+    ],
+    "pair_id": 185,
+    "track_type_label": "📖 Historia en Contexto",
+    "story_title": "Story: Rubik's Cube"
   },
   {
     "id": 187,
     "file_name": "Phrasal_verbs_187.mp3",
-    "phrasal_verb": "to pull out",
+    "phrasal_verb": "pull out",
     "base_verb": "pull",
     "particle": "out",
     "meaning_es": "Sacar, retirar",
@@ -11910,7 +12372,9 @@
         "es": "¿Le viste sacar un conejo del sombrero?",
         "en": "Did you see him pull a rabbit out of the hat?"
       }
-    ]
+    ],
+    "pair_id": 188,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 188,
@@ -11993,7 +12457,9 @@
         "es": "Así que sacó su teléfono y pidió un taxi.",
         "en": "So she pulled out her phone and called a taxi."
       }
-    ]
+    ],
+    "pair_id": 187,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 189,
@@ -12066,14 +12532,16 @@
         "es": "Él sacó su tarjeta de visita y la puso sobre la mesa.",
         "en": "He took out his business card and put it on the table."
       }
-    ]
+    ],
+    "pair_id": 190,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 190,
     "file_name": "Phrasal_verbs_190.mp3",
-    "phrasal_verb": "Story: The Dentist (Multiple Phrasal Verbs)",
-    "base_verb": null,
-    "particle": null,
+    "phrasal_verb": "take out",
+    "base_verb": "take",
+    "particle": "out",
     "meaning_es": "Una historia sobre Sarah yendo al dentista, que ilustra varios phrasal verbs en contexto, como 'put off' (posponer), 'take out' (sacar), 'put in' (poner), 'turn out' (resultar) y 'hand out' (repartir).",
     "situation": "Vida Cotidiana",
     "tags_es": [
@@ -12126,7 +12594,10 @@
         "es": "Después de todo, si no hubiera comido tantos dulces, no habría tenido que sacarse el diente en primer lugar.",
         "en": "After all, if she hadn't eaten so many sweets, she wouldn't have had to have her tooth taken out in the first place."
       }
-    ]
+    ],
+    "pair_id": 189,
+    "track_type_label": "📖 Historia en Contexto",
+    "story_title": "Story: The Dentist (Multiple Phrasal Verbs)"
   },
   {
     "id": 191,
@@ -12200,12 +12671,14 @@
         "es": "El bombero la sacó del edificio justo a tiempo.",
         "en": "The fireman got her out of the building just in time."
       }
-    ]
+    ],
+    "pair_id": 192,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 192,
     "file_name": "Phrasal_verbs_192.mp3",
-    "phrasal_verb": "Story: The red wine stain",
+    "phrasal_verb": "get out",
     "base_verb": "get",
     "particle": "out",
     "meaning_es": "remover, quitar (una mancha, algo de un lugar)",
@@ -12258,7 +12731,10 @@
         "es": "El limpiador de alfombras la quitó usando Mr. Red Wine, y le cobró a Sarah 100 dólares por el trabajo.",
         "en": "The carpet cleaner got it out by using Mr. Red Wine, and charged Sarah $100 for the job."
       }
-    ]
+    ],
+    "pair_id": 191,
+    "track_type_label": "📖 Historia en Contexto",
+    "story_title": "Story: The red wine stain"
   },
   {
     "id": 193,
@@ -12333,7 +12809,9 @@
         "es": "¿Alguien se ha informado de dónde es la fiesta?",
         "en": "Has anyone found out where the party is?"
       }
-    ]
+    ],
+    "pair_id": 194,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 194,
@@ -12385,7 +12863,9 @@
         "es": "Para averiguar más, le pidió a una de sus mejores amigas que descubriera qué se estaba planeando.",
         "en": "In order to find out more, she asked one of her best friends to find out what was being planned."
       }
-    ]
+    ],
+    "pair_id": 193,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 195,
@@ -12463,7 +12943,9 @@
         "es": "A él se le han acabado las oportunidades.",
         "en": "He has run out of chances."
       }
-    ]
+    ],
+    "pair_id": 196,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 196,
@@ -12555,7 +13037,9 @@
         "es": "gritó. Sarah finalmente se había quedado sin paciencia.",
         "en": "she shouted. Sarah had finally run out of patience."
       }
-    ]
+    ],
+    "pair_id": 195,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 197,
@@ -12631,7 +13115,9 @@
         "es": "Al final, resultó que todo el mundo lo pasó muy bien.",
         "en": "As it turned out, everyone had a great time."
       }
-    ]
+    ],
+    "pair_id": 198,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 198,
@@ -12675,12 +13161,14 @@
         "es": "Resultó que el pronóstico del tiempo del jueves pasado resultó ser correcto, pero el paraguas de Sarah resultó ser útil cuando una bandada de gansos migratorios voló por encima.",
         "en": "As it turned out, last Thursday's weather forecast turned out to be right, but Sarah's umbrella turned out to be useful when a flock of migrating geese flew overhead."
       }
-    ]
+    ],
+    "pair_id": 197,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 199,
     "file_name": "Phrasal_verbs_199.mp3",
-    "phrasal_verb": "to leave out",
+    "phrasal_verb": "leave out",
     "base_verb": "leave",
     "particle": "out",
     "meaning_es": "Omitir, excluir, no incluir, no mencionar.",
@@ -12746,7 +13234,9 @@
         "es": "Déjalo fuera de esto.",
         "en": "Leave him out of this."
       }
-    ]
+    ],
+    "pair_id": 200,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 200,
@@ -12799,7 +13289,9 @@
         "es": "Sarah entendía que algunas cosas tenían que ser omitidas por razones de tiempo, pero no podía entender cómo el director pudo haber omitido el capítulo final del libro.",
         "en": "Sarah understood that some things had to be left out for time reasons, but she couldn't understand how the director could have left out the final chapter of the book."
       }
-    ]
+    ],
+    "pair_id": 199,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 201,
@@ -12878,7 +13370,9 @@
         "es": "Cuanto más barato es, más rápido se agota.",
         "en": "The cheaper it is, the faster it wears out."
       }
-    ]
+    ],
+    "pair_id": 202,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 202,
@@ -12933,7 +13427,9 @@
         "es": "Le gustaría ir a casa después del trabajo, pero los frenos de su coche se han desgastado de tanto conducir por la ciudad, y tiene que ir al taller para que los reemplacen.",
         "en": "She'd like to go home after work, but the brakes on her car have worn out from driving in the city so much, and she has to go to the garage to have them replaced."
       }
-    ]
+    ],
+    "pair_id": 201,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 203,
@@ -13010,7 +13506,9 @@
         "es": "Prométeme que nunca nos pelearemos.",
         "en": "Promise me we'll never fall out."
       }
-    ]
+    ],
+    "pair_id": 204,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 204,
@@ -13061,13 +13559,15 @@
         "es": "Sarah lamentó haberse peleado con su mejor amiga, especialmente por un chico con quien ella misma se peleó más tarde.",
         "en": "Sarah regretted having fallen out with her best friend, especially over a boy whom she later fell out with."
       }
-    ]
+    ],
+    "pair_id": 203,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 205,
     "file_name": "Phrasal_verbs_205.mp3",
     "phrasal_verb": "turn on / switch on",
-    "base_verb": null,
+    "base_verb": "turn",
     "particle": "on",
     "meaning_es": "Encender, activar (aparatos, luces, gas, agua)",
     "situation": "Vida Cotidiana",
@@ -13137,14 +13637,16 @@
         "es": "Ella encendió su móvil después de la película.",
         "en": "She turned her phone on after the movie."
       }
-    ]
+    ],
+    "pair_id": 206,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 206,
     "file_name": "Phrasal_verbs_206.mp3",
-    "phrasal_verb": "Story: The Greens and their electricity consumption",
-    "base_verb": null,
-    "particle": null,
+    "phrasal_verb": "turn on / switch on",
+    "base_verb": "turn",
+    "particle": "on",
     "meaning_es": "Una historia irónica sobre la familia 'Green' que consume mucha electricidad, ilustrando el uso de 'turn on' y 'switch on' para encender aparatos.",
     "situation": "Vida Cotidiana",
     "tags_es": [
@@ -13207,7 +13709,10 @@
         "es": "Con las luces encendidas.",
         "en": "With the lights on."
       }
-    ]
+    ],
+    "pair_id": 205,
+    "track_type_label": "📖 Historia en Contexto",
+    "story_title": "Story: The Greens and their electricity consumption"
   },
   {
     "id": 207,
@@ -13279,7 +13784,9 @@
         "es": "Él dejó la plancha encendida y casi causó un incendio.",
         "en": "He left the iron on and almost started a fire."
       }
-    ]
+    ],
+    "pair_id": 208,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 208,
@@ -13348,7 +13855,9 @@
         "es": "Por supuesto, pueden dejar la alarma encendida cuando salgan de casa, pero nada más.",
         "en": "Of course, they can leave the alarm on when they leave the house, but nothing else."
       }
-    ]
+    ],
+    "pair_id": 207,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 209,
@@ -13423,12 +13932,14 @@
         "es": "Siempre ponen una película después de cenar.",
         "en": "They always put on a movie after dinner."
       }
-    ]
+    ],
+    "pair_id": 210,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 210,
     "file_name": "Phrasal_verbs_210.mp3",
-    "phrasal_verb": "Story: Put on",
+    "phrasal_verb": "put on",
     "base_verb": "put",
     "particle": "on",
     "meaning_es": "El phrasal verb 'put on' en este contexto significa 'poner', 'encender' o 'reproducir' (música, una película, la calefacción).",
@@ -13493,7 +14004,10 @@
         "es": "A lo que Harry respondió: '¿Por qué siempre pones películas tan malas?'",
         "en": "To which Harry replied, 'Why do you always put such bad movies on?'"
       }
-    ]
+    ],
+    "pair_id": 209,
+    "track_type_label": "📖 Historia en Contexto",
+    "story_title": "Story: Put on"
   },
   {
     "id": 211,
@@ -13565,7 +14079,9 @@
         "es": "Él se subió al tren sin su maletín.",
         "en": "He got on the train without his briefcase."
       }
-    ]
+    ],
+    "pair_id": 212,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 212,
@@ -13637,12 +14153,14 @@
         "es": "Varios equilibristas ayudaron a Charlie a subirse a los hombros del trapecista, y luego ellos también se subieron.",
         "en": "Several tightrope walkers helped Charlie get on the trapeze artist's shoulders, and then they got on as well."
       }
-    ]
+    ],
+    "pair_id": 211,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 213,
     "file_name": "Phrasal_verbs_213.mp3",
-    "phrasal_verb": "to jump on / to hop on",
+    "phrasal_verb": "jump on / to hop on",
     "base_verb": "jump / hop",
     "particle": "on",
     "meaning_es": "subir a (con un movimiento rápido o ligero), montarse en",
@@ -13714,14 +14232,16 @@
         "es": "El niño se subió a la espalda de su padre.",
         "en": "The boy jumped on his father's back."
       }
-    ]
+    ],
+    "pair_id": 214,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 214,
     "file_name": "Phrasal_verbs_214.mp3",
-    "phrasal_verb": "Story: The Cat and the Dog",
-    "base_verb": null,
-    "particle": null,
+    "phrasal_verb": "jump on / to hop on",
+    "base_verb": "jump / hop",
+    "particle": "on",
     "meaning_es": "Una historia sobre un gato perezoso y un perro juguetón, que utiliza phrasal verbs de movimiento como 'jump on' y la expresión 'fed up with' en el contexto de la vida cotidiana.",
     "situation": "Vida Cotidiana",
     "tags_es": [
@@ -13788,7 +14308,10 @@
         "es": "Así que saltó a un taburete y luego saltó a la encimera de la cocina.",
         "en": "So he jumped on a stool and then jumped on the kitchen counter."
       }
-    ]
+    ],
+    "pair_id": 213,
+    "track_type_label": "📖 Historia en Contexto",
+    "story_title": "Story: The Cat and the Dog"
   },
   {
     "id": 215,
@@ -13859,14 +14382,16 @@
         "es": "Los trabajadores subieron a los autobuses para volver a casa.",
         "en": "The workers climbed on the buses to go home."
       }
-    ]
+    ],
+    "pair_id": 216,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 216,
     "file_name": "Phrasal_verbs_216.mp3",
-    "phrasal_verb": "Story: Where did we park? (climb on, get off, walk around)",
-    "base_verb": null,
-    "particle": null,
+    "phrasal_verb": "climb on / climb onto",
+    "base_verb": "climb",
+    "particle": "on",
     "meaning_es": "Una historia sobre varias personas intentando encontrar su coche perdido, subiéndose a diferentes objetos y un coche para buscarlo, y luego bajándose de uno.",
     "situation": "Vida Cotidiana",
     "tags_es": [
@@ -13936,14 +14461,17 @@
         "es": "Se estaba haciendo tarde, y Harry estaba a punto de subirse al tejado del supermercado cuando Cindy gritó que había encontrado el coche.",
         "en": "It was getting late, and Harry was about to climb on the roof of the supermarket when Cindy shouted that she had found the car."
       }
-    ]
+    ],
+    "pair_id": 215,
+    "track_type_label": "📖 Historia en Contexto",
+    "story_title": "Story: Where did we park? (climb on, get off, walk around)"
   },
   {
     "id": 217,
     "file_name": "Phrasal_verbs_217.mp3",
     "phrasal_verb": "hang on / hold on",
-    "base_verb": null,
-    "particle": null,
+    "base_verb": "hang",
+    "particle": "on",
     "meaning_es": "Esperar; aguantar; sujetar.",
     "situation": "Vida Cotidiana",
     "tags_es": [
@@ -14007,7 +14535,9 @@
         "es": "No sé si puedo aguantar hasta entonces.",
         "en": "I don't know if I can hang on until then."
       }
-    ]
+    ],
+    "pair_id": 218,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 218,
@@ -14094,7 +14624,9 @@
         "es": "'Espera, mamá, estoy haciendo mi tarea'.",
         "en": "'Hang on, Mum, I'm doing my homework.'"
       }
-    ]
+    ],
+    "pair_id": 217,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 219,
@@ -14166,7 +14698,9 @@
         "es": "Se quedarán el tiempo necesario para hacer el trabajo.",
         "en": "They'll stay on for as long as it takes to do the job."
       }
-    ]
+    ],
+    "pair_id": 220,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 220,
@@ -14227,7 +14761,9 @@
         "es": "Cuando fueron al director para decirle por qué no querían que ella se quedara, él les dijo que la razón por la que le había pedido que se quedara en primer lugar, era porque era joven, estricta y sus clases eran diferentes.",
         "en": "When they went to the principal to tell him why they didn't want her to stay on, he told them that the reason he had asked her to stay on in the first place, was because she was young, strict, and her classes were different."
       }
-    ]
+    ],
+    "pair_id": 219,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 221,
@@ -14300,7 +14836,9 @@
         "es": "La mayoría de los estados en Estados Unidos agregan IVA.",
         "en": "Most states in the USA add on a sales tax."
       }
-    ]
+    ],
+    "pair_id": 222,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 222,
@@ -14368,7 +14906,9 @@
         "es": "Cuando la ampliación estuvo terminada, los vecinos de los Green quedaron tan impresionados que muchos de ellos decidieron añadir nuevas habitaciones también.",
         "en": "When the add-on was finished, the Greens neighbors were so impressed that many of them decided to add on new rooms too."
       }
-    ]
+    ],
+    "pair_id": 221,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 223,
@@ -14443,14 +14983,16 @@
         "es": "El camarero puso demasiado parmesano a mi pasta.",
         "en": "The waiter put too much Parmesan on my pasta."
       }
-    ]
+    ],
+    "pair_id": 224,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 224,
     "file_name": "Phrasal_verbs_224.mp3",
-    "phrasal_verb": "Story: The Shopping List",
-    "base_verb": null,
-    "particle": null,
+    "phrasal_verb": "put on",
+    "base_verb": "put",
+    "particle": "on",
     "meaning_es": "La historia trata sobre Cindy volviendo del supermercado y su familia preguntándole por artículos específicos (brownies, cola, pilas) que no estaban en la lista de compras, por lo que los añaden para la semana siguiente.",
     "situation": "Vida Cotidiana",
     "tags_es": [
@@ -14533,12 +15075,15 @@
         "es": "Así que ella le dijo que las pusiera en la lista también para la próxima semana.",
         "en": "So she told him to put them on the list for next week too."
       }
-    ]
+    ],
+    "pair_id": 223,
+    "track_type_label": "📖 Historia en Contexto",
+    "story_title": "Story: The Shopping List"
   },
   {
     "id": 225,
     "file_name": "Phrasal_verbs_225.mp3",
-    "phrasal_verb": "to stick on",
+    "phrasal_verb": "stick on",
     "base_verb": "stick",
     "particle": "on",
     "meaning_es": "Adherir algo a una superficie utilizando pegamento, cinta adhesiva, o cualquier otro método para fijarlo.",
@@ -14605,7 +15150,9 @@
         "es": "No deberías pegar una tirita en esa herida?",
         "en": "Shouldn't you stick a bandage on that cut?"
       }
-    ]
+    ],
+    "pair_id": 226,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 226,
@@ -14656,7 +15203,9 @@
         "es": "Charlie Green es el miembro más olvidadizo de la familia, así que pega sus notas en la televisión e incluso las pega en su frente.",
         "en": "Charlie Green is the most forgetful member of the family, so he sticks his notes on the TV and even sticks them on his forehead."
       }
-    ]
+    ],
+    "pair_id": 225,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 227,
@@ -14727,7 +15276,9 @@
         "es": "Sigue con lo que estabas haciendo.",
         "en": "Carry on with what you were doing."
       }
-    ]
+    ],
+    "pair_id": 228,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 228,
@@ -14777,7 +15328,9 @@
         "es": "Ella no tenía ninguna prisa por seguir lavando la ropa o por seguir limpiando la casa.",
         "en": "She was in no hurry to carry on washing clothes or to carry on cleaning the house."
       }
-    ]
+    ],
+    "pair_id": 227,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 229,
@@ -14847,7 +15400,9 @@
         "es": "¿Por qué sigues comprándole regalos?",
         "en": "Why do you keep on buying her presents?"
       }
-    ]
+    ],
+    "pair_id": 230,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 230,
@@ -14899,7 +15454,9 @@
         "es": "Charlie sigue diciéndoles a sus padres que sigue quedándose dormido en clase porque sus profesores siguen dándole demasiada tarea, por eso sigue acostándose tan tarde.",
         "en": "Charlie keeps on telling his parents that he keeps on falling asleep in class because his teachers keep on giving him too much homework, which is why he keeps on going to bed so late."
       }
-    ]
+    ],
+    "pair_id": 229,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 231,
@@ -14972,7 +15529,9 @@
         "es": "Ya es hora de continuar con tu vida.",
         "en": "It's time to go on with your life."
       }
-    ]
+    ],
+    "pair_id": 232,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 232,
@@ -15039,7 +15598,9 @@
         "es": "A las 2 a.m., los Green no pudieron seguir más y les dijeron a todos que continuaran la fiesta en otro lugar.",
         "en": "At 2 a.m., the Greens couldn't go on anymore and told everyone to go on with the party elsewhere."
       }
-    ]
+    ],
+    "pair_id": 231,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 233,
@@ -15111,7 +15672,9 @@
         "es": "Él entró en internet con su móvil.",
         "en": "He logged on to the internet with his phone."
       }
-    ]
+    ],
+    "pair_id": 234,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 234,
@@ -15177,7 +15740,9 @@
         "es": "Y Charlie fue a casa de su amigo para iniciar sesión desde allí.",
         "en": "And Charlie went to his friend's house to log on from there."
       }
-    ]
+    ],
+    "pair_id": 233,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 235,
@@ -15249,7 +15814,9 @@
         "es": "Quiero un trabajo donde no tenga que fichar.",
         "en": "I want a job where I don't have to clock on."
       }
-    ]
+    ],
+    "pair_id": 236,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 236,
@@ -15305,12 +15872,14 @@
         "es": "Harry no quería despedir a nadie, pero no podía permitir que sus empleados siguieran fichando y perdiendo el tiempo.",
         "en": "Harry didn't want to fire anyone, but he couldn't let his employees go on clocking on and wasting time."
       }
-    ]
+    ],
+    "pair_id": 235,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 237,
     "file_name": "Phrasal_verbs_237.mp3",
-    "phrasal_verb": "to put on",
+    "phrasal_verb": "put on",
     "base_verb": "put",
     "particle": "on",
     "meaning_es": "Ponerse (ropa, accesorios, etc.)",
@@ -15375,7 +15944,9 @@
         "es": "Ponte un gorro para que nadie te reconozca.",
         "en": "Put on a hat, so no one recognizes you."
       }
-    ]
+    ],
+    "pair_id": 238,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 238,
@@ -15451,12 +16022,14 @@
         "es": "¡Y dijeran 'whisky'!",
         "en": "And say cheese!"
       }
-    ]
+    ],
+    "pair_id": 237,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 239,
     "file_name": "Phrasal_verbs_239.mp3",
-    "phrasal_verb": "to try on",
+    "phrasal_verb": "try on",
     "base_verb": "try",
     "particle": "on",
     "meaning_es": "Probarse (ropa, accesorios, etc.)",
@@ -15522,7 +16095,9 @@
         "es": "Ella compró el primer vestido de novia que se probó.",
         "en": "She bought the first wedding dress she tried on."
       }
-    ]
+    ],
+    "pair_id": 240,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 240,
@@ -15594,12 +16169,14 @@
         "es": "Cuando llegó el momento de probarse los zapatos, Harry estaba tan agotado de probarse tanta ropa que compró un par sin probárselos.",
         "en": "When it was time to try on shoes, Harry was so exhausted from trying on so many clothes that he bought a pair without trying them on."
       }
-    ]
+    ],
+    "pair_id": 239,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 241,
     "file_name": "Phrasal_verbs_241.mp3",
-    "phrasal_verb": "to have on",
+    "phrasal_verb": "have on",
     "base_verb": "have",
     "particle": "on",
     "meaning_es": "Llevar puesto (ropa, accesorios) o que algo esté colocado en su lugar.",
@@ -15666,7 +16243,9 @@
         "es": "¡Qué suerte que él llevaba puestas sus botas de goma!",
         "en": "It was lucky he had his Wellingtons on."
       }
-    ]
+    ],
+    "pair_id": 242,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 242,
@@ -15754,7 +16333,9 @@
         "es": "Así que se fueron sin identificar a nadie.",
         "en": "So they left without identifying anyone."
       }
-    ]
+    ],
+    "pair_id": 241,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 243,
@@ -15825,7 +16406,9 @@
         "es": "Qué pasó con el contrato que acordamos?",
         "en": "What happened to the contract we agreed on?"
       }
-    ]
+    ],
+    "pair_id": 244,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 244,
@@ -15882,7 +16465,9 @@
         "es": "Y cuando quisieron adoptar un perro, se pusieron de acuerdo sobre el nombre, pero no pudieron ponerse de acuerdo sobre la raza.",
         "en": "And when they wanted to get a dog, they agreed on the name, but couldn't agree on a breed."
       }
-    ]
+    ],
+    "pair_id": 243,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 245,
@@ -15953,7 +16538,9 @@
         "es": "Algunos productos ganan popularidad y otros no.",
         "en": "Some products catch on, and others don't."
       }
-    ]
+    ],
+    "pair_id": 246,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 246,
@@ -16014,7 +16601,9 @@
         "es": "Y cualquier ropa que Holly compre, se hace popular de inmediato entre sus amigas.",
         "en": "And whatever clothes Holly buys, catch on right away among her friends."
       }
-    ]
+    ],
+    "pair_id": 245,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 247,
@@ -16084,7 +16673,9 @@
         "es": "Hagamos un esfuerzo por llevarnos bien con el nuevo.",
         "en": "Let's make an effort to get along with the new guy."
       }
-    ]
+    ],
+    "pair_id": 248,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 248,
@@ -16154,7 +16745,9 @@
         "es": "Serían como una gran familia feliz.",
         "en": "They'd be like one big happy family."
       }
-    ]
+    ],
+    "pair_id": 247,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 249,
@@ -16227,7 +16820,9 @@
         "es": "Por favor, no desveles mi error.",
         "en": "Please, don't let on about my mistake."
       }
-    ]
+    ],
+    "pair_id": 250,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 250,
@@ -16293,7 +16888,9 @@
         "es": "Como Holly no sabía lo que Charlie iba a recibir por Navidad, obviamente, no podía revelar lo que era.",
         "en": "As Holly didn't know what Charlie was getting for Christmas, obviously, she couldn't let on what it was."
       }
-    ]
+    ],
+    "pair_id": 249,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 251,
@@ -16365,7 +16962,9 @@
         "es": "Intentan hacerse cargo de proyectos ambiciosos.",
         "en": "They try to take on ambitious projects."
       }
-    ]
+    ],
+    "pair_id": 252,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 252,
@@ -16429,7 +17028,9 @@
         "es": "Así que asumió la tarea de encontrar un nuevo socio para que se encargara de parte de su carga de trabajo.",
         "en": "So he took on the task of finding a new partner in order to take on some of his workload."
       }
-    ]
+    ],
+    "pair_id": 251,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 253,
@@ -16502,14 +17103,16 @@
         "es": "Suena cuando detecta humo.",
         "en": "It goes off when it detects smoke."
       }
-    ]
+    ],
+    "pair_id": 254,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 254,
     "file_name": "Phrasal_verbs_254.mp3",
-    "phrasal_verb": "Story: Early Birds and Alarm Clocks (wake up, go off, turn off)",
-    "base_verb": null,
-    "particle": null,
+    "phrasal_verb": "go off",
+    "base_verb": "go",
+    "particle": "off",
     "meaning_es": "Una historia sobre varias personas y cómo se despiertan por la mañana, destacando el uso de los phrasal verbs 'wake up', 'go off' y 'turn off' en el contexto de despertadores y rutinas matutinas.",
     "situation": "Vida Cotidiana",
     "tags_es": [
@@ -16572,7 +17175,10 @@
         "es": "Por suerte para él, Cindy oye su despertador sonar y lo despierta de nuevo.",
         "en": "Luckily for him, Cindy hears his alarm clock going off and wakes him up again."
       }
-    ]
+    ],
+    "pair_id": 253,
+    "track_type_label": "📖 Historia en Contexto",
+    "story_title": "Story: Early Birds and Alarm Clocks (wake up, go off, turn off)"
   },
   {
     "id": 255,
@@ -16645,7 +17251,9 @@
         "es": "Ella hizo sonar la alarma cuando salió de la tienda.",
         "en": "She set off the alarm when she left the shop."
       }
-    ]
+    ],
+    "pair_id": 256,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 256,
@@ -16722,7 +17330,9 @@
         "es": "Cuando el guardia de seguridad escuchó 'bomba' y 'activar', le pidió a Harry que fuera con él.",
         "en": "When the security guard heard bomb and set off, he asked Harry to go with him."
       }
-    ]
+    ],
+    "pair_id": 255,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 257,
@@ -16795,7 +17405,9 @@
         "es": "El torneo salió bien a pesar del mal tiempo.",
         "en": "The tournament came off despite the bad weather."
       }
-    ]
+    ],
+    "pair_id": 258,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 258,
@@ -16861,12 +17473,14 @@
         "es": "Y si el tercer acto salía bien, el acto final seguramente saldría bien.",
         "en": "And if the third act came off, the final act would surely come off."
       }
-    ]
+    ],
+    "pair_id": 257,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 259,
     "file_name": "Phrasal_verbs_259.mp3",
-    "phrasal_verb": "to pay off",
+    "phrasal_verb": "pay off",
     "base_verb": "pay",
     "particle": "off",
     "meaning_es": "significa dar resultado, rendir frutos, ser rentable o valer la pena, especialmente después de un esfuerzo o inversión.",
@@ -16933,12 +17547,14 @@
         "es": "Le dieron una oportunidad y se vio recompensado.",
         "en": "They gave him a chance and it paid off."
       }
-    ]
+    ],
+    "pair_id": 260,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 260,
     "file_name": "Phrasal_verbs_260.mp3",
-    "phrasal_verb": "Story: Pay off",
+    "phrasal_verb": "pay off",
     "base_verb": "pay",
     "particle": "off",
     "meaning_es": "Dar resultado, compensar, valer la pena, tener éxito o beneficio. Puede referirse a un esfuerzo, una inversión, o una acción que trae resultados positivos.",
@@ -16991,12 +17607,15 @@
         "es": "Harry no era muy apostador, pero como todos sus riesgos han estado dando resultado últimamente, compró un billete de lotería.",
         "en": "Harry wasn't much of a gambler, but since all his risks have been paying off lately, he bought a lottery ticket."
       }
-    ]
+    ],
+    "pair_id": 259,
+    "track_type_label": "📖 Historia en Contexto",
+    "story_title": "Story: Pay off"
   },
   {
     "id": 261,
     "file_name": "Phrasal_verbs_261.mp3",
-    "phrasal_verb": "to pull off",
+    "phrasal_verb": "pull off",
     "base_verb": "pull",
     "particle": "off",
     "meaning_es": "Lograr o conseguir algo difícil o inesperado con éxito.",
@@ -17064,7 +17683,9 @@
         "es": "Él logró la estafa más grande de la historia.",
         "en": "He pulled off the biggest scam in history."
       }
-    ]
+    ],
+    "pair_id": 262,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 262,
@@ -17121,12 +17742,14 @@
         "es": "Si lograba el putt final, conseguiría una de las mejores rondas de golf en la historia del campo.",
         "en": "If he pulled off the final putt, he would pull off one of the best rounds of golf in the history of the course."
       }
-    ]
+    ],
+    "pair_id": 261,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 263,
     "file_name": "Phrasal_verbs_263.mp3",
-    "phrasal_verb": "to switch off / to turn off",
+    "phrasal_verb": "switch off / to turn off",
     "base_verb": "switch/turn",
     "particle": "off",
     "meaning_es": "apagar",
@@ -17192,14 +17815,16 @@
         "es": "Apaga la radio, estoy intentando dormir.",
         "en": "Switch off the radio. I'm trying to sleep."
       }
-    ]
+    ],
+    "pair_id": 264,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 264,
     "file_name": "Phrasal_verbs_264.mp3",
-    "phrasal_verb": "Story: Turn off / Switch off",
-    "base_verb": null,
-    "particle": null,
+    "phrasal_verb": "switch off / to turn off",
+    "base_verb": "switch/turn",
+    "particle": "off",
     "meaning_es": "Apagar o desconectar un aparato o sistema.",
     "situation": "Vida Cotidiana",
     "tags_es": [
@@ -17303,7 +17928,10 @@
         "es": "¿qué más quedaba por apagar?",
         "en": "what else was there to turn off?"
       }
-    ]
+    ],
+    "pair_id": 263,
+    "track_type_label": "📖 Historia en Contexto",
+    "story_title": "Story: Turn off / Switch off"
   },
   {
     "id": 265,
@@ -17379,14 +18007,16 @@
         "es": "La luz fue cortada en toda la manzana.",
         "en": "The electricity was cut off to the whole block."
       }
-    ]
+    ],
+    "pair_id": 266,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 266,
     "file_name": "Phrasal_verbs_266.mp3",
-    "phrasal_verb": "Story: Unpaid Bills and Cut-Off Services",
-    "base_verb": null,
-    "particle": null,
+    "phrasal_verb": "cut off",
+    "base_verb": "cut",
+    "particle": "off",
     "meaning_es": "Esta historia ilustra el uso del phrasal verb 'cut off' (cortar, suspender) en el contexto de servicios públicos y comunicaciones, así como las consecuencias de no pagar las facturas. También se ve 'mix-up' (confusión, lío).",
     "situation": "Vida Cotidiana",
     "tags_es": [
@@ -17439,7 +18069,10 @@
         "es": "Aún no han cortado la electricidad, pero justo en ese momento, también cortaron la luz.",
         "en": "They haven't cut off the power yet, but just then, the electricity was cut off too."
       }
-    ]
+    ],
+    "pair_id": 265,
+    "track_type_label": "📖 Historia en Contexto",
+    "story_title": "Story: Unpaid Bills and Cut-Off Services"
   },
   {
     "id": 267,
@@ -17512,7 +18145,9 @@
         "es": "La playa fue cortada después del derrame de petróleo.",
         "en": "The beach was blocked off after the oil spill."
       }
-    ]
+    ],
+    "pair_id": 268,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 268,
@@ -17591,7 +18226,9 @@
         "es": "'Han bloqueado todas las calles principales del barrio', respondió el policía.",
         "en": "'They've blocked off all the main streets in the neighborhood,' replied the policeman."
       }
-    ]
+    ],
+    "pair_id": 267,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 269,
@@ -17666,7 +18303,9 @@
         "es": "Impidieron el acceso después de una explosión.",
         "en": "They closed it off after an explosion."
       }
-    ]
+    ],
+    "pair_id": 270,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 270,
@@ -17722,7 +18361,9 @@
         "es": "Harry no sabía por qué no cerraban todo el edificio si iban a cerrar el ascensor y cerrar las escaleras.",
         "en": "Harry didn't know why they didn't just close off the whole building if they were going to close off the lift and close off the stairs."
       }
-    ]
+    ],
+    "pair_id": 269,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 271,
@@ -17793,7 +18434,9 @@
         "es": "El puente se derrumbó y aisló la isla.",
         "en": "The bridge collapsed and cut the island off."
       }
-    ]
+    ],
+    "pair_id": 272,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 272,
@@ -17854,7 +18497,9 @@
         "es": "Y en Inglaterra, una enorme ventisca aisló pueblos y aldeas, e incluso incomunicó a los agricultores de su ganado.",
         "en": "And in England, an enormous blizzard cut off towns and villages, and even cut farmers off from their livestock."
       }
-    ]
+    ],
+    "pair_id": 271,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 273,
@@ -17927,7 +18572,9 @@
         "es": "Esa camisa es una imitación, el logo se está cayendo.",
         "en": "That shirt is a fake, the logo's coming off."
       }
-    ]
+    ],
+    "pair_id": 274,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 274,
@@ -17999,7 +18646,9 @@
         "es": "Incluso necesitaron comprar un control remoto nuevo después de que los botones de volumen se desprendieran cuando se cayó del sofá.",
         "en": "They even needed to buy a new remote control after the volume buttons came off when it fell off the sofa."
       }
-    ]
+    ],
+    "pair_id": 273,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 275,
@@ -18069,7 +18718,9 @@
         "es": "La hélice se cayó del avión.",
         "en": "The propeller fell off the plane."
       }
-    ]
+    ],
+    "pair_id": 276,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 276,
@@ -18165,12 +18816,14 @@
         "es": "y Charlie solo quería que su corte sanara para poder ver cómo se caía su costra.",
         "en": "and Charlie just wanted his cut to heal so he could see his scab fall off."
       }
-    ]
+    ],
+    "pair_id": 275,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 277,
     "file_name": "Phrasal_verbs_277.mp3",
-    "phrasal_verb": "to take off",
+    "phrasal_verb": "take off",
     "base_verb": "take",
     "particle": "off",
     "meaning_es": "Quitarse (ropa, accesorios, calzado), remover, desvestirse de una prenda.",
@@ -18236,14 +18889,16 @@
         "es": "Es un anillo hermoso. Nunca me lo quitaré.",
         "en": "It's a beautiful ring. I'll never take it off."
       }
-    ]
+    ],
+    "pair_id": 278,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 278,
     "file_name": "Phrasal_verbs_278.mp3",
-    "phrasal_verb": "Story: Clutter and taking off clothes",
-    "base_verb": null,
-    "particle": null,
+    "phrasal_verb": "take off",
+    "base_verb": "take",
+    "particle": "off",
     "meaning_es": "Una historia sobre el desorden en una casa debido a los objetos que los miembros de la familia se quitan (take off) y dejan por todas partes, y cómo esto frustra a uno de ellos.",
     "situation": "Vida Cotidiana",
     "tags_es": [
@@ -18293,7 +18948,10 @@
         "es": "Cindy se está cansando de recoger todas las cosas que su familia se quita y cree que sería una buena idea hacer que se quiten todo antes de entrar.",
         "en": "Cindy is getting tired of picking up all the things her family take off and thinks it would be a good idea to make them take everything off before coming in."
       }
-    ]
+    ],
+    "pair_id": 277,
+    "track_type_label": "📖 Historia en Contexto",
+    "story_title": "Story: Clutter and taking off clothes"
   },
   {
     "id": 279,
@@ -18364,12 +19022,14 @@
         "es": "Un perro le arrancó un zapato y se fue corriendo.",
         "en": "A dog ripped his shoe off and ran away."
       }
-    ]
+    ],
+    "pair_id": 280,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 280,
     "file_name": "Phrasal_verbs_280.mp3",
-    "phrasal_verb": "Story: The Storm (rip off)",
+    "phrasal_verb": "rip off",
     "base_verb": "rip",
     "particle": "off",
     "meaning_es": "Arrancar o desprender algo de forma violenta o brusca de una superficie o de otro objeto.",
@@ -18416,7 +19076,10 @@
         "es": "Al final, la tormenta no arrancó el tejado de la casa de los Green, pero sí arrancó el tejado de su cobertizo.",
         "en": "In the end, the storm didn't rip the Greens' roof off, but it did rip the roof off their shed."
       }
-    ]
+    ],
+    "pair_id": 279,
+    "track_type_label": "📖 Historia en Contexto",
+    "story_title": "Story: The Storm (rip off)"
   },
   {
     "id": 281,
@@ -18486,7 +19149,9 @@
         "es": "No parabas de quitarme las mantas anoche.",
         "en": "You kept pulling the blankets off me last night."
       }
-    ]
+    ],
+    "pair_id": 282,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 282,
@@ -18569,7 +19234,9 @@
         "es": "El siguiente fin de semana, Cindy compró dos edredones individuales para que Harry no pudiera quitarle el suyo.",
         "en": "The following weekend, Cindy bought two single duvets so Harry couldn't pull hers off."
       }
-    ]
+    ],
+    "pair_id": 281,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 283,
@@ -18644,7 +19311,9 @@
         "es": "El avión pequeño era demasiado pesado para despegar.",
         "en": "The little plane was too heavy to take off."
       }
-    ]
+    ],
+    "pair_id": 284,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 284,
@@ -18710,7 +19379,9 @@
         "es": "Dado que Charlie no puede escuchar música mientras el avión despega, y Holly no puede dormir mientras despega, ambos cruzan los dedos durante el despegue.",
         "en": "Since Charlie can't listen to music while the plane is taking off, and Holly can't sleep while it's taking off, both of them cross their fingers during take-off."
       }
-    ]
+    ],
+    "pair_id": 283,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 285,
@@ -18781,7 +19452,9 @@
         "es": "Se enamoraron y se escaparon juntos.",
         "en": "They fell in love and ran off together."
       }
-    ]
+    ],
+    "pair_id": 286,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 286,
@@ -18849,12 +19522,14 @@
         "es": "\"Será mejor que los encuentres antes de que nuestros hijos se escapen para intentar encontrarlos.\"",
         "en": "You had better find them before our children run off to try to find them."
       }
-    ]
+    ],
+    "pair_id": 285,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 287,
     "file_name": "Phrasal_verbs_287.mp3",
-    "phrasal_verb": "to set off",
+    "phrasal_verb": "set off",
     "base_verb": "set",
     "particle": "off",
     "meaning_es": "Salir, partir, ponerse en marcha (para un viaje o aventura)",
@@ -18920,7 +19595,9 @@
         "es": "Él salió después de que ella saliera, pero él llegó primero.",
         "en": "He set off after she set off, but he arrived first."
       }
-    ]
+    ],
+    "pair_id": 288,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 288,
@@ -18975,7 +19652,9 @@
         "es": "No les importaba salir en coches diferentes, porque Harry y Cindy siempre discuten cuando están juntos en el coche.",
         "en": "They didn't mind setting off in different cars, because Harry and Cindy always argue when they are in the car together."
       }
-    ]
+    ],
+    "pair_id": 287,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 289,
@@ -19047,7 +19726,9 @@
         "es": "Acompañaron al VIP al coche y se fueron.",
         "en": "They escorted the VIP to the car and drove off."
       }
-    ]
+    ],
+    "pair_id": 290,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 290,
@@ -19113,7 +19794,9 @@
         "es": "El coche de Charlie se averió, así que no pudo arrancar, y para empeorar las cosas, vio a Harry finalmente arrancando hacia él con un brillo malvado en sus ojos.",
         "en": "Charlie's car broke down, so he couldn't drive off, and to make things worse, he saw Harry finally driving off towards him with an evil glint in his eyes."
       }
-    ]
+    ],
+    "pair_id": 289,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 291,
@@ -19189,7 +19872,9 @@
         "es": "Ella canceló su boda en el último momento.",
         "en": "She called off her wedding at the last minute."
       }
-    ]
+    ],
+    "pair_id": 292,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 292,
@@ -19252,12 +19937,14 @@
         "es": "Y el profesor de piano de Cindy se alegró de que ella cancelara la clase porque, de lo contrario, él la habría cancelado.",
         "en": "And Cindy's piano teacher was glad she called the lesson off because if not, he would have called it off."
       }
-    ]
+    ],
+    "pair_id": 291,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 293,
     "file_name": "Phrasal_verbs_293.mp3",
-    "phrasal_verb": "to put off",
+    "phrasal_verb": "put off",
     "base_verb": "put",
     "particle": "off",
     "meaning_es": "Aplazar, posponer, retrasar una acción o evento hasta un momento posterior.",
@@ -19324,7 +20011,9 @@
         "es": "Siempre aplaza hoy lo que puedas hacer mañana.",
         "en": "Always put off today what you can do tomorrow."
       }
-    ]
+    ],
+    "pair_id": 294,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 294,
@@ -19391,7 +20080,9 @@
         "es": "Y además, nunca más pospondría otra cita con el dentista.",
         "en": "And furthermore, he would never put off another dental appointment again."
       }
-    ]
+    ],
+    "pair_id": 293,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 295,
@@ -19465,7 +20156,9 @@
         "es": "Los efectos de la cafeína se pasan después de una hora.",
         "en": "The effects of caffeine wear off after an hour."
       }
-    ]
+    ],
+    "pair_id": 296,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 296,
@@ -19536,7 +20229,9 @@
         "es": "De hecho, 10 horas después, cuando los efectos no mostraban signos de disiparse, Harry empezó a desear que se diera prisa y se disipara, para poder dejar de babear por todas partes.",
         "en": "In fact, 10 hours later, when the effects showed no sign of wearing off, Harry began to wish it would hurry up and wear off, so he could stop drooling all over himself."
       }
-    ]
+    ],
+    "pair_id": 295,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 297,
@@ -19610,7 +20305,9 @@
         "es": "No toquéis el horno hasta que se enfríe.",
         "en": "Don't touch the oven until it cools off."
       }
-    ]
+    ],
+    "pair_id": 298,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 298,
@@ -19661,7 +20358,9 @@
         "es": "Todos estaban ansiosos por refrescarse en la piscina, pero pasaría un tiempo antes de que el motor se enfriara, y quizás para entonces, el día ya se habría enfriado de todos modos.",
         "en": "Everyone was anxious to cool off at the pool, but it would take a while before the engine cooled off, and perhaps by that time, the day would have cooled down anyway."
       }
-    ]
+    ],
+    "pair_id": 297,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 299,
@@ -19745,7 +20444,9 @@
         "es": "Su rendimiento de él ha bajado mucho.",
         "en": "His performance has really dropped off."
       }
-    ]
+    ],
+    "pair_id": 300,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 300,
@@ -19818,7 +20519,9 @@
         "es": "Si los precios de las casas siguen bajando y las ventas de mi empresa no empiezan a disminuir, podríamos pensar en comprar una casa nueva, dijo Harry.",
         "en": "If house prices keep dropping off and my company sales don't stop to drop off, we could think about buying a new house, said Harry."
       }
-    ]
+    ],
+    "pair_id": 299,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 301,
@@ -19888,7 +20591,9 @@
         "es": "Ella congela todo para que nada se estropee.",
         "en": "She freezes everything so nothing goes off."
       }
-    ]
+    ],
+    "pair_id": 302,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 302,
@@ -19964,7 +20669,9 @@
         "es": "Por supuesto, tuvo que revisar el resto de la compra para asegurarse de que nada más se hubiera echado a perder.",
         "en": "Of course, she had to check the rest of the shopping to make sure nothing else had gone off."
       }
-    ]
+    ],
+    "pair_id": 301,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 303,
@@ -20034,7 +20741,9 @@
         "es": "Entregaste la documentación?",
         "en": "Did you drop off the documentation?"
       }
-    ]
+    ],
+    "pair_id": 304,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 304,
@@ -20090,7 +20799,9 @@
         "es": "Por eso, él la deja a unas pocas cuadras de la escuela y ella camina el resto del camino con sus amigas, quienes piden a sus padres que las dejen en el mismo lugar.",
         "en": "That's why he drops her off a few blocks away from the school and she walks the rest of the way with her friends, who ask their parents to drop them off in the same location."
       }
-    ]
+    ],
+    "pair_id": 303,
+    "track_type_label": "📖 Historia en Contexto"
   },
   {
     "id": 305,
@@ -20167,7 +20878,9 @@
         "es": "Estos radiadores emiten mucho calor.",
         "en": "These radiators give off a lot of heat."
       }
-    ]
+    ],
+    "pair_id": 306,
+    "track_type_label": "🎯 Práctica Guiada"
   },
   {
     "id": 306,
@@ -20220,6 +20933,8 @@
         "es": "Después de unos días, los Green estaban tan desesperados por encontrar qué estaba desprendiendo un hedor tan horrible, que si no podían averiguar qué lo desprendía, pensaron que tendrían que mudarse de casa.",
         "en": "After a few days, the Greens were getting so desperate to find what was giving off such a horrible stench, that if they couldn't find out what was giving it off, they thought they might have to move house."
       }
-    ]
+    ],
+    "pair_id": 305,
+    "track_type_label": "📖 Historia en Contexto"
   }
 ]
