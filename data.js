@@ -1,0 +1,20225 @@
+window.PHRASAL_DATA = [
+  {
+    "id": 1,
+    "file_name": "Phrasal_verbs_1.mp3",
+    "phrasal_verb": "go up",
+    "base_verb": "go",
+    "particle": "up",
+    "meaning_es": "Indica el movimiento de ascender o subir a un lugar más alto. Puede referirse a subir pisos, escaleras o a la cima de algo.",
+    "situation": "Movimiento y Lugares",
+    "tags_es": [
+      "subir",
+      "ascender",
+      "pisos",
+      "escaleras",
+      "altura",
+      "arriba",
+      "mover"
+    ],
+    "intro_note": "Up and down: verbos con la preposición up",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Tienes que subir a la quinta planta.",
+        "en": "You have to go up to the fifth floor."
+      },
+      {
+        "order": 2,
+        "es": "Subí allí ayer.",
+        "en": "I went up there yesterday."
+      },
+      {
+        "order": 3,
+        "es": "Él volvió a subir para coger su chaqueta.",
+        "en": "He went back up to get his jacket."
+      },
+      {
+        "order": 4,
+        "es": "¿Podrías subir y coger mi cartera?",
+        "en": "Could you go up and get my wallet?"
+      },
+      {
+        "order": 5,
+        "es": "¿Por qué no subes y la coges tú mismo?",
+        "en": "Why don't you go up and get it yourself?"
+      },
+      {
+        "order": 6,
+        "es": "¿Has subido arriba del todo?",
+        "en": "Did you go up to the top?"
+      },
+      {
+        "order": 7,
+        "es": "Si subes a la cima, puedes ver el mar.",
+        "en": "If you go up to the top, you can see the sea."
+      },
+      {
+        "order": 8,
+        "es": "Ellos no subieron a la parte de arriba de la Torre Eiffel.",
+        "en": "They didn't go up to the top of the Eiffel Tower."
+      },
+      {
+        "order": 9,
+        "es": "Él subió al desván.",
+        "en": "He went up to the attic."
+      },
+      {
+        "order": 10,
+        "es": "No subas ahí arriba, está encantado.",
+        "en": "Don't go up there, it's haunted."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "file_name": "Phrasal_verbs_2.mp3",
+    "phrasal_verb": "go up",
+    "base_verb": "go",
+    "particle": "up",
+    "meaning_es": "Subir, ascender. Moverse a un nivel o piso superior.",
+    "situation": "Movimiento y Lugares",
+    "tags_es": [
+      "subir",
+      "ascender",
+      "pisos",
+      "escaleras",
+      "ascensor",
+      "edificios",
+      "ir hacia arriba"
+    ],
+    "intro_note": "",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Cada día, Peter sube al quinto piso porque es donde trabaja.",
+        "en": "Every day, Peter goes up to the fifth floor because that's where he works."
+      },
+      {
+        "order": 2,
+        "es": "Cuando el ascensor está roto, él sube las escaleras.",
+        "en": "When the elevator is broken, he goes up the stairs."
+      },
+      {
+        "order": 3,
+        "es": "Peter a menudo tiene que subir a verlo.",
+        "en": "Peter often has to go up and see him."
+      },
+      {
+        "order": 4,
+        "es": "La última vez que subió allí, dejó su teléfono allí.",
+        "en": "The last time he went up there, he left his phone up there."
+      },
+      {
+        "order": 5,
+        "es": "Así que, tuvo que volver a subir a buscarlo.",
+        "en": "So, he had to go back up and get it."
+      },
+      {
+        "order": 6,
+        "es": "Él subió en el ascensor.",
+        "en": "He went up in the elevator."
+      },
+      {
+        "order": 7,
+        "es": "pero subió hasta el décimo piso.",
+        "en": "but it went up to the tenth floor."
+      },
+      {
+        "order": 8,
+        "es": "Si tan solo Peter hubiera subido las escaleras.",
+        "en": "If only Peter had gone up the stairs."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "file_name": "Phrasal_verbs_3.mp3",
+    "phrasal_verb": "to pick up",
+    "base_verb": "pick",
+    "particle": "up",
+    "meaning_es": "Recoger (objetos, ropa, cosas, personas), coger/responder al teléfono",
+    "situation": "Vida Cotidiana y Casa",
+    "tags_es": [
+      "recoger",
+      "buscar",
+      "coger",
+      "responder",
+      "teléfono",
+      "ropa",
+      "juguetes",
+      "personas",
+      "aeropuerto",
+      "estación"
+    ],
+    "intro_note": "",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Tengo que recoger mi traje de la tintorería.",
+        "en": "I need to pick up my suit from the dry cleaners."
+      },
+      {
+        "order": 2,
+        "es": "¿De dónde tienes que recogerlo?",
+        "en": "Where do you have to pick it up from?"
+      },
+      {
+        "order": 3,
+        "es": "Debería haberlo recogido ayer.",
+        "en": "I should have picked it up yesterday."
+      },
+      {
+        "order": 4,
+        "es": "No me cogen el teléfono.",
+        "en": "They're not picking up."
+      },
+      {
+        "order": 5,
+        "es": "Recoge tus juguetes, por favor.",
+        "en": "Pick up your toys, please."
+      },
+      {
+        "order": 6,
+        "es": "Tengo que ir a buscarle a las 19 horas.",
+        "en": "I have to pick him up at 7 pm."
+      },
+      {
+        "order": 7,
+        "es": "¿A dónde tienes que ir a buscarle?",
+        "en": "Where do you have to pick him up from?"
+      },
+      {
+        "order": 8,
+        "es": "Tengo que recogerlo en el aeropuerto.",
+        "en": "I have to pick him up at the airport."
+      },
+      {
+        "order": 9,
+        "es": "¿No sería más fácil recogerlo en la estación?",
+        "en": "Wouldn't it be easier to pick him up at the station?"
+      },
+      {
+        "order": 10,
+        "es": "Sería más fácil si no tuviera que ir a buscarle.",
+        "en": "It would be easier if I didn't have to pick him up."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "file_name": "Phrasal_verbs_4.mp3",
+    "phrasal_verb": "pick up",
+    "base_verb": "pick",
+    "particle": "up",
+    "meaning_es": "Recoger o buscar a una persona o cosa; contestar el teléfono; comprar o adquirir algo; aprender algo nuevo.",
+    "situation": "Vida Cotidiana y Casa",
+    "tags_es": [
+      "recoger",
+      "buscar",
+      "contestar",
+      "levantar",
+      "comprar",
+      "adquirir",
+      "aprender",
+      "teléfono",
+      "transporte",
+      "citas",
+      "compras"
+    ],
+    "intro_note": "Hoy vamos a practicar el phrasal verb 'pick up', que tiene varios significados importantes y es muy común.",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Por favor, ¿puedes recogerme en la estación?",
+        "en": "Please, can you pick me up at the station?"
+      },
+      {
+        "order": 2,
+        "es": "Ella tiene que ir a buscar a los niños a la escuela.",
+        "en": "She has to go pick up the children from school."
+      },
+      {
+        "order": 3,
+        "es": "Nadie contestó el teléfono cuando llamé.",
+        "en": "Nobody picked up the phone when I called."
+      },
+      {
+        "order": 4,
+        "es": "¿Por qué no contestaste mi llamada anoche?",
+        "en": "Why didn't you pick up my call last night?"
+      },
+      {
+        "order": 5,
+        "es": "Necesito pasar a buscar la cena de camino a casa.",
+        "en": "I need to pick up dinner on my way home."
+      },
+      {
+        "order": 6,
+        "es": "Recogí un libro interesante en la librería.",
+        "en": "I picked up an interesting book at the bookstore."
+      },
+      {
+        "order": 7,
+        "es": "Espero que mi inglés mejore rápidamente.",
+        "en": "I hope my English will pick up quickly."
+      },
+      {
+        "order": 8,
+        "es": "Él recogió el acento muy rápido.",
+        "en": "He picked up the accent very quickly."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "file_name": "Phrasal_verbs_5.mp3",
+    "phrasal_verb": "climb up",
+    "base_verb": "climb",
+    "particle": "up",
+    "meaning_es": "Subir, ascender, trepar. Implica el movimiento de ir hacia arriba, a menudo usando manos y pies o con dificultad, hacia una posición más alta.",
+    "situation": "Movimiento y Lugares",
+    "tags_es": [
+      "subir",
+      "ascender",
+      "trepar",
+      "escalar",
+      "cima",
+      "altura"
+    ],
+    "intro_note": "",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Voy a tener que subir al tejado.",
+        "en": "I'm going to have to climb up onto the roof."
+      },
+      {
+        "order": 2,
+        "es": "No debería subir ahí arriba sin cuerda.",
+        "en": "You shouldn't climb up there without a rope."
+      },
+      {
+        "order": 3,
+        "es": "Y si subiera ahí arriba con una escalera.",
+        "en": "What if I climbed up there with a ladder?"
+      },
+      {
+        "order": 4,
+        "es": "¿Sabes cómo subir a una escalera?",
+        "en": "Do you know how to climb up a ladder?"
+      },
+      {
+        "order": 5,
+        "es": "Si puedo escalar el K2, puedo subir a una escalera.",
+        "en": "If I can climb up K2, I can climb up a ladder."
+      },
+      {
+        "order": 6,
+        "es": "¿Cuánto tardasteis en subir a la cima del K2?",
+        "en": "How long did it take you to climb up to the top of K2?"
+      },
+      {
+        "order": 7,
+        "es": "Subimos a la cima en 3 horas.",
+        "en": "We climbed up to the top in three hours."
+      },
+      {
+        "order": 8,
+        "es": "Mi coche no será capaz de subir esa colina.",
+        "en": "My car won't be able to climb up that hill."
+      },
+      {
+        "order": 9,
+        "es": "Si no estuviera tan helada, podríamos subir.",
+        "en": "If it weren't so icy, we could climb up."
+      },
+      {
+        "order": 10,
+        "es": "Si subimos, ¿cómo bajaremos?",
+        "en": "If we climb up, how will we climb back down?"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "file_name": "Phrasal_verbs_6.mp3",
+    "phrasal_verb": "climb up",
+    "base_verb": "climb",
+    "particle": "up",
+    "meaning_es": "Subir, ascender, escalar hacia arriba. Indica el movimiento de ir de un nivel inferior a uno superior.",
+    "situation": "Movimiento y Lugares",
+    "tags_es": [
+      "subir",
+      "ascender",
+      "escalar",
+      "ático",
+      "altura",
+      "lugar",
+      "mover",
+      "obstáculo",
+      "solución"
+    ],
+    "intro_note": "Este pasaje narra la historia de Peter, quien necesita subir a su ático y busca diferentes maneras de hacerlo, destacando el uso del phrasal verb 'climb up' en varios contextos.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "El ascenso.",
+        "en": "The ascent."
+      },
+      {
+        "order": 2,
+        "es": "Peter necesita subir a su ático.",
+        "en": "Peter needs to climb up to his attic."
+      },
+      {
+        "order": 3,
+        "es": "pero no hay escaleras para subir allí.",
+        "en": "but there aren't any stairs to climb up there with."
+      },
+      {
+        "order": 4,
+        "es": "Si tuviera una escalera de mano, podría subir allí fácilmente.",
+        "en": "If he had a step-ladder, he could climb up there easily."
+      },
+      {
+        "order": 5,
+        "es": "pero como no tiene una, tendría que pensar en otra manera de subir allí.",
+        "en": "but since he doesn't have one, he'd have to think of another way to climb up there."
+      },
+      {
+        "order": 6,
+        "es": "Podría subir allí usando una cuerda.",
+        "en": "He could climb up there using a rope."
+      },
+      {
+        "order": 7,
+        "es": "pero alguien tendría que subir primero para asegurarla.",
+        "en": "but someone would have to climb up there first to secure it."
+      },
+      {
+        "order": 8,
+        "es": "Después de pensarlo un rato, Peter decide construir una montaña de libros debajo de la puerta del ático y subir por ella.",
+        "en": "After thinking about it for a while, Peter decides to build a mountain of books under the attic door and climb up it."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "file_name": "Phrasal_verbs_7.mp3",
+    "phrasal_verb": "blow up",
+    "base_verb": "blow",
+    "particle": "up",
+    "meaning_es": "Inflar/hinchar (globos, neumáticos, etc.) y ampliar/agrandar (fotos, texto, etc.)",
+    "situation": "Vida Cotidiana y Objetos",
+    "tags_es": [
+      "inflar",
+      "hinchar",
+      "ampliar",
+      "agrandar",
+      "globos",
+      "neumáticos",
+      "fotos",
+      "texto"
+    ],
+    "intro_note": null,
+    "drills": [
+      {
+        "order": 1,
+        "es": "Ayúdame a inflar estos globos.",
+        "en": "Help me to blow these balloons up."
+      },
+      {
+        "order": 2,
+        "es": "¿Cuántos inflamos?",
+        "en": "How many should we blow up?"
+      },
+      {
+        "order": 3,
+        "es": "No los infles demasiado.",
+        "en": "Don't blow them up too much."
+      },
+      {
+        "order": 4,
+        "es": "Deberías hinchar ese neumático.",
+        "en": "You should blow that tire up."
+      },
+      {
+        "order": 5,
+        "es": "Hincha el colchón hinchable con una bomba.",
+        "en": "Blow the air mattress up using a pump."
+      },
+      {
+        "order": 6,
+        "es": "Pregúntale al fotógrafo si puede ampliar la foto.",
+        "en": "Ask the photographer if he can blow the photo up."
+      },
+      {
+        "order": 7,
+        "es": "¿Cuánto debería pedirle que la ampliara?",
+        "en": "How much should I ask him to blow it up?"
+      },
+      {
+        "order": 8,
+        "es": "Amplíala a tamaño A3.",
+        "en": "Blow it up to A3 size."
+      },
+      {
+        "order": 9,
+        "es": "¿Puedes ampliar el texto un poco?",
+        "en": "Can you blow the text up a little?"
+      },
+      {
+        "order": 10,
+        "es": "Amplíalo a 50 puntos.",
+        "en": "Blow it up to font size 50."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "file_name": "Phrasal_verbs_8.mp3",
+    "phrasal_verb": "blow up",
+    "base_verb": "blow",
+    "particle": "up",
+    "meaning_es": "Inflar (globos) / Agrandar o Ampliar (una foto).",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "inflar",
+      "agrandar",
+      "ampliar",
+      "globos",
+      "fotos",
+      "tamaño",
+      "celebración",
+      "trabajo"
+    ],
+    "intro_note": "Una historia sobre Peter y cómo usa el phrasal verb 'blow up' en diferentes contextos para el cumpleaños de una compañera de trabajo.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Tamaño real.",
+        "en": "Life-size."
+      },
+      {
+        "order": 2,
+        "es": "Era el cumpleaños de una de las compañeras de trabajo de Peter, y después de inflar unos 50 globos para ella, Peter quiso ampliar una foto suya para ponerla en la puerta.",
+        "en": "It was one of Peter's co-workers' birthday, and after blowing up about 50 balloons for her, Peter wanted to blow up a photo of her to put on the door."
+      },
+      {
+        "order": 3,
+        "es": "Intentó usar la fotocopiadora para ampliar la foto, pero la calidad no era muy buena, así que la llevó a una tienda de fotografía para ver si ellos podían ampliarla mejor.",
+        "en": "He tried to use the photocopier to blow the photo up, but the quality wasn't very good, so he took it to a photo shop to see if they could blow it up better."
+      },
+      {
+        "order": 4,
+        "es": "Le dijeron que podrían ampliarla al tamaño que él quisiera.",
+        "en": "They told him that they would be able to blow it up to whatever size he wanted."
+      },
+      {
+        "order": 5,
+        "es": "Así que la mandó ampliar a tamaño A4.",
+        "en": "So he had it blown up to A4 size."
+      },
+      {
+        "order": 6,
+        "es": "Su compañera de trabajo estaba agradecida por los globos que Peter había inflado, pero le dijo que deseaba que no hubiera ampliado una foto tan vergonzosa de ella.",
+        "en": "His co-worker was grateful for the balloons Peter had blown up, but told him she wished he hadn't blown up such an embarrassing photo of her."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "file_name": "Phrasal_verbs_9.mp3",
+    "phrasal_verb": "to fill up",
+    "base_verb": "fill",
+    "particle": "up",
+    "meaning_es": "Llenar (un recipiente, espacio, formulario, etc.) completamente; ocupar todo el espacio disponible.",
+    "situation": "Vida Cotidiana y Casa",
+    "tags_es": [
+      "llenar",
+      "completar",
+      "rellenar",
+      "ocupar",
+      "gasolina",
+      "tanque",
+      "vaso",
+      "botella",
+      "espacio"
+    ],
+    "intro_note": "To fill up",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Ella llenó su vaso de vino.",
+        "en": "She filled his glass up with wine."
+      },
+      {
+        "order": 2,
+        "es": "No lo llenes más de la línea.",
+        "en": "Don't fill it up past the line."
+      },
+      {
+        "order": 3,
+        "es": "Llénalo sin plomo, por favor.",
+        "en": "Fill it up with unleaded, please."
+      },
+      {
+        "order": 4,
+        "es": "Cuesta mucho llenar el tanque hoy en día.",
+        "en": "It costs a lot to fill your tank up these days."
+      },
+      {
+        "order": 5,
+        "es": "Cuánto cuesta llenar un avión de combustible.",
+        "en": "How much does it cost to fill up a plane with fuel?"
+      },
+      {
+        "order": 6,
+        "es": "Ella llenó la bañera de agua caliente.",
+        "en": "She filled the bathtub up with hot water."
+      },
+      {
+        "order": 7,
+        "es": "Él llenó su termo con sopa caliente.",
+        "en": "He filled his thermos flask up with hot soup."
+      },
+      {
+        "order": 8,
+        "es": "Las plazas del curso se están llenando rápidamente.",
+        "en": "Course places are filling up quickly."
+      },
+      {
+        "order": 9,
+        "es": "Como buen artista, siempre intenta llenar el lienzo.",
+        "en": "As an artist, he always tries to fill up the canvas."
+      },
+      {
+        "order": 10,
+        "es": "Las habitaciones en ese hotel siempre se llenan rápido.",
+        "en": "The rooms in that hotel always fill up quickly."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "file_name": "Phrasal_verbs_10.mp3",
+    "phrasal_verb": "fill up",
+    "base_verb": "fill",
+    "particle": "up",
+    "meaning_es": "Llenar completamente un recipiente, tanque o espacio hasta el tope.",
+    "situation": "Vida Cotidiana y Transporte",
+    "tags_es": [
+      "llenar",
+      "rellenar",
+      "combustible",
+      "agua",
+      "tanque",
+      "completar",
+      "recipiente"
+    ],
+    "intro_note": "El locutor introduce el phrasal verb 'fill up' y luego presenta ejercicios de práctica bilingües.",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Tengo que llenar el tanque de gasolina antes de nuestro viaje.",
+        "en": "I need to fill up the gas tank before our trip."
+      },
+      {
+        "order": 2,
+        "es": "¿Puedes llenar esta botella de agua para mí?",
+        "en": "Can you fill up this water bottle for me?"
+      },
+      {
+        "order": 3,
+        "es": "El camarero llenó mi taza de café de nuevo.",
+        "en": "The waiter filled up my coffee cup again."
+      },
+      {
+        "order": 4,
+        "es": "Los niños llenaron la piscina con agua para el verano.",
+        "en": "The children filled up the swimming pool with water for the summer."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "file_name": "Phrasal_verbs_11.mp3",
+    "phrasal_verb": "speak up",
+    "base_verb": "speak",
+    "particle": "up",
+    "meaning_es": "Hablar más alto, elevar la voz para ser oído o para expresar una opinión.",
+    "situation": "Comunicación",
+    "tags_es": [
+      "hablar más alto",
+      "voz",
+      "entender",
+      "escuchar",
+      "expresar opinión"
+    ],
+    "intro_note": "Listen carefully to this English lesson audio file about a Phrasal Verb. The speaker introduces the phrasal verb and then provides bilingual practice drills (Spanish prompt -> English sentence).",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Habla más alto, no te oímos.",
+        "en": "Speak up, we can't hear you."
+      },
+      {
+        "order": 2,
+        "es": "Él está bastante sordo, tendrás que hablar más alto.",
+        "en": "He's quite deaf, you'll have to speak up."
+      },
+      {
+        "order": 3,
+        "es": "No puede hablar más alto cuando está nerviosa.",
+        "en": "She can't speak up when she's nervous."
+      },
+      {
+        "order": 4,
+        "es": "Habla más alto si tienes algo que decir.",
+        "en": "Speak up if you have something to say."
+      },
+      {
+        "order": 5,
+        "es": "Asegúrate de hablar más alto cuando sea tu turno.",
+        "en": "Make sure you speak up when it's your turn."
+      },
+      {
+        "order": 6,
+        "es": "Él intentó hablar más alto, pero nadie le oía.",
+        "en": "He tried to speak up, but nobody heard him."
+      },
+      {
+        "order": 7,
+        "es": "Habló más alto para que la fila de atrás pudiera oírla.",
+        "en": "She spoke up so the back row could hear her."
+      },
+      {
+        "order": 8,
+        "es": "¿Quieres que hable un poco más alto?",
+        "en": "Would you like me to speak up a little?"
+      },
+      {
+        "order": 9,
+        "es": "Si hablo más alto, estaré gritando.",
+        "en": "If I speak up any more, I'll be shouting."
+      },
+      {
+        "order": 10,
+        "es": "Si no hablas más alto, nadie podrá oírte.",
+        "en": "If you don't speak up, no one will be able to hear you."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "file_name": "Phrasal_verbs_12.mp3",
+    "phrasal_verb": "Story: Speak up",
+    "base_verb": "speak",
+    "particle": "up",
+    "meaning_es": "Hablar más alto, subir la voz para ser escuchado. En el contexto de la historia, también se ilustra un malentendido.",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "hablar más fuerte",
+      "subir la voz",
+      "teatro",
+      "audiencia",
+      "mimos",
+      "malentendido",
+      "comunicación"
+    ],
+    "intro_note": "Una divertida historia sobre un malentendido en el teatro, centrada en el phrasal verb 'speak up'.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "¡Mucha suerte!",
+        "en": "Break a leg!"
+      },
+      {
+        "order": 2,
+        "es": "El sábado pasado, Peter fue al teatro, pero no pudo oír a los actores porque no hablaron lo suficientemente alto.",
+        "en": "Last Saturday, Peter went to the theater but he couldn't hear the actors because they didn't speak up enough."
+      },
+      {
+        "order": 3,
+        "es": "Después del primer acto, el público al fondo del teatro les gritó a los actores que hablaran más alto, pero ni aun así, nadie pudo oírlos.",
+        "en": "After the first act, the audience at the back of the theater shouted at the actors to speak up, but even then, no one could hear them."
+      },
+      {
+        "order": 4,
+        "es": "Para el segundo acto, el público estaba tan enfadado con los actores por no hablar más alto que empezaron a arrojar cosas al escenario.",
+        "en": "By the second act, the audience was so angry at the actors for not speaking up that they started throwing things onto the stage."
+      },
+      {
+        "order": 5,
+        "es": "Después de la actuación, se descubrió que los pobres actores no habían estado hablando más alto porque eran artistas de mímica.",
+        "en": "After the performance, it was discovered that the poor actors hadn't been speaking up because they were mime artists."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "file_name": "Phrasal_verbs_13.mp3",
+    "phrasal_verb": "to speed up",
+    "base_verb": "speed",
+    "particle": "up",
+    "meaning_es": "Acelerar, agilizar, ir más rápido",
+    "situation": "Vida Cotidiana y Casa",
+    "tags_es": [
+      "acelerar",
+      "agilizar",
+      "rapidez",
+      "velocidad",
+      "apresurar"
+    ],
+    "intro_note": "",
+    "drills": [
+      {
+        "order": 1,
+        "es": "El coche de policía aceleró para coger al ladrón.",
+        "en": "The police car speeded up to catch the robber."
+      },
+      {
+        "order": 2,
+        "es": "El ladrón aceleró para escapar.",
+        "en": "The robber speeded up to get away."
+      },
+      {
+        "order": 3,
+        "es": "Si aceleras más, te pondrán una multa.",
+        "en": "If you speed up any more, you'll get a ticket."
+      },
+      {
+        "order": 4,
+        "es": "Acelera.",
+        "en": "Speed up."
+      },
+      {
+        "order": 5,
+        "es": "Ojalá fuera más rápido.",
+        "en": "I wish he'd speed up."
+      },
+      {
+        "order": 6,
+        "es": "Acelereemos las cosas un poco.",
+        "en": "Let's speed things up a little."
+      },
+      {
+        "order": 7,
+        "es": "Se le aceleró la respiración.",
+        "en": "His breathing speeded up."
+      },
+      {
+        "order": 8,
+        "es": "Los ordenadores han acelerado el proceso.",
+        "en": "Computers have speeded up the process."
+      },
+      {
+        "order": 9,
+        "es": "¿Cómo podemos acelerar el proceso más?",
+        "en": "How can we speed the process up more?"
+      },
+      {
+        "order": 10,
+        "es": "Esperemos que pueda acelerar las cosas.",
+        "en": "Let's hope he can speed things up."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "file_name": "Phrasal_verbs_14.mp3",
+    "phrasal_verb": "Story: Speed Up",
+    "base_verb": "speed",
+    "particle": "up",
+    "meaning_es": "Acelerar, aumentar la velocidad, apresurar.",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "acelerar",
+      "velocidad",
+      "conducir",
+      "prisa",
+      "tráfico",
+      "multa",
+      "apresurar"
+    ],
+    "intro_note": "This story illustrates the phrasal verb 'speed up' in various contexts related to urgency, driving, and increasing speed.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Cuando Peter vio que llegaba tarde al trabajo de nuevo, aceleró y llegó a su coche en tiempo récord.",
+        "en": "When Peter saw he was late for work again, he sped up and got to his car in record time."
+      },
+      {
+        "order": 2,
+        "es": "Una vez fuera del garaje, Peter pisó el acelerador y su coche aceleró.",
+        "en": "Once he was out of the garage, Peter stepped on the accelerator and his car sped up."
+      },
+      {
+        "order": 3,
+        "es": "Desafortunadamente, Peter había acelerado tanto que no vio el coche de policía indicándole que se detuviera.",
+        "en": "Unfortunately, Peter had sped up so much that he didn't see the police car signaling him to pull over."
+      },
+      {
+        "order": 4,
+        "es": "Y el coche de policía tuvo que acelerar para alcanzar el coche de Peter.",
+        "en": "And the police car had to speed up to catch Peter's car."
+      },
+      {
+        "order": 5,
+        "es": "Peter sabía que iba a recibir una multa, pero deseaba que el policía acelerara el proceso para poder llegar al trabajo.",
+        "en": "Peter knew that he was going to get a ticket, but he wished the policeman would speed the process up so that he could get to work."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "file_name": "Phrasal_verbs_15.mp3",
+    "phrasal_verb": "to turn up",
+    "base_verb": "turn",
+    "particle": "up",
+    "meaning_es": "Aumentar el volumen o la intensidad de algo (música, calefacción, ventilador, horno, etc.)",
+    "situation": "Vida Cotidiana y Casa",
+    "tags_es": [
+      "subir volumen",
+      "aumentar intensidad",
+      "calefacción",
+      "música",
+      "radio",
+      "horno",
+      "ventilador"
+    ],
+    "intro_note": "",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Pon la tele más fuerte, no la oigo.",
+        "en": "Turn the TV up, I can't hear it."
+      },
+      {
+        "order": 2,
+        "es": "No subas tanto la música.",
+        "en": "Don't turn the music up so loud."
+      },
+      {
+        "order": 3,
+        "es": "¿Podrías subir el ventilador? Hace calor.",
+        "en": "Could you turn up the fan? It's hot."
+      },
+      {
+        "order": 4,
+        "es": "Ella subió el volumen de su móvil.",
+        "en": "She turned up the volume on her mobile phone."
+      },
+      {
+        "order": 5,
+        "es": "¿Podrías subir la calefacción? Tengo frío.",
+        "en": "Can you turn the heating up? I'm cold."
+      },
+      {
+        "order": 6,
+        "es": "No la subas a más de 20 grados.",
+        "en": "Don't turn it up higher than 20 degrees."
+      },
+      {
+        "order": 7,
+        "es": "Sube la radio, están echando el partido.",
+        "en": "Turn the radio up, the game's on."
+      },
+      {
+        "order": 8,
+        "es": "Él subió el horno a 350 grados.",
+        "en": "He turned the oven up to 350 degrees."
+      },
+      {
+        "order": 9,
+        "es": "Nadie subió el volumen del micrófono.",
+        "en": "Nobody turned the microphone up."
+      },
+      {
+        "order": 10,
+        "es": "Si subes tu MP3 más, te quedarás sordo.",
+        "en": "If you turn your MP3 player up any more, you'll go deaf."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "file_name": "Phrasal_verbs_16.mp3",
+    "phrasal_verb": "turn up",
+    "base_verb": "turn",
+    "particle": "up",
+    "meaning_es": "Aumentar el volumen de algo (radio, televisión, música).",
+    "situation": "Vida Cotidiana y Casa",
+    "tags_es": [
+      "subir",
+      "volumen",
+      "aumentar",
+      "sonido",
+      "radio",
+      "televisión",
+      "música",
+      "aparatos electrónicos",
+      "control remoto"
+    ],
+    "intro_note": "The phrasal verb 'turn up' has several meanings, but this lesson focuses on its most common meaning: to increase the volume of something, like a radio, a TV, or music.",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Peter no pudo subir el volumen de la televisión.",
+        "en": "Peter couldn't turn up the TV."
+      },
+      {
+        "order": 2,
+        "es": "Por favor, sube el volumen de la radio.",
+        "en": "Please turn up the radio."
+      },
+      {
+        "order": 3,
+        "es": "No subas el volumen, por favor.",
+        "en": "Don't turn up the volume, please."
+      },
+      {
+        "order": 4,
+        "es": "¿Podrías subir el volumen?",
+        "en": "Could you turn up the volume?"
+      },
+      {
+        "order": 5,
+        "es": "Subí el volumen para poder escuchar el partido.",
+        "en": "I turned up the volume so I could listen to the match."
+      },
+      {
+        "order": 6,
+        "es": "Le subí el volumen a la televisión.",
+        "en": "I turned up the TV."
+      },
+      {
+        "order": 7,
+        "es": "Tú no subiste el volumen de la música.",
+        "en": "You didn't turn up the music."
+      },
+      {
+        "order": 8,
+        "es": "¿Le subiste el volumen a la radio?",
+        "en": "Did you turn up the radio?"
+      },
+      {
+        "order": 9,
+        "es": "Ellos subieron el volumen de la televisión.",
+        "en": "They turned up the TV."
+      },
+      {
+        "order": 10,
+        "es": "Nosotros nunca subimos el volumen de la radio.",
+        "en": "We never turn up the radio."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "file_name": "Phrasal_verbs_17.mp3",
+    "phrasal_verb": "to break up",
+    "base_verb": "break",
+    "particle": "up",
+    "meaning_es": "Terminar una relación sentimental, separarse un grupo o pareja, disolverse una multitud.",
+    "situation": "Relaciones y Emociones",
+    "tags_es": [
+      "romper",
+      "separar",
+      "terminar relación",
+      "disolver",
+      "dispersar",
+      "ruptura"
+    ],
+    "intro_note": "",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Oíste que él ha roto con su novia?",
+        "en": "Did you hear he broke up with his girlfriend?"
+      },
+      {
+        "order": 2,
+        "es": "Por qué rompieron?",
+        "en": "Why did they break up?"
+      },
+      {
+        "order": 3,
+        "es": "Cuando rompieron?",
+        "en": "When did they break up?"
+      },
+      {
+        "order": 4,
+        "es": "Quién rompió con quién?",
+        "en": "Who broke up with who?"
+      },
+      {
+        "order": 5,
+        "es": "La banda se separó después de la gira.",
+        "en": "The band broke up after their tour."
+      },
+      {
+        "order": 6,
+        "es": "El matrimonio de Smith se rompió después de 15 años.",
+        "en": "Smith's marriage broke up after 15 years."
+      },
+      {
+        "order": 7,
+        "es": "Por qué se dispersó la multitud?",
+        "en": "Why did the crowd break up?"
+      },
+      {
+        "order": 8,
+        "es": "Ella le envió una carta para romper con él.",
+        "en": "She sent him a letter to break up with him."
+      },
+      {
+        "order": 9,
+        "es": "Se separaron y se fueron por caminos diferentes.",
+        "en": "They broke up and went their separate ways."
+      },
+      {
+        "order": 10,
+        "es": "Hay muchas rupturas de pareja después del verano.",
+        "en": "There are a lot of breakups after summer."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "file_name": "Phrasal_verbs_18.mp3",
+    "phrasal_verb": "break up",
+    "base_verb": "break",
+    "particle": "up",
+    "meaning_es": "Separarse, disolverse (una banda); romper, terminar una relación (una pareja); dispersarse (una multitud).",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "separarse",
+      "disolverse",
+      "romper",
+      "terminar relación",
+      "banda",
+      "concierto",
+      "multitud"
+    ],
+    "intro_note": "A short story about a band's concert and a fan's concerns, illustrating different uses of the phrasal verb 'break up'.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Los Twerps.",
+        "en": "The Twerps."
+      },
+      {
+        "order": 2,
+        "es": "La banda favorita de Peter, The Twerps, estaba tocando un concierto cerca de su casa.",
+        "en": "Peter's favorite band, The Twerps, were playing a concert near his house."
+      },
+      {
+        "order": 3,
+        "es": "Se rumoreaba que se iban a separar después del concierto, así que Peter estaba ansioso por verlo.",
+        "en": "Rumor had it that they were going to break up after the concert, so Peter was keen to see it."
+      },
+      {
+        "order": 4,
+        "es": "Había estado planeando ir con su amigo Larry, pero Larry acababa de romper con su novia y ya no quería ir.",
+        "en": "He had been planning to go with his friend Larry, but Larry had just broken up with his girlfriend and didn't want to go anymore."
+      },
+      {
+        "order": 5,
+        "es": "Al final, Peter fue solo.",
+        "en": "In the end, Peter went alone."
+      },
+      {
+        "order": 6,
+        "es": "Y después del espectáculo, decidió esperar hasta que la multitud se hubiera dispersado para preguntar a la banda si realmente se estaban separando o no.",
+        "en": "And after the show, he decided to wait until the crowd had broken up to ask the band if they were really breaking up or not."
+      },
+      {
+        "order": 7,
+        "es": "Le dijeron que el concierto había sido un éxito tan grande que quizás no se separarían después de todo.",
+        "en": "They told him that the concert had been such a big success that they might not break up after all."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "file_name": "Phrasal_verbs_19.mp3",
+    "phrasal_verb": "to end up",
+    "base_verb": "end",
+    "particle": "up",
+    "meaning_es": "Significa 'acabar' o 'terminar' en una situación, lugar, o estado particular, a menudo de forma inesperada o no planificada. Puede referirse al resultado final de una serie de eventos o acciones.",
+    "situation": "Vida Cotidiana y Casa",
+    "tags_es": [
+      "acabar",
+      "terminar",
+      "resultar",
+      "llegar",
+      "ir a parar",
+      "finalizar",
+      "convertirse"
+    ],
+    "intro_note": "The speaker introduces the phrasal verb 'to end up'.",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Él terminó casándose con ella.",
+        "en": "He ended up marrying her."
+      },
+      {
+        "order": 2,
+        "es": "Acabaron en Timbuktu.",
+        "en": "They ended up in Timbuktu."
+      },
+      {
+        "order": 3,
+        "es": "¿Cómo demonios acabaron allí?",
+        "en": "How on earth did they end up there?"
+      },
+      {
+        "order": 4,
+        "es": "Ella bebió demasiado y acabó en el hospital.",
+        "en": "She drank too much and ended up in hospital."
+      },
+      {
+        "order": 5,
+        "es": "No quiero terminar como ella.",
+        "en": "I don't want to end up like her."
+      },
+      {
+        "order": 6,
+        "es": "El pobre tío acabó sin hogar.",
+        "en": "The poor guy ended up homeless."
+      },
+      {
+        "order": 7,
+        "es": "El viaje terminó costando más de lo que pensaron.",
+        "en": "The trip ended up costing more than they thought."
+      },
+      {
+        "order": 8,
+        "es": "¿Cómo hemos acabado aquí?",
+        "en": "How did we end up here?"
+      },
+      {
+        "order": 9,
+        "es": "Terminaron bailando toda la noche.",
+        "en": "They ended up dancing all night."
+      },
+      {
+        "order": 10,
+        "es": "Ella acabó uniéndose a un circo ambulante.",
+        "en": "She ended up joining a traveling circus."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "file_name": "Phrasal_verbs_20.mp3",
+    "phrasal_verb": "Story: Hitchhiking and Ending Up",
+    "base_verb": null,
+    "particle": null,
+    "meaning_es": "Una historia sobre dos amigos que viajan a dedo por Europa y cómo terminaron en diferentes situaciones y lugares inesperados.",
+    "situation": "Viajes y Transporte",
+    "tags_es": [
+      "viajar a dedo",
+      "hacer autostop",
+      "terminar",
+      "acabar",
+      "viaje",
+      "europa",
+      "aventura",
+      "sorpresa"
+    ],
+    "intro_note": "Una historia sobre dos amigos que viajan a dedo por Europa y las aventuras y situaciones en las que terminaron.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Autoestopistas.",
+        "en": "Hitchhikers."
+      },
+      {
+        "order": 2,
+        "es": "Cuando Peter estaba en la universidad, él y un amigo viajaron a dedo por Europa.",
+        "en": "When Peter was at university, he and a friend hitchhiked across Europe."
+      },
+      {
+        "order": 3,
+        "es": "Empezaron en París y terminaron consiguiendo un aventón hasta Fráncfort, donde terminaron durmiendo en un parque.",
+        "en": "They started in Paris and ended up getting a ride all the way to Frankfurt, where they ended up sleeping in a park."
+      },
+      {
+        "order": 4,
+        "es": "A la mañana siguiente, saltaron a la parte trasera de un camión y, tres días después, terminaron en Budapest.",
+        "en": "The next morning, they jumped on the back of a lorry and, three days later, ended up in Budapest."
+      },
+      {
+        "order": 5,
+        "es": "Allí, estaban tan cansados y hambrientos que terminaron registrándose en un hotel por la noche.",
+        "en": "There, they were so tired and hungry that they ended up checking into a hotel for the night."
+      },
+      {
+        "order": 6,
+        "es": "La habitación solo tenía una cama, y Peter terminó durmiendo en el suelo.",
+        "en": "The room only had one bed, and Peter ended up sleeping on the floor."
+      },
+      {
+        "order": 7,
+        "es": "El viaje terminó llevándoles un total de dos semanas.",
+        "en": "The trip ended up taking them a total of two weeks."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "file_name": "Phrasal_verbs_21.mp3",
+    "phrasal_verb": "to give up",
+    "base_verb": "give",
+    "particle": "up",
+    "meaning_es": "Dejar de hacer algo, abandonar, renunciar a algo o a un hábito, rendirse.",
+    "situation": "Vida Cotidiana y Casa",
+    "tags_es": [
+      "dejar",
+      "abandonar",
+      "renunciar",
+      "rendirse",
+      "hábitos",
+      "vicios",
+      "parar"
+    ],
+    "intro_note": "",
+    "drills": [
+      {
+        "order": 1,
+        "es": "¿Cuándo vas a dejar de fumar?",
+        "en": "When are you going to give up smoking?"
+      },
+      {
+        "order": 2,
+        "es": "Ya he intentado dejarlo dos veces.",
+        "en": "I've already tried to give up twice."
+      },
+      {
+        "order": 3,
+        "es": "¿Cómo conseguiste dejarlo?",
+        "en": "How did you manage to give up?"
+      },
+      {
+        "order": 4,
+        "es": "¿No crees que ella debería dejar de beber?",
+        "en": "Don't you think she should give up drinking?"
+      },
+      {
+        "order": 5,
+        "es": "Él fue despedido porque no podía dejar de beber.",
+        "en": "He was fired because he couldn't give up drinking."
+      },
+      {
+        "order": 6,
+        "es": "Si tuvieras que dejar un vicio, ¿cuál sería?",
+        "en": "If you had to give up one vice, what would it be?"
+      },
+      {
+        "order": 7,
+        "es": "Él es demasiado débil para dejar nada.",
+        "en": "He's too weak-minded to give anything up."
+      },
+      {
+        "order": 8,
+        "es": "He dejado la comida rápida para siempre.",
+        "en": "I've given up fast food for good."
+      },
+      {
+        "order": 9,
+        "es": "¿Por qué dejó ella la gimnasia?",
+        "en": "Why did she give up gymnastics?"
+      },
+      {
+        "order": 10,
+        "es": "Él dejó de tocar en una banda para ser médico.",
+        "en": "He gave up playing in a band to become a doctor."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "file_name": "Phrasal_verbs_22.mp3",
+    "phrasal_verb": "give up",
+    "base_verb": "give",
+    "particle": "up",
+    "meaning_es": "Dejar un hábito, abandonar, renunciar a algo.",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "dejar un hábito",
+      "abandonar",
+      "renunciar",
+      "propósitos de año nuevo",
+      "hábitos",
+      "fracaso",
+      "determinación"
+    ],
+    "intro_note": "Una breve historia sobre los propósitos de Año Nuevo de Peter y su recurrente problema con el phrasal verb 'give up'.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Antes del comienzo de cada año nuevo, Peter hace un propósito de Año Nuevo.",
+        "en": "Before the start of every new year, Peter makes a New Year's resolution."
+      },
+      {
+        "order": 2,
+        "es": "Siempre tienen que ver con dejar algún tipo de mal hábito.",
+        "en": "They always have to do with giving up some sort of bad habit."
+      },
+      {
+        "order": 3,
+        "es": "Hace tres años, había jurado dejar la comida chatarra, y el año pasado, había intentado dejar de beber cerveza.",
+        "en": "Three years ago, he had sworn to give up junk food, and last year, he had tried to give up drinking beer."
+      },
+      {
+        "order": 4,
+        "es": "El problema era que solo podía lograr dejar estas cosas por uno o dos meses antes de recaer.",
+        "en": "The problem was that he could only manage to give these things up for a month or two before relapsing."
+      },
+      {
+        "order": 5,
+        "es": "Este año, Peter está decidido a no fallar.",
+        "en": "This year, Peter is determined not to fail."
+      },
+      {
+        "order": 6,
+        "es": "Así que ha decidido dejar de hacer propósitos de Año Nuevo.",
+        "en": "So he has decided to give up making New Year's resolutions."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "file_name": "Phrasal_verbs_23.mp3",
+    "phrasal_verb": "to hang up",
+    "base_verb": "hang",
+    "particle": "up",
+    "meaning_es": "1. Colgar el teléfono: finalizar una llamada telefónica. 2. Colgar las botas: retirarse de una actividad, especialmente del deporte o una profesión.",
+    "situation": "Comunicación y Vida Personal/Profesional",
+    "tags_es": [
+      "colgar",
+      "teléfono",
+      "llamada",
+      "finalizar",
+      "terminar",
+      "retirarse",
+      "dejar",
+      "carrera",
+      "botas"
+    ],
+    "intro_note": "The speaker introduces the phrasal verb 'to hang up'.",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Ella colgó el teléfono y se fue a la cama.",
+        "en": "She hung up the phone and went to bed."
+      },
+      {
+        "order": 2,
+        "es": "Sonó otra vez justo después de que ella colgara.",
+        "en": "It rang again right after she had hung up."
+      },
+      {
+        "order": 3,
+        "es": "Colgaron en cuanto ella contestó el teléfono.",
+        "en": "They hung up as soon as she answered the phone."
+      },
+      {
+        "order": 4,
+        "es": "Asegúrate de que colgaste bien el teléfono.",
+        "en": "Make sure you hung up the phone properly."
+      },
+      {
+        "order": 5,
+        "es": "Él colgó después del décimo tono.",
+        "en": "He hung up after the tenth ring."
+      },
+      {
+        "order": 6,
+        "es": "¿Te han colgado alguna vez el teléfono?",
+        "en": "Have you ever been hung up on?"
+      },
+      {
+        "order": 7,
+        "es": "Nunca me han colgado el teléfono.",
+        "en": "I've never been hung up on."
+      },
+      {
+        "order": 8,
+        "es": "Steve suele colgar el teléfono a los vendedores.",
+        "en": "Steve usually hangs up on telemarketers."
+      },
+      {
+        "order": 9,
+        "es": "Finalmente, él colgó sus botas a los 47 años.",
+        "en": "He finally hung up his boots at the age of 47."
+      },
+      {
+        "order": 10,
+        "es": "Debería haberlas colgado hace una década.",
+        "en": "He should have hung them up a decade ago."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "file_name": "Phrasal_verbs_24.mp3",
+    "phrasal_verb": "hang up",
+    "base_verb": "hang",
+    "particle": "up",
+    "meaning_es": "Terminar una conversación telefónica, a menudo abruptamente o sin despedirse. También puede referirse a la acción de cortar la comunicación por teléfono.",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "colgar el teléfono",
+      "terminar llamada",
+      "comunicación telefónica",
+      "desconectar",
+      "cortar llamada"
+    ],
+    "intro_note": "A short story illustrating the phrasal verb 'hang up' in the context of phone calls.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "No te quedes colgado.",
+        "en": "Don't get hung up."
+      },
+      {
+        "order": 2,
+        "es": "Peter acababa de colgar el teléfono cuando volvió a sonar.",
+        "en": "Peter had just hung up the phone when it rang again."
+      },
+      {
+        "order": 3,
+        "es": "Él descolgó, pero la persona del otro lado colgó sin decir una palabra.",
+        "en": "He picked it up, but the person on the other end hung up without saying a word."
+      },
+      {
+        "order": 4,
+        "es": "No era la primera vez que alguien le colgaba a Peter, así que decidió llamar a la compañía telefónica para ver si podían rastrear la llamada.",
+        "en": "This wasn't the first time someone had hung up on Peter, so he decided to call the phone company to see if they could trace the call."
+      },
+      {
+        "order": 5,
+        "es": "Marcó el número, pero no pasó nada, así que colgó y lo intentó de nuevo.",
+        "en": "He dialed the number, but nothing happened, so he hung up and tried again."
+      },
+      {
+        "order": 6,
+        "es": "Esta vez, el teléfono simplemente sonó y sonó, así que Peter colgó de nuevo.",
+        "en": "This time, the phone just rang and rang, so Peter hung up again."
+      },
+      {
+        "order": 7,
+        "es": "Al tercer intento, una mujer del departamento de atención al cliente contestó.",
+        "en": "On the third try, a woman from the customer service department picked up."
+      },
+      {
+        "order": 8,
+        "es": "Pero ella fue tan grosera que Peter le colgó.",
+        "en": "But she was so rude that Peter hung up on her."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "file_name": "Phrasal_verbs_25.mp3",
+    "phrasal_verb": "to use up",
+    "base_verb": "use",
+    "particle": "up",
+    "meaning_es": "Consumir o gastar completamente algo hasta agotarlo o no quedar nada.",
+    "situation": "Vida Cotidiana y Casa, Consumo",
+    "tags_es": [
+      "consumir",
+      "agotar",
+      "gastar",
+      "acabar",
+      "terminar",
+      "vacaciones",
+      "batería",
+      "recursos",
+      "suministros",
+      "champú",
+      "papel higiénico",
+      "gasolina"
+    ],
+    "intro_note": "The phrasal verb introduced is 'to use up'.",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Para cuándo tienes que haber gastado tus días de vacaciones?",
+        "en": "When do you have to use up your holiday days by?"
+      },
+      {
+        "order": 2,
+        "es": "Tienes que gastarlos antes de que termine el año.",
+        "en": "You have to use them up before the end of the year."
+      },
+      {
+        "order": 3,
+        "es": "Gastó toda la batería.",
+        "en": "It used up all the battery."
+      },
+      {
+        "order": 4,
+        "es": "No podemos permitirnos gastar todas las reservas.",
+        "en": "We can't afford to use all our supplies up."
+      },
+      {
+        "order": 5,
+        "es": "Los coches viejos gastan más gasolina que los nuevos.",
+        "en": "Older cars use up more petrol than newer ones."
+      },
+      {
+        "order": 6,
+        "es": "Has gastado todo el champú?",
+        "en": "Did you use up all the shampoo?"
+      },
+      {
+        "order": 7,
+        "es": "Todos nuestros recursos se han acabado.",
+        "en": "All our resources are used up."
+      },
+      {
+        "order": 8,
+        "es": "He utilizado las sobras de anoche para hacer una sopa.",
+        "en": "I used up the leftovers from last night to make a soup."
+      },
+      {
+        "order": 9,
+        "es": "¿Quién ha gastado el papel higiénico?",
+        "en": "Who used up all the toilet paper?"
+      },
+      {
+        "order": 10,
+        "es": "Pide más en cuanto se haya acabado.",
+        "en": "Order some more as soon as it's all been used up."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "file_name": "Phrasal_verbs_26.mp3",
+    "phrasal_verb": "use up",
+    "base_verb": "use",
+    "particle": "up",
+    "meaning_es": "Consumir o gastar completamente algo hasta que no quede nada.",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "agotarse",
+      "consumir",
+      "gastar",
+      "vacaciones",
+      "viaje",
+      "dinero",
+      "crédito",
+      "recursos"
+    ],
+    "intro_note": "Este pasaje narra una pequeña historia que ilustra el uso repetido del 'phrasal verb' 'use up' (agotar, consumir, gastar).",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Peter aún tenía dos semanas de vacaciones para usar/gastarse.",
+        "en": "Peter still had two weeks of holiday to use up."
+      },
+      {
+        "order": 2,
+        "es": "Así que decidió gastarlas en un viaje a Canadá.",
+        "en": "So he decided to use them up on a trip to Canada."
+      },
+      {
+        "order": 3,
+        "es": "Desafortunadamente, ya había agotado todas sus millas aéreas.",
+        "en": "Unfortunately, he had already used up all his air miles."
+      },
+      {
+        "order": 4,
+        "es": "Así que tuvo que pagar el precio completo por su billete de avión.",
+        "en": "So he had to pay full price for his plane ticket."
+      },
+      {
+        "order": 5,
+        "es": "En su último día allí, quiso llamar a casa,",
+        "en": "On his last day there, he wanted to call home,"
+      },
+      {
+        "order": 6,
+        "es": "pero había agotado todo el crédito de su teléfono,",
+        "en": "but he had used up all the credit on his phone,"
+      },
+      {
+        "order": 7,
+        "es": "y no pudo usar un teléfono público porque ya había gastado todas sus monedas canadienses.",
+        "en": "and he couldn't use a payphone because he'd already used up all his Canadian coins."
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "file_name": "Phrasal_verbs_27.mp3",
+    "phrasal_verb": "to wake up",
+    "base_verb": "wake",
+    "particle": "up",
+    "meaning_es": "Despertar o despertarse. Puede usarse de forma transitiva (despertar a alguien) o intransitiva (despertarse uno mismo).",
+    "situation": "Vida Cotidiana y Casa",
+    "tags_es": [
+      "despertar",
+      "levantarse",
+      "sueño",
+      "mañana",
+      "dormir"
+    ],
+    "intro_note": "The phrasal verb 'to wake up' is introduced with its pronunciation, followed by example sentences.",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Hace falta mucho ruido para despertarme.",
+        "en": "It takes a lot of noise to wake me up."
+      },
+      {
+        "order": 2,
+        "es": "Ella se despertó antes que los demás.",
+        "en": "She woke up before everyone else."
+      },
+      {
+        "order": 3,
+        "es": "Cuando se despertó, estaba a oscuro.",
+        "en": "When he woke up, it was dark."
+      },
+      {
+        "order": 4,
+        "es": "Nunca me despierto antes de las 7.",
+        "en": "I never wake up before 7 a.m."
+      },
+      {
+        "order": 5,
+        "es": "Nos despertamos al cantar de los pájaros.",
+        "en": "We woke up to the birds singing."
+      },
+      {
+        "order": 6,
+        "es": "Nos despertó la tormenta.",
+        "en": "The storm woke us up."
+      },
+      {
+        "order": 7,
+        "es": "Cállate, o despertarás al bebé.",
+        "en": "Be quiet, or you'll wake the baby up."
+      },
+      {
+        "order": 8,
+        "es": "Me gustaría que me despertaran a las 8 de la mañana.",
+        "en": "I'd like to be woken up at 8 a.m."
+      },
+      {
+        "order": 9,
+        "es": "Se fue a dormir y nunca se despertó.",
+        "en": "He went to sleep and never woke up."
+      },
+      {
+        "order": 10,
+        "es": "¡Despiértate!",
+        "en": "Wake up!"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "file_name": "Phrasal_verbs_28.mp3",
+    "phrasal_verb": "wake up",
+    "base_verb": "wake",
+    "particle": "up",
+    "meaning_es": "Despertar, sacar a alguien del sueño.",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "despertar",
+      "levantarse",
+      "mañana",
+      "alarma",
+      "sueño",
+      "rutina diaria"
+    ],
+    "intro_note": "Una historia sobre Peter que se despierta tarde y la importancia de la alarma.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "¡Despierta, despierta!",
+        "en": "Waky waky."
+      },
+      {
+        "order": 2,
+        "es": "Cuando Peter se despertó, casi le da un infarto.",
+        "en": "When Peter woke up, he almost had a heart attack."
+      },
+      {
+        "order": 3,
+        "es": "Eran las 10 de la mañana y debería haberse despertado a las 7 de la mañana.",
+        "en": "It was 10 AM and he should have woken up at 7 AM."
+      },
+      {
+        "order": 4,
+        "es": "No podía entender por qué su despertador no lo había despertado.",
+        "en": "He couldn't understand why his alarm clock hadn't woken him up."
+      },
+      {
+        "order": 5,
+        "es": "Sin embargo, se levantó, se duchó y bebió dos grandes tazas de café para ayudarle a despertar.",
+        "en": "Nevertheless, he got up, showered and drank two large cups of coffee to help him wake up."
+      },
+      {
+        "order": 6,
+        "es": "Decidió despertar a su vecino para pedirle que lo llevara al trabajo.",
+        "en": "He decided to wake up his neighbor to ask him for a ride to work."
+      },
+      {
+        "order": 7,
+        "es": "El vecino de Peter no estaba contento de ser despertado y menos aún un sábado por la mañana.",
+        "en": "Peter's neighbor wasn't happy to be woken up and even less so on a Saturday morning."
+      },
+      {
+        "order": 8,
+        "es": "Con razón el despertador de Peter no lo había despertado.",
+        "en": "No wonder Peter's alarm clock hadn't woken him up."
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "file_name": "Phrasal_verbs_29.mp3",
+    "phrasal_verb": "to wait up",
+    "base_verb": "wait",
+    "particle": "up",
+    "meaning_es": "Permanecer despierto, especialmente por la noche, esperando a alguien o algo.",
+    "situation": "Vida Cotidiana y Casa",
+    "tags_es": [
+      "esperar",
+      "despierto",
+      "quedarse levantado",
+      "aguardar",
+      "permanecer despierto"
+    ],
+    "intro_note": "The speaker introduces the phrasal verb 'to wait up' and then proceeds with bilingual practice drills.",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Puedes esperarme levantado? No tengo las llaves.",
+        "en": "Can you wait up for me? I don't have my keys."
+      },
+      {
+        "order": 2,
+        "es": "No esperaré levantado más tarde de las 2.",
+        "en": "I won't wait up any later than 2:00 AM."
+      },
+      {
+        "order": 3,
+        "es": "Él esperó levantado tanto como pudo.",
+        "en": "He waited up as long as he could."
+      },
+      {
+        "order": 4,
+        "es": "Ella le esperó levantada, pero él nunca volvió a casa.",
+        "en": "She waited up for him, but he never came home."
+      },
+      {
+        "order": 5,
+        "es": "Esperaron levantados hasta que ella llegó a casa.",
+        "en": "They waited up until she came home."
+      },
+      {
+        "order": 6,
+        "es": "No te molestes en esperar levantado, llegaré tarde.",
+        "en": "Don't bother waiting up, I'll be late."
+      },
+      {
+        "order": 7,
+        "es": "Llevo esperándote levantado toda la noche.",
+        "en": "I've been waiting up all night for you."
+      },
+      {
+        "order": 8,
+        "es": "No puedo esperar levantado más.",
+        "en": "I can't wait up anymore."
+      },
+      {
+        "order": 9,
+        "es": "Te dije que no me esperaras levantado.",
+        "en": "I told you not to wait up for me."
+      },
+      {
+        "order": 10,
+        "es": "Sus padres le esperaron levantados.",
+        "en": "His parents waited up for him."
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "file_name": "Phrasal_verbs_30.mp3",
+    "phrasal_verb": "wait up",
+    "base_verb": "wait",
+    "particle": "up",
+    "meaning_es": "Esperar despierto a alguien (especialmente hasta tarde).",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "esperar",
+      "despierto",
+      "hasta tarde",
+      "vigilia",
+      "cuidar",
+      "niños",
+      "noche"
+    ],
+    "intro_note": "This story uses the phrasal verb 'wait up' multiple times in context, meaning to stay awake to wait for someone.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "¿Esperar o no esperar?",
+        "en": "To wait or not to wait."
+      },
+      {
+        "order": 2,
+        "es": "La hermana de Peter le había pedido que cuidara a sus hijos mientras ella iba al teatro.",
+        "en": "Peter's sister had asked him to look after her children while she went to the theater."
+      },
+      {
+        "order": 3,
+        "es": "Peter pensó que ella volvería temprano, así que decidió esperarla despierto.",
+        "en": "Peter thought she would be back early, so he decided to wait up for her."
+      },
+      {
+        "order": 4,
+        "es": "Los niños también querían esperarla despiertos, y como Peter pensó que no tendrían que esperar mucho tiempo, los dejó.",
+        "en": "The children wanted to wait up for her too, and since Peter thought they wouldn't have to wait up long, he let them."
+      },
+      {
+        "order": 5,
+        "es": "A las 11:30 PM, habían estado esperando despiertos durante casi tres horas, y Peter estaba preocupado.",
+        "en": "At 11:30 PM, they had been waiting up for almost three hours, and Peter was worried."
+      },
+      {
+        "order": 6,
+        "es": "Les dijo a los niños que ya no podían esperar despiertos porque ya era hora de dormir.",
+        "en": "He told the children that they couldn't wait up anymore because it was past their bedtime."
+      },
+      {
+        "order": 7,
+        "es": "Peter se preguntó cuánto tiempo más tendría que esperar despierto a su hermana.",
+        "en": "Peter wondered how much longer he would have to wait up for his sister."
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "file_name": "Phrasal_verbs_31.mp3",
+    "phrasal_verb": "to stay up",
+    "base_verb": "stay",
+    "particle": "up",
+    "meaning_es": "quedarse levantado o despierto, no irse a la cama, especialmente hasta tarde.",
+    "situation": "Vida Cotidiana y Casa",
+    "tags_es": [
+      "quedarse despierto",
+      "no dormir",
+      "trasnochar",
+      "permanecer levantado",
+      "hasta tarde"
+    ],
+    "intro_note": "to stay up",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Dejaron a los niños quedarse levantados.",
+        "en": "They let the children stay up."
+      },
+      {
+        "order": 2,
+        "es": "Ella se quedó levantada hasta que salió el sol.",
+        "en": "She stayed up until the sun came up."
+      },
+      {
+        "order": 3,
+        "es": "Nos quedaremos levantados toda la noche.",
+        "en": "We'll stay up all night."
+      },
+      {
+        "order": 4,
+        "es": "Antes nos quedábamos levantados hasta tarde.",
+        "en": "We used to stay up until late."
+      },
+      {
+        "order": 5,
+        "es": "¿Por qué te quedas despierto hasta tan tarde?",
+        "en": "Why do you stay up so late?"
+      },
+      {
+        "order": 6,
+        "es": "Intenté quedarme despierto, pero no pude.",
+        "en": "I tried to stay up, but I couldn't."
+      },
+      {
+        "order": 7,
+        "es": "No te quedes levantado toda la noche, ¿vale?",
+        "en": "Don't stay up all night, okay?"
+      },
+      {
+        "order": 8,
+        "es": "Se quedó levantado todo lo que pudo.",
+        "en": "He stayed up as long as he could."
+      },
+      {
+        "order": 9,
+        "es": "¿Con qué frecuencia te quedas despierto hasta tarde?",
+        "en": "How often do you stay up late?"
+      },
+      {
+        "order": 10,
+        "es": "Nunca me quedo despierto hasta tarde.",
+        "en": "I never stay up late."
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "file_name": "Phrasal_verbs_32.mp3",
+    "phrasal_verb": "stay up",
+    "base_verb": "stay",
+    "particle": "up",
+    "meaning_es": "quedarse despierto, permanecer despierto, trasnochar",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "quedarse despierto",
+      "permanecer despierto",
+      "no irse a la cama",
+      "trasnochar",
+      "vida nocturna",
+      "dormir tarde"
+    ],
+    "intro_note": "Esta historia ilustra el uso del phrasal verb 'stay up' (quedarse despierto, trasnochar) en el contexto de la vida diaria y los hábitos de sueño.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Como un bebé.",
+        "en": "Like a baby."
+      },
+      {
+        "order": 2,
+        "es": "Cuando Peter era un niño, sus padres nunca lo dejaban quedarse despierto hasta tarde.",
+        "en": "When Peter was a child, his parents never let him stay up late."
+      },
+      {
+        "order": 3,
+        "es": "Excepto en la víspera de Año Nuevo.",
+        "en": "Except on New Year's Eve."
+      },
+      {
+        "order": 4,
+        "es": "Y siempre estaba tratando de inventar excusas para quedarse despierto más allá de su hora de acostarse.",
+        "en": "And he was always trying to make up excuses to stay up past his bedtime."
+      },
+      {
+        "order": 5,
+        "es": "Ahora que Peter es un adulto y puede quedarse despierto hasta tan tarde como quiera, nunca se queda despierto muy tarde.",
+        "en": "Now that Peter is a grown-up and he can stay up as late as he wants, he never stays up very late."
+      },
+      {
+        "order": 6,
+        "es": "Excepto, por supuesto, en la víspera de Año Nuevo, pero incluso entonces, solo logra quedarse despierto el tiempo suficiente para ver el reloj dar la medianoche.",
+        "en": "Except of course on New Year's Eve, but even then he only manages to stay up just long enough to see the clock strike midnight."
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "file_name": "Phrasal_verbs_33.mp3",
+    "phrasal_verb": "to get up",
+    "base_verb": "get",
+    "particle": "up",
+    "meaning_es": "significa levantarse (de la cama, de una silla, etc.)",
+    "situation": "Vida Cotidiana y Casa",
+    "tags_es": [
+      "levantarse",
+      "despertar",
+      "cama",
+      "mañana",
+      "ponerse de pie"
+    ],
+    "intro_note": null,
+    "drills": [
+      {
+        "order": 1,
+        "es": "Esta mañana me levanté a las 6.",
+        "en": "I got up at 6 o'clock this morning."
+      },
+      {
+        "order": 2,
+        "es": "¿Por qué te levantaste tan pronto?",
+        "en": "Why did you get up so early?"
+      },
+      {
+        "order": 3,
+        "es": "Tuve que levantarme pronto para limpiar el piso.",
+        "en": "I had to get up early to clean my flat."
+      },
+      {
+        "order": 4,
+        "es": "Necesito una hora para levantarme por la mañana.",
+        "en": "I need an hour to get up in the morning."
+      },
+      {
+        "order": 5,
+        "es": "Ella debe haberse levantado con el pie izquierdo.",
+        "en": "She must have gotten up on the wrong side of the bed."
+      },
+      {
+        "order": 6,
+        "es": "Él no pudo levantarse esta mañana.",
+        "en": "He couldn't get up this morning."
+      },
+      {
+        "order": 7,
+        "es": "¿Le gusta levantarse tan pronto?",
+        "en": "Does he like to get up so early?"
+      },
+      {
+        "order": 8,
+        "es": "Levántate.",
+        "en": "Get up."
+      },
+      {
+        "order": 9,
+        "es": "Bebí agua antes de levantarme.",
+        "en": "I drank some water before I got up."
+      },
+      {
+        "order": 10,
+        "es": "Ella se levantó tarde y perdió el autobús.",
+        "en": "She got up late and missed her bus."
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "file_name": "Phrasal_verbs_34.mp3",
+    "phrasal_verb": "get up",
+    "base_verb": "get",
+    "particle": "up",
+    "meaning_es": "Levantarse de una cama o silla, o ponerse de pie.",
+    "situation": "Vida Cotidiana y Casa",
+    "tags_es": [
+      "levantarse",
+      "despertar",
+      "ponerse de pie",
+      "rutina diaria",
+      "mañana"
+    ],
+    "intro_note": "In this lesson, we will learn the phrasal verb 'get up'.",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Es difícil levantarse por la mañana.",
+        "en": "It's hard to get up in the morning."
+      },
+      {
+        "order": 2,
+        "es": "Ella se levantó de la silla para saludarme.",
+        "en": "She got up from the chair to greet me."
+      },
+      {
+        "order": 3,
+        "es": "Necesito levantarme temprano mañana.",
+        "en": "I need to get up early tomorrow."
+      },
+      {
+        "order": 4,
+        "es": "Todos los días me levanto a las seis en punto.",
+        "en": "Every day I get up at six o'clock."
+      },
+      {
+        "order": 5,
+        "es": "Levántate y ponte en marcha.",
+        "en": "Get up and get going."
+      },
+      {
+        "order": 6,
+        "es": "Me gustaría levantarme a las siete.",
+        "en": "I would like to get up at seven."
+      },
+      {
+        "order": 7,
+        "es": "Los niños se levantan tarde los fines de semana.",
+        "en": "The kids get up late on weekends."
+      },
+      {
+        "order": 8,
+        "es": "Cuando el teléfono sonó, me levanté para contestar.",
+        "en": "When the phone rang, I got up to answer."
+      },
+      {
+        "order": 9,
+        "es": "No puedo levantarme de la cama.",
+        "en": "I can't get up from bed."
+      },
+      {
+        "order": 10,
+        "es": "A veces me levanto antes del amanecer.",
+        "en": "Sometimes I get up before sunrise."
+      },
+      {
+        "order": 11,
+        "es": "Tienes que levantarte del suelo.",
+        "en": "You have to get up from the floor."
+      },
+      {
+        "order": 12,
+        "es": "Me levanté muy rápido y me mareé.",
+        "en": "I got up too fast and felt dizzy."
+      },
+      {
+        "order": 13,
+        "es": "Él se levantó de la mesa para irse.",
+        "en": "He got up from the table to leave."
+      },
+      {
+        "order": 14,
+        "es": "Siempre me levanto temprano en invierno.",
+        "en": "I always get up early in winter."
+      },
+      {
+        "order": 15,
+        "es": "Ella se levantará más tarde hoy.",
+        "en": "She will get up later today."
+      },
+      {
+        "order": 16,
+        "es": "Él se levantó para aplaudir.",
+        "en": "He got up to applaud."
+      },
+      {
+        "order": 17,
+        "es": "Tenemos que levantarnos para el desayuno.",
+        "en": "We have to get up for breakfast."
+      },
+      {
+        "order": 18,
+        "es": "No quiero levantarme todavía.",
+        "en": "I don't want to get up yet."
+      },
+      {
+        "order": 19,
+        "es": "La gente se levantó y se fue.",
+        "en": "The people got up and left."
+      },
+      {
+        "order": 20,
+        "es": "Me gusta levantarme con el sol.",
+        "en": "I like to get up with the sun."
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "file_name": "Phrasal_verbs_35.mp3",
+    "phrasal_verb": "to catch up",
+    "base_verb": "catch",
+    "particle": "up",
+    "meaning_es": "Alcanzar a alguien o algo que va adelante; ponerse al día o al mismo nivel que otros.",
+    "situation": "Movimiento y Lugares",
+    "tags_es": [
+      "alcanzar",
+      "ponerse al día",
+      "igualar",
+      "adelantar",
+      "nivelar"
+    ],
+    "intro_note": "To catch up",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Él nunca le alcanzará, está muy atrás.",
+        "en": "He'll never catch up with him, he's too far behind."
+      },
+      {
+        "order": 2,
+        "es": "Sigue adelante, te alcanzará en un minuto.",
+        "en": "Go ahead, I'll catch up in a minute."
+      },
+      {
+        "order": 3,
+        "es": "No les dejes ponerse a nuestro nivel.",
+        "en": "Don't let them catch up with us."
+      },
+      {
+        "order": 4,
+        "es": "Tiene que ponerse al nivel del resto de la clase.",
+        "en": "He has to catch up with the rest of the class."
+      },
+      {
+        "order": 5,
+        "es": "Cuando ella le alcanzó, estaba sin aliento.",
+        "en": "When she caught up with him, she was out of breath."
+      },
+      {
+        "order": 6,
+        "es": "Si se va ahora, les alcanzará.",
+        "en": "If he leaves now, he'll catch them up."
+      },
+      {
+        "order": 7,
+        "es": "Él paró para dejar que ella le alcanzara.",
+        "en": "He stopped to let her catch up."
+      },
+      {
+        "order": 8,
+        "es": "Ese país se está poniendo al nivel del resto.",
+        "en": "That country is catching up with the rest."
+      },
+      {
+        "order": 9,
+        "es": "Si él no nos alcanza pronto, tendremos que parar.",
+        "en": "If he doesn't catch up soon, we'll have to stop."
+      },
+      {
+        "order": 10,
+        "es": "La policía le alcanzó en la frontera.",
+        "en": "The police caught up with him at the border."
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "file_name": "Phrasal_verbs_36.mp3",
+    "phrasal_verb": "catch up (with/to)",
+    "base_verb": "catch",
+    "particle": "up",
+    "meaning_es": "Alcanzar a alguien o algo, ponerse a la altura o al día con algo o alguien. En el contexto de una carrera, significa alcanzar a un competidor que va por delante.",
+    "situation": "Deportes y Competición",
+    "tags_es": [
+      "alcanzar",
+      "ponerse al día",
+      "competencia",
+      "carrera",
+      "Fórmula 1",
+      "superar",
+      "historia",
+      "adelantar"
+    ],
+    "intro_note": "Este relato ilustra el uso del phrasal verb 'catch up (with/to)' en el contexto de una carrera de Fórmula 1, significando 'alcanzar' a otros competidores. También incluye la expresión 'catch your breath' para empezar la narración.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Toma aire.",
+        "en": "Catch your breath."
+      },
+      {
+        "order": 2,
+        "es": "Era la última carrera de Fórmula 1 de la temporada y el piloto favorito de Peter, Otto Van Lipsheim, estaba en último lugar.",
+        "en": "It was the final Formula 1 race of the season and Peter's favorite driver, Otto Van Lipsheim, was in last place."
+      },
+      {
+        "order": 3,
+        "es": "Si no alcanzaba al resto de los pilotos, lo perdería todo.",
+        "en": "If he didn't catch up with the rest of the drivers, he would lose everything."
+      },
+      {
+        "order": 4,
+        "es": "Faltando 20 vueltas, había alcanzado al piloto en quinto lugar y solo necesitaba alcanzar al piloto en tercer lugar para convertirse en campeón mundial.",
+        "en": "With 20 laps to go, he had caught up to the fifth-place driver and only needed to catch up to the third-place driver to become world champion."
+      },
+      {
+        "order": 5,
+        "es": "Faltando cinco vueltas, Otto había alcanzado al piloto en tercer lugar y parecía haber sellado la victoria cuando de repente, en la última vuelta, el piloto en cuarto lugar alcanzó a Otto y lo adelantó.",
+        "en": "With five laps to go, Otto had caught up with the third-place driver and looked to have sealed victory when suddenly, on the final lap, the driver in fourth place caught up with Otto and overtook him."
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "file_name": "Phrasal_verbs_37.mp3",
+    "phrasal_verb": "to come up",
+    "base_verb": "come",
+    "particle": "up",
+    "meaning_es": "Aproximarse, acercarse, llegar, suceder pronto, subir a un nivel.",
+    "situation": "Vida Cotidiana y Eventos",
+    "tags_es": [
+      "acercarse",
+      "aproximarse",
+      "llegar",
+      "suceder",
+      "ocurrir",
+      "eventos",
+      "tiempo",
+      "movimiento",
+      "nivel",
+      "encontrarse",
+      "aparecer"
+    ],
+    "intro_note": "",
+    "drills": [
+      {
+        "order": 1,
+        "es": "La Navidad se está acercando.",
+        "en": "Christmas is coming up soon."
+      },
+      {
+        "order": 2,
+        "es": "Nos estamos acercando a mi salida.",
+        "en": "We're coming up to my exit."
+      },
+      {
+        "order": 3,
+        "es": "No dijo Juan que se está acercando su cumpleaños?",
+        "en": "Didn't Juan say his birthday is coming up?"
+      },
+      {
+        "order": 4,
+        "es": "Acércate al podio para recibir tu premio.",
+        "en": "Come up to the podium to receive your prize."
+      },
+      {
+        "order": 5,
+        "es": "Es casi medianoche.",
+        "en": "It's coming up to midnight."
+      },
+      {
+        "order": 6,
+        "es": "No le gusta cuando los extraños se acercan a él.",
+        "en": "He doesn't like it when strangers come up to him."
+      },
+      {
+        "order": 7,
+        "es": "Nos estamos acercando a las elecciones primarias.",
+        "en": "We're coming up to the primary elections."
+      },
+      {
+        "order": 8,
+        "es": "Durante la inundación, el agua nos llegaba a las rodillas.",
+        "en": "During the flood, the water came up to our knees."
+      },
+      {
+        "order": 9,
+        "es": "No nos oyeron acercarnos por detrás.",
+        "en": "They didn't hear us come up behind them."
+      },
+      {
+        "order": 10,
+        "es": "Hay una buena película justo después del telediario.",
+        "en": "There's a good movie coming up right after the news."
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "file_name": "Phrasal_verbs_38.mp3",
+    "phrasal_verb": "Story: The short arm of the law",
+    "base_verb": null,
+    "particle": null,
+    "meaning_es": "Una historia que juega con la expresión idiomática 'el brazo corto de la ley' (refiriéndose a la ineficacia o limitaciones de la autoridad) al describir un encuentro con un policía literalmente de baja estatura. Ilustra el uso repetido del phrasal verb 'come up' en diferentes contextos.",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "historia",
+      "narrativa",
+      "vida diaria",
+      "policía",
+      "humor",
+      "juego de palabras",
+      "come up",
+      "acercarse",
+      "aparecer",
+      "venir a",
+      "recordar",
+      "aniversario",
+      "regalo",
+      "detenerse",
+      "esperar",
+      "coche de policía",
+      "luces",
+      "oficial",
+      "estatura",
+      "ventanilla",
+      "the short arm of the law"
+    ],
+    "intro_note": "Una historia corta que ilustra el uso de varios phrasal verbs, incluyendo 'come up', y un juego de palabras con el título.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "El brazo corto de la ley.",
+        "en": "The short arm of the law."
+      },
+      {
+        "order": 2,
+        "es": "Cuando Peter estaba en la panadería, un amigo suyo se le acercó para recordarle que el aniversario de sus padres se acercaba pronto.",
+        "en": "When Peter was at the bakery, a friend of his came up to him to remind him that his parents' anniversary was coming up soon."
+      },
+      {
+        "order": 3,
+        "es": "De camino al centro comercial para comprar un regalo, un coche de policía apareció detrás del coche de Peter y encendió sus luces.",
+        "en": "On his way to the shopping center to buy a gift, a police car came up behind Peter's car and flashed its lights."
+      },
+      {
+        "order": 4,
+        "es": "Peter se detuvo y esperó mientras un policía se acercaba lentamente a su coche.",
+        "en": "Peter stopped and waited as a policeman slowly came up to his car."
+      },
+      {
+        "order": 5,
+        "es": "Peter se sorprendió al ver que el policía era tan bajo que ni siquiera llegaba a la ventanilla.",
+        "en": "Peter was shocked to see that the policeman was so short, he didn't even come up to the window."
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "file_name": "Phrasal_verbs_39.mp3",
+    "phrasal_verb": "to go up",
+    "base_verb": "go",
+    "particle": "up",
+    "meaning_es": "Acercarse a (una persona o cosa), aproximarse.",
+    "situation": "Interacción Social",
+    "tags_es": [
+      "acercarse",
+      "aproximarse",
+      "ir hacia",
+      "contacto",
+      "social"
+    ],
+    "intro_note": "The speaker introduces the phrasal verb 'to go up'.",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Acércate a ella y pregúntale si quiere bailar.",
+        "en": "Go up to her and ask her if she wants to dance."
+      },
+      {
+        "order": 2,
+        "es": "Él se acercó a un policía para preguntar unas direcciones.",
+        "en": "He went up to a policeman to get directions."
+      },
+      {
+        "order": 3,
+        "es": "A que no te atreves a acercarte a él.",
+        "en": "I dare you to go up to him."
+      },
+      {
+        "order": 4,
+        "es": "Ella se acercó a él para conseguir un autógrafo.",
+        "en": "She went up to him to get his autograph."
+      },
+      {
+        "order": 5,
+        "es": "El chico se acercó al profesor llorando.",
+        "en": "The boy went up to the teacher crying."
+      },
+      {
+        "order": 6,
+        "es": "Acerquémonos a ella juntos.",
+        "en": "Let's go up to her together."
+      },
+      {
+        "order": 7,
+        "es": "¿Por qué no quieres acercarte solo?",
+        "en": "Why don't you want to go up alone?"
+      },
+      {
+        "order": 8,
+        "es": "No puede acercarse a ella sin ponerse colorado.",
+        "en": "He can't go up to her without blushing."
+      },
+      {
+        "order": 9,
+        "es": "¿Qué hace cuando ella se acerca a él?",
+        "en": "What does he do when she goes up to him?"
+      },
+      {
+        "order": 10,
+        "es": "Ella nunca se ha acercado a él.",
+        "en": "She has never gone up to him."
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "file_name": "Phrasal_verbs_40.mp3",
+    "phrasal_verb": "go up to",
+    "base_verb": "go",
+    "particle": "up to",
+    "meaning_es": "Acercarse a (alguien/algo), ir hacia (alguien/algo)",
+    "situation": "Relaciones y Emociones",
+    "tags_es": [
+      "acercarse",
+      "aproximarse",
+      "abordar",
+      "social",
+      "interacción"
+    ],
+    "intro_note": "Una historia sobre Peter intentando reunir el valor para acercarse a una compañera de trabajo.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Peter estaba tratando de armarse de valor para acercarse a una mujer hermosa que trabajaba en su oficina.",
+        "en": "Peter was trying to get up the courage to go up to a beautiful woman who worked in his office."
+      },
+      {
+        "order": 2,
+        "es": "Había querido acercársele durante meses, pero no había podido encontrar el momento adecuado.",
+        "en": "He had been wanting to go up to her for months, but he hadn't been able to find the right moment."
+      },
+      {
+        "order": 3,
+        "es": "Nunca había tenido problemas para acercarse a las mujeres antes, pero esta vez no podía pensar en qué le diría cuando se acercara a ella.",
+        "en": "He had never had problems going up to women before, but this time he couldn't think of what he would say when he went up to her."
+      },
+      {
+        "order": 4,
+        "es": "En el almuerzo, Peter finalmente se le acercó en el dispensador de agua y le preguntó si le gustaría cenar más tarde.",
+        "en": "At lunch, Peter finally went up to her at the water cooler and asked her if she would like to have dinner later."
+      },
+      {
+        "order": 5,
+        "es": "Ella aceptó, y Peter rápidamente se acercó a uno de sus colegas para darle la buena noticia.",
+        "en": "She agreed, and Peter quickly went up to one of his colleagues to tell him the good news."
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "file_name": "Phrasal_verbs_41.mp3",
+    "phrasal_verb": "make up",
+    "base_verb": "make",
+    "particle": "up",
+    "meaning_es": "Inventar, crear algo falso, fabricar (historias, excusas, etc.)",
+    "situation": "Vida Cotidiana y Casa",
+    "tags_es": [
+      "inventar",
+      "crear",
+      "mentir",
+      "excusas",
+      "historias",
+      "chistes",
+      "fingir"
+    ],
+    "intro_note": "To make up",
+    "drills": [
+      {
+        "order": 1,
+        "es": "No me lo estoy inventando.",
+        "en": "I'm not making it up."
+      },
+      {
+        "order": 2,
+        "es": "Suena como una palabra inventada.",
+        "en": "It sounds like a made-up word."
+      },
+      {
+        "order": 3,
+        "es": "¿Por qué él se lo inventaría?",
+        "en": "Why would he make it up?"
+      },
+      {
+        "order": 4,
+        "es": "No te inventes excusas.",
+        "en": "Don't make up excuses."
+      },
+      {
+        "order": 5,
+        "es": "Ella se inventa muchas cosas.",
+        "en": "She makes a lot of things up."
+      },
+      {
+        "order": 6,
+        "es": "Tienes que inventar una excusa mejor que esa.",
+        "en": "You need to make up a better excuse than that."
+      },
+      {
+        "order": 7,
+        "es": "Si no sabes la respuesta, invéntate una.",
+        "en": "If you don't know the answer, make one up."
+      },
+      {
+        "order": 8,
+        "es": "Ella era genial inventando historias.",
+        "en": "She was great at making up stories."
+      },
+      {
+        "order": 9,
+        "es": "Él se inventa todos sus chistes.",
+        "en": "He makes up all of his jokes."
+      },
+      {
+        "order": 10,
+        "es": "Qué mentiroso, se lo inventó todo.",
+        "en": "What a liar, he made everything up."
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "file_name": "Phrasal_verbs_42.mp3",
+    "phrasal_verb": "Story: Peter's Stage Fright (make up, sign up)",
+    "base_verb": null,
+    "particle": null,
+    "meaning_es": "Una historia sobre Peter, que es bueno inventando chistes ('make up jokes') pero sufre de miedo escénico. El relato también incluye el phrasal verb 'sign up' (inscribirse).",
+    "situation": "Vida Cotidiana, Relaciones y Emociones",
+    "tags_es": [
+      "miedo escénico",
+      "inventar",
+      "crear",
+      "chistes",
+      "excusas",
+      "improvisar",
+      "inscribirse",
+      "apuntarse",
+      "talento",
+      "historia"
+    ],
+    "intro_note": "This is a short story about Peter, who is a funny person with an ability to 'make up' jokes, but struggles with stage fright after being 'signed up' for a talent show.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Miedo escénico.",
+        "en": "Stage fright."
+      },
+      {
+        "order": 2,
+        "es": "Mucha gente considera que Peter es bastante divertido, e incluso él admite que tiene una gran habilidad para inventar chistes en los momentos más oportunos.",
+        "en": "Many people consider Peter to be quite funny, and even he admits that he has a great ability to make up jokes at the most opportune times."
+      },
+      {
+        "order": 3,
+        "es": "Pero cuando uno de sus amigos lo inscribió en un concurso de talentos, Peter comenzó a inventar excusas de por qué no podía hacerlo.",
+        "en": "But when one of his friends signed him up in a talent show, Peter started making up excuses why he couldn't do it."
+      },
+      {
+        "order": 4,
+        "es": "No tenía problemas para inventar chistes entre sus amigos porque los conocía, pero frente a una audiencia, estaba seguro de que no podría inventar ninguno bueno.",
+        "en": "He had no trouble making up jokes around his friends because he knew them, but in front of an audience, he was sure he couldn't make up any good ones."
+      },
+      {
+        "order": 5,
+        "es": "El día del show, Peter no había inventado una excusa lo suficientemente buena para quedarse en casa, así que se sentó y comenzó a inventar nuevo material.",
+        "en": "On the day of the show, Peter hadn't made up a good enough excuse to stay at home, so he sat down and started making up new material."
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "file_name": "Phrasal_verbs_43.mp3",
+    "phrasal_verb": "to draw up",
+    "base_verb": "draw",
+    "particle": "up",
+    "meaning_es": "Redactar, elaborar o preparar un documento, un plan, una lista, un contrato, etc.",
+    "situation": "Trabajo y Negocios",
+    "tags_es": [
+      "redactar",
+      "elaborar",
+      "preparar",
+      "documento",
+      "contrato",
+      "propuesta",
+      "plan",
+      "testamento",
+      "lista"
+    ],
+    "intro_note": "The speaker introduces the phrasal verb 'to draw up'.",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Están redactando la propuesta en este momento.",
+        "en": "They're drawing the proposal up as we speak."
+      },
+      {
+        "order": 2,
+        "es": "Están redactando un nuevo contrato también?",
+        "en": "Are they drawing up a new contract too?"
+      },
+      {
+        "order": 3,
+        "es": "Cuando estará redactado el acuerdo final.",
+        "en": "When will the final agreement be drawn up?"
+      },
+      {
+        "order": 4,
+        "es": "Que redacten algo rápido.",
+        "en": "Have them draw up something quickly."
+      },
+      {
+        "order": 5,
+        "es": "Los planes fueron elaborados el año pasado.",
+        "en": "The plans were drawn up last year."
+      },
+      {
+        "order": 6,
+        "es": "Quién los elaboró?",
+        "en": "Who drew them up?"
+      },
+      {
+        "order": 7,
+        "es": "Están intentando elaborar un borrador.",
+        "en": "They're trying to draw up a draft."
+      },
+      {
+        "order": 8,
+        "es": "Voy a redactar mi testamento yo mismo.",
+        "en": "I'm going to draw up my will myself."
+      },
+      {
+        "order": 9,
+        "es": "Más vale que dejes que lo redacte un abogado.",
+        "en": "You'd better let a lawyer draw it up."
+      },
+      {
+        "order": 10,
+        "es": "Smith dijo que redactaría una lista.",
+        "en": "Smith said he'd draw up a list."
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "file_name": "Phrasal_verbs_44.mp3",
+    "phrasal_verb": "draw up",
+    "base_verb": "draw",
+    "particle": "up",
+    "meaning_es": "Preparar, redactar o elaborar un documento oficial (como un plan, una lista, un contrato, un presupuesto o un testamento).",
+    "situation": "Trabajo y Negocios",
+    "tags_es": [
+      "redactar",
+      "preparar",
+      "elaborar",
+      "documento",
+      "plan",
+      "lista",
+      "presupuesto",
+      "contrato",
+      "testamento",
+      "borrador"
+    ],
+    "intro_note": "Hoy vamos a aprender el phrasal verb 'draw up', que significa principalmente preparar o redactar un documento.",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Peter ha sido elegido para elaborar el nuevo presupuesto anual.",
+        "en": "Peter has been chosen to draw up the new annual budget."
+      },
+      {
+        "order": 2,
+        "es": "Necesito que redactes un plan detallado para la reunión.",
+        "en": "I need you to draw up a detailed plan for the meeting."
+      },
+      {
+        "order": 3,
+        "es": "Mi abogado me ayudó a preparar mi testamento.",
+        "en": "My lawyer helped me draw up my will."
+      },
+      {
+        "order": 4,
+        "es": "¿Puedes elaborar una lista de compras para el supermercado?",
+        "en": "Can you draw up a shopping list for the supermarket?"
+      },
+      {
+        "order": 5,
+        "es": "Es importante que redactemos el contrato cuidadosamente.",
+        "en": "It's important that we draw up the contract carefully."
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "file_name": "Phrasal_verbs_45.mp3",
+    "phrasal_verb": "to come up with",
+    "base_verb": "come",
+    "particle": "up with",
+    "meaning_es": "Idear, sugerir, proponer, inventar, ocurrirsele a uno (una idea, solución).",
+    "situation": "Ideas y Creatividad",
+    "tags_es": [
+      "sugerir",
+      "idear",
+      "proponer",
+      "inventar",
+      "ocurrirse",
+      "encontrar",
+      "soluciones",
+      "creatividad"
+    ],
+    "intro_note": "",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Se os ha ocurrido alguna sugerencia?",
+        "en": "Have you come up with any suggestions?"
+      },
+      {
+        "order": 2,
+        "es": "Nunca se me ocurren grandes ideas.",
+        "en": "I never come up with great ideas."
+      },
+      {
+        "order": 3,
+        "es": "Se te ha ocurrido algo alguna vez?",
+        "en": "Have you ever come up with anything?"
+      },
+      {
+        "order": 4,
+        "es": "Se les ocurrió su propia propuesta.",
+        "en": "They came up with their own proposal."
+      },
+      {
+        "order": 5,
+        "es": "La fecha límite para proponer algo es el viernes.",
+        "en": "The deadline to come up with something is Friday."
+      },
+      {
+        "order": 6,
+        "es": "No se nos ha ocurrido mucho.",
+        "en": "We haven't come up with much."
+      },
+      {
+        "order": 7,
+        "es": "Cómo vamos a proponer más ideas?",
+        "en": "How are we going to come up with more ideas?"
+      },
+      {
+        "order": 8,
+        "es": "Él perderá su trabajo si no se le ocurre algo.",
+        "en": "He'll lose his job if he doesn't come up with something."
+      },
+      {
+        "order": 9,
+        "es": "Se le ocurren las mentiras más increíbles.",
+        "en": "He comes up with the most incredible lies."
+      },
+      {
+        "order": 10,
+        "es": "Qué se ha propuesto hasta ahora?",
+        "en": "What have they come up with so far?"
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "file_name": "Phrasal_verbs_46.mp3",
+    "phrasal_verb": "come up with",
+    "base_verb": "come",
+    "particle": "up with",
+    "meaning_es": "idear, ocurrírsele a uno una idea, proponer una idea",
+    "situation": "Generación de ideas y soluciones",
+    "tags_es": [
+      "idear",
+      "ocurrir",
+      "proponer",
+      "inventar",
+      "encontrar",
+      "solucionar",
+      "planear",
+      "crear",
+      "formular",
+      "concebir",
+      "regalo",
+      "excusa",
+      "plan",
+      "estrategia",
+      "problema"
+    ],
+    "intro_note": "Friend in need. If only Peter could come up with a gift idea for his girlfriend's birthday. But everything he comes up with is either too expensive or too dull. He's asked all his friends and family to help him come up with something, but no one has been able to. He has until the 15th to come up with something, but since today is the 11th, time is not on his side. The last thing Peter wants is to have to come up with an excuse why he couldn't come up with a good idea for a present. In today's lesson, we're going to explore the phrasal verb 'come up with'. 'Come up with' significa idear, ocurrírsele a uno una idea, proponer una idea. Let's practice with some examples.",
+    "drills": [
+      {
+        "order": 1,
+        "es": "¿Se te ocurrió alguna idea para la fiesta?",
+        "en": "Did you come up with any ideas for the party?"
+      },
+      {
+        "order": 2,
+        "es": "Se le ocurrió un plan genial para el proyecto.",
+        "en": "He came up with a great plan for the project."
+      },
+      {
+        "order": 3,
+        "es": "No puedo encontrar una excusa para no ir.",
+        "en": "I can't come up with an excuse not to go."
+      },
+      {
+        "order": 4,
+        "es": "¿Por qué no se te ocurrió algo antes?",
+        "en": "Why didn't you come up with something sooner?"
+      },
+      {
+        "order": 5,
+        "es": "Necesitamos encontrar una solución a este problema.",
+        "en": "We need to come up with a solution to this problem."
+      },
+      {
+        "order": 6,
+        "es": "Ella siempre encuentra las mejores ideas para regalos.",
+        "en": "She always comes up with the best gift ideas."
+      },
+      {
+        "order": 7,
+        "es": "¿Se te ocurrió la respuesta al rompecabezas?",
+        "en": "Did you come up with the answer to the riddle?"
+      },
+      {
+        "order": 8,
+        "es": "Si no se te ocurre algo pronto, vamos a tener problemas.",
+        "en": "If you don't come up with something soon, we're going to be in trouble."
+      },
+      {
+        "order": 9,
+        "es": "No puedo creer la historia que se inventó.",
+        "en": "I can't believe the story he came up with."
+      },
+      {
+        "order": 10,
+        "es": "¿Se te ocurre una forma de ahorrar dinero?",
+        "en": "Can you come up with a way to save money?"
+      },
+      {
+        "order": 11,
+        "es": "Ella ideó un nuevo enfoque para el marketing.",
+        "en": "She came up with a new approach to marketing."
+      },
+      {
+        "order": 12,
+        "es": "Es difícil encontrar un nombre para nuestro nuevo producto.",
+        "en": "It's hard to come up with a name for our new product."
+      },
+      {
+        "order": 13,
+        "es": "Necesito idear una estrategia para ganar el juego.",
+        "en": "I need to come up with a strategy to win the game."
+      },
+      {
+        "order": 14,
+        "es": "Si se te ocurre algo, házmelo saber.",
+        "en": "If you come up with anything, let me know."
+      },
+      {
+        "order": 15,
+        "es": "No se nos ocurrió nada.",
+        "en": "We didn't come up with anything."
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "file_name": "Phrasal_verbs_47.mp3",
+    "phrasal_verb": "to take up",
+    "base_verb": "take",
+    "particle": "up",
+    "meaning_es": "Empezar una actividad, un hobby, un deporte, una ocupación. También puede significar 'ocupar espacio' o 'aceptar una oferta', pero en este audio se enfoca en 'empezar una actividad'.",
+    "situation": "Vida Cotidiana y Casa",
+    "tags_es": [
+      "empezar",
+      "iniciar",
+      "comenzar",
+      "hobby",
+      "actividad",
+      "deporte",
+      "afición"
+    ],
+    "intro_note": "Today we're going to look at the phrasal verb 'to take up'.",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Voy a empezar kárate.",
+        "en": "I'm going to take up karate."
+      },
+      {
+        "order": 2,
+        "es": "¿Por qué no empiezas a hacer algo más interesante?",
+        "en": "Why don't you take up something more interesting?"
+      },
+      {
+        "order": 3,
+        "es": "Smith empezó clases de guitarra el mes pasado.",
+        "en": "Smith took up guitar lessons last month."
+      },
+      {
+        "order": 4,
+        "es": "Él empieza un hobby nuevo cada seis meses.",
+        "en": "He takes up a new hobby every six months."
+      },
+      {
+        "order": 5,
+        "es": "El año pasado, él empezó a hacer tiro con arco y boxeo.",
+        "en": "Last year, he took up archery and boxing."
+      },
+      {
+        "order": 6,
+        "es": "¿Quién sabe qué empezará a hacer después?",
+        "en": "Who knows what he'll take up next?"
+      },
+      {
+        "order": 7,
+        "es": "Apuesto a que empieza a hacer baile.",
+        "en": "I bet he takes up dancing."
+      },
+      {
+        "order": 8,
+        "es": "Empezaré a hacer yoga si tú lo haces.",
+        "en": "I'll take up yoga if you do."
+      },
+      {
+        "order": 9,
+        "es": "¿Empezaste a hacerlo para impresionarla?",
+        "en": "Did you take it up to impress her?"
+      },
+      {
+        "order": 10,
+        "es": "¿Cuándo empezaste a hacerlo?",
+        "en": "When did you take it up?"
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "file_name": "Phrasal_verbs_48.mp3",
+    "phrasal_verb": "take up",
+    "base_verb": "take",
+    "particle": "up",
+    "meaning_es": "Empezar a practicar un deporte, un pasatiempo o un estudio; asumir un trabajo o una responsabilidad.",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "empezar hobby",
+      "comenzar deporte",
+      "asumir trabajo",
+      "deportes",
+      "Peter",
+      "natación",
+      "buceo",
+      "equitación",
+      "fútbol",
+      "golf",
+      "costoso"
+    ],
+    "intro_note": "Una historia sobre Peter y cómo comenzó a practicar varios deportes, y los desafíos económicos que esto presentó para su familia.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Cuando Peter era un niño, amaba los deportes y empezó a practicar tantos como pudo.",
+        "en": "When Peter was a child, he loved sports and he took up as many as he could."
+      },
+      {
+        "order": 2,
+        "es": "Además de empezar a practicar fútbol y golf, también empezó a practicar natación.",
+        "en": "Apart from taking up football and golf, he also took up swimming."
+      },
+      {
+        "order": 3,
+        "es": "Empezó a practicar natación porque había visto buceo en la televisión y quería empezar a practicarlo.",
+        "en": "He took up swimming because he had seen diving on TV and he wanted to take it up."
+      },
+      {
+        "order": 4,
+        "es": "Pero como no sabía nadar, tuvo que empezar a practicar natación primero.",
+        "en": "But since he couldn't swim, he had to take up swimming first."
+      },
+      {
+        "order": 5,
+        "es": "Al final, nunca empezó a practicar buceo porque se aburrió de nadar y empezó a practicar equitación.",
+        "en": "In the end, he never took up diving because he got bored of swimming and took up horse riding."
+      },
+      {
+        "order": 6,
+        "es": "Todos estos deportes eran caros y sus padres tuvieron que empezar a trabajar en segundos empleos para pagarlos todos.",
+        "en": "All of these sports were expensive and his parents had to take up second jobs to pay for them all."
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "file_name": "Phrasal_verbs_49.mp3",
+    "phrasal_verb": "to set up",
+    "base_verb": "set",
+    "particle": "up",
+    "meaning_es": "Significa 'montar', 'establecer' o 'instalar' algo. Puede referirse a ensamblar una estructura (como una tienda de campaña), establecer un negocio, organizar un sistema o preparar algo para su uso.",
+    "situation": "Vida Cotidiana y Casa, Trabajo y Negocios, Acciones Generales",
+    "tags_es": [
+      "montar",
+      "establecer",
+      "instalar",
+      "organizar",
+      "configurar",
+      "negocio",
+      "tienda de campaña",
+      "equipo",
+      "oficina",
+      "barricadas"
+    ],
+    "intro_note": "The speaker introduces the phrasal verb and then provides bilingual practice drills.",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Montaron su propia empresa la primavera pasada.",
+        "en": "They set up their own company last spring."
+      },
+      {
+        "order": 2,
+        "es": "La montaron bastante rápidamente.",
+        "en": "They set it up pretty quickly."
+      },
+      {
+        "order": 3,
+        "es": "Podrías ayudarme a montar la tienda de campaña?",
+        "en": "Could you help me set up the tent?"
+      },
+      {
+        "order": 4,
+        "es": "Sin las instrucciones, no podremos montarla.",
+        "en": "Without the instructions, we won't be able to set it up."
+      },
+      {
+        "order": 5,
+        "es": "No has montado nunca una tienda antes?",
+        "en": "Haven't you ever set up a tent before?"
+      },
+      {
+        "order": 6,
+        "es": "La policía estableció barricadas a lo largo de la calle.",
+        "en": "The police set up barricades along the road."
+      },
+      {
+        "order": 7,
+        "es": "Montaron el equipo de sonido rápidamente.",
+        "en": "They set up the sound equipment quickly."
+      },
+      {
+        "order": 8,
+        "es": "Llámame cuando todo esté establecido.",
+        "en": "Call me when everything is set up."
+      },
+      {
+        "order": 9,
+        "es": "Quieren que él monte una nueva oficina.",
+        "en": "They want him to set up a new office."
+      },
+      {
+        "order": 10,
+        "es": "Él solo no podrá montar una oficina.",
+        "en": "He won't be able to set up an office by himself."
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "file_name": "Phrasal_verbs_50.mp3",
+    "phrasal_verb": "set up",
+    "base_verb": "set",
+    "particle": "up",
+    "meaning_es": "establecer, montar, organizar un negocio o un sistema",
+    "situation": "Trabajo y Negocios",
+    "tags_es": [
+      "establecer",
+      "montar",
+      "organizar",
+      "negocio",
+      "empresa",
+      "iniciar",
+      "crear",
+      "preparar"
+    ],
+    "intro_note": "Welcome to another English lesson on phrasal verbs. Today we have the phrasal verb 'set up'. It has multiple meanings, but we're going to focus on its meaning as 'establecer', 'montar', or 'organizar' a business or a system.",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Peter está planeando establecer su propia galería de arte.",
+        "en": "Peter is planning to set up his own art gallery."
+      },
+      {
+        "order": 2,
+        "es": "Necesitamos montar un nuevo sistema de seguridad.",
+        "en": "We need to set up a new security system."
+      },
+      {
+        "order": 3,
+        "es": "Ellos quieren organizar una reunión para la próxima semana.",
+        "en": "They want to set up a meeting for next week."
+      },
+      {
+        "order": 4,
+        "es": "Fue difícil establecer la empresa al principio.",
+        "en": "It was hard to set up the company at first."
+      },
+      {
+        "order": 5,
+        "es": "Mi hermana ayudó a organizar el evento benéfico.",
+        "en": "My sister helped to set up the charity event."
+      },
+      {
+        "order": 6,
+        "es": "Podemos montar la tienda de campaña en el jardín.",
+        "en": "We can set up the tent in the garden."
+      },
+      {
+        "order": 7,
+        "es": "Ella planea establecer una fundación para ayudar a los niños.",
+        "en": "She plans to set up a foundation to help children."
+      },
+      {
+        "order": 8,
+        "es": "Los técnicos están montando el nuevo equipo.",
+        "en": "The technicians are setting up the new equipment."
+      },
+      {
+        "order": 9,
+        "es": "Vamos a organizar un comité para discutir esto.",
+        "en": "We are going to set up a committee to discuss this."
+      },
+      {
+        "order": 10,
+        "es": "Me gustaría establecer un horario regular de ejercicio.",
+        "en": "I would like to set up a regular exercise schedule."
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "file_name": "Phrasal_verbs_51.mp3",
+    "phrasal_verb": "to start up",
+    "base_verb": "start",
+    "particle": "up",
+    "meaning_es": "Iniciar, arrancar, poner en marcha, establecer, encender. Se usa para referirse a la puesta en marcha de un negocio, un coche, un proyecto, una conversación, etc.",
+    "situation": "Trabajo y Negocios",
+    "tags_es": [
+      "iniciar",
+      "arrancar",
+      "comenzar",
+      "establecer",
+      "poner en marcha",
+      "encender",
+      "negocio",
+      "conversación",
+      "motor",
+      "proyecto"
+    ],
+    "intro_note": "To start up.",
+    "drills": [
+      {
+        "order": 1,
+        "es": "El negocio que él montó se fue a la bancarrota.",
+        "en": "The business he started up went bankrupt."
+      },
+      {
+        "order": 2,
+        "es": "Él no tenía suficiente capital inicial.",
+        "en": "He didn't have enough start-up capital."
+      },
+      {
+        "order": 3,
+        "es": "Él está intentando montar una cafetería.",
+        "en": "He's trying to start up a coffee shop."
+      },
+      {
+        "order": 4,
+        "es": "No arranques el motor hasta que yo lo diga.",
+        "en": "Don't start up the engine until I say so."
+      },
+      {
+        "order": 5,
+        "es": "Si no arranca, dale una patada.",
+        "en": "If it doesn't start up, kick it."
+      },
+      {
+        "order": 6,
+        "es": "¿Cuánto dinero necesitaré para montar una franquicia?",
+        "en": "How much money will I need to start up a franchise?"
+      },
+      {
+        "order": 7,
+        "es": "Es difícil establecer una conversación con ella.",
+        "en": "It's difficult to start up a conversation with her."
+      },
+      {
+        "order": 8,
+        "es": "¿Cómo la establecerías?",
+        "en": "How would you start one up?"
+      },
+      {
+        "order": 9,
+        "es": "Estoy pensando en montar un club nuevo.",
+        "en": "I'm thinking about starting up a new club."
+      },
+      {
+        "order": 10,
+        "es": "¿Te harías socio si montara uno?",
+        "en": "Would you join if I started one up?"
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "file_name": "Phrasal_verbs_52.mp3",
+    "phrasal_verb": "start up",
+    "base_verb": "start",
+    "particle": "up",
+    "meaning_es": "Iniciar o poner en marcha algo (un negocio, una conversación, una máquina, etc.).",
+    "situation": "Trabajo y Negocios",
+    "tags_es": [
+      "iniciar",
+      "empezar",
+      "comenzar",
+      "emprender",
+      "establecer",
+      "poner en marcha"
+    ],
+    "intro_note": "Esta historia ilustra el uso del 'phrasal verb' 'start up' en diferentes contextos, como iniciar un club, una conversación o un negocio.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Más vale pájaro en mano que ciento volando.",
+        "en": "A bird in the hand is worth two in the bush."
+      },
+      {
+        "order": 2,
+        "es": "Uno de los amigos de Peter inició un club de observación de aves y le pidió a Peter que se uniera.",
+        "en": "One of Peter's friends started up a bird-watching club and asked Peter to join."
+      },
+      {
+        "order": 3,
+        "es": "Peter admiraba a su amigo por querer iniciar un club de observación de aves.",
+        "en": "Peter admired his friend for wanting to start up a bird-watching club."
+      },
+      {
+        "order": 4,
+        "es": "Le gustaban los pájaros y pensó que podría iniciar algunas conversaciones interesantes con los otros miembros, así que se unió.",
+        "en": "He liked birds and thought he could start up some interesting conversations with the other members, so he joined."
+      },
+      {
+        "order": 5,
+        "es": "En la primera excursión, inició una conversación con una mujer que estaba poniendo en marcha su propia agencia de publicidad.",
+        "en": "On the first excursion, he started up a conversation with a woman who was starting up her own advertising agency."
+      },
+      {
+        "order": 6,
+        "es": "Necesitaba dinero para ponerla en marcha, por eso estaba iniciando conversaciones con posibles inversores.",
+        "en": "She needed money to start it up, which was why she was starting up conversations with potential investors."
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "file_name": "Phrasal_verbs_53.mp3",
+    "phrasal_verb": "to sign up",
+    "base_verb": "sign",
+    "particle": "up",
+    "meaning_es": "Inscribirse, apuntarse o matricularse en algo (un curso, un evento, etc.).",
+    "situation": "Educación y Actividades",
+    "tags_es": [
+      "inscribirse",
+      "apuntarse",
+      "matricularse",
+      "registro",
+      "curso",
+      "clases",
+      "evento"
+    ],
+    "intro_note": "The speaker introduces the phrasal verb \"to sign up\" at the beginning.",
+    "drills": [
+      {
+        "order": 1,
+        "es": "La fecha límite para matricularse es mañana.",
+        "en": "The deadline to sign up is tomorrow."
+      },
+      {
+        "order": 2,
+        "es": "Menos mal que me matriculé la semana pasada.",
+        "en": "It's a good thing I signed up last week."
+      },
+      {
+        "order": 3,
+        "es": "Él se ha apuntado a clases de italiano.",
+        "en": "He has signed up for Italian lessons."
+      },
+      {
+        "order": 4,
+        "es": "¿Leíste la letra pequeña antes de apuntarte?",
+        "en": "Did you read the small print before you signed up?"
+      },
+      {
+        "order": 5,
+        "es": "Si la hubiera leído, no me habría apuntado.",
+        "en": "If I'd read it, I wouldn't have signed up."
+      },
+      {
+        "order": 6,
+        "es": "¿Era gratis apuntarse?",
+        "en": "Was it free to sign up?"
+      },
+      {
+        "order": 7,
+        "es": "Si te apuntas antes del día 15, es gratis.",
+        "en": "If you sign up before the 15th, it's free."
+      },
+      {
+        "order": 8,
+        "es": "Puedes matricularte en internet.",
+        "en": "You can sign up on the internet."
+      },
+      {
+        "order": 9,
+        "es": "No estoy seguro de querer matricularme ahora.",
+        "en": "I'm not sure I want to sign up now."
+      },
+      {
+        "order": 10,
+        "es": "Ella está apuntada en el curso más avanzado.",
+        "en": "She has signed up for the most advanced course."
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "file_name": "Phrasal_verbs_54.mp3",
+    "phrasal_verb": "Story: Signing Up",
+    "base_verb": null,
+    "particle": null,
+    "meaning_es": "Una historia sobre Peter y su decisión de apuntarse a un curso, utilizando los phrasal verbs 'sign up for' y 'make up his mind'.",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "apuntarse",
+      "inscribirse",
+      "decidirse",
+      "historia",
+      "curso",
+      "universidad",
+      "buceo"
+    ],
+    "intro_note": "Esta historia narra cómo Peter decide a qué tipo de curso quiere apuntarse, utilizando los phrasal verbs 'sign up for' y 'make up his mind'.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Como pez fuera del agua.",
+        "en": "Like a fish out of water."
+      },
+      {
+        "order": 2,
+        "es": "Uno de los amigos de Peter se había apuntado a un curso de estudios empresariales en la universidad local y le preguntó a Peter si quería que lo inscribiera a él también.",
+        "en": "One of Peter's friends had signed up for a business studies course at the local university and asked Peter if he wanted him to sign him up too."
+      },
+      {
+        "order": 3,
+        "es": "Aunque Peter pensó que apuntarse mejoraría su currículum, quería inscribirse en algo un poco más interesante que las clases de negocios.",
+        "en": "Although Peter thought that signing up would improve his CV, he wanted to sign up for something a little more interesting than business classes."
+      },
+      {
+        "order": 4,
+        "es": "Después de hacer algunas llamadas, se decidió a que iba a apuntarse a clases de buceo.",
+        "en": "After making a few calls, he made up his mind that he was going to sign up for scuba diving classes."
+      },
+      {
+        "order": 5,
+        "es": "El único problema era que necesitaría conseguir que alguien más se inscribiera con él para ser su compañero de buceo.",
+        "en": "The only problem was that he would need to get someone else to sign up with him to be his scuba diving partner."
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "file_name": "Phrasal_verbs_55.mp3",
+    "phrasal_verb": "to back up",
+    "base_verb": "back",
+    "particle": "up",
+    "meaning_es": "Apoyar o dar respaldo a alguien.",
+    "situation": "Relaciones y Emociones",
+    "tags_es": [
+      "apoyar",
+      "respaldar",
+      "defender",
+      "ayudar",
+      "intervenir"
+    ],
+    "intro_note": "The phrasal verb 'to back up' is introduced at the beginning.",
+    "drills": [
+      {
+        "order": 1,
+        "es": "¿Por qué no me apoyaste?",
+        "en": "Why didn't you back me up?"
+      },
+      {
+        "order": 2,
+        "es": "Si te hubiera apoyado, habría perdido mi trabajo.",
+        "en": "If I'd backed you up, I would have lost my job."
+      },
+      {
+        "order": 3,
+        "es": "No esperes que él te apoye la próxima vez.",
+        "en": "Don't expect him to back you up next time."
+      },
+      {
+        "order": 4,
+        "es": "Si ellos no te creen, yo te apoyaré.",
+        "en": "If they don't believe you, I'll back you up."
+      },
+      {
+        "order": 5,
+        "es": "Ella te apoyará si se lo pides.",
+        "en": "She'll back you up if you ask her to."
+      },
+      {
+        "order": 6,
+        "es": "¿Cómo le vas a apoyar?",
+        "en": "How are you going to back him up?"
+      },
+      {
+        "order": 7,
+        "es": "Apóyame en esto, por favor.",
+        "en": "Back me up on this, please."
+      },
+      {
+        "order": 8,
+        "es": "Nos apoyaremos el uno al otro.",
+        "en": "We'll back each other up."
+      },
+      {
+        "order": 9,
+        "es": "¿Por qué debería él apoyarla?",
+        "en": "Why should he back her up?"
+      },
+      {
+        "order": 10,
+        "es": "¿Le apoyarías a él si él te lo pidiera?",
+        "en": "Would you back him up if he asked you to?"
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "file_name": "Phrasal_verbs_56.mp3",
+    "phrasal_verb": "back up",
+    "base_verb": "back",
+    "particle": "up",
+    "meaning_es": "Apoyar o confirmar algo (una historia, una coartada, una declaración) o a alguien. En este contexto, significa dar credibilidad o verificar.",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "respaldar",
+      "apoyar",
+      "confirmar",
+      "verificar",
+      "coartada",
+      "historia",
+      "prueba",
+      "teléfono",
+      "policía",
+      "evidencia"
+    ],
+    "intro_note": "Una historia sobre Peter, quien necesita que alguien o algo respalde su coartada cuando la policía le interroga.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Cuando la policía le preguntó a Peter dónde había estado el viernes por la noche, les dijo que había estado solo en casa, pero que no tenía a nadie que respaldara su coartada.",
+        "en": "When the police asked Peter where he had been on Friday night, he told them he had been at home alone, but that he didn't have anyone to back up his alibi."
+      },
+      {
+        "order": 2,
+        "es": "Le dijeron que, sin nadie que lo respaldara, tendría que ir con ellos a la comisaría.",
+        "en": "They told him that without anyone to back him up, he would have to go to the police station with them."
+      },
+      {
+        "order": 3,
+        "es": "Peter estaba seguro de que había alguien que podía respaldar su historia, pero la pregunta era quién.",
+        "en": "Peter was sure there was someone who could back his story up, but the question was who."
+      },
+      {
+        "order": 4,
+        "es": "Justo en ese momento, recordó que había hecho varias llamadas telefónicas a casa de su hermana antes de acostarse.",
+        "en": "Just then, he remembered that he had made several phone calls to his sister's house before he had gone to bed."
+      },
+      {
+        "order": 5,
+        "es": "Su hermana no podía respaldarlo ya que no había contestado el teléfono, pero los registros telefónicos respaldarían su historia.",
+        "en": "His sister couldn't back him up since she hadn't answered the phone, but the phone records would back up his story."
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "file_name": "Phrasal_verbs_57.mp3",
+    "phrasal_verb": "to dress up",
+    "base_verb": "dress",
+    "particle": "up",
+    "meaning_es": "disfrazarse, o vestir elegante/formal",
+    "situation": "Vida Cotidiana y Casa",
+    "tags_es": [
+      "disfrazarse",
+      "disfraz",
+      "vestir",
+      "elegante",
+      "formal",
+      "ropa",
+      "fiesta"
+    ],
+    "intro_note": "to dress up",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Vas a disfrazarte para la fiesta de Halloween?",
+        "en": "Are you going to dress up for the Halloween party?"
+      },
+      {
+        "order": 2,
+        "es": "Voy a disfrazarme de Superman.",
+        "en": "I'm dressing up as Superman."
+      },
+      {
+        "order": 3,
+        "es": "Te disfrazaste de Superman el año pasado.",
+        "en": "You dressed up as Superman last year."
+      },
+      {
+        "order": 4,
+        "es": "¿De qué vas a disfrazarte?",
+        "en": "What are you going to dress up as?"
+      },
+      {
+        "order": 5,
+        "es": "Todos los empleados deben ir elegantes.",
+        "en": "All employees must dress up."
+      },
+      {
+        "order": 6,
+        "es": "Vas elegante a trabajar.",
+        "en": "Do you dress up for work?"
+      },
+      {
+        "order": 7,
+        "es": "Voy elegante a las reuniones.",
+        "en": "I dress up for meetings."
+      },
+      {
+        "order": 8,
+        "es": "No deberías ir elegante siempre?",
+        "en": "Shouldn't you dress up all the time?"
+      },
+      {
+        "order": 9,
+        "es": "No puedo ir elegante todo el tiempo.",
+        "en": "I can't dress up all the time."
+      },
+      {
+        "order": 10,
+        "es": "Asegúrate de ir elegante a la fiesta.",
+        "en": "Make sure you dress up for the party."
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "file_name": "Phrasal_verbs_58.mp3",
+    "phrasal_verb": "dress up",
+    "base_verb": "dress",
+    "particle": "up",
+    "meaning_es": "Significa vestirse de forma elegante o formal para una ocasión especial. También puede significar disfrazarse, ponerse un disfraz.",
+    "situation": "Vida Cotidiana y Casa",
+    "tags_es": [
+      "vestir",
+      "disfrazar",
+      "ropa",
+      "formal",
+      "elegante",
+      "costume",
+      "fiesta",
+      "ocasión especial"
+    ],
+    "intro_note": "Peter entendió 'dress up' como disfrazarse y fue a la fiesta de Navidad vestido de elfo, pero todos los demás estaban en esmoquin. Se dio cuenta de que 'dress up' tiene dos significados: disfrazarse y vestirse formalmente.",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Nos tenemos que vestir elegantes para la boda.",
+        "en": "We have to dress up for the wedding."
+      },
+      {
+        "order": 2,
+        "es": "Ella se arregló mucho para la fiesta.",
+        "en": "She dressed up for the party."
+      },
+      {
+        "order": 3,
+        "es": "Los niños se disfrazaron de superhéroes para Halloween.",
+        "en": "The kids dressed up as superheroes for Halloween."
+      },
+      {
+        "order": 4,
+        "es": "¿Te vas a disfrazar para la fiesta de disfraces?",
+        "en": "Are you going to dress up for the costume party?"
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "file_name": "Phrasal_verbs_59.mp3",
+    "phrasal_verb": "to look up",
+    "base_verb": "look",
+    "particle": "up",
+    "meaning_es": "Buscar información en una fuente de referencia (diccionario, libro, internet, etc.)",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "buscar",
+      "información",
+      "diccionario",
+      "internet",
+      "consultar",
+      "referencia",
+      "encontrar"
+    ],
+    "intro_note": "To look up",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Busca la palabra en el diccionario.",
+        "en": "Look up the word in the dictionary."
+      },
+      {
+        "order": 2,
+        "es": "Ella buscó la palabra para comprobar la ortografía.",
+        "en": "She looked up the word to check the spelling."
+      },
+      {
+        "order": 3,
+        "es": "Subraya la palabra y búscala luego.",
+        "en": "Underline the word and look it up later."
+      },
+      {
+        "order": 4,
+        "es": "Estoy seguro de que he buscado esa palabra antes.",
+        "en": "I'm sure I've looked that word up before."
+      },
+      {
+        "order": 5,
+        "es": "Si no tienes diccionario, búscala en internet.",
+        "en": "If you don't have a dictionary, look it up online."
+      },
+      {
+        "order": 6,
+        "es": "Búscalo en la enciclopedia.",
+        "en": "Look it up in the encyclopedia."
+      },
+      {
+        "order": 7,
+        "es": "Busca su número de teléfono en la guía.",
+        "en": "Look up his phone number in the phone book."
+      },
+      {
+        "order": 8,
+        "es": "Hay alguien que siga buscando cosas en los libros?",
+        "en": "Does anyone still look things up in books?"
+      },
+      {
+        "order": 9,
+        "es": "La mayoría de la gente busca cosas en internet ahora.",
+        "en": "Most people look things up on the internet now."
+      },
+      {
+        "order": 10,
+        "es": "La biblioteca es un buen sitio donde buscar información.",
+        "en": "A library is a good place to look up information."
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "file_name": "Phrasal_verbs_60.mp3",
+    "phrasal_verb": "look up",
+    "base_verb": "look",
+    "particle": "up",
+    "meaning_es": "Buscar información en una fuente de referencia (diccionario, internet, base de datos, etc.)",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "buscar",
+      "investigar",
+      "diccionario",
+      "internet",
+      "vocabulario",
+      "información"
+    ],
+    "intro_note": "Historia corta que ilustra el uso del phrasal verb 'look up' en diferentes contextos relacionados con la búsqueda de información y vocabulario.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Búscalo.",
+        "en": "Look it up."
+      },
+      {
+        "order": 2,
+        "es": "Peter tuvo que escribir un correo electrónico en español, pero como su español no era muy bueno, necesitaba buscar mucho vocabulario.",
+        "en": "Peter had to write an email in Spanish, but since his Spanish wasn't very good, he needed to look up a lot of vocabulary."
+      },
+      {
+        "order": 3,
+        "es": "Su diccionario estaba bien para buscar vocabulario básico, pero era un diccionario de bolsillo y muchas de las palabras más complicadas que intentó buscar no estaban en él.",
+        "en": "His dictionary was okay for looking up basic vocabulary, but it was a pocket dictionary and a lot of the more complicated words he tried to look up weren't in it."
+      },
+      {
+        "order": 4,
+        "es": "Peter necesitaba desesperadamente un diccionario mejor, así que se conectó a internet y buscó el número de teléfono de una librería cerca de su casa.",
+        "en": "Peter desperately needed a better dictionary, so he got online and looked up the phone number of a bookshop near his house."
+      },
+      {
+        "order": 5,
+        "es": "Fue entonces cuando se dio cuenta de que si podía buscar números de teléfono en internet, también podía buscar vocabulario en español.",
+        "en": "It was then that he realized that if he could look up phone numbers on the internet, he could look up Spanish vocabulary too."
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "file_name": "Phrasal_verbs_61.mp3",
+    "phrasal_verb": "to make up",
+    "base_verb": "make",
+    "particle": "up",
+    "meaning_es": "reconciliarse, hacer las paces",
+    "situation": "Relaciones y Emociones",
+    "tags_es": [
+      "reconciliarse",
+      "hacer las paces",
+      "amistad",
+      "perdón",
+      "arreglar"
+    ],
+    "intro_note": "",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Se han reconciliado ya?",
+        "en": "Have they made up yet?"
+      },
+      {
+        "order": 2,
+        "es": "No se reconciliarán hasta que él diga que lo siente.",
+        "en": "They won't make up until he says he's sorry."
+      },
+      {
+        "order": 3,
+        "es": "Das un beso y haced las paces.",
+        "en": "Kiss and make up."
+      },
+      {
+        "order": 4,
+        "es": "Ojalá ella se reconcilie con él pronto.",
+        "en": "I wish she would make up with him soon."
+      },
+      {
+        "order": 5,
+        "es": "Se reconciliarán cuando estén preparados.",
+        "en": "They'll make up when they're ready."
+      },
+      {
+        "order": 6,
+        "es": "Se reconciliaron antes de irse de vacaciones?",
+        "en": "Did they make up before they went on holiday?"
+      },
+      {
+        "order": 7,
+        "es": "¿Qué le hará falta para reconciliarse con ella?",
+        "en": "What will it take for him to make up with her?"
+      },
+      {
+        "order": 8,
+        "es": "Tardaron mucho tiempo en reconciliarse.",
+        "en": "It took them a long time to make up."
+      },
+      {
+        "order": 9,
+        "es": "Será mejor que se reconcilien antes de Navidad.",
+        "en": "They had better make up before Christmas."
+      },
+      {
+        "order": 10,
+        "es": "Él vino a casa e hicieron las paces.",
+        "en": "He came home and they made up."
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "file_name": "Phrasal_verbs_62.mp3",
+    "phrasal_verb": "make up",
+    "base_verb": "make",
+    "particle": "up",
+    "meaning_es": "Reconciliarse, hacer las paces después de una discusión.",
+    "situation": "Relaciones y Emociones",
+    "tags_es": [
+      "reconciliar",
+      "hacer las paces",
+      "discusión",
+      "vecinos",
+      "relación",
+      "perdón"
+    ],
+    "intro_note": "Una historia sobre dos vecinos y cómo suelen reconciliarse después de una discusión, utilizando el phrasal verb 'make up'.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "El argumento.",
+        "en": "The argument."
+      },
+      {
+        "order": 2,
+        "es": "Peter siempre se mete en discusiones con su vecino, pero al final, siempre se reconcilian.",
+        "en": "Peter always gets into arguments with his neighbor, but in the end, they always make up."
+      },
+      {
+        "order": 3,
+        "es": "De hecho, es Peter quien usualmente se reconcilia con su vecino, y no al revés.",
+        "en": "In fact, it is Peter who usually makes up with his neighbor, and not the other way around."
+      },
+      {
+        "order": 4,
+        "es": "Sin embargo, el jueves pasado, la discusión había sido tan acalorada que Peter no estaba dispuesto a reconciliarse con su vecino.",
+        "en": "However, last Thursday, the argument had been so heated that Peter wasn't willing to make up with his neighbor."
+      },
+      {
+        "order": 5,
+        "es": "Él esperaría hasta que su vecino estuviera listo para reconciliarse con él.",
+        "en": "He would wait until his neighbor was ready to make up with him."
+      },
+      {
+        "order": 6,
+        "es": "Lo que Peter no sabía era que su vecino estaba esperando que tocara a la puerta en cualquier momento y se reconciliara, como siempre hacía.",
+        "en": "What Peter didn't know was that his neighbor was expecting him to knock on the door any minute and make up, like he always did."
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "file_name": "Phrasal_verbs_63.mp3",
+    "phrasal_verb": "go down",
+    "base_verb": "go",
+    "particle": "down",
+    "meaning_es": "Bajar, descender. Se usa para indicar movimiento hacia un lugar más bajo (físicamente, como un sótano o una montaña, o geográficamente, como ir hacia el sur a una ciudad), o para describir el acto de ponerse el sol. También se incluye 'come down', que implica bajar pero acercándose al hablante.",
+    "situation": "Movimiento y Lugares",
+    "tags_es": [
+      "bajar",
+      "descender",
+      "ir abajo",
+      "venir abajo",
+      "sótano",
+      "escaleras",
+      "montaña",
+      "sol",
+      "atardecer",
+      "sur"
+    ],
+    "intro_note": "Phrasal verbs one. Up and down. Verbos con la preposición down. To go down, to come down.",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Tendrás que bajar al sótano.",
+        "en": "You'll need to go down to the basement."
+      },
+      {
+        "order": 2,
+        "es": "Bajé allí esta mañana.",
+        "en": "I went down there this morning."
+      },
+      {
+        "order": 3,
+        "es": "Entonces tendrás que volver a bajar allí.",
+        "en": "Then you'll have to go back down there."
+      },
+      {
+        "order": 4,
+        "es": "¿Con quién vas a bajar a Londres?",
+        "en": "Who are you going down to London with?"
+      },
+      {
+        "order": 5,
+        "es": "Bajaron todo el camino a México desde Canadá.",
+        "en": "They went down to Mexico all the way from Canada."
+      },
+      {
+        "order": 6,
+        "es": "¿Cuándo vas a bajar a Londres a vernos?",
+        "en": "When are you coming down to London to see us?"
+      },
+      {
+        "order": 7,
+        "es": "Los escaladores bajaron la montaña despacio.",
+        "en": "The climbers went down the mountain slowly."
+      },
+      {
+        "order": 8,
+        "es": "Él estaba bajando las escaleras cuando se cayó.",
+        "en": "He was coming down the stairs when he fell."
+      },
+      {
+        "order": 9,
+        "es": "Hizo mucho frío tras ponerse el sol.",
+        "en": "It got very cold after the sun went down."
+      },
+      {
+        "order": 10,
+        "es": "Podremos jugar hasta que se ponga el sol.",
+        "en": "We'll be able to play until the sun goes down."
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "file_name": "Phrasal_verbs_64.mp3",
+    "phrasal_verb": "go down",
+    "base_verb": "go",
+    "particle": "down",
+    "meaning_es": "Bajar, descender.",
+    "situation": "Movimiento y Lugares",
+    "tags_es": [
+      "bajar",
+      "descender",
+      "piso",
+      "escaleras",
+      "ascensor",
+      "accidente",
+      "equivocarse",
+      "movimiento"
+    ],
+    "intro_note": "A short story illustrating the phrasal verbs 'go up' and 'go down' in the context of moving between floors in a building.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Como un yoyó.",
+        "en": "Like a yo-yo."
+      },
+      {
+        "order": 2,
+        "es": "Peter tenía una reunión en el piso 20 de uno de los edificios más altos de la ciudad.",
+        "en": "Peter had a meeting on the 20th floor of one of the tallest buildings in the city."
+      },
+      {
+        "order": 3,
+        "es": "Subió en el ascensor, pero le dijeron que tenía que bajar al piso 18 porque la reunión se había trasladado.",
+        "en": "He went up in the lift, but he was told he had to go down to the 18th floor because the meeting had been moved."
+      },
+      {
+        "order": 4,
+        "es": "Eran solo dos pisos, así que Peter bajó por las escaleras, pero mientras bajaba, tropezó y se lastimó el tobillo.",
+        "en": "It was only two floors, so Peter went down the stairs, but as he was going down, he tripped and hurt his ankle."
+      },
+      {
+        "order": 5,
+        "es": "Bajó el resto de las escaleras muy despacio para evitar más accidentes.",
+        "en": "He went down the rest of the stairs very slowly to avoid any more accidents."
+      },
+      {
+        "order": 6,
+        "es": "De hecho, bajó con tanto cuidado que no se dio cuenta de que había bajado al piso 17 por error.",
+        "en": "In fact, he went down so carefully that he didn't realize that he had gone down to the 17th floor by mistake."
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "file_name": "Phrasal_verbs_65.mp3",
+    "phrasal_verb": "put down",
+    "base_verb": "put",
+    "particle": "down",
+    "meaning_es": "Dejar o soltar un objeto en una superficie; colgar el teléfono. En algunos contextos, puede significar descartar o rechazar algo.",
+    "situation": "Vida Cotidiana y Casa",
+    "tags_es": [
+      "dejar objetos",
+      "soltar",
+      "colgar el teléfono",
+      "rechazar",
+      "descartar"
+    ],
+    "intro_note": "To put down",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Por favor, deja el florero.",
+        "en": "Please, put down the vase."
+      },
+      {
+        "order": 2,
+        "es": "Déjalo o lo romperás.",
+        "en": "Put it down or you'll break it."
+      },
+      {
+        "order": 3,
+        "es": "Él dejó el sombrero y salió de la tienda.",
+        "en": "He put down the hat and left the shop."
+      },
+      {
+        "order": 4,
+        "es": "Él lo dejó porque era demasiado caro.",
+        "en": "He put it down because it was too expensive."
+      },
+      {
+        "order": 5,
+        "es": "Creía que había dejado las llaves justo aquí.",
+        "en": "I thought I put my keys down right here."
+      },
+      {
+        "order": 6,
+        "es": "Después de 10 tonos, ella colgó el teléfono.",
+        "en": "After 10 rings, she put down the phone."
+      },
+      {
+        "order": 7,
+        "es": "Ella colgó el teléfono y empezó a llorar.",
+        "en": "She put it down and started crying."
+      },
+      {
+        "order": 8,
+        "es": "Él olvidó dónde dejó su copa.",
+        "en": "He forgot where he put his drink down."
+      },
+      {
+        "order": 9,
+        "es": "Cuelga el teléfono ahora mismo.",
+        "en": "Put the phone down right now."
+      },
+      {
+        "order": 10,
+        "es": "Suelta la maleta y únete a nosotros.",
+        "en": "Put your suitcase down and join us."
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "file_name": "Phrasal_verbs_66.mp3",
+    "phrasal_verb": "Story: In a hurry",
+    "base_verb": null,
+    "particle": null,
+    "meaning_es": "Una historia sobre Peter que está apurado y olvida dónde deja sus llaves, usando varios 'phrasal verbs' como 'put down', 'pick up', 'go back', 'look for' y 'sit down'.",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "prisa",
+      "olvido",
+      "llaves",
+      "teléfono",
+      "oficina",
+      "volver",
+      "dejar",
+      "recoger",
+      "buscar",
+      "sentarse"
+    ],
+    "intro_note": "A short story about Peter's forgetfulness when he's in a hurry, featuring several common phrasal verbs.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Con prisa.",
+        "en": "In a hurry."
+      },
+      {
+        "order": 2,
+        "es": "Cuando Peter abrió la puerta principal, pudo oír el teléfono sonando, así que rápidamente dejó sus cosas y cogió el teléfono.",
+        "en": "When Peter opened his front door, he could hear the phone ringing, so he quickly put down his things and picked up the phone."
+      },
+      {
+        "order": 3,
+        "es": "Era la oficina llamando para decirle que necesitaba volver.",
+        "en": "It was the office calling to tell him that he needed to go back."
+      },
+      {
+        "order": 4,
+        "es": "Peter buscó sus llaves pero no podía recordar dónde las había dejado.",
+        "en": "Peter looked for his keys but he couldn't remember where he had put them down."
+      },
+      {
+        "order": 5,
+        "es": "Normalmente las deja en la encimera de la cocina.",
+        "en": "He usually puts them down on the kitchen counter."
+      },
+      {
+        "order": 6,
+        "es": "Pero debido a la prisa por contestar el teléfono, debió haberlas dejado en otro lugar.",
+        "en": "But because of the rush to answer the phone, he must have put them down somewhere else."
+      },
+      {
+        "order": 7,
+        "es": "Peter se sentó a pensar dónde había dejado sus llaves.",
+        "en": "Peter sat down to think about where he had put down his keys."
+      },
+      {
+        "order": 8,
+        "es": "Después de unos minutos, se dio cuenta de que no las había dejado en ningún sitio.",
+        "en": "After a few minutes, he realized he hadn't put them down anywhere."
+      },
+      {
+        "order": 9,
+        "es": "Las había dejado en la puerta.",
+        "en": "He had left them in the door."
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "file_name": "Phrasal_verbs_67.mp3",
+    "phrasal_verb": "to sit down",
+    "base_verb": "sit",
+    "particle": "down",
+    "meaning_es": "Sentarse, tomar asiento. Puede usarse en sentido literal (tomar una silla) o figurado (para discutir o negociar).",
+    "situation": "Vida Cotidiana y Casa, Relaciones y Emociones, Trabajo y Negocios",
+    "tags_es": [
+      "sentarse",
+      "tomar asiento",
+      "descansar",
+      "reuniones",
+      "discutir",
+      "negociar",
+      "mesa",
+      "banco"
+    ],
+    "intro_note": "To sit down.",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Por favor, pase y siéntese.",
+        "en": "Please, come in and sit down."
+      },
+      {
+        "order": 2,
+        "es": "Siempre se sientan todos juntos en las comidas.",
+        "en": "They always sit down together for meals."
+      },
+      {
+        "order": 3,
+        "es": "¿Se sientan a la mesa?",
+        "en": "Do they sit down at the table?"
+      },
+      {
+        "order": 4,
+        "es": "Claro que se sientan a la mesa.",
+        "en": "Of course they sit down at the table."
+      },
+      {
+        "order": 5,
+        "es": "Algunas familias se sientan delante de la tele para comer.",
+        "en": "Some families sit down in front of the TV for meals."
+      },
+      {
+        "order": 6,
+        "es": "Después de todo eso, me tengo que sentar un minuto.",
+        "en": "After all that, I need to sit down for a minute."
+      },
+      {
+        "order": 7,
+        "es": "Nunca te sientes a no ser que te inviten a hacerlo.",
+        "en": "Never sit down unless you're invited to."
+      },
+      {
+        "order": 8,
+        "es": "Él se sentó en el banco a leer el periódico.",
+        "en": "He sat down on the bench to read his newspaper."
+      },
+      {
+        "order": 9,
+        "es": "Sentémonos y hablemos sobre esto como Dios manda.",
+        "en": "Let's sit down and talk about this properly."
+      },
+      {
+        "order": 10,
+        "es": "Por fin las dos partes se sentaron juntas para hablar.",
+        "en": "The two sides finally sat down together for talks."
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "file_name": "Phrasal_verbs_68.mp3",
+    "phrasal_verb": "sit down",
+    "base_verb": "sit",
+    "particle": "down",
+    "meaning_es": "sentarse",
+    "situation": "Vida Cotidiana y Casa",
+    "tags_es": [
+      "sentarse",
+      "tomar asiento",
+      "descanso",
+      "posición"
+    ],
+    "intro_note": "Welcome to Phrasal Verbs number 68. Today we are going to learn 'sit down'. 'Sit down' means sentarse. 'Sit' is the verb, and 'down' is the particle. You can say 'sit down' or just 'sit'. They are both correct and mean the same, but 'sit down' is more common.",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Siéntate, por favor.",
+        "en": "Sit down, please."
+      },
+      {
+        "order": 2,
+        "es": "Me gusta sentarme junto a la ventana.",
+        "en": "I like to sit down by the window."
+      },
+      {
+        "order": 3,
+        "es": "Siéntate. Hablaremos de esto más tarde.",
+        "en": "Sit down. We'll talk about this later."
+      },
+      {
+        "order": 4,
+        "es": "Siéntense, por favor. La conferencia comenzará en breve.",
+        "en": "Sit down, please. The conference will start shortly."
+      },
+      {
+        "order": 5,
+        "es": "Los invitados se sentaron a la mesa.",
+        "en": "The guests sat down at the table."
+      },
+      {
+        "order": 6,
+        "es": "La niña se sentó en el regazo de su madre.",
+        "en": "The girl sat down on her mother's lap."
+      },
+      {
+        "order": 7,
+        "es": "Ella necesita sentarse. Ha estado de pie todo el día.",
+        "en": "She needs to sit down. She has been standing all day."
+      },
+      {
+        "order": 8,
+        "es": "¿Puedes sentarte un momento? Tengo algo que decirte.",
+        "en": "Can you sit down for a moment? I have something to tell you."
+      },
+      {
+        "order": 9,
+        "es": "Nos sentamos en el parque y observamos a la gente pasar.",
+        "en": "We sat down in the park and watched people go by."
+      },
+      {
+        "order": 10,
+        "es": "El perro se sentó pacientemente junto a la puerta.",
+        "en": "The dog sat down patiently by the door."
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "file_name": "Phrasal_verbs_69.mp3",
+    "phrasal_verb": "to lie down",
+    "base_verb": "lie",
+    "particle": "down",
+    "meaning_es": "tumbarse, echarse, acostarse",
+    "situation": "Vida Cotidiana y Casa",
+    "tags_es": [
+      "tumbarse",
+      "echarse",
+      "acostarse",
+      "descansar",
+      "dormir",
+      "sofá",
+      "cama",
+      "césped",
+      "suelo",
+      "malestar"
+    ],
+    "intro_note": "The phrasal verb is 'to lie down'.",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Ella fue a echarse un par de horas.",
+        "en": "She went to lie down for a couple of hours."
+      },
+      {
+        "order": 2,
+        "es": "¿Por qué está tumbada?",
+        "en": "Why is she lying down?"
+      },
+      {
+        "order": 3,
+        "es": "Está tumbada porque no se encuentra bien.",
+        "en": "She's lying down because she doesn't feel well."
+      },
+      {
+        "order": 4,
+        "es": "Échate en el sofá unos minutos.",
+        "en": "Lie down on the sofa for a few minutes."
+      },
+      {
+        "order": 5,
+        "es": "Si me tumbo, me quedaré dormido.",
+        "en": "If I lie down, I'll fall asleep."
+      },
+      {
+        "order": 6,
+        "es": "¿Te has tumbado alguna vez en una cama de agua?",
+        "en": "Have you ever lain down on a water bed?"
+      },
+      {
+        "order": 7,
+        "es": "Preferiría tumbarme en el césped.",
+        "en": "I'd rather lie down on the grass."
+      },
+      {
+        "order": 8,
+        "es": "No te tumbes ahí, está sucio.",
+        "en": "Don't lie down there, it's dirty."
+      },
+      {
+        "order": 9,
+        "es": "Creo que me echaré una siesta después de la comida.",
+        "en": "I think I'll have a lie down after lunch."
+      },
+      {
+        "order": 10,
+        "es": "El perro se tumbó delante de la chimenea.",
+        "en": "The dog lay down in front of the fire."
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "file_name": "Phrasal_verbs_70.mp3",
+    "phrasal_verb": "lie down",
+    "base_verb": "lie",
+    "particle": "down",
+    "meaning_es": "Acostarse, tumbarse, echarse. Se usa para indicar la acción de colocarse en una posición horizontal, generalmente para descansar o dormir.",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "acostarse",
+      "tumbarse",
+      "echarse",
+      "descansar",
+      "dormir",
+      "colchón",
+      "cama"
+    ],
+    "intro_note": "Este audio presenta una pequeña historia que utiliza repetidamente el phrasal verb 'lie down' para describir la acción de acostarse sobre una superficie.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "El colchón chirriante.",
+        "en": "The squeaky mattress."
+      },
+      {
+        "order": 2,
+        "es": "Peter necesita comprar un colchón nuevo porque cuando se acuesta en el suyo, chirría y no es muy cómodo.",
+        "en": "Peter needs to buy a new mattress because when he lies down on his, it squeaks and isn't very comfortable."
+      },
+      {
+        "order": 3,
+        "es": "En la tienda, el dependiente le invitó a acostarse en tantos colchones como quisiera.",
+        "en": "At the store, the sales clerk invited him to lie down on as many mattresses as he wanted."
+      },
+      {
+        "order": 4,
+        "es": "Peter quería acostarse en todos ellos para asegurarse de comprar el correcto.",
+        "en": "Peter wanted to lie down on all of them to be sure he bought the right one."
+      },
+      {
+        "order": 5,
+        "es": "Pero después de acostarse en cada colchón de la tienda, Peter no estaba convencido de que hubiera uno allí en el que quisiera acostarse cada noche.",
+        "en": "But after lying down on every mattress in the shop, Peter wasn't convinced that there was one there that he wanted to lie down on every night."
+      },
+      {
+        "order": 6,
+        "es": "Había oído que acostarse en el suelo era bueno para la espalda, pero preferiría acostarse en su viejo colchón chirriante antes que acostarse en el suelo cada noche.",
+        "en": "He had heard that lying down on the floor was good for your back, but he'd rather lie down on his old squeaky mattress than lie down on the floor every night."
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "file_name": "Phrasal_verbs_71.mp3",
+    "phrasal_verb": "slow down",
+    "base_verb": "slow",
+    "particle": "down",
+    "meaning_es": "Reducir la velocidad, ir más despacio, ralentizar.",
+    "situation": "Vida Cotidiana y General",
+    "tags_es": [
+      "ralentizar",
+      "reducir velocidad",
+      "despacio",
+      "ir más lento",
+      "velocidad",
+      "tráfico",
+      "metabolismo",
+      "enfermedad"
+    ],
+    "intro_note": "To slow down",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Despacio, no entiendo ni una palabra.",
+        "en": "Slow down, I can't understand a word."
+      },
+      {
+        "order": 2,
+        "es": "Ve más despacio, hay cámaras aquí.",
+        "en": "Slow down, there are speed cameras here."
+      },
+      {
+        "order": 3,
+        "es": "El corredor redujo la velocidad en la vuelta final.",
+        "en": "The runner slowed down on the final lap."
+      },
+      {
+        "order": 4,
+        "es": "El tráfico empieza a ralentizarse en la hora punta.",
+        "en": "Traffic starts to slow down during rush hour."
+      },
+      {
+        "order": 5,
+        "es": "Él redujo la velocidad cuando vio el accidente delante.",
+        "en": "He slowed down when he saw the accident ahead."
+      },
+      {
+        "order": 6,
+        "es": "Le dijeron que su metabolismo se estaba ralentizando.",
+        "en": "They told him his metabolism was slowing down."
+      },
+      {
+        "order": 7,
+        "es": "Él redujo la velocidad cuando vio su salida.",
+        "en": "He slowed down when he saw his exit."
+      },
+      {
+        "order": 8,
+        "es": "Ralentizó su respiración antes de subir al escenario.",
+        "en": "He slowed his breathing down before going on stage."
+      },
+      {
+        "order": 9,
+        "es": "Los frenos se rompieron y no pudo reducir la velocidad.",
+        "en": "The brakes failed and he couldn't slow down."
+      },
+      {
+        "order": 10,
+        "es": "La vacuna ralentizó la propagación de la enfermedad.",
+        "en": "The vaccine slowed down the spread of the disease."
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "file_name": "Phrasal_verbs_72.mp3",
+    "phrasal_verb": "slow down",
+    "base_verb": "slow",
+    "particle": "down",
+    "meaning_es": "Reducir la velocidad, el ritmo, la intensidad o el progreso de algo. También puede significar calmarse o que algo empeore o disminuya.",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "ralentizar",
+      "disminuir",
+      "velocidad",
+      "ritmo",
+      "calmarse",
+      "tráfico",
+      "economía",
+      "corazón"
+    ],
+    "intro_note": "Una historia corta que ilustra el uso del phrasal verb 'slow down' en diferentes contextos.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "La velocidad es esencial.",
+        "en": "Speed is of the essence."
+      },
+      {
+        "order": 2,
+        "es": "Peter no ha disminuido el ritmo desde que llegaron sus padres, pero se van hoy y él no puede esperar para llevarlos al aeropuerto.",
+        "en": "Peter hasn't slowed down since his parents arrived, but they're leaving today and he can't wait to take them to the airport."
+      },
+      {
+        "order": 3,
+        "es": "En el camino, Peter notó que el tráfico estaba disminuyendo la velocidad, así que él también redujo la velocidad y tomó la siguiente salida.",
+        "en": "On the way there, Peter noticed that traffic was slowing down, so he slowed down and took the next exit."
+      },
+      {
+        "order": 4,
+        "es": "Peter estaba conduciendo como un loco y su padre le recordó que, dado que la economía estaba empeorando, no podía permitirse una multa por exceso de velocidad, así que Peter bajó a la velocidad permitida.",
+        "en": "Peter was driving like a madman and his father reminded him that since the economy was slowing down, he couldn't afford to get a speeding ticket, so Peter slowed down to the speed limit."
+      },
+      {
+        "order": 5,
+        "es": "Sin embargo, su ritmo cardíaco no se calmaría hasta que sus padres estuvieran en su avión.",
+        "en": "However, his heart rate wouldn't slow down until his parents were on their plane."
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "file_name": "Phrasal_verbs_73.mp3",
+    "phrasal_verb": "to calm down",
+    "base_verb": "calm",
+    "particle": "down",
+    "meaning_es": "tranquilizarse, calmarse, serenarse, apaciguar",
+    "situation": "Relaciones y Emociones",
+    "tags_es": [
+      "calmar",
+      "tranquilizar",
+      "serenar",
+      "apaciguar",
+      "relajar",
+      "sosiego",
+      "calma",
+      "tranquilidad",
+      "situación"
+    ],
+    "intro_note": "Introducción del phrasal verb 'to calm down'.",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Al final, ella se tranquilizó.",
+        "en": "She finally calmed down."
+      },
+      {
+        "order": 2,
+        "es": "El barco no puede cruzar hasta que el mar se calme.",
+        "en": "The boat can't cross until the sea calms down."
+      },
+      {
+        "order": 3,
+        "es": "Las buenas noticias deberían tranquilizarle un poco.",
+        "en": "The good news should calm him down a bit."
+      },
+      {
+        "order": 4,
+        "es": "Esperemos que él se calme.",
+        "en": "Let's hope he calms down."
+      },
+      {
+        "order": 5,
+        "es": "Cálmate o harás algo de lo que te arrepentirás.",
+        "en": "Calm down or you'll do something you regret."
+      },
+      {
+        "order": 6,
+        "es": "Llamaron a la policía para calmar la situación.",
+        "en": "The police were called to calm down the situation."
+      },
+      {
+        "order": 7,
+        "es": "Cálmate.",
+        "en": "Calm down."
+      },
+      {
+        "order": 8,
+        "es": "La bolsa se tranquilizó por fin.",
+        "en": "The stock market finally calmed down."
+      },
+      {
+        "order": 9,
+        "es": "La pequeña se tranquilizó cuando vio a su madre.",
+        "en": "The little girl calmed down when she saw her mother."
+      },
+      {
+        "order": 10,
+        "es": "Probablemente fueron los caramelos lo que la calmaron.",
+        "en": "It was probably the sweets that calmed her down."
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "file_name": "Phrasal_verbs_74.mp3",
+    "phrasal_verb": "calm down",
+    "base_verb": "calm",
+    "particle": "down",
+    "meaning_es": "Relajarse, tranquilizarse, calmarse (personas, situaciones, mercados, etc.)",
+    "situation": "Relaciones y Emociones",
+    "tags_es": [
+      "relajarse",
+      "tranquilizarse",
+      "estrés",
+      "situación",
+      "emociones",
+      "paz",
+      "descanso",
+      "serenidad"
+    ],
+    "intro_note": "A short story about Peter, who needs to calm down after a stressful period, using the phrasal verb 'calm down' multiple times in context.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Hecho un manojo de nervios.",
+        "en": "Nervous wreck."
+      },
+      {
+        "order": 2,
+        "es": "Después de dejar a sus padres a salvo en su avión, Peter pudo relajarse y calmarse.",
+        "en": "After getting his parents safely on their plane, Peter was able to relax and calm down."
+      },
+      {
+        "order": 3,
+        "es": "Habían sido unos días muy estresantes y Peter sentía que necesitaba unas vacaciones para calmarse un poco.",
+        "en": "It had been a very stressful few days and Peter felt he needed a holiday to calm down a bit."
+      },
+      {
+        "order": 4,
+        "es": "Sin embargo, no podría tomarse unas vacaciones hasta que las cosas en el trabajo se calmaran.",
+        "en": "However, he wouldn't be able to take a holiday until things at work calm down."
+      },
+      {
+        "order": 5,
+        "es": "Y eso no ocurriría hasta que el mercado de valores también se calmara.",
+        "en": "And that wouldn't happen until the stock market calm down as well."
+      },
+      {
+        "order": 6,
+        "es": "Quizás se dedicaría a la meditación, ya que había oído que te calma.",
+        "en": "Perhaps he would take up meditation, as he had heard it calms you down."
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "file_name": "Phrasal_verbs_75.mp3",
+    "phrasal_verb": "to turn down",
+    "base_verb": "turn",
+    "particle": "down",
+    "meaning_es": "Disminuir el volumen, la intensidad o la temperatura de algo. También puede significar rechazar algo, aunque este sentido no se ejemplifica en este audio.",
+    "situation": "Vida Cotidiana y Casa",
+    "tags_es": [
+      "bajar",
+      "disminuir",
+      "reducir",
+      "volumen",
+      "temperatura",
+      "intensidad",
+      "música",
+      "calefacción",
+      "aire acondicionado",
+      "horno"
+    ],
+    "intro_note": "To turn down",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Podrías bajar la calefacción, por favor?",
+        "en": "Could you please turn the heating down?"
+      },
+      {
+        "order": 2,
+        "es": "Te importaría bajar el aire acondicionado?",
+        "en": "Would you mind turning the air conditioning down?"
+      },
+      {
+        "order": 3,
+        "es": "Ya lo han bajado.",
+        "en": "It's already been turned down."
+      },
+      {
+        "order": 4,
+        "es": "Puedo bajar el ventilador?",
+        "en": "Can I turn the fan down?"
+      },
+      {
+        "order": 5,
+        "es": "Les pedimos que bajen la música?",
+        "en": "Shall we ask them to turn down the music?"
+      },
+      {
+        "order": 6,
+        "es": "Ya se les ha dicho que la bajen.",
+        "en": "They've already been told to turn it down."
+      },
+      {
+        "order": 7,
+        "es": "Te importaría bajar el volumen?",
+        "en": "Would you mind turning the volume down?"
+      },
+      {
+        "order": 8,
+        "es": "Baja el horno a 150 grados.",
+        "en": "Turn the oven down to 150 degrees."
+      },
+      {
+        "order": 9,
+        "es": "Deberías bajar el volumen de tu teléfono.",
+        "en": "You should turn down the volume on your phone."
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "file_name": "Phrasal_verbs_76.mp3",
+    "phrasal_verb": "turn down",
+    "base_verb": "turn",
+    "particle": "down",
+    "meaning_es": "Bajar el volumen o la intensidad de algo.",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "bajar volumen",
+      "disminuir",
+      "música",
+      "silencio",
+      "ruido",
+      "concentración"
+    ],
+    "intro_note": "This story illustrates the phrasal verb 'turn down' in the context of reducing volume.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Paz y tranquilidad.",
+        "en": "Peace and quiet."
+      },
+      {
+        "order": 2,
+        "es": "Peter estaba intentando leer en casa, pero sus vecinos no querían bajar la música y Peter no podía concentrarse.",
+        "en": "Peter was trying to read at home, but his neighbors wouldn't turn their music down and Peter couldn't concentrate."
+      },
+      {
+        "order": 3,
+        "es": "Ya les había pedido que la bajaran dos veces, así que en lugar de pedirles que la bajaran por tercera vez, fue a la biblioteca.",
+        "en": "He had already asked them to turn it down twice, so instead of asking them to turn it down a third time, he went to the library."
+      },
+      {
+        "order": 4,
+        "es": "Allí, Peter encontró un rincón agradable y tranquilo y volvió a leer.",
+        "en": "There, Peter found a nice quiet corner and started reading again."
+      },
+      {
+        "order": 5,
+        "es": "Pero se había olvidado de bajar el volumen de su teléfono, y sonó.",
+        "en": "But he had forgotten to turn down the volume on his phone, and it rang."
+      },
+      {
+        "order": 6,
+        "es": "La bibliotecaria le dijo a Peter que tendría que bajarlo o buscar otro lugar para leer.",
+        "en": "The librarian told Peter he would either have to turn it down or find somewhere else to read."
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "file_name": "Phrasal_verbs_77.mp3",
+    "phrasal_verb": "to copy down",
+    "base_verb": "copy",
+    "particle": "down",
+    "meaning_es": "Registrar o transcribir información (nombres, números, respuestas) de un lugar a otro, especialmente por escrito. Puede implicar copiar de forma completa o detallada.",
+    "situation": "Vida Cotidiana y Casa",
+    "tags_es": [
+      "copiar",
+      "apuntar",
+      "escribir",
+      "transcribir",
+      "registrar",
+      "anotar"
+    ],
+    "intro_note": "",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Copia todos los nombres.",
+        "en": "Copy all the names down."
+      },
+      {
+        "order": 2,
+        "es": "Cópialos en este cuaderno.",
+        "en": "Copy them down into this notebook."
+      },
+      {
+        "order": 3,
+        "es": "Cópialo en esta hoja de papel.",
+        "en": "Copy it down onto this piece of paper."
+      },
+      {
+        "order": 4,
+        "es": "¿Lo has copiado todo?",
+        "en": "Did you copy everything down?"
+      },
+      {
+        "order": 5,
+        "es": "Lo copié todo palabra por palabra.",
+        "en": "I copied it down word for word."
+      },
+      {
+        "order": 6,
+        "es": "No olvides donde lo copiaste.",
+        "en": "Don't forget where you copied it down."
+      },
+      {
+        "order": 7,
+        "es": "¿Por qué él no copió el número de teléfono?",
+        "en": "Why didn't he copy down the phone number?"
+      },
+      {
+        "order": 8,
+        "es": "Lo copió mal.",
+        "en": "He copied it down wrong."
+      },
+      {
+        "order": 9,
+        "es": "Copia esa matrícula.",
+        "en": "Copy down that license plate."
+      },
+      {
+        "order": 10,
+        "es": "Copia las respuestas de prisa.",
+        "en": "Copy down the answers quickly."
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "file_name": "Phrasal_verbs_78.mp3",
+    "phrasal_verb": "copy down",
+    "base_verb": "copy",
+    "particle": "down",
+    "meaning_es": "Anotar o transcribir información de un lugar a otro, generalmente de forma escrita.",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "anotar",
+      "escribir",
+      "registrar",
+      "información",
+      "publicidad",
+      "compras",
+      "teléfono"
+    ],
+    "intro_note": "Una historia sobre Peter, que se obsesiona con las compras por televisión y utiliza el phrasal verb 'copy down' para registrar la información de los productos.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Copión.",
+        "en": "Copycat."
+      },
+      {
+        "order": 2,
+        "es": "Peter nunca había comprado nada anunciado en televisión, pero cuando vio el juego de cuchillos, supo que tenía que tenerlo.",
+        "en": "Peter had never bought anything advertised on TV, but when he saw the knife set, he knew he had to have it."
+      },
+      {
+        "order": 3,
+        "es": "Anotó el nombre del juego y el precio, y estaba a punto de anotar el número de teléfono, cuando comenzó un nuevo anuncio.",
+        "en": "He copied down the name of the set and the price, and was about to copy down the phone number, when a new advertisement started."
+      },
+      {
+        "order": 4,
+        "es": "Solo había logrado anotar la primera mitad del número de teléfono, así que tuvo que esperar hasta que el anuncio se repitiera para anotar el resto.",
+        "en": "He had only managed to copy down the first half of the telephone number, so he had to wait until the advertisement ran again to copy down the rest of it."
+      },
+      {
+        "order": 5,
+        "es": "Mientras esperaba, Peter anotó otros cinco números de teléfono de productos que quería comprar.",
+        "en": "While he was waiting, Peter copied down five other phone numbers of products he wanted to buy."
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "file_name": "Phrasal_verbs_79.mp3",
+    "phrasal_verb": "to note down",
+    "base_verb": "note",
+    "particle": "down",
+    "meaning_es": "Anotar, apuntar, tomar nota de algo.",
+    "situation": "Vida Cotidiana y Casa",
+    "tags_es": [
+      "anotar",
+      "apuntar",
+      "escribir",
+      "tomar nota",
+      "registrar",
+      "documentar"
+    ],
+    "intro_note": "",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Anotaron lo que ella dijo.",
+        "en": "They noted down what she said."
+      },
+      {
+        "order": 2,
+        "es": "Ella anotó su dirección.",
+        "en": "She noted down his address."
+      },
+      {
+        "order": 3,
+        "es": "No tengo nada donde anotarlo.",
+        "en": "I don't have anything to note it down on."
+      },
+      {
+        "order": 4,
+        "es": "Anótalo en esta servilleta.",
+        "en": "Note it down on this napkin."
+      },
+      {
+        "order": 5,
+        "es": "¿Puedo coger tu boli para anotarlo?",
+        "en": "Can I borrow your pen to note it down?"
+      },
+      {
+        "order": 6,
+        "es": "Él anotó su número de teléfono.",
+        "en": "He noted down her phone number."
+      },
+      {
+        "order": 7,
+        "es": "Asegúrate de anotarlo en un sitio seguro.",
+        "en": "Make sure you note it down somewhere safe."
+      },
+      {
+        "order": 8,
+        "es": "Él les dio un montón de fechas importantes que anotar.",
+        "en": "He gave them a lot of important dates to note down."
+      },
+      {
+        "order": 9,
+        "es": "¿Por qué no los anotó él?",
+        "en": "Why didn't he note them down?"
+      },
+      {
+        "order": 10,
+        "es": "Ella intentó anotar la letra de la canción.",
+        "en": "She tried to note down the lyrics to the song."
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "file_name": "Phrasal_verbs_80.mp3",
+    "phrasal_verb": "note down",
+    "base_verb": "note",
+    "particle": "down",
+    "meaning_es": "apuntar, anotar. Se usa cuando escribes algo rápidamente para recordarlo o para llevar un registro.",
+    "situation": "Vida Cotidiana y Casa",
+    "tags_es": [
+      "apuntar",
+      "anotar",
+      "escribir",
+      "registrar",
+      "tomar nota",
+      "recordar"
+    ],
+    "intro_note": "Just like the policeman in our story noted down a lot of information.",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Ella siempre anota sus ideas en un cuaderno.",
+        "en": "She always notes down her ideas in a notebook."
+      },
+      {
+        "order": 2,
+        "es": "Necesito apuntar tu número de teléfono.",
+        "en": "I need to note down your phone number."
+      },
+      {
+        "order": 3,
+        "es": "El camarero anotó nuestro pedido rápidamente.",
+        "en": "The waiter noted down our order quickly."
+      },
+      {
+        "order": 4,
+        "es": "No olvides anotar la fecha de la reunión.",
+        "en": "Don't forget to note down the meeting date."
+      },
+      {
+        "order": 5,
+        "es": "Apuntó cada detalle de la conversación.",
+        "en": "He noted down every detail of the conversation."
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "file_name": "Phrasal_verbs_81.mp3",
+    "phrasal_verb": "to write down",
+    "base_verb": "write",
+    "particle": "down",
+    "meaning_es": "Apuntar, anotar, registrar por escrito.",
+    "situation": "Vida Cotidiana y Casa",
+    "tags_es": [
+      "apuntar",
+      "anotar",
+      "escribir",
+      "registrar",
+      "tomar nota",
+      "agenda",
+      "información"
+    ],
+    "intro_note": "To write down",
+    "drills": [
+      {
+        "order": 1,
+        "es": "No te acuerdas de dónde lo apuntaste?",
+        "en": "Don't you remember where you wrote it down?"
+      },
+      {
+        "order": 2,
+        "es": "Lo apunté en un pedacito de papel.",
+        "en": "I wrote it down on a scrap of paper."
+      },
+      {
+        "order": 3,
+        "es": "Deberías haberlo apuntado en tu agenda.",
+        "en": "You should have written it down in your diary."
+      },
+      {
+        "order": 4,
+        "es": "Asegúrate de apuntar toda la información.",
+        "en": "Make sure you write down all the information."
+      },
+      {
+        "order": 5,
+        "es": "No hace falta apuntarlo todo.",
+        "en": "There's no need to write it all down."
+      },
+      {
+        "order": 6,
+        "es": "Él debe de haberlo apuntado mal.",
+        "en": "He must have written it down wrong."
+      },
+      {
+        "order": 7,
+        "es": "Conseguiste apuntar la matrícula?",
+        "en": "Did you manage to write down the number plate?"
+      },
+      {
+        "order": 8,
+        "es": "Solo tuve tiempo para apuntar la primera parte.",
+        "en": "I only had time to write down the first part."
+      },
+      {
+        "order": 9,
+        "es": "¿Qué estás apuntando?",
+        "en": "What are you writing down?"
+      },
+      {
+        "order": 10,
+        "es": "Mi médico me dijo que tengo que apuntarlo todo.",
+        "en": "My doctor told me I need to write everything down."
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "file_name": "Phrasal_verbs_82.mp3",
+    "phrasal_verb": "Story: Peter and his Post-it notes",
+    "base_verb": null,
+    "particle": null,
+    "meaning_es": "La historia trata sobre Peter, un hombre tradicional al que le gusta anotar todo a mano, a pesar de que la mayoría de la gente usa dispositivos electrónicos. Usa muchas notas Post-it cada día. Su problema es que, aunque anota todo para no olvidarlo, termina olvidando dónde puso las notas.",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "notas",
+      "memoria",
+      "olvidar",
+      "tradicional",
+      "hábitos",
+      "organización"
+    ],
+    "intro_note": "A short story about Peter's traditional habit of writing things down.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Anótalo.",
+        "en": "Write it down."
+      },
+      {
+        "order": 2,
+        "es": "La mayoría de la gente ya no anota las cosas, porque todo el mundo tiene una PDA o un aparato similar.",
+        "en": "Most people don't write things down anymore, because everyone has a PDA or a similar gadget."
+      },
+      {
+        "order": 3,
+        "es": "Pero Peter es tradicional y todavía le gusta anotar las cosas.",
+        "en": "But Peter is traditional and still likes to write things down."
+      },
+      {
+        "order": 4,
+        "es": "De hecho, anota tantas cosas que gasta una pila de notas Post-it cada día.",
+        "en": "In fact, he writes so many things down that he uses up a stack of Post-it notes every day."
+      },
+      {
+        "order": 5,
+        "es": "Tiene miedo de no anotar algo y olvidarlo.",
+        "en": "He's afraid of not writing something down and forgetting it."
+      },
+      {
+        "order": 6,
+        "es": "El problema es que anota tantas cosas que olvida dónde las ha anotado.",
+        "en": "The problem is that he writes so many things down that he forgets where he has written them down."
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "file_name": "Phrasal_verbs_83.mp3",
+    "phrasal_verb": "break down",
+    "base_verb": "break",
+    "particle": "down",
+    "meaning_es": "Averiarse (máquinas, vehículos), dejar de funcionar. También, fracasar (negociaciones, relaciones, sistemas).",
+    "situation": "Vida Cotidiana y Casa",
+    "tags_es": [
+      "averiarse",
+      "estropearse",
+      "fallar",
+      "fracasar",
+      "coche",
+      "máquina",
+      "negociaciones",
+      "relación"
+    ],
+    "intro_note": "The phrasal verb introduced is 'to break down'.",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Llegué tarde porque mi coche se averió.",
+        "en": "I was late because my car broke down."
+      },
+      {
+        "order": 2,
+        "es": "Es la segunda vez que se me avería esta semana.",
+        "en": "That's the second time it's broken down this week."
+      },
+      {
+        "order": 3,
+        "es": "Mi ciclomotor nunca se ha averiado.",
+        "en": "My moped has never broken down."
+      },
+      {
+        "order": 4,
+        "es": "Un autobús se averió en la autopista.",
+        "en": "A bus broke down on the motorway."
+      },
+      {
+        "order": 5,
+        "es": "Las negociaciones de paz han fracasado una vez más.",
+        "en": "Peace talks have broken down again."
+      },
+      {
+        "order": 6,
+        "es": "Su matrimonio fracasó después de tres años.",
+        "en": "Their marriage broke down after three years."
+      },
+      {
+        "order": 7,
+        "es": "Todo lo que tiene ahora es un coche averiado.",
+        "en": "All he has now is a broken down car."
+      },
+      {
+        "order": 8,
+        "es": "Se avería un día sí y uno no.",
+        "en": "It breaks down every other day."
+      },
+      {
+        "order": 9,
+        "es": "¿Qué hizo él cuando su coche se averió?",
+        "en": "What did he do when his car broke down?"
+      },
+      {
+        "order": 10,
+        "es": "Él compró un coche nuevo que no se averiaría tanto.",
+        "en": "He bought a new car that wouldn't break down so much."
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "file_name": "Phrasal_verbs_84.mp3",
+    "phrasal_verb": "break down",
+    "base_verb": "break",
+    "particle": "down",
+    "meaning_es": "romperse, averiarse, estropearse, descomponerse (referente a vehículos, máquinas, aparatos); interrumpirse, fracasar (referente a negociaciones, sistemas, relaciones)",
+    "situation": "Viajes y Transporte",
+    "tags_es": [
+      "romperse",
+      "averiarse",
+      "estropearse",
+      "descomponerse",
+      "vehículo",
+      "máquina",
+      "aparato",
+      "fallar",
+      "interrumpirse",
+      "fracasar",
+      "negociaciones",
+      "problema",
+      "viaje",
+      "coche",
+      "avión"
+    ],
+    "intro_note": "The audio starts with a story about Peter experiencing a series of unfortunate events where his car, a taxi, and a plane all 'break down' on his way to the airport, leading to his flight being cancelled and his business negotiations ultimately 'breaking down'. This narrative introduces the versatile meanings of the phrasal verb.",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Mi coche se averió en la autopista.",
+        "en": "My car broke down on the motorway."
+      },
+      {
+        "order": 2,
+        "es": "El taxi se estropeó.",
+        "en": "The taxi broke down."
+      },
+      {
+        "order": 3,
+        "es": "Nuestro avión se averió en la pista.",
+        "en": "Our plane broke down on the runway."
+      },
+      {
+        "order": 4,
+        "es": "Las negociaciones se interrumpieron y no pudieron llegar a un acuerdo.",
+        "en": "The negotiations broke down and they couldn't reach an agreement."
+      },
+      {
+        "order": 5,
+        "es": "Si tu ordenador se estropea, puedes utilizar el mío.",
+        "en": "If your computer breaks down, you can use mine."
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "file_name": "Phrasal_verbs_85.mp3",
+    "phrasal_verb": "to let down",
+    "base_verb": "let",
+    "particle": "down",
+    "meaning_es": "Decepcionar o fallar a alguien o algo, no cumplir con las expectativas de alguien.",
+    "situation": "Relaciones y Emociones",
+    "tags_es": [
+      "decepcionar",
+      "fallar",
+      "desilusionar",
+      "defraudar"
+    ],
+    "intro_note": "The speaker introduces the phrasal verb 'to let down' and provides bilingual practice drills.",
+    "drills": [
+      {
+        "order": 1,
+        "es": "No me falles, ¿vale?",
+        "en": "Don't let me down, okay?"
+      },
+      {
+        "order": 2,
+        "es": "Te he fallado alguna vez?",
+        "en": "Have I ever let you down?"
+      },
+      {
+        "order": 3,
+        "es": "Al pobre chico le han fallado mucho últimamente.",
+        "en": "The poor guy has been let down a lot lately."
+      },
+      {
+        "order": 4,
+        "es": "¡Qué decepción!",
+        "en": "What a letdown!"
+      },
+      {
+        "order": 5,
+        "es": "Él le falló al equipo.",
+        "en": "He let the team down."
+      },
+      {
+        "order": 6,
+        "es": "Todos se sienten decepcionados contigo.",
+        "en": "Everyone feels let down by you."
+      },
+      {
+        "order": 7,
+        "es": "Además, te has fallado a ti mismo.",
+        "en": "Plus, you've let yourself down."
+      },
+      {
+        "order": 8,
+        "es": "Sintieron que el gobierno les había fallado.",
+        "en": "They felt that the government had let them down."
+      },
+      {
+        "order": 9,
+        "es": "Si te he fallado, lo siento.",
+        "en": "If I've let you down, I'm sorry."
+      },
+      {
+        "order": 10,
+        "es": "Estaba muy decepcionada cuando se lo conté.",
+        "en": "She was really let down when I told her."
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "file_name": "Phrasal_verbs_86.mp3",
+    "phrasal_verb": "let down",
+    "base_verb": "let",
+    "particle": "down",
+    "meaning_es": "Decepcionar a alguien, fallar a alguien, no cumplir con las expectativas de alguien.",
+    "situation": "Relaciones y Emociones",
+    "tags_es": [
+      "decepcionar",
+      "fallar",
+      "desilusionar",
+      "promesas",
+      "expectativas"
+    ],
+    "intro_note": "Historia sobre el phrasal verb 'let down' y sus implicaciones emocionales.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Después de que Peter leyó la última página de su libro, se sintió realmente decepcionado.",
+        "en": "After Peter had read the last page of his book, he felt really let down."
+      },
+      {
+        "order": 2,
+        "es": "El libro trataba sobre un niño que fue decepcionado por sus padres el día de Navidad, y que se dijo a sí mismo que nunca decepcionaría a nadie.",
+        "en": "The book was about a young boy who was let down by his parents on Christmas Day, and who told himself he would never let anyone down."
+      },
+      {
+        "order": 3,
+        "es": "El niño nunca hacía promesas porque tenía miedo de romperlas y decepcionar a alguien.",
+        "en": "The boy never made promises because he was afraid he would break them and let someone down."
+      },
+      {
+        "order": 4,
+        "es": "Peter ciertamente no iba a recomendar el libro a nadie más, porque, al igual que el niño de la historia, no quería decepcionar a nadie.",
+        "en": "Peter certainly wasn't going to recommend the book to anyone else, because, like the boy in the story, he didn't want to let anyone down."
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "file_name": "Phrasal_verbs_87.mp3",
+    "phrasal_verb": "to break down",
+    "base_verb": "break",
+    "particle": "down",
+    "meaning_es": "Desglosar, analizar, dividir en partes.",
+    "situation": "Trabajo y Negocios",
+    "tags_es": [
+      "desglosar",
+      "analizar",
+      "dividir",
+      "separar",
+      "detallar",
+      "informe",
+      "datos",
+      "presupuesto"
+    ],
+    "intro_note": "Listen carefully to this English lesson audio file about a Phrasal Verb. The speaker introduces the phrasal verb and then provides bilingual practice drills (Spanish prompt -> English sentence).",
+    "drills": [
+      {
+        "order": 1,
+        "es": "El informe desglosa los resultados.",
+        "en": "The report breaks down the results."
+      },
+      {
+        "order": 2,
+        "es": "¿Cómo los desglosa?",
+        "en": "How does it break them down?"
+      },
+      {
+        "order": 3,
+        "es": "Los desglosa por país.",
+        "en": "It breaks them down by country."
+      },
+      {
+        "order": 4,
+        "es": "Ayúdame a desglosar estas cifras.",
+        "en": "Help me to break these figures down."
+      },
+      {
+        "order": 5,
+        "es": "¿Te gusta la manera en que ella lo desglosó?",
+        "en": "Do you like the way she broke it down?"
+      },
+      {
+        "order": 6,
+        "es": "Pienso que su desglose era correcto.",
+        "en": "I think her breakdown was correct."
+      },
+      {
+        "order": 7,
+        "es": "Los votos fueron desglosados por estados.",
+        "en": "The votes were broken down by state."
+      },
+      {
+        "order": 8,
+        "es": "¿Se pueden desglosar aún más?",
+        "en": "Can they be broken down any further?"
+      },
+      {
+        "order": 9,
+        "es": "Podríamos desglosarlos por ciudades.",
+        "en": "We could break them down by city."
+      },
+      {
+        "order": 10,
+        "es": "Desglosa el presupuesto, por favor.",
+        "en": "Break down the estimate, please."
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "file_name": "Phrasal_verbs_88.mp3",
+    "phrasal_verb": "break down",
+    "base_verb": "break",
+    "particle": "down",
+    "meaning_es": "Analizar, desglosar o dividir información (especialmente datos o cifras) en componentes más pequeños y detallados para su estudio o comprensión.",
+    "situation": "Trabajo y Negocios",
+    "tags_es": [
+      "analizar",
+      "desglosar",
+      "dividir",
+      "cifras",
+      "datos",
+      "ventas",
+      "informes",
+      "trabajo",
+      "detallar"
+    ],
+    "intro_note": "Una historia sobre Peter, quien se enfrenta al desafío de desglosar las cifras de ventas de su empresa.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Ingenuo.",
+        "en": "Simple-minded."
+      },
+      {
+        "order": 2,
+        "es": "Peter tenía que desglosar las cifras de la última campaña de ventas, pero no tenía idea de cómo desglosarlas.",
+        "en": "Peter had to break down the figures from the last sales campaign, but he had no idea how to break them down."
+      },
+      {
+        "order": 3,
+        "es": "Su desglose inicial fue demasiado general, y su jefe necesitaba que el desglose fuera muy específico.",
+        "en": "His initial breakdown was too general, and his boss needed the breakdown to be very specific."
+      },
+      {
+        "order": 4,
+        "es": "Ahora Peter no estaba seguro de si debía desglosar las cifras de ventas por condado o por ciudad.",
+        "en": "Now Peter wasn't sure if he should break down the sales figures by county or by city."
+      },
+      {
+        "order": 5,
+        "es": "Necesitaba darse prisa porque las cifras tenían que estar desglosadas para el final del día.",
+        "en": "He needed to hurry up because the figures had to be broken down by the end of the day."
+      },
+      {
+        "order": 6,
+        "es": "Al final, decidió desglosarlas por tienda.",
+        "en": "In the end, he decided to break them down by store."
+      },
+      {
+        "order": 7,
+        "es": "Esperaba que su desglose no fuera demasiado específico.",
+        "en": "He hoped his breakdown wasn't too specific."
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "file_name": "Phrasal_verbs_89.mp3",
+    "phrasal_verb": "to shut down",
+    "base_verb": "shut",
+    "particle": "down",
+    "meaning_es": "cerrar, clausurar (un negocio, una fábrica, un establecimiento, etc.)",
+    "situation": "Trabajo y Negocios",
+    "tags_es": [
+      "cerrar",
+      "clausurar",
+      "negocios",
+      "fábricas",
+      "establecimientos",
+      "parar",
+      "finalizar operaciones"
+    ],
+    "intro_note": "The speaker introduces the phrasal verb 'to shut down'.",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Se cerraron todas las fábricas.",
+        "en": "All the factories were shut down."
+      },
+      {
+        "order": 2,
+        "es": "¿Quién las cerró?",
+        "en": "Who shut them down?"
+      },
+      {
+        "order": 3,
+        "es": "¿Por qué se cerraron?",
+        "en": "Why were they shut down?"
+      },
+      {
+        "order": 4,
+        "es": "La policía cerró su negocio ilegal.",
+        "en": "The police shut down his illegal business."
+      },
+      {
+        "order": 5,
+        "es": "Deberían clausurar este establecimiento.",
+        "en": "They should shut this place down."
+      },
+      {
+        "order": 6,
+        "es": "El restaurante fue cerrado por razones de higiene.",
+        "en": "The restaurant was shut down for hygiene reasons."
+      },
+      {
+        "order": 7,
+        "es": "Debería haber sido clausurado hace años.",
+        "en": "It should have been shut down years ago."
+      },
+      {
+        "order": 8,
+        "es": "Los pequeños negocios fueron obligados a cerrar.",
+        "en": "Small businesses were forced to shut down."
+      },
+      {
+        "order": 9,
+        "es": "Todas las minas se han cerrado ahora.",
+        "en": "All the mines have shut down now."
+      },
+      {
+        "order": 10,
+        "es": "Fueron clausurados sin ningún aviso.",
+        "en": "They were shut down without any warning."
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "file_name": "Phrasal_verbs_90.mp3",
+    "phrasal_verb": "shut down",
+    "base_verb": "shut",
+    "particle": "down",
+    "meaning_es": "Cerrar, clausurar (un negocio, empresa, tienda, etc. por problemas económicos, legales o de otra índole)",
+    "situation": "Trabajo y Negocios",
+    "tags_es": [
+      "cerrar",
+      "clausurar",
+      "negocio",
+      "empresa",
+      "tienda",
+      "local",
+      "oficina",
+      "bancarrota",
+      "problemas legales"
+    ],
+    "intro_note": "El phrasal verb de hoy es shut down. Shut down tiene dos significados, los dos son bastante similares, significa cerrar, clausurar. Se refiere a cuando se cierra un negocio, una empresa, o una tienda, un local, una oficina, un sitio. Cerrar o clausurar porque tiene problemas, está en bancarrota, o por temas legales. Vamos a escuchar y practicar con algunas frases.",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Cuando Peter llegó a la puerta de su restaurante favorito, se dio cuenta de que había cerrado.",
+        "en": "When Peter got to the door of his favorite restaurant, he found out that it had shut down."
+      },
+      {
+        "order": 2,
+        "es": "No estaba seguro de por qué había cerrado, así que preguntó en la tienda de al lado.",
+        "en": "He wasn't sure why it had shut down, so he asked in the shop next door."
+      },
+      {
+        "order": 3,
+        "es": "Y descubrió que las autoridades lo habían cerrado.",
+        "en": "And discovered that the authorities had shut it down."
+      },
+      {
+        "order": 4,
+        "es": "Al parecer, lo habían cerrado la semana anterior por un problema de ratas.",
+        "en": "Apparently, they had shut it down the week before because of a rat problem."
+      },
+      {
+        "order": 5,
+        "es": "De hecho, el restaurante no era el único establecimiento que había cerrado en la zona.",
+        "en": "In fact, the restaurant wasn't the only establishment that had shut down in the area."
+      },
+      {
+        "order": 6,
+        "es": "Una cafetería calle abajo había cerrado.",
+        "en": "A cafeteria down the road had shut down."
+      },
+      {
+        "order": 7,
+        "es": "Y a juzgar por el número de clientes en la panadería, también cerraría pronto.",
+        "en": "And judging by the number of customers in the bakery, it would shut down soon too."
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "file_name": "Phrasal_verbs_91.mp3",
+    "phrasal_verb": "to turn down",
+    "base_verb": "turn",
+    "particle": "down",
+    "meaning_es": "Rechazar, denegar una oferta, una persona, una solicitud, etc.",
+    "situation": "Trabajo y Negocios",
+    "tags_es": [
+      "rechazar",
+      "denegar",
+      "oferta",
+      "propuesta",
+      "trabajo",
+      "persona",
+      "rechazo"
+    ],
+    "intro_note": null,
+    "drills": [
+      {
+        "order": 1,
+        "es": "Por qué rechazó tu oferta?",
+        "en": "Why did he turn your offer down?"
+      },
+      {
+        "order": 2,
+        "es": "Él rechazó las ofertas de todo el mundo.",
+        "en": "He turned everyone's offer down."
+      },
+      {
+        "order": 3,
+        "es": "Habrías rechazado una oferta como esa?",
+        "en": "Would you have turned down an offer like that?"
+      },
+      {
+        "order": 4,
+        "es": "Ella le rechazó.",
+        "en": "She turned him down."
+      },
+      {
+        "order": 5,
+        "es": "He oído que él la rechazó.",
+        "en": "I heard he turned her down."
+      },
+      {
+        "order": 6,
+        "es": "Has rechazado alguna vez una oferta lucrativa?",
+        "en": "Have you ever turned down a lucrative offer?"
+      },
+      {
+        "order": 7,
+        "es": "De verdad vas a rechazar el trabajo?",
+        "en": "Are you really going to turn down the job?"
+      },
+      {
+        "order": 8,
+        "es": "Lo rechazaré si consigo una oferta mejor.",
+        "en": "I'll turn it down if I get a better offer."
+      },
+      {
+        "order": 9,
+        "es": "Qué harás si el banco te rechaza?",
+        "en": "What will you do if the bank turns you down?"
+      },
+      {
+        "order": 10,
+        "es": "Espero que no me rechacen.",
+        "en": "I hope they don't turn me down."
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "file_name": "Phrasal_verbs_92.mp3",
+    "phrasal_verb": "turn down",
+    "base_verb": "turn",
+    "particle": "down",
+    "meaning_es": "Rechazar (una oferta, una solicitud, o en este contexto, a una persona románticamente)",
+    "situation": "Relaciones y Emociones",
+    "tags_es": [
+      "rechazar",
+      "negar",
+      "relaciones",
+      "citas",
+      "amor",
+      "decepción"
+    ],
+    "intro_note": "Este pasaje narra la historia de Peter, quien ha sido rechazado repetidamente en sus intentos de citas. El phrasal verb clave es 'turn down', que significa rechazar a alguien o algo.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Rechazado.",
+        "en": "Rejected."
+      },
+      {
+        "order": 2,
+        "es": "Peter le pidió una cita a Jane el lunes pasado y ella lo rechazó.",
+        "en": "Peter asked Jane out last Monday and she turned him down."
+      },
+      {
+        "order": 3,
+        "es": "Él no sabe por qué ella lo rechazó, pero cree que ella pudo haberlo rechazado debido a su apariencia.",
+        "en": "He doesn't know why she turned him down, but he thinks she may have turned him down because of his appearance."
+      },
+      {
+        "order": 4,
+        "es": "Jane fue la tercera chica en rechazar a Peter la semana pasada.",
+        "en": "Jane was the third girl to turn Peter down last week."
+      },
+      {
+        "order": 5,
+        "es": "De hecho, ha sido rechazado por cada chica a la que le ha pedido una cita.",
+        "en": "In fact, he's been turned down by every girl he's ever asked out."
+      },
+      {
+        "order": 6,
+        "es": "Quizás lo siguen rechazando porque solo mide 1 metro 40 de altura.",
+        "en": "Perhaps he keeps getting turned down because he's only 1 meter 40 tall."
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "file_name": "Phrasal_verbs_93.mp3",
+    "phrasal_verb": "come in",
+    "base_verb": "come",
+    "particle": "in",
+    "meaning_es": "Entrar",
+    "situation": "Movimiento y Lugares",
+    "tags_es": [
+      "entrar",
+      "ingresar",
+      "acceder",
+      "llegar"
+    ],
+    "intro_note": "Phrasal verbs. In and out. To come, to go in.",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Él entró sin llamar a la puerta.",
+        "en": "He came in without knocking."
+      },
+      {
+        "order": 2,
+        "es": "Entra.",
+        "en": "Come in."
+      },
+      {
+        "order": 3,
+        "es": "Yo que tú, no entraría ahí.",
+        "en": "If I were you, I wouldn't go in there."
+      },
+      {
+        "order": 4,
+        "es": "Dile a Smith que puede entrar ahora.",
+        "en": "Tell Smith he can come in now."
+      },
+      {
+        "order": 5,
+        "es": "El jefe dice que puede entrar, Mr. Smith.",
+        "en": "The boss says you can go in, Mr. Smith."
+      },
+      {
+        "order": 6,
+        "es": "Por un oído le entra y por el otro le sale.",
+        "en": "It goes in one ear and out the other."
+      },
+      {
+        "order": 7,
+        "es": "La lluvia entró por una ventana abierta.",
+        "en": "The rain came in through an open window."
+      },
+      {
+        "order": 8,
+        "es": "No te oí entrar anoche.",
+        "en": "I didn't hear you come in last night."
+      },
+      {
+        "order": 9,
+        "es": "Si entra alguien, atiéndele.",
+        "en": "If anyone comes in, look after them."
+      },
+      {
+        "order": 10,
+        "es": "Cierra la puerta para que nadie pueda entrar.",
+        "en": "Lock the door so nobody can come in."
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "file_name": "Phrasal_verbs_94.mp3",
+    "phrasal_verb": "Coming and going: A visit to the doctor",
+    "base_verb": null,
+    "particle": null,
+    "meaning_es": "Narrativa que ilustra el uso de varios 'phrasal verbs' relacionados con el movimiento y la interacción en el contexto de una visita médica, como 'got to' (llegar), 'go in' / 'come in' (entrar) y 'go into' (ir a).",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "visita médica",
+      "consultorio",
+      "entrar",
+      "llegar",
+      "esperar",
+      "movimiento",
+      "rutina diaria",
+      "clínica"
+    ],
+    "intro_note": "Una breve historia que utiliza phrasal verbs comunes para describir la experiencia de ir al médico.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Cuando Sara llegó al consultorio médico, la puerta del área de recepción estaba abierta.",
+        "en": "When Sara got to the doctors, the door to the reception area was open."
+      },
+      {
+        "order": 2,
+        "es": "Así que entró y le dio su nombre a la recepcionista.",
+        "en": "So she went in and gave the receptionist her name."
+      },
+      {
+        "order": 3,
+        "es": "La recepcionista sonrió y le dijo que fuera a la sala de espera para aguardar al médico.",
+        "en": "The receptionist smiled and told her to go into the waiting room to wait for the doctor."
+      },
+      {
+        "order": 4,
+        "es": "40 minutos después, una enfermera llamó el nombre de Sara y le dijo que pasara a una sala más pequeña y que el médico estaría con ella en breve.",
+        "en": "40 minutes later, a nurse called Sara's name and told her to go into a smaller room and that the doctor would be with her shortly."
+      },
+      {
+        "order": 5,
+        "es": "10 minutos después, la puerta se abrió y otra enfermera entró para tomarle la presión arterial a Sara.",
+        "en": "10 minutes later, the door opened and another nurse came in to take Sara's blood pressure."
+      },
+      {
+        "order": 6,
+        "es": "Y finalmente, una hora y media después, el médico entró para verla.",
+        "en": "And finally, an hour and a half later, the doctor came in to see her."
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "file_name": "Phrasal_verbs_95.mp3",
+    "phrasal_verb": "get in",
+    "base_verb": "get",
+    "particle": "in",
+    "meaning_es": "Subirse a un vehículo (coche, taxi, etc.), entrar en un espacio cerrado.",
+    "situation": "Movimiento y Lugares",
+    "tags_es": [
+      "subir",
+      "entrar",
+      "coche",
+      "taxi",
+      "vehículo",
+      "maletero"
+    ],
+    "intro_note": "To get in. Subirse a un coche, etc.",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Ella se subió a un taxi y le dio la dirección al taxista.",
+        "en": "She got into a taxi and gave the driver the address."
+      },
+      {
+        "order": 2,
+        "es": "Ella se subió a la parte de atrás del taxi.",
+        "en": "She got into the back of the taxi."
+      },
+      {
+        "order": 3,
+        "es": "Sube al coche ahora.",
+        "en": "Get into the car now."
+      },
+      {
+        "order": 4,
+        "es": "Yo no me subo a ese trasto.",
+        "en": "I'm not getting into that piece of junk."
+      },
+      {
+        "order": 5,
+        "es": "Él se subió al coche por el lado equivocado.",
+        "en": "He got in on the wrong side of the car."
+      },
+      {
+        "order": 6,
+        "es": "¿Por qué se subió por el lado del copiloto?",
+        "en": "Why did he get in on the passenger side?"
+      },
+      {
+        "order": 7,
+        "es": "Al rehén le hicieron meterse en el maletero.",
+        "en": "They made the hostage get into the trunk. Or, they made the hostage get into the boot."
+      },
+      {
+        "order": 8,
+        "es": "Él se subió a su helicóptero y se fue volando.",
+        "en": "He got into his helicopter and flew away."
+      },
+      {
+        "order": 9,
+        "es": "Ella no se ha subido a un coche desde el accidente.",
+        "en": "She hasn't gotten into a car since the accident."
+      },
+      {
+        "order": 10,
+        "es": "Yo no me subo a ese bote, es demasiado pequeño.",
+        "en": "I'm not getting into that boat. It's too small."
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "file_name": "Phrasal_verbs_96.mp3",
+    "phrasal_verb": "get into",
+    "base_verb": "get",
+    "particle": "into",
+    "meaning_es": "Significa 'entrar en' (físicamente a un lugar o a un vehículo, o figurativamente a un estado, organización o actividad), 'ser admitido en', 'empezar a hacer o tener algo', o 'interesarse mucho en algo'.",
+    "situation": "Vida Cotidiana y Social",
+    "tags_es": [
+      "entrar",
+      "subir",
+      "acceder",
+      "ser admitido",
+      "empezar",
+      "comenzar",
+      "involucrarse",
+      "interesarse",
+      "meterse en"
+    ],
+    "intro_note": "Today's phrasal verb is get into.",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Es difícil entrar en ese coche deportivo.",
+        "en": "It's difficult to get into that sports car."
+      },
+      {
+        "order": 2,
+        "es": "Se subió al coche y se fue.",
+        "en": "She got into the car and drove away."
+      },
+      {
+        "order": 3,
+        "es": "Entrar en el club no fue fácil.",
+        "en": "Getting into the club wasn't easy."
+      },
+      {
+        "order": 4,
+        "es": "Quiero estudiar derecho y entrar en una buena escuela.",
+        "en": "I want to study law and get into a good school."
+      },
+      {
+        "order": 5,
+        "es": "Se metió en el hábito de levantarse temprano.",
+        "en": "He got into the habit of waking up early."
+      },
+      {
+        "order": 6,
+        "es": "No te metas en problemas.",
+        "en": "Don't get into trouble."
+      },
+      {
+        "order": 7,
+        "es": "Después de un rato, se metieron en una pelea.",
+        "en": "After a while, they got into a fight."
+      },
+      {
+        "order": 8,
+        "es": "Estoy realmente metida en la jardinería últimamente.",
+        "en": "I'm really into gardening lately."
+      },
+      {
+        "order": 9,
+        "es": "Se metió en política para hacer un cambio.",
+        "en": "He got into politics to make a change."
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "file_name": "Phrasal_verbs_97.mp3",
+    "phrasal_verb": "to run in",
+    "base_verb": "run",
+    "particle": "in",
+    "meaning_es": "entrar corriendo",
+    "situation": "Movimiento y Lugares",
+    "tags_es": [
+      "entrar",
+      "correr",
+      "ingresar",
+      "llegar rápido",
+      "acceder"
+    ],
+    "intro_note": "The phrasal verb 'to run in' means 'entrar corriendo'.",
+    "drills": [
+      {
+        "order": 1,
+        "es": "El bombero entró corriendo en el edificio en llamas.",
+        "en": "The fireman ran into the burning building."
+      },
+      {
+        "order": 2,
+        "es": "Ella oyó un grito y entró corriendo.",
+        "en": "She heard a scream and ran in."
+      },
+      {
+        "order": 3,
+        "es": "La chica entró corriendo en el baño y resbaló.",
+        "en": "The girl ran into the bathroom and slipped."
+      },
+      {
+        "order": 4,
+        "es": "Él entró corriendo en clase porque llegaba tarde.",
+        "en": "He ran into his classroom because he was late."
+      },
+      {
+        "order": 5,
+        "es": "Los jugadores entraron corriendo en el vestuario.",
+        "en": "The players ran into the locker room."
+      },
+      {
+        "order": 6,
+        "es": "Ella volvió a entrar en el bar corriendo.",
+        "en": "She ran back into the bar."
+      },
+      {
+        "order": 7,
+        "es": "Él entró corriendo en la tienda para comprar leche.",
+        "en": "He ran into the shop to buy milk."
+      },
+      {
+        "order": 8,
+        "es": "La pequeña entró corriendo en su habitación llorando.",
+        "en": "The little girl ran into her bedroom crying."
+      },
+      {
+        "order": 9,
+        "es": "Entra corriendo, coge el dinero y sal corriendo.",
+        "en": "Run in, grab the money and run out."
+      },
+      {
+        "order": 10,
+        "es": "Él entra corriendo en la casa siempre que ve un perro.",
+        "en": "He runs into the house whenever he sees a dog."
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "file_name": "Phrasal_verbs_98.mp3",
+    "phrasal_verb": "run around",
+    "base_verb": "run",
+    "particle": "around",
+    "meaning_es": "Moverse de un lado para otro, a menudo de forma apresurada o frenética, para hacer algo, buscar a alguien, o simplemente por actividad. También puede referirse a que los niños juegan corriendo o, en un sentido más figurado, a evadir responsabilidades.",
+    "situation": "Movimiento y Lugares",
+    "tags_es": [
+      "corretear",
+      "andar de un lado para otro",
+      "buscar frenéticamente",
+      "moverse rápidamente",
+      "estar ocupado",
+      "jugar",
+      "evadir"
+    ],
+    "intro_note": "En esta lección, exploraremos el phrasal verb 'run around', que tiene varios usos relacionados con el movimiento activo y la actividad, así como con la evasión.",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Estaba corriendo de un lado para otro por toda la casa buscando mis llaves.",
+        "en": "I was running around the whole house looking for my keys."
+      },
+      {
+        "order": 2,
+        "es": "Los niños no pararon de correr por el jardín toda la tarde.",
+        "en": "The children kept running around the garden all afternoon."
+      },
+      {
+        "order": 3,
+        "es": "Siempre está corriendo de un lado para otro con su trabajo y sus recados.",
+        "en": "She's always running around with her job and errands."
+      },
+      {
+        "order": 4,
+        "es": "Deja de correr y enfréntate al problema.",
+        "en": "Stop running around and face the problem."
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "file_name": "Phrasal_verbs_99.mp3",
+    "phrasal_verb": "to walk in",
+    "base_verb": "walk",
+    "particle": "in",
+    "meaning_es": "entrar andando",
+    "situation": "Movimiento y Lugares",
+    "tags_es": [
+      "entrar",
+      "ingresar",
+      "acceder",
+      "llegar",
+      "entrar a un lugar"
+    ],
+    "intro_note": "",
+    "drills": [
+      {
+        "order": 1,
+        "es": "El ladrón se mostró tranquilo cuando entró en el banco.",
+        "en": "The robber walked into the bank calmly."
+      },
+      {
+        "order": 2,
+        "es": "¿Cómo te atreves a entrar aquí sin llamar?",
+        "en": "How dare you walk in here without knocking?"
+      },
+      {
+        "order": 3,
+        "es": "Ella respiró hondo y entró.",
+        "en": "She took a deep breath and walked in."
+      },
+      {
+        "order": 4,
+        "es": "Él entró al día siguiente como si nada hubiera pasado.",
+        "en": "He walked in the next day as if nothing had happened."
+      },
+      {
+        "order": 5,
+        "es": "Ella entró en el hospital y se desmayó.",
+        "en": "She walked into the hospital and passed out."
+      },
+      {
+        "order": 6,
+        "es": "La tienda estaba cerrada, pero entré de todas formas.",
+        "en": "The store was closed, but I walked in anyway."
+      },
+      {
+        "order": 7,
+        "es": "Cuando él entró, todos se callaron.",
+        "en": "When he walked in, everyone fell silent."
+      },
+      {
+        "order": 8,
+        "es": "Su mujer le pilló.",
+        "en": "His wife walked in on him."
+      },
+      {
+        "order": 9,
+        "es": "Alguien le vio entrando en una tienda de licores.",
+        "en": "Someone saw him walking into a liquor store."
+      },
+      {
+        "order": 10,
+        "es": "Él entró en el bar y pidió una copa.",
+        "en": "He walked into the bar and ordered a drink."
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "file_name": "Phrasal_verbs_100.mp3",
+    "phrasal_verb": "Story: A man walks into a bar",
+    "base_verb": null,
+    "particle": null,
+    "meaning_es": "Una historia corta con un giro inesperado donde un hombre entra en lo que cree que es un bar, pero resulta ser una comisaría de policía.",
+    "situation": "Humor y Vida Cotidiana",
+    "tags_es": [
+      "historia",
+      "chiste",
+      "narrativa",
+      "malentendido",
+      "policía",
+      "bar",
+      "arresto"
+    ],
+    "intro_note": "Una historia corta que termina con un giro sorprendente.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Un hombre entra en un bar.",
+        "en": "A man walks into a bar."
+      },
+      {
+        "order": 2,
+        "es": "Un hombre entra en un bar para contar un chiste.",
+        "en": "A man walks into a bar to tell a joke."
+      },
+      {
+        "order": 3,
+        "es": "Mira a su alrededor y ve que el bar está vacío, excepto por un camarero con vestimenta extraña detrás de la barra.",
+        "en": "He looks around and sees that the bar is empty, except for a strangely dressed barman behind the counter."
+      },
+      {
+        "order": 4,
+        "es": "Así que entra al baño de hombres para buscar a alguien a quien contarle su chiste.",
+        "en": "So he walks into the men's bathroom to look for someone to tell his joke to."
+      },
+      {
+        "order": 5,
+        "es": "El baño de hombres está vacío, así que entra al baño de mujeres, que también está vacío.",
+        "en": "The men's bathroom is empty, so he walks into the women's bathroom, which is empty too."
+      },
+      {
+        "order": 6,
+        "es": "El hombre regresa al bar y le dice al camarero: \"Cantinero, ¿por qué el bar está tan vacío?\"",
+        "en": "The man walks back into the bar and says to the bartender: \"Bartender, why is the bar so empty?\""
+      },
+      {
+        "order": 7,
+        "es": "El camarero responde: \"Señor, ha entrado en una comisaría de policía y está bajo arresto por estar borracho y en desorden público.\"",
+        "en": "The bartender replies: \"Sir, you've walked into a police station, and you're under arrest for being drunk and disorderly.\""
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "file_name": "Phrasal_verbs_101.mp3",
+    "phrasal_verb": "to break in",
+    "base_verb": "break",
+    "particle": "in",
+    "meaning_es": "Entrar a la fuerza, entrar a robar.",
+    "situation": "Vida Cotidiana y Casa",
+    "tags_es": [
+      "robar",
+      "forzar entrada",
+      "allanamiento",
+      "intrusión",
+      "seguridad"
+    ],
+    "intro_note": "Introducción al phrasal verb 'to break in' y sus significados en español 'entrar a la fuerza' y 'entrar a robar'.",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Anoche alguien entró en mi coche a la fuerza.",
+        "en": "Someone broke into my car last night."
+      },
+      {
+        "order": 2,
+        "es": "¿Sabes quién entró?",
+        "en": "Do you know who broke in?"
+      },
+      {
+        "order": 3,
+        "es": "Lo abrieron con una percha.",
+        "en": "They broke in, using a coat hanger."
+      },
+      {
+        "order": 4,
+        "es": "Ha habido muchos robos últimamente.",
+        "en": "There have been a lot of break-ins lately."
+      },
+      {
+        "order": 5,
+        "es": "Si nos vuelven a robar, nuestro seguro subirá.",
+        "en": "If we have another break-in, our insurance will go up."
+      },
+      {
+        "order": 6,
+        "es": "Entraron a robar por la noche.",
+        "en": "They broke in at night."
+      },
+      {
+        "order": 7,
+        "es": "Entraron a robar en su casa mientras estaban fuera.",
+        "en": "Their house was broken into while they were out."
+      },
+      {
+        "order": 8,
+        "es": "¿Cómo forzaron la cerradura?",
+        "en": "How did they break in?"
+      },
+      {
+        "order": 9,
+        "es": "¿Entraron a robar en la casa de alguien más?",
+        "en": "Was anyone else's house broken into?"
+      },
+      {
+        "order": 10,
+        "es": "Si alguien quiere entrar a robar, encontrará la manera.",
+        "en": "If someone wants to break in, they'll find a way."
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "file_name": "Phrasal_verbs_102.mp3",
+    "phrasal_verb": "break in",
+    "base_verb": "break",
+    "particle": "in",
+    "meaning_es": "Forzar la entrada a un lugar, a menudo ilegalmente con intención de robar. También se usa para entrar a la fuerza en tu propio vehículo o casa cuando te has quedado fuera.",
+    "situation": "Seguridad y Delincuencia",
+    "tags_es": [
+      "allanar",
+      "robo",
+      "entrar a la fuerza",
+      "irrumpir",
+      "forzar cerradura",
+      "delito",
+      "emergencia",
+      "acceso no autorizado"
+    ],
+    "intro_note": "Este phrasal verb se usa para describir la acción de entrar a un lugar por la fuerza, ya sea ilegalmente o por necesidad, como cuando te quedas fuera de tu propio coche o casa.",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Alguien intentó forzar la entrada a nuestra casa la noche pasada.",
+        "en": "Someone tried to break into our house last night."
+      },
+      {
+        "order": 2,
+        "es": "Tuvieron que forzar la entrada al coche porque las llaves estaban dentro.",
+        "en": "They had to break into the car because the keys were inside."
+      },
+      {
+        "order": 3,
+        "es": "Los ladrones forzaron la entrada a la tienda por la ventana trasera.",
+        "en": "The burglars broke into the store through the back window."
+      },
+      {
+        "order": 4,
+        "es": "Sarah tuvo que forzar la entrada a su propio coche para recuperar sus llaves.",
+        "en": "Sarah had to break into her own car to get her keys back."
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "file_name": "Phrasal_verbs_103.mp3",
+    "phrasal_verb": "to take in",
+    "base_verb": "take",
+    "particle": "in",
+    "meaning_es": "comprender, asimilar",
+    "situation": "Educación y Aprendizaje",
+    "tags_es": [
+      "comprender",
+      "asimilar",
+      "entender",
+      "información",
+      "aprender"
+    ],
+    "intro_note": "",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Esa es mucha información para asimilar.",
+        "en": "That's a lot of information to take in."
+      },
+      {
+        "order": 2,
+        "es": "Él comprendió todo lo que dijiste?",
+        "en": "Did he take in everything you said?"
+      },
+      {
+        "order": 3,
+        "es": "Fue difícil para él asimilarlo todo.",
+        "en": "It was difficult for him to take it all in."
+      },
+      {
+        "order": 4,
+        "es": "Escuché el discurso, pero no comprendí ni una palabra.",
+        "en": "I listened to the speech, but I didn't take in a word."
+      },
+      {
+        "order": 5,
+        "es": "Necesitarás una semana para asimilar todo.",
+        "en": "You'll need a week to take everything in."
+      },
+      {
+        "order": 6,
+        "es": "Ella iba a clase, pero casi nunca asimilaba nada.",
+        "en": "She went to class, but hardly ever took anything in."
+      },
+      {
+        "order": 7,
+        "es": "Nadie comprendió nada de lo que dijimos.",
+        "en": "Nobody took in anything we said."
+      },
+      {
+        "order": 8,
+        "es": "No tuvimos tiempo para asimilarlo todo.",
+        "en": "We didn't have time to take in everything."
+      },
+      {
+        "order": 9,
+        "es": "No había suficiente tiempo para asimilarlo todo.",
+        "en": "There wasn't enough time to take it all in."
+      },
+      {
+        "order": 10,
+        "es": "Era difícil comprender lo que estaba oyendo.",
+        "en": "It was difficult to take in what I was hearing."
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "file_name": "Phrasal_verbs_104.mp3",
+    "phrasal_verb": "take in",
+    "base_verb": "take",
+    "particle": "in",
+    "meaning_es": "Comprender o asimilar algo, o incluir algo.",
+    "situation": "Educación y Aprendizaje",
+    "tags_es": [
+      "comprender",
+      "asimilar",
+      "entender",
+      "absorber",
+      "incluir",
+      "información",
+      "aprender"
+    ],
+    "intro_note": "Hello and welcome to another phrasal verb lesson. Today's phrasal verb is 'take in'. It means to understand or remember something, or to include something. Significa comprender o asimilar algo, o incluir algo.",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Era demasiado para asimilar.",
+        "en": "It was too much to take in."
+      },
+      {
+        "order": 2,
+        "es": "Sarah estaba tratando de aprender a diseñar páginas web, pero las clases eran aburridas y había demasiada información para asimilar.",
+        "en": "Sarah was trying to learn how to design web pages, but the classes were boring and there was too much information to take in."
+      },
+      {
+        "order": 3,
+        "es": "Ella trató de prestar atención, pero el profesor habló tan rápido que no pudo asimilar todo lo que dijo.",
+        "en": "She tried to pay attention, but the teacher spoke so fast that she couldn't take in everything he said."
+      },
+      {
+        "order": 4,
+        "es": "Muchos de sus compañeros estaban garabateando o mirando por la ventana, así que sabía que no era la única que no estaba asimilando lo que se decía.",
+        "en": "A lot of her classmates were doodling or looking out the window, so she knew she wasn't the only one not taking in what was being said."
+      },
+      {
+        "order": 5,
+        "es": "Al principio, Sarah había pensado que un curso de tres meses sería suficiente para asimilar lo básico.",
+        "en": "At first, Sarah had thought that a three-month course would be enough to take in the basics."
+      },
+      {
+        "order": 6,
+        "es": "Pero ahora sabía que necesitaría al menos un año para asimilarlo todo.",
+        "en": "But now she knew that she would need at least a year to take everything in."
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "file_name": "Phrasal_verbs_105.mp3",
+    "phrasal_verb": "to sink in",
+    "base_verb": "sink",
+    "particle": "in",
+    "meaning_es": "asimilar, asumir",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "asimilar",
+      "asumir",
+      "entender",
+      "comprender",
+      "procesar",
+      "aceptar",
+      "darse cuenta",
+      "captar"
+    ],
+    "intro_note": "The speaker introduces the phrasal verb and then provides bilingual practice drills (Spanish prompt -> English sentence).",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Tardaron un tiempo en asimilar la noticia.",
+        "en": "It took a while for the news to sink in."
+      },
+      {
+        "order": 2,
+        "es": "No creo que asimilaran lo que dije.",
+        "en": "I don't think what I said sank in."
+      },
+      {
+        "order": 3,
+        "es": "A juzgar por su reacción, creo que se dieron cuenta.",
+        "en": "Judging by their reaction, I think it sank in."
+      },
+      {
+        "order": 4,
+        "es": "Ella se tuvo que sentar para poder asimilar sus palabras.",
+        "en": "She had to sit down to let his words sink in."
+      },
+      {
+        "order": 5,
+        "es": "Ella hizo una pausa para que pudieran asimilar su comentario.",
+        "en": "She paused to let her point sink in."
+      },
+      {
+        "order": 6,
+        "es": "Tardaron una fracción de segundo en asimilarlo.",
+        "en": "It took a split second to sink in."
+      },
+      {
+        "order": 7,
+        "es": "Aún no han asimilado la victoria.",
+        "en": "The victory hasn't sunk in yet."
+      },
+      {
+        "order": 8,
+        "es": "No lo asimilaremos hasta que lleguemos a casa.",
+        "en": "It won't sink in until we get home."
+      },
+      {
+        "order": 9,
+        "es": "Dudo que alguna vez lo asimilen del todo.",
+        "en": "I doubt it will ever fully sink in."
+      },
+      {
+        "order": 10,
+        "es": "Cuando finalmente él cayó en la cuenta, lloró y lloró.",
+        "en": "When it finally sank in, he cried and cried."
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "file_name": "Phrasal_verbs_106.mp3",
+    "phrasal_verb": "sink in",
+    "base_verb": "sink",
+    "particle": "in",
+    "meaning_es": "Asimilarse, comprenderse, entenderse (una noticia, idea o hecho).",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "asimilar",
+      "comprender",
+      "entender",
+      "noticia",
+      "emoción",
+      "sorpresa",
+      "darse cuenta",
+      "caer en cuenta",
+      "realizar"
+    ],
+    "intro_note": "A short story about a family's reaction to news of a pregnancy, illustrating the phrasal verb 'sink in' which means to be fully understood or realized.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Una nueva adición a la familia.",
+        "en": "A new addition to the family."
+      },
+      {
+        "order": 2,
+        "es": "Cuando la hermana de Sarah la llamó para decirle que iba a tener un bebé, Sarah se quedó sin palabras.",
+        "en": "When Sarah's sister called her to tell her that she was having a baby, Sarah was speechless."
+      },
+      {
+        "order": 3,
+        "es": "Tardó unos minutos en que la noticia se asimilara, pero cuando finalmente se asimiló, estaba tan feliz que lloró.",
+        "en": "It took a few minutes for the news to sink in, but when it finally sank in, she was so happy she cried."
+      },
+      {
+        "order": 4,
+        "es": "La hermana de Sarah le dijo que ella y su esposo habían estado tratando de tener un bebé durante mucho tiempo, y cuando ella le había dicho, él tuvo que sentarse para que la noticia se asimilara.",
+        "en": "Sarah's sister told her that she and her husband had been trying to have a baby for a long time, and when she had told him, he had to sit down for the news to sink in."
+      },
+      {
+        "order": 5,
+        "es": "Aunque ella no creía que realmente lo asimilaría hasta que trajeran al bebé a casa.",
+        "en": "Although she didn't think it would really sink in until they brought the baby home."
+      },
+      {
+        "order": 6,
+        "es": "Antes de colgar el teléfono, la hermana de Sarah le preguntó si ya había asimilado que iba a ser tía.",
+        "en": "Before hanging up the phone, Sarah's sister asked her if it had sunk in that she was going to be an aunt."
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "file_name": "Phrasal_verbs_107.mp3",
+    "phrasal_verb": "fill in",
+    "base_verb": "fill",
+    "particle": "in",
+    "meaning_es": "sustituir, reemplazar a alguien temporalmente",
+    "situation": "Trabajo y Negocios",
+    "tags_es": [
+      "sustituir",
+      "reemplazar",
+      "suplir",
+      "cubrir un puesto",
+      "ausencia",
+      "trabajo",
+      "ayuda"
+    ],
+    "intro_note": "Introducción del phrasal verb 'fill in' y su significado 'sustituir' seguido de ejercicios de práctica bilingües.",
+    "drills": [
+      {
+        "order": 1,
+        "es": "El vicepresidente sustituyó al presidente.",
+        "en": "The vice president filled in for the president."
+      },
+      {
+        "order": 2,
+        "es": "¿Puedes sustituirme mientras estoy fuera?",
+        "en": "Could you fill in for me while I'm away?"
+      },
+      {
+        "order": 3,
+        "es": "El señor Smith sustituirá a la señora Jones esta semana.",
+        "en": "Mr. Smith will be filling in for Mrs. Jones this week."
+      },
+      {
+        "order": 4,
+        "es": "Si me sustituyes, no tendré un trabajo al que volver.",
+        "en": "If you fill in for me, I won't have a job to come back to."
+      },
+      {
+        "order": 5,
+        "es": "¿Te gustaría sustituir a un sepulturero?",
+        "en": "Would you like to fill in for a grave digger?"
+      },
+      {
+        "order": 6,
+        "es": "Si te pones enfermo, yo te sustituiré.",
+        "en": "If you get ill, I'll fill in for you."
+      },
+      {
+        "order": 7,
+        "es": "¿Quién sustituye a un dictador cuando está enfermo?",
+        "en": "Who fills in for a dictator when he's sick?"
+      },
+      {
+        "order": 8,
+        "es": "Alguien tiene que sustituir a la secretaria esta semana.",
+        "en": "Someone has to fill in for the secretary this week."
+      },
+      {
+        "order": 9,
+        "es": "¿Quién la sustituirá mientras esté de baja maternal?",
+        "en": "Who will fill in for her while she's on maternity leave?"
+      },
+      {
+        "order": 10,
+        "es": "Mi trabajo es tan fácil que un mono podría sustituirme.",
+        "en": "My job is so easy that a monkey could fill in for me."
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "file_name": "Phrasal_verbs_108.mp3",
+    "phrasal_verb": "fill in for",
+    "base_verb": "fill",
+    "particle": "in for",
+    "meaning_es": "Sustituir o reemplazar a alguien en un puesto o tarea temporalmente. El verbo frasal 'fill in for' significa cubrir o reemplazar a otra persona. También se menciona 'pile up', que significa acumularse.",
+    "situation": "Trabajo y Negocios",
+    "tags_es": [
+      "sustituir",
+      "reemplazar",
+      "cubrir",
+      "trabajo",
+      "enfermedad",
+      "acumular",
+      "trabajo acumulado",
+      "sobrecarga",
+      "personal"
+    ],
+    "intro_note": "Una historia sobre Sarah, quien se encuentra abrumada en el trabajo por tener que cubrir a colegas enfermos, usando principalmente el phrasal verb 'fill in for'.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Abrumada.",
+        "en": "Swamped."
+      },
+      {
+        "order": 2,
+        "es": "Era la temporada de gripe, y muchos de los colegas de Sarah estaban enfermos en casa, así que mucha gente los estaba reemplazando.",
+        "en": "It was flu season, and a lot of Sarah's colleagues were sick at home, so a lot of people were filling in for them."
+      },
+      {
+        "order": 3,
+        "es": "Sarah había llamado a una agencia de personal temporal para encontrar a alguien que sustituyera a la secretaria, pero le dijeron que todas las secretarias que tenían ya estaban cubriendo puestos en otros lugares.",
+        "en": "Sarah had called a temp agency to find someone to fill in for the secretary, but they told her that all the secretaries they had were already filling in elsewhere."
+      },
+      {
+        "order": 4,
+        "es": "Al final, Sarah se dio por vencida y decidió intentar reemplazar a la secretaria ella misma.",
+        "en": "In the end, Sarah gave up and decided to try and fill in for the secretary herself."
+      },
+      {
+        "order": 5,
+        "es": "Por supuesto, mientras Sarah estaba cubriendo a la secretaria, nadie la estaba cubriendo a ella, y su trabajo se estaba acumulando.",
+        "en": "Of course, while Sarah was filling in for the secretary, no one was filling in for her, and her work was piling up."
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "file_name": "Phrasal_verbs_109.mp3",
+    "phrasal_verb": "to stand in",
+    "base_verb": "stand",
+    "particle": "in",
+    "meaning_es": "sustituir",
+    "situation": "Trabajo y Negocios",
+    "tags_es": [
+      "sustituir",
+      "reemplazar",
+      "suplir",
+      "ocupar el lugar",
+      "hacer de"
+    ],
+    "intro_note": "",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Tuve que sustituirle cuando él no apareció.",
+        "en": "I had to stand in for him when he didn't show up."
+      },
+      {
+        "order": 2,
+        "es": "¿Podrías sustituir al jefe en la reunión?",
+        "en": "Could you stand in for the boss at the meeting?"
+      },
+      {
+        "order": 3,
+        "es": "El sustituto de mi médico de siempre era mejor.",
+        "en": "The stand-in for my usual doctor was better."
+      },
+      {
+        "order": 4,
+        "es": "¿Quién sustituye al rey mientras está en el hospital?",
+        "en": "Who's standing in for the king while he's in hospital?"
+      },
+      {
+        "order": 5,
+        "es": "El sustituto del entrenador llevó al equipo a la final.",
+        "en": "The stand-in manager led the team to the final."
+      },
+      {
+        "order": 6,
+        "es": "Ella sustituyó a la actriz que hacía de Julieta.",
+        "en": "She stood in for the actress who played Juliet."
+      },
+      {
+        "order": 7,
+        "es": "¿Cuánto tiempo la sustituirá?",
+        "en": "How long will she be standing in for her?"
+      },
+      {
+        "order": 8,
+        "es": "Me encantaría sustituir al presidente por un día.",
+        "en": "I'd love to stand in for the president just for a day."
+      },
+      {
+        "order": 9,
+        "es": "Sustitúyeme, enseguida vuelvo.",
+        "en": "Stand in for me, I'll be right back."
+      },
+      {
+        "order": 10,
+        "es": "El cámara tuvo que sustituir al presentador.",
+        "en": "The cameraman had to stand in for the news anchor."
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "file_name": "Phrasal_verbs_110.mp3",
+    "phrasal_verb": "stand in for",
+    "base_verb": "stand",
+    "particle": "in for",
+    "meaning_es": "Sustituir o reemplazar a alguien temporalmente en una función o puesto.",
+    "situation": "Trabajo y Negocios",
+    "tags_es": [
+      "sustituir",
+      "reemplazar",
+      "suplir",
+      "temporalmente",
+      "emergencia",
+      "conferencia",
+      "gerentes",
+      "ausencia"
+    ],
+    "intro_note": "This story illustrates the phrasal verb 'to stand in for' in a business context, describing a situation where people needed to replace others temporarily.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Crisis evitada.",
+        "en": "Crisis averted."
+      },
+      {
+        "order": 2,
+        "es": "El sábado pasado hubo una conferencia importante a la que se esperaba que asistiera toda la gerencia de la empresa de Sarah.",
+        "en": "Last Saturday there was an important conference that all the management of Sarah's company were expected to attend."
+      },
+      {
+        "order": 3,
+        "es": "Sin embargo, mientras se dirigían a la conferencia, muchos de ellos sufrieron una intoxicación alimentaria por la comida del avión, y tuvieron que buscar sustitutos.",
+        "en": "However, while en route to the conference, a lot of them got food poisoning from the airplane food, and stand-ins had to be found."
+      },
+      {
+        "order": 4,
+        "es": "A Sarah se le pidió que sustituyera al gerente de marketing, ya que ese era su departamento.",
+        "en": "Sarah was asked to stand in for the marketing manager, since that was her department."
+      },
+      {
+        "order": 5,
+        "es": "Y a varios otros colegas se les pidió que sustituyeran a otros jefes de departamento.",
+        "en": "And several other colleagues were asked to stand in for various other department heads."
+      },
+      {
+        "order": 6,
+        "es": "La gran duda era quién iba a sustituir al presidente y al vicepresidente.",
+        "en": "The big doubt was who was going to stand in for the president and the vice president."
+      },
+      {
+        "order": 7,
+        "es": "Al final, el gerente de finanzas sustituyó al vicepresidente, y el presidente le pidió a su esposa que lo sustituyera a él.",
+        "en": "In the end, the finance manager stood in for the vice president, and the president asked his wife to stand in for him."
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "file_name": "Phrasal_verbs_111.mp3",
+    "phrasal_verb": "to hand in",
+    "base_verb": "hand",
+    "particle": "in",
+    "meaning_es": "entregar, presentar",
+    "situation": "Vida Cotidiana y Casa",
+    "tags_es": [
+      "entregar",
+      "presentar",
+      "someter",
+      "rendir",
+      "devolver",
+      "documentos",
+      "tareas",
+      "objetos perdidos",
+      "dimisión",
+      "renuncia"
+    ],
+    "intro_note": "The speaker introduces the phrasal verb and then provides bilingual practice drills.",
+    "drills": [
+      {
+        "order": 1,
+        "es": "¿Cuándo tenemos que presentar el proyecto final?",
+        "en": "When do we have to hand in the final project?"
+      },
+      {
+        "order": 2,
+        "es": "Se suponía que lo ibas a entregar la semana pasada.",
+        "en": "You were supposed to hand it in last week."
+      },
+      {
+        "order": 3,
+        "es": "Entregué el primer borrador la semana pasada.",
+        "en": "I handed in the first draft last week."
+      },
+      {
+        "order": 4,
+        "es": "A lo mejor deberías presentar tu dimisión.",
+        "en": "Maybe you should hand in your resignation."
+      },
+      {
+        "order": 5,
+        "es": "Presentaré la mía si tú presentas la tuya.",
+        "en": "I'll hand in mine if you hand in yours."
+      },
+      {
+        "order": 6,
+        "es": "He perdido mi cartera. ¿Alguien ha entregado una?",
+        "en": "I've lost my wallet. Has anyone handed one in?"
+      },
+      {
+        "order": 7,
+        "es": "Alguien entregó una ayer.",
+        "en": "Someone handed one in yesterday."
+      },
+      {
+        "order": 8,
+        "es": "¿Puedes entregar mis deberes por mí, por favor?",
+        "en": "Could you hand my homework in for me, please?"
+      },
+      {
+        "order": 9,
+        "es": "No tenemos que presentarlos hasta el viernes.",
+        "en": "We don't have to hand it in until Friday."
+      },
+      {
+        "order": 10,
+        "es": "Smith presentó su renuncia la semana pasada.",
+        "en": "Smith handed in his notice last week."
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "file_name": "Phrasal_verbs_112.mp3",
+    "phrasal_verb": "fill in, hand in",
+    "base_verb": null,
+    "particle": null,
+    "meaning_es": "Fill in: Rellenar (un formulario). Hand in: Entregar (documentos, una tarea).",
+    "situation": "Vida Cotidiana, Trámites y Documentos, Viajes y Transporte",
+    "tags_es": [
+      "rellenar",
+      "entregar",
+      "formularios",
+      "impuestos",
+      "taxi",
+      "documentos",
+      "perdido",
+      "identificación"
+    ],
+    "intro_note": "A short story about Sarah's attempt to hand in her tax forms and an unfortunate incident with her purse.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Después de rellenar sus formularios de impuestos, Sarah decidió entregarlos en persona para evitar cualquier problema.",
+        "en": "After filling in her tax forms, Sarah decided to hand them in personally to avoid any problems."
+      },
+      {
+        "order": 2,
+        "es": "Tuvo que ir a la oficina del IRS para entregarlos, así que decidió tomar un taxi.",
+        "en": "She had to go to the IRS office to hand them in, so she decided to take a taxi."
+      },
+      {
+        "order": 3,
+        "es": "Cuando llegó al IRS, se dio cuenta de que no podía entregar sus formularios de impuestos porque había dejado su bolso en el taxi y necesitaba su identificación para entregar los documentos.",
+        "en": "When she got to the IRS, she realized that she couldn't hand in her tax forms because she had left her purse in the taxi and she needed her ID to hand in the documents."
+      },
+      {
+        "order": 4,
+        "es": "La única esperanza de Sarah era que alguien lo hubiera encontrado y lo hubiera entregado.",
+        "en": "Sarah's only hope was that someone had found it and handed it in."
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "file_name": "Phrasal_verbs_113.mp3",
+    "phrasal_verb": "send in",
+    "base_verb": "send",
+    "particle": "in",
+    "meaning_es": "Enviar o presentar algo (como un documento, una solicitud, etc.) a un lugar o persona en particular.",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "enviar",
+      "mandar",
+      "presentar",
+      "entregar",
+      "solicitud",
+      "documento"
+    ],
+    "intro_note": "To send in: enviar, mandar",
+    "type": "drill",
+    "drills": [
+      {
+        "order": 1,
+        "es": "¿Has enviado tu formulario de solicitud ya?",
+        "en": "Have you sent in your application form yet?"
+      },
+      {
+        "order": 2,
+        "es": "Lo envié hace dos semanas.",
+        "en": "I sent it in two weeks ago."
+      },
+      {
+        "order": 3,
+        "es": "Asegúrate de enviarlo antes del día 15.",
+        "en": "Make sure you send it in before the 15th."
+      },
+      {
+        "order": 4,
+        "es": "Lo envié, pero aún no he recibido una respuesta.",
+        "en": "I sent it in, but I haven't received a reply yet."
+      },
+      {
+        "order": 5,
+        "es": "Deberías mandar tus respuestas a la dirección de abajo.",
+        "en": "You should send your answers in to the address below."
+      },
+      {
+        "order": 6,
+        "es": "¿Cuántos candidatos mandaron su currículum?",
+        "en": "How many applicants sent in a CV?"
+      },
+      {
+        "order": 7,
+        "es": "Envié una carta de recomendación también.",
+        "en": "I sent in a letter of recommendation too."
+      },
+      {
+        "order": 8,
+        "es": "¿Hace cuánto que la mandaste?",
+        "en": "How long ago did you send it in?"
+      },
+      {
+        "order": 9,
+        "es": "Las Naciones Unidas mandaron tropas.",
+        "en": "The United Nations sent in troops."
+      },
+      {
+        "order": 10,
+        "es": "Quizás necesitan mandar a los marines.",
+        "en": "Perhaps they need to send in the Marines."
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "file_name": "Phrasal_verbs_114.mp3",
+    "phrasal_verb": "Story: Hiring and Job Applications (send in, set up, deal with, narrow down)",
+    "base_verb": null,
+    "particle": null,
+    "meaning_es": "Una historia sobre el proceso de contratación en una empresa, destacando el uso de phrasal verbs como 'send in' (enviar), 'set up' (establecer), 'deal with' (lidiar con) y 'narrow down' (reducir).",
+    "situation": "Trabajo y Negocios",
+    "tags_es": [
+      "contratación",
+      "empleo",
+      "solicitud de trabajo",
+      "currículum",
+      "recesión",
+      "equipo de trabajo",
+      "selección de personal",
+      "entrevista"
+    ],
+    "intro_note": "Esta historia narra el desafío de una empresa durante una recesión, cuando un número abrumador de personas solicitan un puesto de trabajo.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "La empresa de Sarah estaba contratando y, debido a la recesión, más personas que nunca estaban enviando currículums.",
+        "en": "Sarah's company was hiring and due to the recession, more people than ever were sending in resumes."
+      },
+      {
+        "order": 2,
+        "es": "De hecho, tanta gente había enviado solicitudes que la empresa tuvo que establecer un equipo especial para lidiar con ellos.",
+        "en": "In fact, so many people had sent ones in that the company had to set up a special team to deal with them."
+      },
+      {
+        "order": 3,
+        "es": "Sarah estaba en el equipo y no estaba ansiosa por leer todos los currículums que se habían enviado.",
+        "en": "Sarah was on the team and was not looking forward to reading all the resumes that had been sent in."
+      },
+      {
+        "order": 4,
+        "es": "En total, se enviaron más de 3.000 currículums y el equipo logró reducirlos a 10.",
+        "en": "In all, more than 3,000 resumes were sent in and the team managed to narrow it down to 10."
+      },
+      {
+        "order": 5,
+        "es": "A los 10 seleccionados se les pidió entonces que enviaran una carta detallada explicando por qué serían perfectos para el puesto.",
+        "en": "The 10 that were chosen were then asked to send in a detailed letter explaining why they would be perfect for the job."
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "file_name": "Phrasal_verbs_115.mp3",
+    "phrasal_verb": "pop in",
+    "base_verb": "pop",
+    "particle": "in",
+    "meaning_es": "Pasar a ver, ir a ver, visitar brevemente o entrar rápidamente a un lugar.",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "visitar",
+      "entrar",
+      "pasar por",
+      "brevemente",
+      "inesperadamente",
+      "casual"
+    ],
+    "intro_note": "Este ejercicio se enfoca en el phrasal verb 'pop in', que significa visitar brevemente o entrar rápidamente a un lugar, a menudo de manera informal o inesperada. A veces se usa con 'into' para especificar el lugar.",
+    "type": "drill",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Pásate cuando quieras.",
+        "en": "Pop in whenever you want."
+      },
+      {
+        "order": 2,
+        "es": "Les encanta cuando los amigos se pasan a verles.",
+        "en": "They love it when friends pop in."
+      },
+      {
+        "order": 3,
+        "es": "Él odia cuando alguien se pasa por su casa de improviso.",
+        "en": "He hates it when people pop in unexpectedly."
+      },
+      {
+        "order": 4,
+        "es": "Jane se pasó por casa el lunes pasado para tomar un té.",
+        "en": "Jane popped in last Monday for a cup of tea."
+      },
+      {
+        "order": 5,
+        "es": "Ella dejó la puerta abierta para que él pudiera entrar.",
+        "en": "She left the door open so he could pop in."
+      },
+      {
+        "order": 6,
+        "es": "Él se pasa por casa de vez en cuando.",
+        "en": "He pops in every now and again."
+      },
+      {
+        "order": 7,
+        "es": "Ellos suelen pasarse por casa después de ir a la iglesia.",
+        "en": "They usually pop in after church."
+      },
+      {
+        "order": 8,
+        "es": "Ella se pasó por la farmacia para comprar aspirinas.",
+        "en": "She popped into the pharmacy to buy some aspirin."
+      },
+      {
+        "order": 9,
+        "es": "Él se pasó por la tienda a por leche de camino a casa.",
+        "en": "He popped into the shop for milk on his way home."
+      },
+      {
+        "order": 10,
+        "es": "Se pasaron por el pub para tomarse una copa rápida.",
+        "en": "They popped into the pub for a quick drink."
+      }
+    ]
+  },
+  {
+    "id": 116,
+    "file_name": "Phrasal_verbs_116.mp3",
+    "phrasal_verb": "pop in",
+    "base_verb": "pop",
+    "particle": "in",
+    "meaning_es": "Visitar o pasar por un lugar brevemente y sin avisar, o de manera informal.",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "visitar brevemente",
+      "hacer una visita rápida",
+      "pasarse por",
+      "aparecer por",
+      "visita informal",
+      "inopinadamente"
+    ],
+    "intro_note": "Una historia sobre Sarah que usa 'pop in' para describir sus breves visitas a diferentes lugares.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "De camino a casa desde el gimnasio, Sarah se pasó por la tintorería a recoger su ropa.",
+        "en": "On her way back from the gym, Sarah popped into the dry cleaner's to pick up her clothes."
+      },
+      {
+        "order": 2,
+        "es": "Luego se pasó a ver a una amiga que no había estado en la clase de aeróbicos.",
+        "en": "Then she popped in to see a friend, who hadn't been in aerobics class."
+      },
+      {
+        "order": 3,
+        "es": "La amiga estaba enferma y le pidió a Sarah si podía pasar por la farmacia y comprarle algún medicamento para el resfriado.",
+        "en": "The friend was sick and asked Sarah if she could pop into the pharmacy and get her some cold medicine."
+      },
+      {
+        "order": 4,
+        "es": "Sarah no se arrepintió de pasar a ver a su amiga, pero odiaba pasar por la farmacia porque el farmacéutico era muy entrometido.",
+        "en": "Sarah didn't regret popping in to see her friend, but she hated popping into the pharmacy because the pharmacist was very nosy."
+      },
+      {
+        "order": 5,
+        "es": "Sarah decidió que pasaría por la farmacia mientras fingía hablar por su teléfono móvil para que el farmacéutico entrometido no la molestara.",
+        "en": "Sarah decided she'd pop into the pharmacy while pretending to talk on her mobile phone, so the nosy pharmacist wouldn't bother her."
+      }
+    ]
+  },
+  {
+    "id": 117,
+    "file_name": "Phrasal_verbs_117.mp3",
+    "phrasal_verb": "drop in",
+    "base_verb": "drop",
+    "particle": "in",
+    "meaning_es": "ir a visitar a alguien (a menudo de forma inesperada o informal)",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "visitar",
+      "visita informal",
+      "hacer una visita",
+      "pasar a ver",
+      "visitar sin avisar"
+    ],
+    "intro_note": "El phrasal verb 'to drop in' significa 'ir a visitar a alguien', a menudo de forma informal o sin previo aviso. Puede usarse con o sin la preposición 'on' (drop in on someone).",
+    "type": "drill",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Él siempre viene a vernos si está en el barrio.",
+        "en": "He always drops in if he's in the neighborhood."
+      },
+      {
+        "order": 2,
+        "es": "El martes pasado, ella vino a verme para charlar.",
+        "en": "She dropped in last Tuesday for a chat."
+      },
+      {
+        "order": 3,
+        "es": "Él pasó unas horas visitando a viejos amigos.",
+        "en": "He spent a few hours dropping in on old friends."
+      },
+      {
+        "order": 4,
+        "es": "Iré a verte mañana después del trabajo.",
+        "en": "I'll drop in tomorrow after work."
+      },
+      {
+        "order": 5,
+        "es": "Si alguna vez estás por la zona, ven a visitarme.",
+        "en": "If you're ever in the area, drop in to see me."
+      },
+      {
+        "order": 6,
+        "es": "Ella no quería venir a vernos sin avisar.",
+        "en": "She didn't want to drop in unannounced."
+      },
+      {
+        "order": 7,
+        "es": "Él siempre tiene caramelos para cuando vienen las visitas.",
+        "en": "He always has sweets for when visitors drop in."
+      },
+      {
+        "order": 8,
+        "es": "Ve a visitar a tu abuela cuando tengas tiempo.",
+        "en": "Drop in on your grandmother when you get a chance."
+      },
+      {
+        "order": 9,
+        "es": "El cura fue a visitar a la viuda.",
+        "en": "The priest dropped in on the widow."
+      },
+      {
+        "order": 10,
+        "es": "Esperaba que vinieras a verme.",
+        "en": "I was hoping you'd drop in."
+      }
+    ]
+  },
+  {
+    "id": 118,
+    "file_name": "Phrasal_verbs_118.mp3",
+    "phrasal_verb": "drop in on",
+    "base_verb": "drop",
+    "particle": "in on",
+    "meaning_es": "Visitar a alguien sin previo aviso o de forma informal y rápida.",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "visitar",
+      "visitar sin aviso",
+      "visita informal",
+      "hacer una visita",
+      "reunirse con",
+      "visitar a la familia",
+      "visitar amigos",
+      "hacer ronda de visitas"
+    ],
+    "intro_note": "Una historia sobre Sarah que visita a varias personas en su ciudad natal, utilizando el phrasal verb 'drop in on' para describir visitas informales.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Sarah no había vuelto a su ciudad natal en casi un año, y después de visitar a sus padres, quería visitar a algunos viejos amigos.",
+        "en": "Sarah hadn't been back to her hometown in almost a year, and after dropping in on her parents, she wanted to drop in on a few old friends."
+      },
+      {
+        "order": 2,
+        "es": "La primera persona a la que visitó fue su antigua compañera de universidad.",
+        "en": "The first person she dropped in on was her old college roommate."
+      },
+      {
+        "order": 3,
+        "es": "Hablaron durante una hora, y luego Sarah fue a visitar a su tía abuela, quien estaba eufórica de verla.",
+        "en": "They talked for an hour, and then Sarah went to drop in on her great aunt, who was ecstatic to see her."
+      },
+      {
+        "order": 4,
+        "es": "Después de eso, Sarah visitó a una familia cuyos hijos solía cuidar.",
+        "en": "After that, Sarah dropped in on a family whose children she used to babysit for."
+      },
+      {
+        "order": 5,
+        "es": "Los padres estaban en casa, pero los niños habían ido a visitar a su abuela que vivía al otro lado de la ciudad.",
+        "en": "The parents were home, but the children had gone to drop in on their grandmother who lived on the other side of town."
+      }
+    ]
+  },
+  {
+    "id": 119,
+    "file_name": "Phrasal_verbs_119.mp3",
+    "phrasal_verb": "to put in",
+    "base_verb": "put",
+    "particle": "in",
+    "meaning_es": "meter, poner, introducir",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "colocar",
+      "guardar",
+      "insertar",
+      "introducir"
+    ],
+    "intro_note": "To put in: Meter, poner.",
+    "type": "drill",
+    "drills": [
+      {
+        "order": 1,
+        "es": "¿A qué hora metiste el pollo en el horno?",
+        "en": "What time did you put the chicken in the oven?"
+      },
+      {
+        "order": 2,
+        "es": "Él volvió a meter su cartera en el bolsillo derecho.",
+        "en": "He put his wallet back in his right pocket."
+      },
+      {
+        "order": 3,
+        "es": "¿Cuántos azucarillos pusiste en el café?",
+        "en": "How many sugars did you put in your coffee?"
+      },
+      {
+        "order": 4,
+        "es": "No te lo juegues todo a una sola carta.",
+        "en": "Don't put all your eggs in one basket."
+      },
+      {
+        "order": 5,
+        "es": "Él puso un poco de whisky en su café a escondidas.",
+        "en": "He put a little whisky in his coffee on the sly."
+      },
+      {
+        "order": 6,
+        "es": "Eché la carta al buzón sin sello.",
+        "en": "I put the letter in the mailbox without a stamp."
+      },
+      {
+        "order": 7,
+        "es": "¿Sabes cómo poner estas pilas?",
+        "en": "Do you know how to put these batteries in?"
+      },
+      {
+        "order": 8,
+        "es": "Él puso el CD en el equipo y le dio al play.",
+        "en": "He put the CD in the hi-fi and push play."
+      },
+      {
+        "order": 9,
+        "es": "Quien haya puesto sal en el azucarero se arrepentirá.",
+        "en": "Whoever put salt in the sugar jar will regret it."
+      },
+      {
+        "order": 10,
+        "es": "Ella encontró $20 y los metió en su monedero.",
+        "en": "She found $20 and put it in her purse."
+      }
+    ]
+  },
+  {
+    "id": 120,
+    "file_name": "Phrasal_verbs_120.mp3",
+    "phrasal_verb": "put in",
+    "base_verb": "put",
+    "particle": "in",
+    "meaning_es": "Introducir, meter o colocar algo dentro de un lugar o recipiente.",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "empacar",
+      "maleta",
+      "colocar",
+      "meter",
+      "introducir",
+      "ropa",
+      "viaje",
+      "organizar"
+    ],
+    "intro_note": "This story illustrates the phrasal verb 'put in' in the context of packing a suitcase.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "¿Cómo hacer una maleta?",
+        "en": "How to pack a suitcase."
+      },
+      {
+        "order": 2,
+        "es": "Sarah se tomaba un merecido fin de semana largo y estaba haciendo su maleta.",
+        "en": "Sarah was taking a much-deserved long weekend and was packing her suitcase."
+      },
+      {
+        "order": 3,
+        "es": "Primero, puso sus blusas en el fondo de la maleta, y luego metió algunos vestidos.",
+        "en": "First, she put her blouses in the bottom of the suitcase, and then she put in a few dresses."
+      },
+      {
+        "order": 4,
+        "es": "A continuación, metió dos pares de pantalones y un par de pantalones cortos.",
+        "en": "Next, she put in two pairs of trousers and a pair of shorts."
+      },
+      {
+        "order": 5,
+        "es": "Para ahorrar espacio, metió sus calcetines en sus zapatos y puso los zapatos en el compartimento exterior.",
+        "en": "To save some space, she put her socks in her shoes and put the shoes in the outer compartment."
+      },
+      {
+        "order": 6,
+        "es": "Finalmente, metió todos sus artículos de tocador en su neceser y también lo puso en la maleta.",
+        "en": "Finally, she put all her toiletries in her toiletry bag and put that in the suitcase as well."
+      },
+      {
+        "order": 7,
+        "es": "Sarah estaba segura de que se le había olvidado meter algo en su maleta, pero ya había metido tanta ropa que no podía meter nada más de todos modos.",
+        "en": "Sarah was sure she had forgotten to put something in her suitcase, but she had already put in so many clothes that she couldn't put anything else in anyway."
+      }
+    ]
+  },
+  {
+    "id": 121,
+    "file_name": "Phrasal_verbs_121.mp3",
+    "phrasal_verb": "pop in",
+    "base_verb": "pop",
+    "particle": "in",
+    "meaning_es": "Meter, poner o insertar algo en un lugar de forma rápida, casual o breve.",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "meter",
+      "poner",
+      "introducir",
+      "insertar",
+      "colocar",
+      "rápidamente",
+      "casual"
+    ],
+    "intro_note": "To pop in: Meter, poner.",
+    "type": "drill",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Él metió la carta en el sobre y lo cerró.",
+        "en": "He popped the letter in the envelope and sealed it."
+      },
+      {
+        "order": 2,
+        "es": "Pongamos una película y tomemos una cerveza.",
+        "en": "Let's pop in a movie and have a beer."
+      },
+      {
+        "order": 3,
+        "es": "Él metió su cepillo de dientes en su bolsa y se fue.",
+        "en": "He popped his toothbrush in his bag and left."
+      },
+      {
+        "order": 4,
+        "es": "Tengo que ir a poner dinero en el parquímetro.",
+        "en": "I have to go and pop some money in the parking meter."
+      },
+      {
+        "order": 5,
+        "es": "¿Podrías meter una tostada en la tostadora para mí?",
+        "en": "Could you pop a piece of toast in the toaster for me?"
+      },
+      {
+        "order": 6,
+        "es": "Él puso una bolsa de té de más para hacerlo más fuerte.",
+        "en": "He popped in an extra tea bag to make it stronger."
+      },
+      {
+        "order": 7,
+        "es": "Ella metió algunos pañuelos en su bolsillo por si acaso.",
+        "en": "She popped some tissues in her pocket just in case."
+      },
+      {
+        "order": 8,
+        "es": "Él volvió a poner el anillo en la caja.",
+        "en": "He popped the ring back in the box."
+      },
+      {
+        "order": 9,
+        "es": "Mete otra moneda en la rocola.",
+        "en": "Pop another coin in the jukebox."
+      },
+      {
+        "order": 10,
+        "es": "Metí un euro en la máquina, pero se lo tragó.",
+        "en": "I popped a euro in the machine, but it swallowed it."
+      }
+    ]
+  },
+  {
+    "id": 122,
+    "file_name": "Phrasal_verbs_122.mp3",
+    "phrasal_verb": "pop in",
+    "base_verb": "pop",
+    "particle": "in",
+    "meaning_es": "Poner/meter rápidamente (un disco, una película, ropa en un aparato, etc.)",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "pop in",
+      "poner",
+      "meter",
+      "insertar",
+      "tareas del hogar",
+      "rutina",
+      "volver",
+      "regresar",
+      "agotado",
+      "cansado",
+      "cuidar",
+      "encargarse",
+      "dormir"
+    ],
+    "intro_note": "Una historia corta sobre Sarah regresando a casa y usando el phrasal verb 'pop in' para describir cómo pone rápidamente cosas en diferentes lugares mientras hace sus tareas.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Tareas del hogar.",
+        "en": "Household chores."
+      },
+      {
+        "order": 2,
+        "es": "Sarah acababa de regresar de un fin de semana largo fuera y estaba agotada.",
+        "en": "Sarah had just got back from a long weekend away and was worn out."
+      },
+      {
+        "order": 3,
+        "es": "Todo lo que quería hacer era relajarse, pero primero tenía algunas tareas que atender.",
+        "en": "All she wanted to do was relax, but she had a few chores to take care of first."
+      },
+      {
+        "order": 4,
+        "es": "Puso su álbum favorito y se puso a trabajar.",
+        "en": "She popped in her favorite album and got to work."
+      },
+      {
+        "order": 5,
+        "es": "Metió su ropa sucia en la lavadora y luego metió algunos platos sucios en el lavavajillas.",
+        "en": "She popped her dirty clothes in the washing machine and then popped a few dirty dishes in the dishwasher."
+      },
+      {
+        "order": 6,
+        "es": "Después de que la ropa terminó, la metió en la secadora y decidió que el resto de sus tareas podían esperar hasta mañana.",
+        "en": "After the clothes were finished, she popped them in the dryer and decided the rest of her chores could wait until tomorrow."
+      },
+      {
+        "order": 7,
+        "es": "Habría puesto una película, pero sabía que se quedaría dormida de inmediato.",
+        "en": "She would have popped in a movie, but she knew she would fall asleep right away."
+      }
+    ]
+  },
+  {
+    "id": 123,
+    "file_name": "Phrasal_verbs_123.mp3",
+    "phrasal_verb": "to stuff in",
+    "base_verb": "stuff",
+    "particle": "in",
+    "meaning_es": "Meter con fuerza, introducir a la fuerza, embutir.",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "meter",
+      "introducir",
+      "llenar",
+      "embutir",
+      "forzar",
+      "apretar"
+    ],
+    "intro_note": null,
+    "type": "drill",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Meter con fuerza.",
+        "en": "To stuff in."
+      },
+      {
+        "order": 2,
+        "es": "El ladrón metió el dinero robado en su calcetín.",
+        "en": "The thief stuffed the stolen money in his sock."
+      },
+      {
+        "order": 3,
+        "es": "Mete algo más de relleno en ese pavo.",
+        "en": "Stuff some more stuffing in that turkey."
+      },
+      {
+        "order": 4,
+        "es": "¿Cómo vamos a meter toda esta comida en la nevera?",
+        "en": "How are we going to stuff all this food in the fridge?"
+      },
+      {
+        "order": 5,
+        "es": "Él se metió tantos caramelos como pudo en la boca.",
+        "en": "He stuffed as many sweets as he could in his mouth."
+      },
+      {
+        "order": 6,
+        "es": "Encontraron un cachorro metido en una bolsa.",
+        "en": "A puppy was found stuffed in a bag."
+      },
+      {
+        "order": 7,
+        "es": "La policía encontró drogas metidas en su maleta.",
+        "en": "The police found drugs stuffed in his suitcase."
+      },
+      {
+        "order": 8,
+        "es": "Ella ganó la apuesta metiéndose 18 uvas en la boca.",
+        "en": "She won the bet by stuffing 18 grapes in her mouth."
+      },
+      {
+        "order": 9,
+        "es": "Él encontró todas sus cosas metidas en un contenedor.",
+        "en": "He found all his belongings stuffed in a dumpster."
+      },
+      {
+        "order": 10,
+        "es": "Metí demasiadas provisiones en la bolsa y se rompió.",
+        "en": "I stuffed too many groceries in the bag and it broke."
+      },
+      {
+        "order": 11,
+        "es": "Él se metió una manzana en el bolsillo.",
+        "en": "He stuffed an apple in his pocket."
+      }
+    ]
+  },
+  {
+    "id": 124,
+    "file_name": "Phrasal_verbs_124.mp3",
+    "phrasal_verb": "stuff in",
+    "base_verb": "stuff",
+    "particle": "in",
+    "meaning_es": "Llenar o meter algo en un espacio, a menudo de forma apretada, desordenada o forzada.",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "rellenar",
+      "meter",
+      "llenar",
+      "abarrotar",
+      "guardar",
+      "desorden",
+      "objetos personales",
+      "ropa",
+      "billetera"
+    ],
+    "intro_note": "Este pasaje narrativo ilustra el uso del phrasal verb 'stuff in' (meter a la fuerza o llenar un espacio) en diferentes contextos de la vida diaria de un personaje.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "George, el amigo de Sarah, nunca tiraba nada.",
+        "en": "Sarah's friend George never threw anything away."
+      },
+      {
+        "order": 2,
+        "es": "Tenía tanta ropa vieja metida en sus cajones que tuvo que meter la nueva en los armarios de la cocina.",
+        "en": "He had so many old clothes stuffed in his drawers that he had to stuff the new ones in the kitchen cupboards."
+      },
+      {
+        "order": 3,
+        "es": "Su billetera era igual.",
+        "en": "His wallet was the same."
+      },
+      {
+        "order": 4,
+        "es": "Cada vez que obtenía un nuevo recibo o una tarjeta de restaurante, los metía en su billetera.",
+        "en": "Every time he got a new receipt or a restaurant card, he stuffed them in his wallet."
+      },
+      {
+        "order": 5,
+        "es": "Un día, George vio a un hombre de aspecto sospechoso metiendo una gran bolsa negra en el maletero de un Cadillac.",
+        "en": "One day, George saw a shady man stuffing a large black bag in the trunk of a Cadillac."
+      },
+      {
+        "order": 6,
+        "es": "Apuntó la matrícula para la policía en un pequeño trozo de papel y lo metió en su billetera.",
+        "en": "He wrote down the license plate for the police on a small scrap of paper and stuffed it in his wallet."
+      },
+      {
+        "order": 7,
+        "es": "Lamentablemente, George había metido demasiados papeles en su billetera, y cuando intentó cerrarla, esta reventó, enviando miles de recibos volando hacia el Cadillac.",
+        "en": "Sadly, George had stuffed too many pieces of paper in his wallet, and when he tried to close it, it burst, sending thousands of receipts blowing towards the Cadillac."
+      }
+    ]
+  },
+  {
+    "id": 125,
+    "file_name": "Phrasal_verbs_125.mp3",
+    "phrasal_verb": "to plug in",
+    "base_verb": "plug",
+    "particle": "in",
+    "meaning_es": "enchufar, conectar un aparato eléctrico a la corriente",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "enchufar",
+      "conectar",
+      "electricidad",
+      "aparato",
+      "corriente",
+      "cable",
+      "dispositivo"
+    ],
+    "intro_note": "A drill exercising the phrasal verb 'to plug in' in various contexts related to electrical connections.",
+    "type": "drill",
+    "drills": [
+      {
+        "order": 1,
+        "es": "enchufar",
+        "en": "To plug in"
+      },
+      {
+        "order": 2,
+        "es": "¿Dónde podemos enchufar la tele?",
+        "en": "Where can we plug the TV in?"
+      },
+      {
+        "order": 3,
+        "es": "Enchúfala ahí.",
+        "en": "Plug it in over there."
+      },
+      {
+        "order": 4,
+        "es": "Ya hay algo enchufado ahí.",
+        "en": "There's already something plugged in over there."
+      },
+      {
+        "order": 5,
+        "es": "Enchufa el ladrón primero.",
+        "en": "Plug in the multi-socket plug first."
+      },
+      {
+        "order": 6,
+        "es": "¿No volará algo si enchufo demasiadas cosas?",
+        "en": "Won't something blow up if I plug too many things in?"
+      },
+      {
+        "order": 7,
+        "es": "Va a pilas, así que no tienes que enchufarlo.",
+        "en": "It uses batteries, so you don't have to plug it in."
+      },
+      {
+        "order": 8,
+        "es": "Comprueba que esté enchufado.",
+        "en": "Check that it is plugged in."
+      },
+      {
+        "order": 9,
+        "es": "Deberías poder enchufar la cámara en la tele.",
+        "en": "You should be able to plug the camera into the TV."
+      },
+      {
+        "order": 10,
+        "es": "El cable no es lo bastante largo para enchufarlo.",
+        "en": "The cable isn't long enough to plug it in."
+      },
+      {
+        "order": 11,
+        "es": "Podríamos enchufarlo en un alargador.",
+        "en": "We could plug it into an extension cord."
+      }
+    ]
+  },
+  {
+    "id": 126,
+    "file_name": "Phrasal_verbs_126.mp3",
+    "phrasal_verb": "plug in",
+    "base_verb": "plug",
+    "particle": "in",
+    "meaning_es": "Conectar un aparato eléctrico a la corriente, enchufar.",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "enchufar",
+      "conectar",
+      "electricidad",
+      "aparatos",
+      "seguridad",
+      "regleta"
+    ],
+    "intro_note": "Una historia sobre Sarah y su nueva computadora, donde el uso excesivo de 'plug in' llevó a un pequeño problema.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Aparatos y gadgets.",
+        "en": "Gizmos and gadgets."
+      },
+      {
+        "order": 2,
+        "es": "Sarah había comprado una computadora nueva y muchos accesorios para acompañarla.",
+        "en": "Sarah had bought a new computer and a lot of accessories to go with it."
+      },
+      {
+        "order": 3,
+        "es": "No podía esperar para usarla, pero no tenía suficientes enchufes para conectar todo.",
+        "en": "She couldn't wait to use it, but she didn't have enough plug sockets to plug everything in."
+      },
+      {
+        "order": 4,
+        "es": "Así que enchufó una regleta de enchufes múltiples.",
+        "en": "So she plugged in a multi-socket extension lead."
+      },
+      {
+        "order": 5,
+        "es": "Luego, enchufó la computadora.",
+        "en": "Then, she plugged in the computer."
+      },
+      {
+        "order": 6,
+        "es": "Enchufó el monitor, y enchufó los altavoces.",
+        "en": "She plugged in the monitor, and she plugged in the speakers."
+      },
+      {
+        "order": 7,
+        "es": "Todavía necesitaba enchufar la impresora, pero no quedaban enchufes libres en la regleta de enchufes múltiples.",
+        "en": "She still needed to plug the printer in, but there weren't any free sockets left on the multi-socket extension lead."
+      },
+      {
+        "order": 8,
+        "es": "Así que enchufó un adaptador de enchufes múltiples y enchufó su impresora.",
+        "en": "So she plugged a multi-socket plug in and plugged in her printer."
+      },
+      {
+        "order": 9,
+        "es": "Dos días después, se produjo un pequeño incendio porque Sarah había enchufado demasiadas cosas.",
+        "en": "Two days later, a small fire broke out because Sarah had plugged in too many things."
+      }
+    ]
+  },
+  {
+    "id": 127,
+    "file_name": "Phrasal_verbs_127.mp3",
+    "phrasal_verb": "push in",
+    "base_verb": "push",
+    "particle": "in",
+    "meaning_es": "Colarse en una fila o un grupo; adelantarse a otros de manera descortés.",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "colarse",
+      "meterse en la fila",
+      "adelantarse",
+      "saltarse la cola",
+      "descortesía"
+    ],
+    "intro_note": "To push in. Colarse.",
+    "type": "drill",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Eh, no te cueles.",
+        "en": "Hey, don't push in."
+      },
+      {
+        "order": 2,
+        "es": "¿Acaba de colarse ese hombre?",
+        "en": "Did that man just push in?"
+      },
+      {
+        "order": 3,
+        "es": "Ella se coló detrás de su amiga en la cola.",
+        "en": "She pushed in next to her friend in the line."
+      },
+      {
+        "order": 4,
+        "es": "¿Cómo te atreves a colarte?",
+        "en": "How dare you push in?"
+      },
+      {
+        "order": 5,
+        "es": "Que alguien le diga a esa señora que acaba de colarse.",
+        "en": "Someone tell that old lady she just pushed in."
+      },
+      {
+        "order": 6,
+        "es": "Ella sabe muy bien que se coló.",
+        "en": "She knows full well she pushed in."
+      },
+      {
+        "order": 7,
+        "es": "Él se coló despreocupadamente.",
+        "en": "He pushed in nonchalantly."
+      },
+      {
+        "order": 8,
+        "es": "Empezó una pelea en la cola después de que él se colara.",
+        "en": "A fight started in the queue after he pushed in."
+      },
+      {
+        "order": 9,
+        "es": "Quien se cuele será enviado al final.",
+        "en": "Anyone who pushes in will be sent to the back."
+      },
+      {
+        "order": 10,
+        "es": "No me estoy colando.",
+        "en": "I'm not pushing in."
+      }
+    ]
+  },
+  {
+    "id": 128,
+    "file_name": "Phrasal_verbs_128.mp3",
+    "phrasal_verb": "Story: Push in",
+    "base_verb": null,
+    "particle": null,
+    "meaning_es": "La historia ilustra el uso del phrasal verb 'push in', que significa 'colarse' o 'saltarse la fila/cola' de forma inapropiada.",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "colarse",
+      "saltarse la cola",
+      "fila",
+      "supermercado",
+      "historia",
+      "etiqueta"
+    ],
+    "intro_note": "A short story about bad queue etiquette, focusing on the phrasal verb 'push in'.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "¡Qué descaro!",
+        "en": "What a nerve!"
+      },
+      {
+        "order": 2,
+        "es": "Sarah estaba en la cola exprés del supermercado con solo cuatro artículos en su cesta, cuando una viejecita le preguntó si podía colarse, ya que solo tenía unas pocas cosas.",
+        "en": "Sarah was in the express line at the supermarket with only four items in her basket, when a little old lady asked her if she could push in, since she only had a few items."
+      },
+      {
+        "order": 3,
+        "es": "Sarah la dejó colarse y observó cómo la viejecita puso 15 artículos en la cinta.",
+        "en": "Sarah let her push in and watched as the old lady put 15 items on the belt."
+      },
+      {
+        "order": 4,
+        "es": "Pero antes de que pudiera decir nada, otras dos viejecitas se colaron, agradeciendo a Sarah su amabilidad.",
+        "en": "But before she could say anything, two other old ladies pushed in while thanking Sarah for her kindness."
+      },
+      {
+        "order": 5,
+        "es": "Justo cuando Sarah se acercaba al frente de la cola, un hombre se le acercó y le dijo que ella se había colado.",
+        "en": "Just as Sarah was nearing the front of the line, a man came up to her and told her that she had pushed in."
+      },
+      {
+        "order": 6,
+        "es": "Sarah se preguntó cómo podría haberse colado si él ni siquiera estaba en la cola, pero él le dijo que había olvidado la pasta de dientes y había salido de la cola para ir a buscarla.",
+        "en": "Sarah wondered how she could have pushed in when he wasn't even in the line, but he told her that he had forgotten toothpaste and had left the line to go get it."
+      },
+      {
+        "order": 7,
+        "es": "Sarah dejó pasar al hombre delante de ella, pero en lo que a ella respectaba, él fue quien se había colado.",
+        "en": "Sarah let the man in front of her, but as far as she was concerned, he was the one who had pushed in."
+      }
+    ]
+  },
+  {
+    "id": 129,
+    "file_name": "Phrasal_verbs_129.mp3",
+    "phrasal_verb": "butt in",
+    "base_verb": "butt",
+    "particle": "in",
+    "meaning_es": "interrumpir, meterse",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "interrumpir",
+      "meterse",
+      "conversación",
+      "inoportuno",
+      "intervención",
+      "hablar"
+    ],
+    "intro_note": "Learn to use the phrasal verb 'butt in' for interrupting or interjecting in conversations or situations.",
+    "type": "drill",
+    "drills": [
+      {
+        "order": 1,
+        "es": "No te metas.",
+        "en": "Don't butt in."
+      },
+      {
+        "order": 2,
+        "es": "Siento interrumpir, pero ¿has visto a mi mujer?",
+        "en": "Sorry to butt in, but have you seen my wife?"
+      },
+      {
+        "order": 3,
+        "es": "Tendrás que interrumpir si quieres dar tu opinión.",
+        "en": "You'll have to butt in if you want to have your say."
+      },
+      {
+        "order": 4,
+        "es": "Si vuelves a interrumpir, te saco del tribunal a patadas.",
+        "en": "If you butt in again, I'll kick you out of the courtroom."
+      },
+      {
+        "order": 5,
+        "es": "Él siempre se mete en las conversaciones de los demás.",
+        "en": "He always butts in on other people's conversations."
+      },
+      {
+        "order": 6,
+        "es": "Ella interrumpió cuando él estaba terminando su discurso.",
+        "en": "She butted in as he was concluding his speech."
+      },
+      {
+        "order": 7,
+        "es": "Cada vez que tengo algo que decir, tú interrumpes.",
+        "en": "Every time I have something to say, you butt in."
+      },
+      {
+        "order": 8,
+        "es": "Todos se enfadaron cuando ella interrumpió.",
+        "en": "Everyone got angry when she butted in."
+      },
+      {
+        "order": 9,
+        "es": "¿Puedo interrumpir un segundo?",
+        "en": "Can I butt in here for a second?"
+      },
+      {
+        "order": 10,
+        "es": "¿De verdad interrumpiste al jefe cuando estaba hablando?",
+        "en": "Did you really butt in while the boss was speaking?"
+      }
+    ]
+  },
+  {
+    "id": 130,
+    "file_name": "Phrasal_verbs_130.mp3",
+    "phrasal_verb": "butt in",
+    "base_verb": "butt",
+    "particle": "in",
+    "meaning_es": "Interrumpir una conversación, meterse en los asuntos de otros, entrometerse.",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "interrumpir",
+      "conversación",
+      "malos modales",
+      "hábito",
+      "niñez",
+      "educación"
+    ],
+    "intro_note": "Una historia sobre Sarah, una niña que aprende a no interrumpir las conversaciones de los demás.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Un mal hábito.",
+        "en": "A bad habit."
+      },
+      {
+        "order": 2,
+        "es": "Cuando Sarah era una niña, desarrolló el mal hábito de interrumpir cuando otras personas hablaban.",
+        "en": "When Sarah was a kid, she developed the bad habit of butting in when other people were speaking."
+      },
+      {
+        "order": 3,
+        "es": "Tenía que interrumpir mucho en casa porque era la más joven y nadie le prestaba atención a lo que decía.",
+        "en": "She had to butt in a lot at home because she was the youngest and no one ever paid attention to what she said."
+      },
+      {
+        "order": 4,
+        "es": "En la escuela, los maestros de Sarah siempre la regañaban por interrumpir mientras hablaban y le dijeron que si tenía algo que decir, debía levantar la mano.",
+        "en": "At school, Sarah's teachers were always telling her off for butting in while they were speaking and told her that if she had something to say, she should raise her hand."
+      },
+      {
+        "order": 5,
+        "es": "Finalmente, Sarah aprendió que interrumpir era de mala educación y dejó de interrumpir cuando otros hablaban.",
+        "en": "Eventually, Sarah learned that butting in was rude and stopped butting in when others were talking."
+      },
+      {
+        "order": 6,
+        "es": "Después de todo, a nadie le gusta cuando alguien interrumpe sus conversaciones.",
+        "en": "After all, nobody likes it when someone butts in on their conversations."
+      }
+    ]
+  },
+  {
+    "id": 131,
+    "file_name": "Phrasal_verbs_131.mp3",
+    "phrasal_verb": "bump into",
+    "base_verb": "bump",
+    "particle": "into",
+    "meaning_es": "Encontrarse accidentalmente con alguien o algo, o chocar físicamente con alguien o algo.",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "encontrarse",
+      "toparse",
+      "chocar",
+      "colisionar",
+      "accidentalmente",
+      "casualidad",
+      "run into"
+    ],
+    "intro_note": "To bump into has two main meanings: to meet someone unexpectedly, or to accidentally hit something/someone. 'Run into' is a common synonym for the first meaning. In Spanish, it translates to 'toparse con' for unexpected meetings, and 'chocarse con/contra' for physical collisions.",
+    "type": "drill",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Adivina con quién me topé el otro día.",
+        "en": "Guess who I bumped into the other day."
+      },
+      {
+        "order": 2,
+        "es": "Él se topó con su exmujer en el supermercado.",
+        "en": "He bumped into his ex-wife at the supermarket."
+      },
+      {
+        "order": 3,
+        "es": "Ella se topó con un compañero el fin de semana.",
+        "en": "She bumped into a colleague on the weekend."
+      },
+      {
+        "order": 4,
+        "es": "Él se sorprendió al toparse con su antiguo jefe.",
+        "en": "He was surprised to bump into his old boss."
+      },
+      {
+        "order": 5,
+        "es": "Qué mala suerte fue toparse con Jones.",
+        "en": "What bad luck it was bumping into Jones."
+      },
+      {
+        "order": 6,
+        "es": "Nunca sabes con quién te toparás.",
+        "en": "You never know who you'll run into."
+      },
+      {
+        "order": 7,
+        "es": "Ella se chocó con él y le hizo tirar su copa.",
+        "en": "She bumped into him and made him spill his drink."
+      },
+      {
+        "order": 8,
+        "es": "Estaba oscuro y él se chocó contra la mesa.",
+        "en": "It was dark and he bumped into the table."
+      },
+      {
+        "order": 9,
+        "es": "Frené de golpe y el coche de detrás chocó contra mí.",
+        "en": "I braked hard and the car behind bumped into me."
+      },
+      {
+        "order": 10,
+        "es": "Él se chocó contra la puerta de cristal.",
+        "en": "He bumped into the glass door."
+      }
+    ]
+  },
+  {
+    "id": 132,
+    "file_name": "Phrasal_verbs_132.mp3",
+    "phrasal_verb": "bump into",
+    "base_verb": "bump",
+    "particle": "into",
+    "meaning_es": "1. Chocar o colisionar con algo o alguien. 2. Encontrarse o toparse con alguien inesperadamente.",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "chocar",
+      "colisionar",
+      "golpearse",
+      "encontrarse inesperadamente",
+      "toparse con",
+      "coincidencia",
+      "accidentes",
+      "reencuentros"
+    ],
+    "intro_note": "Este audio ilustra el phrasal verb 'bump into' en dos contextos: una colisión física y un encuentro inesperado con una persona.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "¡Qué coincidencia!",
+        "en": "What a coincidence!"
+      },
+      {
+        "order": 2,
+        "es": "El coche de Sarah estaba de nuevo en el mecánico porque había chocado con otro coche y roto sus faros.",
+        "en": "Sarah's car was at the mechanics again because she had bumped into another car and broken her headlights."
+      },
+      {
+        "order": 3,
+        "es": "Caminando a casa, Sarah se encontró con uno de sus maestros de primaria, a quien no había visto en más de 15 años.",
+        "en": "Walking home, Sarah bumped into one of her primary school teachers, who she hadn't seen in over 15 years."
+      },
+      {
+        "order": 4,
+        "es": "Hablaron un rato, y él le dijo que justo el otro día, se había topado con otro estudiante de la misma clase.",
+        "en": "They talked for a while, and he told her that just the other day, he had bumped into another student from the same class."
+      },
+      {
+        "order": 5,
+        "es": "Resultó que el otro estudiante había sido una de las mejores amigas de Sarah en ese momento, pero no se habían visto desde que Sarah cambió de escuela.",
+        "en": "It turned out that the other student had been one of Sarah's best friends at the time, but they hadn't seen each other since Sarah changed schools."
+      },
+      {
+        "order": 6,
+        "es": "Dado que el maestro de Sarah se había topado con ambos en el mismo vecindario, era posible que Sarah también se topara con su vieja amiga algún día.",
+        "en": "Since Sarah's teacher had bumped into them both in the same neighborhood, it was possible that Sarah would bump into her old friend someday as well."
+      }
+    ]
+  },
+  {
+    "id": 133,
+    "file_name": "Phrasal_verbs_133.mp3",
+    "phrasal_verb": "turn into",
+    "base_verb": "turn",
+    "particle": "into",
+    "meaning_es": "Convertirse en, transformarse en",
+    "situation": "Cambio y Transformación",
+    "tags_es": [
+      "convertir",
+      "transformar",
+      "cambiar",
+      "resultado",
+      "desarrollo",
+      "evolución"
+    ],
+    "intro_note": "This drill focuses on the phrasal verb 'turn into', meaning to become or transform into something else.",
+    "type": "drill",
+    "drills": [
+      {
+        "order": 1,
+        "es": "To turn into.",
+        "en": "To turn into."
+      },
+      {
+        "order": 2,
+        "es": "Convertirse en.",
+        "en": "Convertirse en."
+      },
+      {
+        "order": 3,
+        "es": "Transformarse en.",
+        "en": "Transformarse en."
+      },
+      {
+        "order": 4,
+        "es": "¡Ayuda! Una bruja me ha convertido en tritón.",
+        "en": "Help! A witch has turned me into a newt."
+      },
+      {
+        "order": 5,
+        "es": "Clark Kent se transforma en Superman.",
+        "en": "Clark Kent turns into Superman."
+      },
+      {
+        "order": 6,
+        "es": "¿En quién se transforma Bruce Wayne?",
+        "en": "Who does Bruce Wayne turn into?"
+      },
+      {
+        "order": 7,
+        "es": "Esto se está convirtiendo en una pesadilla.",
+        "en": "This is turning into a nightmare."
+      },
+      {
+        "order": 8,
+        "es": "El libro se adaptó al cine.",
+        "en": "The book was turned into a movie."
+      },
+      {
+        "order": 9,
+        "es": "La casa de Elvis se transformó en un museo.",
+        "en": "Elvis's house was turned into a museum."
+      },
+      {
+        "order": 10,
+        "es": "Ella se está convirtiendo en una atleta de primera.",
+        "en": "She's turning into a top-class athlete."
+      },
+      {
+        "order": 11,
+        "es": "El patito feo se transformó en un precioso cisne.",
+        "en": "The ugly duckling turned into a beautiful swan."
+      },
+      {
+        "order": 12,
+        "es": "El príncipe se transformó en una rana.",
+        "en": "The prince turned into a frog."
+      },
+      {
+        "order": 13,
+        "es": "Voy a transformar la habitación libre en una oficina.",
+        "en": "I'm going to turn the spare bedroom into an office."
+      }
+    ]
+  },
+  {
+    "id": 134,
+    "file_name": "Phrasal_verbs_134.mp3",
+    "phrasal_verb": "turn into",
+    "base_verb": "turn",
+    "particle": "into",
+    "meaning_es": "Convertirse en, transformarse en",
+    "situation": "Cambio y Transformación",
+    "tags_es": [
+      "cambiar",
+      "transformar",
+      "convertir",
+      "barrio",
+      "gentrificación"
+    ],
+    "intro_note": "A short story describing changes in a neighborhood using 'turn into'.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Fuera lo viejo.",
+        "en": "Out with the old."
+      },
+      {
+        "order": 2,
+        "es": "Sarah había vivido en el mismo barrio obrero y amigable toda su vida, pero se estaba convirtiendo lentamente en una zona de lujo.",
+        "en": "Sarah had lived in the same friendly working-class neighborhood all her life, but it was slowly turning into an upscale area."
+      },
+      {
+        "order": 3,
+        "es": "El antiguo hospital se había convertido en apartamentos de lujo, y la piscina pública local se había transformado en un club solo para miembros.",
+        "en": "The old hospital had been turned into luxury apartments, and the local public swimming pool had been turned into a members-only club."
+      },
+      {
+        "order": 4,
+        "es": "Muchas de las pequeñas tiendas de ropa se estaban convirtiendo en boutiques, y el café local se había transformado en un restaurante gourmet.",
+        "en": "A lot of the small clothing stores were turning into boutiques, and the local cafe had turned into a gourmet restaurant."
+      },
+      {
+        "order": 5,
+        "es": "A Sarah no le importaban todos los cambios, pero esperaba no convertirse en una yuppie exagerada.",
+        "en": "Sarah didn't mind all the changes, but hoped she wouldn't turn into too much of a yuppie."
+      }
+    ]
+  },
+  {
+    "id": 135,
+    "file_name": "Phrasal_verbs_135.mp3",
+    "phrasal_verb": "look into",
+    "base_verb": "look",
+    "particle": "into",
+    "meaning_es": "investigar, examinar, indagar",
+    "situation": "Investigación y Problemas",
+    "tags_es": [
+      "investigar",
+      "examinar",
+      "indagar",
+      "analizar",
+      "revisar",
+      "averiguar",
+      "estudiar"
+    ],
+    "intro_note": "A drill to practice 'look into' meaning to investigate or examine.",
+    "type": "drill",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Las autoridades están investigando sus finanzas, de ella.",
+        "en": "The authorities are looking into her finances."
+      },
+      {
+        "order": 2,
+        "es": "Le pediré a mi amigo que te lo examine.",
+        "en": "I'll ask my friend to look into it for you."
+      },
+      {
+        "order": 3,
+        "es": "Él está investigando la historia de su familia.",
+        "en": "He's looking into his family's history."
+      },
+      {
+        "order": 4,
+        "es": "El gobierno está investigando el asunto.",
+        "en": "The government is looking into the issue."
+      },
+      {
+        "order": 5,
+        "es": "¿Hemos examinado todas las posibilidades?",
+        "en": "Have we looked into all the possibilities?"
+      },
+      {
+        "order": 6,
+        "es": "Él contrató un detective para investigarlo.",
+        "en": "He hired an investigator to look into it."
+      },
+      {
+        "order": 7,
+        "es": "El periodista quería investigar la historia más a fondo.",
+        "en": "The journalist wanted to look into the story further."
+      },
+      {
+        "order": 8,
+        "es": "Los científicos están buscando una cura para la calvicie.",
+        "en": "Scientists are looking into a cure for baldness."
+      },
+      {
+        "order": 9,
+        "es": "Ella contrató a un abogado para que investigara su caso.",
+        "en": "She hired a lawyer to look into her case."
+      },
+      {
+        "order": 10,
+        "es": "Están investigando un posible avistamiento de un OVNI.",
+        "en": "They are looking into a possible UFO sighting."
+      }
+    ]
+  },
+  {
+    "id": 136,
+    "file_name": "Phrasal_verbs_136.mp3",
+    "phrasal_verb": "look into",
+    "base_verb": "look",
+    "particle": "into",
+    "meaning_es": "investigar, examinar, indagar",
+    "situation": "Trabajo y Negocios",
+    "tags_es": [
+      "investigar",
+      "examinar",
+      "indagar",
+      "inspeccionar",
+      "averiguar",
+      "descubrir",
+      "policía",
+      "negocios",
+      "ley",
+      "delito"
+    ],
+    "intro_note": "This story illustrates the phrasal verb 'look into' in various contexts, meaning to investigate or examine something.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Buscando problemas.",
+        "en": "Looking for trouble."
+      },
+      {
+        "order": 2,
+        "es": "Después de que las autoridades investigaran las cuentas bancarias del alcalde, fue arrestado y encarcelado mientras la policía investigaba varios de sus negocios.",
+        "en": "After the authorities had looked into the mayor's bank accounts, he was arrested and put in prison while the police looked into several of his businesses."
+      },
+      {
+        "order": 3,
+        "es": "Primero, investigaron un restaurante que aparentemente no había servido una comida en más de una década.",
+        "en": "First, they looked into a restaurant that apparently had not served a meal in over a decade."
+      },
+      {
+        "order": 4,
+        "es": "Luego investigaron un concesionario de coches que solo tenía un coche a la venta.",
+        "en": "Then they looked into a car dealership that only had one car for sale."
+      },
+      {
+        "order": 5,
+        "es": "Finalmente, intentaron investigar una organización benéfica a la que el alcalde donaba, pero pronto descubrieron que la dirección que tenían no existía realmente.",
+        "en": "Finally, they tried to look into a charity organization, which the mayor donated to, but soon discovered that the address they had didn't really exist."
+      },
+      {
+        "order": 6,
+        "es": "La policía le dijo al alcalde que era hora de investigar la posibilidad de contratar a un abogado.",
+        "en": "The police told the mayor it was time to look into the possibility of hiring a lawyer."
+      }
+    ]
+  },
+  {
+    "id": 137,
+    "file_name": "Phrasal_verbs_137.mp3",
+    "phrasal_verb": "move in",
+    "base_verb": "move",
+    "particle": "in",
+    "meaning_es": "Mudarse a un lugar, empezar a vivir en él.",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "mudarse",
+      "instalarse",
+      "vivir juntos",
+      "casa",
+      "alquiler",
+      "vivienda"
+    ],
+    "intro_note": "Este audio se enfoca en el phrasal verb 'move in' y sus diversas aplicaciones en situaciones de mudanza o de comenzar a vivir en un lugar.",
+    "type": "drill",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Decidieron esperar antes de irse a vivir juntos.",
+        "en": "They decided to wait before moving in together."
+      },
+      {
+        "order": 2,
+        "es": "Él se mudó a principios de mes.",
+        "en": "He moved in at the beginning of the month."
+      },
+      {
+        "order": 3,
+        "es": "Sus padres no la dejarían irse a vivir con él.",
+        "en": "Her parents wouldn't let her move in with him."
+      },
+      {
+        "order": 4,
+        "es": "Si él se instala aquí, yo me voy.",
+        "en": "If he moves in, I'm moving out."
+      },
+      {
+        "order": 5,
+        "es": "¿Cuándo vas a instalarte?",
+        "en": "When are you going to move in?"
+      },
+      {
+        "order": 6,
+        "es": "Tienes que firmar este contrato antes de mudarte.",
+        "en": "You need to sign this contract before you move in."
+      },
+      {
+        "order": 7,
+        "es": "Nadie quiere mudarse a una casa encantada.",
+        "en": "No one wants to move into a haunted house."
+      },
+      {
+        "order": 8,
+        "es": "Si me mudo, quiero tener la habitación más grande.",
+        "en": "If I move in, I want to have the biggest bedroom."
+      },
+      {
+        "order": 9,
+        "es": "Él descubrió que ella se había ido a vivir con otro hombre.",
+        "en": "He discovered she had moved in with another man."
+      },
+      {
+        "order": 10,
+        "es": "Múdate aquí conmigo. Podemos compartir el alquiler.",
+        "en": "Move in here with me. We could split the rent."
+      }
+    ]
+  },
+  {
+    "id": 138,
+    "file_name": "Phrasal_verbs_138.mp3",
+    "phrasal_verb": "move in / move out",
+    "base_verb": "move",
+    "particle": "in / out",
+    "meaning_es": "Mudarse a un lugar (entrar a vivir) o dejar un lugar (salir de vivir).",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "mudarse",
+      "cambiar de casa",
+      "vecinos",
+      "vivienda",
+      "inmuebles",
+      "alquiler"
+    ],
+    "intro_note": "Una historia sobre vecinos ruidosos que se mudan y se van, ilustrando el uso de 'move in' y 'move out'.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Vecinos ruidosos.",
+        "en": "Noisy neighbors."
+      },
+      {
+        "order": 2,
+        "es": "La semana pasada, un nuevo vecino se mudó al apartamento de al lado del de Sarah.",
+        "en": "Last week, a new neighbor moved into the apartment next to Sarah's."
+      },
+      {
+        "order": 3,
+        "es": "Ella esperaba que quienquiera que se hubiera mudado fuera silencioso, porque la última persona que se mudó solía tocar la batería a todas horas del día.",
+        "en": "She hoped that whoever had moved in would be quiet because the last person who moved in used to play the drums at all hours of the day."
+      },
+      {
+        "order": 4,
+        "es": "Las cosas empeoraron cuando otros dos músicos también se mudaron y formaron una banda.",
+        "en": "Things got worse when two other musicians moved in as well and started a band."
+      },
+      {
+        "order": 5,
+        "es": "En un momento, Sarah había pensado en volver a mudarse con sus padres para escapar del alboroto, pero afortunadamente, los músicos se mudaron.",
+        "en": "At one point, Sarah had thought about moving back in with her parents to escape the ruckus, but luckily, the musicians moved out."
+      },
+      {
+        "order": 6,
+        "es": "Sin embargo, si vuelve a ver cualquier tipo de instrumento siendo trasladado, se mudará a un hostal.",
+        "en": "However, if she sees any type of instrument being moved in again, she'll move into a hostel."
+      }
+    ]
+  },
+  {
+    "id": 139,
+    "file_name": "Phrasal_verbs_139.mp3",
+    "phrasal_verb": "bring in",
+    "base_verb": "bring",
+    "particle": "in",
+    "meaning_es": "Introducir, traer, incorporar, contratar a alguien o algo; suministrar; organizar.",
+    "situation": "Trabajo y Negocios",
+    "tags_es": [
+      "introducir",
+      "traer",
+      "incorporar",
+      "contratar",
+      "emplear",
+      "suministrar",
+      "organizar",
+      "gente",
+      "expertos",
+      "personal",
+      "seguridad"
+    ],
+    "intro_note": "Significa 'introducir', 'traer' o 'incorporar' algo o a alguien.",
+    "type": "drill",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Deberíamos traer un experto para esto.",
+        "en": "We should bring in an expert for this."
+      },
+      {
+        "order": 2,
+        "es": "Trajeron un nuevo entrenador para ayudar al equipo.",
+        "en": "A new coach was brought in to help the team."
+      },
+      {
+        "order": 3,
+        "es": "Deberían haber traído a otro.",
+        "en": "They should have brought someone else in."
+      },
+      {
+        "order": 4,
+        "es": "Tenemos que traer más seguridad para el evento.",
+        "en": "We need to bring in extra security for the event."
+      },
+      {
+        "order": 5,
+        "es": "Quizás deberíamos traer un nuevo equipo de dirección.",
+        "en": "Perhaps we should bring in a new management team."
+      },
+      {
+        "order": 6,
+        "es": "Trajeron más bomberos para hacer frente al incendio.",
+        "en": "Extra firemen were brought in to tackle the blaze."
+      },
+      {
+        "order": 7,
+        "es": "Las están introduciendo demasiado tarde.",
+        "en": "They're being brought in too late."
+      },
+      {
+        "order": 8,
+        "es": "Le han traído para salvar la empresa.",
+        "en": "They brought him in to save the company."
+      },
+      {
+        "order": 9,
+        "es": "El entrenador sacó a un sustituto.",
+        "en": "The coach brought in a substitute."
+      },
+      {
+        "order": 10,
+        "es": "Trajeron un nuevo director general para afrontar la crisis.",
+        "en": "A new MD was brought in to deal with the crisis."
+      }
+    ]
+  },
+  {
+    "id": 140,
+    "file_name": "Phrasal_verbs_140.mp3",
+    "phrasal_verb": "bring in",
+    "base_verb": "bring",
+    "particle": "in",
+    "meaning_es": "Introducir, implementar, traer (algo nuevo, una ley, una reforma, etc.)",
+    "situation": "Trabajo y Negocios",
+    "tags_es": [
+      "introducir",
+      "implementar",
+      "leyes",
+      "reformas",
+      "negocios",
+      "empresa",
+      "trabajo",
+      "cambios"
+    ],
+    "intro_note": "Este audio describe cómo una empresa debe implementar nuevas reformas debido a cambios legales.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Cambios en el trabajo.",
+        "en": "Changes at work."
+      },
+      {
+        "order": 2,
+        "es": "Debido a algunas nuevas leyes corporativas que se introdujeron el mes pasado, la empresa de Sara tiene que implementar algunas nuevas reformas.",
+        "en": "Because of some new corporate laws that were brought in last month, Sara's company has to bring in some new reforms."
+      },
+      {
+        "order": 3,
+        "es": "Si no las implementan antes de fin de año, se enfrentarán a una multa considerable.",
+        "en": "If they don't bring them in before the end of the year, they'll face a large fine."
+      },
+      {
+        "order": 4,
+        "es": "Para introducir las nuevas reformas, la empresa trajo un equipo de expertos de Japón, especializados en implementar cambios.",
+        "en": "In order to bring the new reforms in, the company brought in a team of experts from Japan, specialized in bringing in changes."
+      },
+      {
+        "order": 5,
+        "es": "Todos esperan que las reformas se implementen rápidamente y sin ningún problema.",
+        "en": "Everyone expects the reforms to be brought in quickly and without any problems."
+      }
+    ]
+  },
+  {
+    "id": 141,
+    "file_name": "Phrasal_verbs_141.mp3",
+    "phrasal_verb": "fill in / fill out",
+    "base_verb": "fill",
+    "particle": "in / out",
+    "meaning_es": "Completar con información (un formulario, un espacio en blanco, etc.).",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "completar",
+      "rellenar",
+      "formulario",
+      "solicitud",
+      "datos",
+      "escribir"
+    ],
+    "intro_note": "Práctica del phrasal verb 'fill in' y 'fill out', que significan 'rellenar' o 'completar'. Aunque a menudo son intercambiables, 'fill out' se usa más comúnmente para formularios completos, y 'fill in' para espacios más pequeños o detalles.",
+    "type": "drill",
+    "drills": [
+      {
+        "order": 1,
+        "es": "To fill in.",
+        "en": "To fill in."
+      },
+      {
+        "order": 2,
+        "es": "Rellenar, poner.",
+        "en": "Rellenar, poner."
+      },
+      {
+        "order": 3,
+        "es": "Pon tu nombre en la casilla de arriba de la derecha.",
+        "en": "Fill in your name in the top right-hand box."
+      },
+      {
+        "order": 4,
+        "es": "Después, pon tu edad en la casilla de abajo de la izquierda.",
+        "en": "Then, fill in your age in the bottom left-hand box."
+      },
+      {
+        "order": 5,
+        "es": "Lo rellené mal.",
+        "en": "I filled it in wrong."
+      },
+      {
+        "order": 6,
+        "es": "Asegúrate de rellenarlo claramente esta vez.",
+        "en": "Make sure you fill it in neatly this time."
+      },
+      {
+        "order": 7,
+        "es": "Tengo que rellenar todos los espacios?",
+        "en": "Do I have to fill in all the spaces?"
+      },
+      {
+        "order": 8,
+        "es": "Rellena esta encuesta y podrías ganar un premio.",
+        "en": "Fill out this survey and you could win a prize."
+      },
+      {
+        "order": 9,
+        "es": "Él rellenó una solicitud la semana pasada.",
+        "en": "He filled in an application last week."
+      },
+      {
+        "order": 10,
+        "es": "Debes rellenar un visado.",
+        "en": "You must fill out a visa."
+      },
+      {
+        "order": 11,
+        "es": "Su solicitud de él solo estaba rellenada a medias.",
+        "en": "His application was only half filled in."
+      },
+      {
+        "order": 12,
+        "es": "Rellena el impreso de descuento.",
+        "en": "Fill out the rebate form."
+      }
+    ]
+  },
+  {
+    "id": 142,
+    "file_name": "Phrasal_verbs_142.mp3",
+    "phrasal_verb": "fill in",
+    "base_verb": "fill",
+    "particle": "in",
+    "meaning_es": "Completar con información, rellenar (un formulario, un documento, un espacio en blanco).",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "rellenar",
+      "completar",
+      "formularios",
+      "documentos",
+      "impuestos",
+      "información"
+    ],
+    "intro_note": "This story illustrates the phrasal verb 'fill in' in the context of completing tax forms, highlighting common mistakes and the need for accuracy.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Formularios de impuestos.",
+        "en": "Taxing forms."
+      },
+      {
+        "order": 2,
+        "es": "Después de que Sarah había terminado de rellenar sus formularios de impuestos, se dio cuenta de que los había rellenado mal.",
+        "en": "After Sarah had finished filling in her tax forms, she realized that she had filled them in wrong."
+      },
+      {
+        "order": 3,
+        "es": "Debería haber usado un bolígrafo negro o azul para rellenar los formularios, pero los había rellenado con un bolígrafo rojo.",
+        "en": "She should have used a black or blue pen to fill the forms in, but she had filled them in with a red pen."
+      },
+      {
+        "order": 4,
+        "es": "Después de rellenarlos de nuevo, vio que no había rellenado toda la información de la última página.",
+        "en": "After filling them in again, she saw that she hadn't filled in all of the information on the last page."
+      },
+      {
+        "order": 5,
+        "es": "Era la página más importante, y si no estaba rellenada, los formularios le serían devueltos y tendría que rellenar todo de nuevo.",
+        "en": "It was the most important page, and if it wasn't filled in, the forms would be returned to her, and she would have to fill in everything again."
+      }
+    ]
+  },
+  {
+    "id": 143,
+    "file_name": "Phrasal_verbs_143.mp3",
+    "phrasal_verb": "check in",
+    "base_verb": "check",
+    "particle": "in",
+    "meaning_es": "Registrarse, facturar",
+    "situation": "Viajes y Transporte",
+    "tags_es": [
+      "registrarse",
+      "facturar",
+      "llegar",
+      "hotel",
+      "aeropuerto",
+      "equipaje",
+      "recepción",
+      "llegada"
+    ],
+    "intro_note": "Una serie de oraciones que usan el phrasal verb 'check in' en diferentes contextos relacionados con hoteles, aeropuertos y viajes.",
+    "type": "drill",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Tienes que registrarte antes de recibir la llave.",
+        "en": "You have to check in before you get your key."
+      },
+      {
+        "order": 2,
+        "es": "Regístrese en la recepción del hotel.",
+        "en": "Check in at the reception desk of the hotel."
+      },
+      {
+        "order": 3,
+        "es": "No pudimos registrarnos hasta las 2 de la tarde.",
+        "en": "We couldn't check in until 2 p.m."
+      },
+      {
+        "order": 4,
+        "es": "¿Dónde está el área de facturación?",
+        "en": "Where's the check-in area?"
+      },
+      {
+        "order": 5,
+        "es": "Deberías facturar 3 horas antes de partir.",
+        "en": "You should check in 3 hours before departure."
+      },
+      {
+        "order": 6,
+        "es": "No tienes que facturar el equipaje de mano.",
+        "en": "You don't have to check hand luggage in."
+      },
+      {
+        "order": 7,
+        "es": "Llegamos al mostrador de facturación justo a tiempo.",
+        "en": "We got to the check-in desk just in time."
+      },
+      {
+        "order": 8,
+        "es": "Es más fácil facturar online.",
+        "en": "It's easier to check in online."
+      },
+      {
+        "order": 9,
+        "es": "Fueron al mejor hotel.",
+        "en": "They checked into the best hotel."
+      },
+      {
+        "order": 10,
+        "es": "Regístranos en el hotel y yo iré a recoger el coche.",
+        "en": "Check us in at the hotel and I'll go pick up the car."
+      }
+    ]
+  },
+  {
+    "id": 144,
+    "file_name": "Phrasal_verbs_144.mp3",
+    "phrasal_verb": "check in (aeropuerto / equipaje)",
+    "base_verb": "check",
+    "particle": "in",
+    "meaning_es": "Registrarse en un aeropuerto para un vuelo o documentar equipaje. En el contexto de este audio, 'check in' se refiere tanto a registrarse para el vuelo como a documentar las maletas.",
+    "situation": "Viajes y Transporte",
+    "tags_es": [
+      "aeropuerto",
+      "vuelo",
+      "registrarse",
+      "documentar",
+      "equipaje",
+      "maletas",
+      "viajar"
+    ],
+    "intro_note": "Este audio cuenta la historia de Sarah y su experiencia en el aeropuerto, usando el phrasal verb 'check in' en diferentes contextos relacionados con el viaje.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Nada que declarar.",
+        "en": "Nothing to declare."
+      },
+      {
+        "order": 2,
+        "es": "Sarah estaba segura de que iba a perder su vuelo porque salía en 20 minutos y aún no había hecho el check-in.",
+        "en": "Sarah was sure she was going to miss her flight because it left in 20 minutes and she still hadn't checked in."
+      },
+      {
+        "order": 3,
+        "es": "Cuando llegó al mostrador de facturación, la mujer le dijo que aún podía hacer el check-in para su vuelo, pero que no podía documentar equipaje, debido a las nuevas reglas.",
+        "en": "When she got to the check-in counter, the woman told her that she could still check in for her flight, but that she couldn't check any luggage in, because of the new rules."
+      },
+      {
+        "order": 4,
+        "es": "Sarah no tenía equipaje que documentar porque la última vez que documentó sus maletas, nunca las volvió a ver.",
+        "en": "Sarah didn't have any luggage to check in because the last time she checked her bags in, she never saw them again."
+      },
+      {
+        "order": 5,
+        "es": "Ahora siempre viaja ligera, así no pierde tiempo haciendo el check-in.",
+        "en": "Now she always travels light, so she doesn't waste time checking in."
+      }
+    ]
+  },
+  {
+    "id": 145,
+    "file_name": "Phrasal_verbs_145.mp3",
+    "phrasal_verb": "hand out",
+    "base_verb": "hand",
+    "particle": "out",
+    "meaning_es": "repartir, distribuir, entregar",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "repartir",
+      "distribuir",
+      "entregar",
+      "dar",
+      "ofrecer",
+      "difundir"
+    ],
+    "intro_note": "Audio drill focusing on the phrasal verb 'hand out' meaning to distribute or give something to several people.",
+    "type": "drill",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Estaban repartiendo folletos en la calle.",
+        "en": "They were handing out flyers in the street."
+      },
+      {
+        "order": 2,
+        "es": "Los exámenes se repartieron a las 9 en punto.",
+        "en": "The exams were handed out at 9 AM on the dot."
+      },
+      {
+        "order": 3,
+        "es": "Podrías ayudarme a repartir estos?",
+        "en": "Could you help me hand these out?"
+      },
+      {
+        "order": 4,
+        "es": "Que te ayude Smith a repartirlos.",
+        "en": "Have Smith help you hand them out."
+      },
+      {
+        "order": 5,
+        "es": "Están distribuyendo muestras gratuitas.",
+        "en": "They're handing out free samples."
+      },
+      {
+        "order": 6,
+        "es": "Repartieron los panfletos entre votantes potenciales.",
+        "en": "Leaflets were handed out to potential voters."
+      },
+      {
+        "order": 7,
+        "es": "Necesitan voluntarios para ayudar a repartir la comida.",
+        "en": "They need volunteers to help hand the food out."
+      },
+      {
+        "order": 8,
+        "es": "Se repartió una copia a todo el mundo.",
+        "en": "A copy was handed out to everyone."
+      },
+      {
+        "order": 9,
+        "es": "Era una hoja informativa a doble cara.",
+        "en": "It was a double-sided handout."
+      },
+      {
+        "order": 10,
+        "es": "Siempre está repartiendo consejos a todo el mundo.",
+        "en": "He's always handing out advice to everyone."
+      }
+    ]
+  },
+  {
+    "id": 146,
+    "file_name": "Phrasal_verbs_146.mp3",
+    "phrasal_verb": "hand out",
+    "base_verb": "hand",
+    "particle": "out",
+    "meaning_es": "La historia trata sobre Sarah, a quien le encantaban las ferias comerciales por los regalos promocionales ('freebies') que daban. A pesar de que su trabajo era repartir información de su empresa, pasaba la mayor parte del tiempo recogiendo regalos. Varias empresas estaban repartiendo camisetas, sombreros y mochilas, y Sarah era hábil para conseguir muchos.",
+    "situation": "Trabajo y Negocios",
+    "tags_es": [
+      "repartir",
+      "distribuir",
+      "regalos",
+      "promociones",
+      "feria comercial",
+      "trabajo",
+      "marketing",
+      "cotidiano"
+    ],
+    "intro_note": "Este audio presenta una breve historia sobre Sarah y su amor por los regalos promocionales ('freebies') en ferias comerciales, donde la frase 'hand out' (repartir/distribuir) es clave.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Regalos promocionales.",
+        "en": "Freebies."
+      },
+      {
+        "order": 2,
+        "es": "A Sarah le encantaba ir a las ferias comerciales porque todos los participantes repartían algún tipo de regalo gratis.",
+        "en": "Sarah loved to go to trade fairs because everyone participating handed out some sort of free gift."
+      },
+      {
+        "order": 3,
+        "es": "Aunque se suponía que debía estar trabajando, repartiendo información sobre su empresa, Sarah pasaba la mayor parte de su tiempo paseando y obteniendo obsequios gratuitos.",
+        "en": "Even though she was supposed to be working, handing out information about her company, Sarah spent most of her time walking around getting free handouts."
+      },
+      {
+        "order": 4,
+        "es": "Una empresa estaba repartiendo camisetas, y otra estaba repartiendo sombreros y mochilas.",
+        "en": "One company was handing out T-shirts, and another was handing out hats and backpacks."
+      },
+      {
+        "order": 5,
+        "es": "Si Sarah era inteligente, podía terminar de repartir los folletos de su empresa y conseguir suficientes obsequios para llenar su armario.",
+        "en": "If Sarah was clever, she could finish handing out her company's brochures and get enough handouts to fill her wardrobe."
+      }
+    ]
+  },
+  {
+    "id": 147,
+    "file_name": "Phrasal_verbs_147.mp3",
+    "phrasal_verb": "give out",
+    "base_verb": "give",
+    "particle": "out",
+    "meaning_es": "Repartir, distribuir o entregar algo a varias personas. También puede significar emitir (sonido, calor, etc.) o anunciar información.",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "repartir",
+      "distribuir",
+      "entregar",
+      "dar",
+      "información",
+      "premios"
+    ],
+    "intro_note": "A bilingual drill focusing on the phrasal verb 'give out' meaning to distribute or hand out.",
+    "type": "drill",
+    "drills": [
+      {
+        "order": 1,
+        "es": "To give out. Repartir. Dar a varias personas.",
+        "en": "To give out."
+      },
+      {
+        "order": 2,
+        "es": "He pasado 4 horas repartiendo folletos.",
+        "en": "I spent four hours giving out brochures."
+      },
+      {
+        "order": 3,
+        "es": "¿Cuántos conseguiste repartir?",
+        "en": "How many did you manage to give out?"
+      },
+      {
+        "order": 4,
+        "es": "Ojalá repartieran los premios ahora, me aburro.",
+        "en": "I wish they would give out the prizes now, I'm bored."
+      },
+      {
+        "order": 5,
+        "es": "Ella nunca da su número de teléfono personal.",
+        "en": "She never gives her personal phone number out."
+      },
+      {
+        "order": 6,
+        "es": "¿Qué número aparece en las tarjetas que reparte?",
+        "en": "What number is on the business cards that she gives out?"
+      },
+      {
+        "order": 7,
+        "es": "Ella solo da su número de trabajo.",
+        "en": "She only gives out her work number."
+      },
+      {
+        "order": 8,
+        "es": "No están dando ninguna información de momento.",
+        "en": "The police aren't giving out any information at the moment."
+      },
+      {
+        "order": 9,
+        "es": "Ellos nunca dan información.",
+        "en": "They never give information out."
+      },
+      {
+        "order": 10,
+        "es": "¿Cómo hace Papá Noel para repartir todos sus regalos?",
+        "en": "How does Santa Claus give out all those presents?"
+      },
+      {
+        "order": 11,
+        "es": "Creo que algunos elfos le ayudan a repartirlos.",
+        "en": "I think some elves help him give them out."
+      }
+    ]
+  },
+  {
+    "id": 148,
+    "file_name": "Phrasal_verbs_148.mp3",
+    "phrasal_verb": "give out",
+    "base_verb": "give",
+    "particle": "out",
+    "meaning_es": "Distribuir, repartir; revelar, divulgar (información)",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "distribuir",
+      "repartir",
+      "revelar",
+      "divulgar",
+      "promoción",
+      "número de teléfono",
+      "trabajo de verano",
+      "gimnasio"
+    ],
+    "intro_note": "This story illustrates the phrasal verb 'give out' in the context of distributing items and revealing personal information.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "El número equivocado.",
+        "en": "The wrong number."
+      },
+      {
+        "order": 2,
+        "es": "Un verano, Sarah consiguió un trabajo repartiendo pases gratis para el gimnasio.",
+        "en": "One summer, Sarah got a job giving out free gym passes."
+      },
+      {
+        "order": 3,
+        "es": "Cada vez que repartía uno, tenía que conseguir el nombre y el número de teléfono de la persona a quien le estaba dando el pase.",
+        "en": "Every time she gave one out, she had to get the name and telephone number of the person who she was giving the pass out to."
+      },
+      {
+        "order": 4,
+        "es": "El problema era que nadie quería dar su número de teléfono por miedo a ser molestado por un teleoperador.",
+        "en": "The problem was that no one wanted to give out their phone number for fear of being bothered by a telemarketer."
+      },
+      {
+        "order": 5,
+        "es": "Sin embargo, si no daban su número de teléfono, Sarah no podía darles los pases.",
+        "en": "However, if they didn't give out their phone number, Sarah couldn't give out the passes to them."
+      },
+      {
+        "order": 6,
+        "es": "Por supuesto, mucha gente daba números de teléfono falsos.",
+        "en": "Of course, a lot of people gave out fake phone numbers."
+      },
+      {
+        "order": 7,
+        "es": "Cuando el dueño del gimnasio se dio cuenta de que la gente estaba dando información falsa, canceló la promoción.",
+        "en": "When the gym owner realized that people were giving out phony information, he cancelled the promotion."
+      }
+    ]
+  },
+  {
+    "id": 149,
+    "file_name": "Phrasal_verbs_149.mp3",
+    "phrasal_verb": "send out",
+    "base_verb": "send",
+    "particle": "out",
+    "meaning_es": "enviar, emitir, distribuir (documentos, mensajes, etc.)",
+    "situation": "Comunicación y Documentos",
+    "tags_es": [
+      "enviar",
+      "emitir",
+      "distribuir",
+      "mandar",
+      "correo",
+      "comunicar"
+    ],
+    "intro_note": "A bilingual drill focusing on the phrasal verb 'send out', meaning to dispatch or distribute something.",
+    "type": "drill",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Las invitaciones se enviaron la semana pasada.",
+        "en": "The invitations were sent out last week."
+      },
+      {
+        "order": 2,
+        "es": "¿Cuántas enviaste?",
+        "en": "How many did you send out?"
+      },
+      {
+        "order": 3,
+        "es": "Los programas se enviarán a todos los participantes.",
+        "en": "Schedules will be sent out to everyone participating."
+      },
+      {
+        "order": 4,
+        "es": "Los envíos no se enviaron a tiempo.",
+        "en": "The mailings weren't sent out on time."
+      },
+      {
+        "order": 5,
+        "es": "Deberían haberse enviado el jueves pasado.",
+        "en": "They should have been sent out last Thursday."
+      },
+      {
+        "order": 6,
+        "es": "El barco emitió una señal de auxilio antes de hundirse.",
+        "en": "The ship sent a distress call out before it sank."
+      },
+      {
+        "order": 7,
+        "es": "¿Se han emitido las devoluciones fiscales ya?",
+        "en": "Have the tax rebates been sent out yet?"
+      },
+      {
+        "order": 8,
+        "es": "Se emitieron la semana pasada.",
+        "en": "They were sent out last week."
+      },
+      {
+        "order": 9,
+        "es": "Los cuestionarios se enviaron por email.",
+        "en": "The questionnaires were sent out by email."
+      },
+      {
+        "order": 10,
+        "es": "Envié un memorándum esta mañana.",
+        "en": "I sent a memo out this morning."
+      }
+    ]
+  },
+  {
+    "id": 150,
+    "file_name": "Phrasal_verbs_150.mp3",
+    "phrasal_verb": "send out",
+    "base_verb": "send",
+    "particle": "out",
+    "meaning_es": "Enviar o distribuir algo a un grupo de personas, a menudo por correo o a través de un sistema de distribución. También puede significar emitir o liberar algo (como una señal, un sonido, etc.).",
+    "situation": "Trabajo y Negocios",
+    "tags_es": [
+      "enviar",
+      "distribuir",
+      "correo",
+      "invitaciones",
+      "documentos",
+      "publicidad",
+      "clientes",
+      "trabajo",
+      "errores",
+      "gestión del tiempo"
+    ],
+    "intro_note": "Una historia sobre Sarah, a quien se le encarga enviar invitaciones y material de marketing, pero termina cometiendo un error divertido.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Uno de los mejores amigos de Sarah del trabajo se va a casar, y él le ha pedido que se encargue de enviar las invitaciones.",
+        "en": "One of Sarah's best friends from work is getting married, and he's asked her to be in charge of sending out the invitations."
+      },
+      {
+        "order": 2,
+        "es": "Es un mal momento para que ella se encargue de enviar invitaciones porque también tiene que preparar un envío para los clientes.",
+        "en": "It's a bad time for her to be in charge of sending out invitations because she also has to get a mailing ready to be sent out to clients."
+      },
+      {
+        "order": 3,
+        "es": "Sin embargo, Sarah trabajó día y noche y los envió todos el viernes por correo especial.",
+        "en": "Nevertheless, Sarah worked round the clock and sent them all out on Friday by special post."
+      },
+      {
+        "order": 4,
+        "es": "Desafortunadamente, ella accidentalmente envió invitaciones de boda a los clientes y publicidad a los amigos del novio.",
+        "en": "Unfortunately, she accidentally sent out wedding invitations to clients and publicity to the groom's friends."
+      },
+      {
+        "order": 5,
+        "es": "Quizás Sarah debería empezar a enviar algunos currículums.",
+        "en": "Perhaps Sarah should start sending out a few CVs."
+      }
+    ]
+  },
+  {
+    "id": 151,
+    "file_name": "Phrasal_verbs_151.mp3",
+    "phrasal_verb": "come out / go out",
+    "base_verb": "come / go",
+    "particle": "out",
+    "meaning_es": "Significa 'salir' o 'aparecer de un lugar'. Puede referirse a salir de un edificio, de una reunión, o de casa para una actividad social. También puede significar que algo se revela o se hace público (aunque este audio se centra en el movimiento).",
+    "situation": "Movimiento y Lugares",
+    "tags_es": [
+      "salir",
+      "irse",
+      "abandonar",
+      "dejar un lugar",
+      "aparecer",
+      "movimiento",
+      "exterior"
+    ],
+    "intro_note": "Este audio se centra en el phrasal verb 'to come out' / 'to go out', que significa 'salir'. Escucha los ejemplos en español y su traducción al inglés.",
+    "type": "drill",
+    "drills": [
+      {
+        "order": 1,
+        "es": "To come out, to go out. Salir.",
+        "en": "To come out, to go out. Salir."
+      },
+      {
+        "order": 2,
+        "es": "Le vi salir del baño hace 5 minutos.",
+        "en": "I saw him come out of the bathroom five minutes ago."
+      },
+      {
+        "order": 3,
+        "es": "Salió de la reunión con pinta de cansada.",
+        "en": "She came out of the meeting looking tired."
+      },
+      {
+        "order": 4,
+        "es": "Sal de nuevo por la puerta principal y gira a la derecha.",
+        "en": "Go back out the front door and take a right."
+      },
+      {
+        "order": 5,
+        "es": "Si él sale, llama a la policía.",
+        "en": "If he comes out, call the police."
+      },
+      {
+        "order": 6,
+        "es": "Mi prima sale todas las noches.",
+        "en": "My cousin goes out every night."
+      },
+      {
+        "order": 7,
+        "es": "¿Vas a salir esta noche?",
+        "en": "Are you going out tonight?"
+      },
+      {
+        "order": 8,
+        "es": "Salimos anoche.",
+        "en": "We went out last night."
+      },
+      {
+        "order": 9,
+        "es": "Él fue secuestrado al salir del banco.",
+        "en": "He was kidnapped coming out of the bank."
+      },
+      {
+        "order": 10,
+        "es": "Cuando él salió, la prensa se volvió loca.",
+        "en": "When he came out, the press went crazy."
+      },
+      {
+        "order": 11,
+        "es": "Puedes volver a salir. Se han ido.",
+        "en": "You can come back out now. They've gone."
+      }
+    ]
+  },
+  {
+    "id": 152,
+    "file_name": "Phrasal_verbs_152.mp3",
+    "phrasal_verb": "Story: Go out / Come out (leaving a place)",
+    "base_verb": null,
+    "particle": null,
+    "meaning_es": "Salir (de un lugar, para un evento o para evitar algo)",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "salir",
+      "abandonar",
+      "escape",
+      "evento",
+      "cine",
+      "multitud"
+    ],
+    "intro_note": "This story uses the phrasal verbs 'go out' and 'come out' to describe people leaving a place, either for an event or to avoid a crowd.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "El estreno.",
+        "en": "The premiere."
+      },
+      {
+        "order": 2,
+        "es": "Sarah había salido con sus amigos al estreno de la última película de Miguel Bahía.",
+        "en": "Sarah had gone out with her friends to the premiere of the latest Miguel Bahia movie."
+      },
+      {
+        "order": 3,
+        "es": "Todo el elenco estaba asistiendo con el propio director.",
+        "en": "The whole cast were attending with the director himself."
+      },
+      {
+        "order": 4,
+        "es": "Después de la película, Sarah y sus amigos esperaron fuera del cine a que salieran las estrellas, pero nadie salió.",
+        "en": "After the movie, Sarah and her friends waited outside the cinema for the stars to come out, but no one came out."
+      },
+      {
+        "order": 5,
+        "es": "Después de aproximadamente media hora, Miguel Bahía salió y firmó algunos autógrafos, pero las estrellas habían salido por la puerta trasera del cine para evitar a la multitud.",
+        "en": "After about half an hour, Miguel Bahia came out and signed a few autographs, but the stars had gone out the back door of the cinema to avoid the crowds."
+      }
+    ]
+  },
+  {
+    "id": 153,
+    "file_name": "Phrasal_verbs_153.mp3",
+    "phrasal_verb": "get out",
+    "base_verb": "get",
+    "particle": "out",
+    "meaning_es": "Salir, escapar, librarse de, revelarse (noticia/secreto)",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "salir",
+      "escapar",
+      "revelar",
+      "liberarse",
+      "mover",
+      "dejar un lugar"
+    ],
+    "intro_note": "Un drill sobre el phrasal verb 'get out', que se usa para describir salir de un lugar, escapar de una situación o que una información se haga pública.",
+    "type": "drill",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Ella salió del coche y cerró la puerta.",
+        "en": "She got out of the car and closed the door."
+      },
+      {
+        "order": 2,
+        "es": "Finalmente, él salió de prisión después de 10 años.",
+        "en": "He finally got out of prison after 10 years."
+      },
+      {
+        "order": 3,
+        "es": "Cuando salió la noticia, nadie se sorprendió.",
+        "en": "When the news got out, nobody was surprised."
+      },
+      {
+        "order": 4,
+        "es": "Si sale la verdad, todos iremos a la cárcel.",
+        "en": "If the truth gets out, we'll all go to jail."
+      },
+      {
+        "order": 5,
+        "es": "Los niños no querían salir de la piscina.",
+        "en": "The children didn't want to get out of the pool."
+      },
+      {
+        "order": 6,
+        "es": "¡Fuera de mi vista!",
+        "en": "Get out of my sight!"
+      },
+      {
+        "order": 7,
+        "es": "Sal y quédate fuera.",
+        "en": "Get out and stay out."
+      },
+      {
+        "order": 8,
+        "es": "¿Podrías ayudarme a salir de este lío?",
+        "en": "Could you help me get out of this mess?"
+      },
+      {
+        "order": 9,
+        "es": "Él necesita salir más.",
+        "en": "He needs to get out more."
+      },
+      {
+        "order": 10,
+        "es": "El ratón consiguió salir de la trampa.",
+        "en": "The mouse managed to get out of the trap."
+      }
+    ]
+  },
+  {
+    "id": 154,
+    "file_name": "Phrasal_verbs_154.mp3",
+    "phrasal_verb": "get out of, figure out",
+    "base_verb": null,
+    "particle": null,
+    "meaning_es": "La historia ilustra 'get out of' (salir de, escapar de, librarse de una situación o lugar) y 'figure out' (resolver, descifrar, encontrar una solución a un problema).",
+    "situation": "Aventuras y Desafíos",
+    "tags_es": [
+      "magia",
+      "escapismo",
+      "tiburon",
+      "desafio",
+      "aventura",
+      "salir",
+      "escapar",
+      "resolver",
+      "superar"
+    ],
+    "intro_note": "A narrative about the world's most famous magician attempting an impossible escape act, illustrating multiple phrasal verbs.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "El espectáculo de magia.",
+        "en": "The magic show."
+      },
+      {
+        "order": 2,
+        "es": "El mago más famoso del mundo, Harry Trix, intentará hacer algo nunca antes hecho.",
+        "en": "The most famous magician in the world, Harry Trix, will attempt to do something never done before."
+      },
+      {
+        "order": 3,
+        "es": "Primero, tendrá que salir de un par de esposas y luego salir de una camisa de fuerza.",
+        "en": "First, he will have to get out of a pair of handcuffs and then get out of a straightjacket."
+      },
+      {
+        "order": 4,
+        "es": "Luego, tendrá que salir de una caja cerrada con llave sumergida en un acuario lleno de tiburones.",
+        "en": "Then, he will have to get out of a locked box submerged in an aquarium full of sharks."
+      },
+      {
+        "order": 5,
+        "es": "Si logra salir de todas esas cosas, tendrá que quitarse del camino de los tiburones para evitar ser comido.",
+        "en": "If he manages to get out of all of those things, he will have to get out of the way of the sharks to avoid being eaten."
+      },
+      {
+        "order": 6,
+        "es": "Si es comido por un tiburón, tendrá que encontrar una manera de salir de su estómago.",
+        "en": "If he is eaten by a shark, he will have to figure out a way to get out of its stomach."
+      }
+    ]
+  },
+  {
+    "id": 155,
+    "file_name": "Phrasal_verbs_155.mp3",
+    "phrasal_verb": "to run out / to rush out",
+    "base_verb": "run / rush",
+    "particle": "out",
+    "meaning_es": "Salir corriendo, salir deprisa, huir.",
+    "situation": "Movimiento y Lugares",
+    "tags_es": [
+      "correr",
+      "salir",
+      "deprisa",
+      "escapar",
+      "huir",
+      "abandonar"
+    ],
+    "intro_note": "Práctica del phrasal verb 'to run out' / 'to rush out' que significa 'salir corriendo' o 'salir deprisa'.",
+    "type": "drill",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Salir corriendo.",
+        "en": "To run out, to rush out."
+      },
+      {
+        "order": 2,
+        "es": "Salieron corriendo del restaurante sin pagar.",
+        "en": "They ran out of the restaurant without paying."
+      },
+      {
+        "order": 3,
+        "es": "El encargado salió corriendo tras ellos.",
+        "en": "The manager ran out after them."
+      },
+      {
+        "order": 4,
+        "es": "Cuando saltó la alarma, todos salieron corriendo.",
+        "en": "When the alarm went off, everyone rushed out."
+      },
+      {
+        "order": 5,
+        "es": "Testigos vieron a un hombre salir corriendo de la casa.",
+        "en": "Witnesses saw a man running out of the house."
+      },
+      {
+        "order": 6,
+        "es": "Él salió corriendo del edificio en llamas.",
+        "en": "He ran out of the burning building."
+      },
+      {
+        "order": 7,
+        "es": "Ella salió corriendo de la casa y olvidó las llaves.",
+        "en": "She rushed out of the house and forgot her keys."
+      },
+      {
+        "order": 8,
+        "es": "El perro salió corriendo del jardín.",
+        "en": "The dog ran out of the garden."
+      },
+      {
+        "order": 9,
+        "es": "El ladrón salió corriendo por la puerta de atrás.",
+        "en": "The thief ran out the back door."
+      },
+      {
+        "order": 10,
+        "es": "Cuando vi la aleta, salí corriendo del agua.",
+        "en": "When I saw the fin, I ran out of the water."
+      },
+      {
+        "order": 11,
+        "es": "Salimos corriendo del aeropuerto y cogimos un taxi.",
+        "en": "We rushed out of the airport and took a taxi."
+      }
+    ]
+  },
+  {
+    "id": 156,
+    "file_name": "Phrasal_verbs_156.mp3",
+    "phrasal_verb": "Story: A Thief at the Mall (run out of, knock out)",
+    "base_verb": null,
+    "particle": null,
+    "meaning_es": "Una historia sobre Sarah de compras en el centro comercial. Un ladrón le roba el bolso y sale corriendo. Ella y un guardia de seguridad lo persiguen. El ladrón intenta escapar por una salida bloqueada y se golpea a sí mismo dejándose inconsciente.",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "robo",
+      "centro comercial",
+      "persecución",
+      "accidente",
+      "compras",
+      "ladrón",
+      "perseguir",
+      "escapar"
+    ],
+    "intro_note": "A story about a theft at a mall and the unexpected end to the chase.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "¡Alto, ladrón!",
+        "en": "Stop, thief!"
+      },
+      {
+        "order": 2,
+        "es": "Era sábado por la mañana y Sarah estaba de compras en el centro comercial.",
+        "en": "It was Saturday morning, and Sarah was out shopping at the mall."
+      },
+      {
+        "order": 3,
+        "es": "Mientras miraba ropa en su tienda de ropa favorita, un ladrón le arrebató el bolso y salió corriendo de la tienda.",
+        "en": "While she was looking at clothes in her favorite clothing store, a thief grabbed her purse and ran out of the shop."
+      },
+      {
+        "order": 4,
+        "es": "Sarah gritó pidiendo ayuda y salió corriendo detrás del ladrón.",
+        "en": "Sarah screamed for help and ran out after the thief."
+      },
+      {
+        "order": 5,
+        "es": "El guardia de seguridad de la tienda, que había estado hablando con el dependiente, salió corriendo de la tienda para perseguirlo.",
+        "en": "The store security guard, who had been talking to the sales clerk, rushed out of the store to give chase."
+      },
+      {
+        "order": 6,
+        "es": "El ladrón era rápido, y Sarah sabía que si salía corriendo del centro comercial, nunca lo atraparía.",
+        "en": "The thief was fast, and Sarah knew that if he ran out of the mall, she would never catch him."
+      },
+      {
+        "order": 7,
+        "es": "La suerte estuvo de su lado, porque el ladrón intentó salir por una salida que estaba cerrada con llave y se golpeó hasta quedar inconsciente.",
+        "en": "Luck was on her side, because the thief tried to run out of an exit that was locked and knocked himself out."
+      }
+    ]
+  },
+  {
+    "id": 157,
+    "file_name": "Phrasal_verbs_157.mp3",
+    "phrasal_verb": "walk out",
+    "base_verb": "walk",
+    "particle": "out",
+    "meaning_es": "salir (andando), abandonar, irse",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "salir",
+      "abandonar",
+      "irse",
+      "marcharse",
+      "dejar"
+    ],
+    "intro_note": "Este ejercicio se centra en el phrasal verb 'walk out', explorando sus diferentes usos para indicar salir de un lugar, abandonar una situación o incluso a una persona.",
+    "type": "drill",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Que no cunda el pánico, abandonad el edificio con calma.",
+        "en": "Don't panic. Walk out of the building calmly."
+      },
+      {
+        "order": 2,
+        "es": "Ella salió del cine en mitad de la película.",
+        "en": "She walked out of the cinema in the middle of the film."
+      },
+      {
+        "order": 3,
+        "es": "Él salió de la entrevista seguro de sí mismo.",
+        "en": "He walked out of the interview feeling confident."
+      },
+      {
+        "order": 4,
+        "es": "Abandonaron la reunión como protesta.",
+        "en": "They walked out of the meeting in protest."
+      },
+      {
+        "order": 5,
+        "es": "Su padre les abandonó.",
+        "en": "His father walked out on them."
+      },
+      {
+        "order": 6,
+        "es": "Él siempre se va de los sitios sin pagar.",
+        "en": "He always walks out of places without paying."
+      },
+      {
+        "order": 7,
+        "es": "Ella salió de la habitación y cerró de un portazo.",
+        "en": "She walked out of the room and slammed the door."
+      },
+      {
+        "order": 8,
+        "es": "¿De verdad él se fue durante el discurso del presidente?",
+        "en": "Did he really walk out during the president's speech?"
+      },
+      {
+        "order": 9,
+        "es": "Si sales por esa puerta, no vuelvas.",
+        "en": "If you walk out that door, don't come back."
+      },
+      {
+        "order": 10,
+        "es": "Él salió de la cárcel como un hombre libre.",
+        "en": "He walked out of prison a free man."
+      }
+    ]
+  },
+  {
+    "id": 158,
+    "file_name": "Phrasal_verbs_158.mp3",
+    "phrasal_verb": "Story: The comedian walks out",
+    "base_verb": "walk",
+    "particle": "out",
+    "meaning_es": "Salir o abandonar un lugar, ya sea para aparecer en un escenario, irse por insatisfacción o protesta, o simplemente marcharse. También se ilustra 'go home' (ir a casa).",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "salir",
+      "abandonar",
+      "dejar",
+      "irse",
+      "regresar",
+      "espectáculo",
+      "comedia",
+      "teatro",
+      "descontento",
+      "ir a casa"
+    ],
+    "intro_note": "This story features multiple uses of the phrasal verb 'walk out', illustrating its different meanings like appearing on stage ('walk out' onto stage) and leaving a place (e.g., leaving a theater due to dissatisfaction or simply departing), along with 'go home'.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "¡Bu!",
+        "en": "Boo."
+      },
+      {
+        "order": 2,
+        "es": "A Sarah le encanta la comedia.",
+        "en": "Sarah loves comedy."
+      },
+      {
+        "order": 3,
+        "es": "Recientemente, ella fue a ver a un nuevo comediante que se suponía que era muy divertido.",
+        "en": "Recently, she went to see a new comedian who was supposed to be really funny."
+      },
+      {
+        "order": 4,
+        "es": "El espectáculo se estaba celebrando en un teatro y cuando el comediante salió al escenario, el público aplaudió.",
+        "en": "The show was being held in a theater and when the comedian walked out, the audience clapped."
+      },
+      {
+        "order": 5,
+        "es": "Desafortunadamente, ese fue el último aplauso que el comediante recibiría porque, después de unos cinco minutos, la gente empezó a salir del teatro.",
+        "en": "Unfortunately, that was the last applause the comedian would get because after about five minutes, people started walking out of the theater."
+      },
+      {
+        "order": 6,
+        "es": "Cuando la primera persona se fue, el comediante intentó hacer una broma al respecto, pero su broma no fue muy divertida, y más gente se fue.",
+        "en": "When the first person walked out, the comedian tried to make a joke about it, but his joke wasn't very funny, and more people walked out."
+      },
+      {
+        "order": 7,
+        "es": "Sarah no quería irse del espectáculo porque no quería herir los sentimientos del comediante, pero al final, no tuvo que hacerlo porque el comediante se fue y regresó a casa.",
+        "en": "Sarah didn't want to walk out of the show because she didn't want to hurt the comedian's feelings, but in the end, she didn't have to because the comedian walked out and went home."
+      }
+    ]
+  },
+  {
+    "id": 159,
+    "file_name": "Phrasal_verbs_159.mp3",
+    "phrasal_verb": "go out",
+    "base_verb": "go",
+    "particle": "out",
+    "meaning_es": "Apagarse, extinguirse (referente a luces, fuego, velas, cigarrillos, etc.)",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "apagarse",
+      "extinguir",
+      "luz",
+      "fuego",
+      "vela",
+      "cigarrillo"
+    ],
+    "intro_note": "Drill for the phrasal verb 'to go out', meaning 'apagarse' (to extinguish or stop shining/burning).",
+    "type": "drill",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Apagarse",
+        "en": "To go out"
+      },
+      {
+        "order": 2,
+        "es": "La puerta se cerró y la luz se apagó.",
+        "en": "The door closed and the light went out."
+      },
+      {
+        "order": 3,
+        "es": "El viento hizo que la vela se apagara.",
+        "en": "The wind made the candle go out."
+      },
+      {
+        "order": 4,
+        "es": "Esperemos que la vela no se apague.",
+        "en": "Let's hope the candle doesn't go out."
+      },
+      {
+        "order": 5,
+        "es": "Espera hasta que la luz se apague para entrar.",
+        "en": "Wait until the light goes out to go in."
+      },
+      {
+        "order": 6,
+        "es": "Si dejas que se apague el fuego, no nos rescatarán.",
+        "en": "If you let the fire go out, we won't be rescued."
+      },
+      {
+        "order": 7,
+        "es": "Se le apagó el cigarro, así que lo encendió otra vez.",
+        "en": "His cigar went out, so he lit it again."
+      },
+      {
+        "order": 8,
+        "es": "La luz del piloto de la caldera se apagó.",
+        "en": "The pilot light in the boiler went out."
+      },
+      {
+        "order": 9,
+        "es": "Las luces se apagaron durante la tormenta.",
+        "en": "The lights went out during the storm."
+      },
+      {
+        "order": 10,
+        "es": "Cuando el generador paró, las luces se apagaron.",
+        "en": "When the generator stopped, the lights went out."
+      },
+      {
+        "order": 11,
+        "es": "Se aseguraron de que el fuego no se apagase.",
+        "en": "They made sure the fire didn't go out."
+      }
+    ]
+  },
+  {
+    "id": 160,
+    "file_name": "Phrasal_verbs_160.mp3",
+    "phrasal_verb": "Story: In the Dark",
+    "base_verb": null,
+    "particle": null,
+    "meaning_es": "Una historia sobre Sarah en la oscuridad, donde se utilizan varios phrasal verbs en contexto como 'go out' (apagarse), 'look out' (mirar por), 'go down' (bajar), 'carry on' (continuar) y 'find out' (averiguar).",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "oscuridad",
+      "apagón",
+      "miedo",
+      "velas",
+      "fósforos",
+      "sótano",
+      "luces",
+      "apagarse",
+      "bajar",
+      "continuar",
+      "averiguar"
+    ],
+    "intro_note": "Sarah se encuentra en la oscuridad cuando las luces se apagan inesperadamente, y debe averiguar qué sucede.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "En la oscuridad.",
+        "en": "In the dark."
+      },
+      {
+        "order": 2,
+        "es": "Sarah estaba en casa viendo una película de miedo cuando, de repente, todas las luces se apagaron.",
+        "en": "Sarah was at home watching a scary movie, when suddenly, all the lights went out."
+      },
+      {
+        "order": 3,
+        "es": "Pensó que debía haber sido un apagón, pero cuando miró por la ventana, vio que ninguna de las luces de las otras casas se había apagado.",
+        "en": "She thought it must have been a power cut, but when she looked out of her window, she saw that none of the other houses' lights had gone out."
+      },
+      {
+        "order": 4,
+        "es": "Sarah estaba asustada, así que encendió unas velas y llamó a la compañía eléctrica.",
+        "en": "Sarah was scared, so she lit some candles and called the power company."
+      },
+      {
+        "order": 5,
+        "es": "Le dijeron que bajara al sótano y revisara la caja de fusibles.",
+        "en": "They told her to go down to the basement and check the fuse box."
+      },
+      {
+        "order": 6,
+        "es": "Así que Sarah tomó una vela y bajó las escaleras.",
+        "en": "So Sarah took a candle and went down the stairs."
+      },
+      {
+        "order": 7,
+        "es": "La vela era la única luz que tenía Sarah, y cuando se le cayó, se apagó.",
+        "en": "The candle was the only light Sarah had, and when she dropped it, it went out."
+      },
+      {
+        "order": 8,
+        "es": "No pudo encontrar la vela en la oscuridad, así que encendió un fósforo y continuó hacia el sótano.",
+        "en": "She couldn't find the candle in the dark, so she lit a match and carried on to the basement."
+      },
+      {
+        "order": 9,
+        "es": "Los fósforos también se seguían apagando, y Sarah esperaba tener suficientes para llegar al sótano y averiguar por qué las luces se habían apagado.",
+        "en": "The matches kept going out too, and Sarah hoped she had enough to get to the basement and find out why the lights had gone out."
+      }
+    ]
+  },
+  {
+    "id": 161,
+    "file_name": "Phrasal_verbs_161.mp3",
+    "phrasal_verb": "put out",
+    "base_verb": "put",
+    "particle": "out",
+    "meaning_es": "Apagar (un fuego, una vela, un cigarrillo, etc.)",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "apagar",
+      "extinguir",
+      "fuego",
+      "vela",
+      "cigarrillo",
+      "controlar",
+      "detener"
+    ],
+    "intro_note": "Introducción al phrasal verb 'put out' con ejemplos de cómo apagar fuegos, cigarrillos y velas.",
+    "type": "drill",
+    "drills": [
+      {
+        "order": 1,
+        "es": "¿Te importaría apagar este cigarro?",
+        "en": "Would you mind putting that cigarette out?"
+      },
+      {
+        "order": 2,
+        "es": "Apagaré mi cigarro si tú apagas tu puro.",
+        "en": "I'll put my cigarette out if you put your cigar out."
+      },
+      {
+        "order": 3,
+        "es": "¿Dónde lo apago?",
+        "en": "Where should I put it out?"
+      },
+      {
+        "order": 4,
+        "es": "Apágalo en el cenicero.",
+        "en": "Put it out in the ashtray."
+      },
+      {
+        "order": 5,
+        "es": "Si no lo apagas bien, provocarás un incendio.",
+        "en": "If you don't put it out properly, you'll start a fire."
+      },
+      {
+        "order": 6,
+        "es": "Los bomberos vinieron para apagar el fuego.",
+        "en": "The firemen came to put out the fire."
+      },
+      {
+        "order": 7,
+        "es": "Intentaron apagarlo con agua.",
+        "en": "They tried to put it out with water."
+      },
+      {
+        "order": 8,
+        "es": "Después de 6 horas, todavía no habían apagado el fuego.",
+        "en": "After six hours, they still hadn't put out the fire."
+      },
+      {
+        "order": 9,
+        "es": "No se puede apagar fuegos de aceite con agua.",
+        "en": "You can't put oil fires out with water."
+      },
+      {
+        "order": 10,
+        "es": "Apaga las velas y pide un deseo.",
+        "en": "Blow the candles out and make a wish."
+      }
+    ]
+  },
+  {
+    "id": 162,
+    "file_name": "Phrasal_verbs_162.mp3",
+    "phrasal_verb": "put out",
+    "base_verb": "put",
+    "particle": "out",
+    "meaning_es": "Apagar, extinguir (un fuego, cigarrillo, etc.)",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "apagar",
+      "extinguir",
+      "fuego",
+      "incendio",
+      "bosque",
+      "cigarrillo",
+      "advertencia",
+      "emergencia"
+    ],
+    "intro_note": "Una historia sobre un incendio forestal y la importancia de apagar correctamente las hogueras y los cigarrillos.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "El verano había llegado y con él, el riesgo de incendios forestales.",
+        "en": "Summer had arrived and with it the risk of forest fires."
+      },
+      {
+        "order": 2,
+        "es": "Había muchas advertencias en la televisión y en el periódico, diciéndole a la gente que apagara las hogueras y los cigarrillos correctamente.",
+        "en": "There were a lot of warnings on TV and in the newspaper telling people to put out bonfires and cigarettes properly."
+      },
+      {
+        "order": 3,
+        "es": "Sin embargo, Sarah vio en las noticias que se había iniciado un gran incendio forestal.",
+        "en": "However, Sarah saw on the news that a major forest fire had started."
+      },
+      {
+        "order": 4,
+        "es": "Y los bomberos no habían podido apagarlo antes de que se extendiera.",
+        "en": "And firefighters hadn't been able to put it out before it spread."
+      },
+      {
+        "order": 5,
+        "es": "A juzgar por los vientos y la sequedad, el fuego sería casi imposible de apagar.",
+        "en": "Judging by the winds and the dryness, the fire would be almost impossible to put out."
+      },
+      {
+        "order": 6,
+        "es": "Sin embargo, los bomberos usaron helicópteros para intentar apagar el fuego.",
+        "en": "Nevertheless, firefighters used helicopters to try and put the fire out."
+      },
+      {
+        "order": 7,
+        "es": "Y lograron apagarlo antes de que causara demasiado daño.",
+        "en": "And managed to put it out before it caused too much damage."
+      },
+      {
+        "order": 8,
+        "es": "Más tarde se descubrió que el fuego había comenzado porque alguien no había apagado su cigarro correctamente.",
+        "en": "Later it was discovered that the fire had started because someone hadn't put their cigar out properly."
+      }
+    ]
+  },
+  {
+    "id": 163,
+    "file_name": "Phrasal_verbs_163.mp3",
+    "phrasal_verb": "to bring out",
+    "base_verb": "bring",
+    "particle": "out",
+    "meaning_es": "Lanzar, sacar, publicar (un producto, libro, álbum, etc., al mercado).",
+    "situation": "Negocios y Consumo",
+    "tags_es": [
+      "lanzar",
+      "publicar",
+      "sacar al mercado",
+      "introducir",
+      "producto",
+      "libro",
+      "álbum",
+      "publicación",
+      "comercio"
+    ],
+    "intro_note": "Usamos 'to bring out' para referirnos al lanzamiento o publicación de algo nuevo, como un producto, un libro, un disco, etc. También puede significar 'resaltar' o 'hacer visible', aunque el audio se centra en el primer uso.",
+    "type": "drill",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Él ha sacado más de 40 libros hasta la fecha.",
+        "en": "He's brought out over 40 books to date."
+      },
+      {
+        "order": 2,
+        "es": "Va a sacar uno nuevo el mes que viene.",
+        "en": "He's bringing out a new one next month."
+      },
+      {
+        "order": 3,
+        "es": "No es un buen momento para lanzar un nuevo producto.",
+        "en": "It's not a good time to bring out a new product."
+      },
+      {
+        "order": 4,
+        "es": "El plan era lanzarlo antes del verano.",
+        "en": "The plan was to bring it out before summer."
+      },
+      {
+        "order": 5,
+        "es": "Sacaron el libro en formato electrónico.",
+        "en": "They brought out the book in electronic format."
+      },
+      {
+        "order": 6,
+        "es": "Se rumorea que van a sacar un nuevo álbum.",
+        "en": "Rumor has it they're bringing out a new album."
+      },
+      {
+        "order": 7,
+        "es": "Llevan más de una década sin sacar un álbum.",
+        "en": "They haven't brought out an album in over a decade."
+      },
+      {
+        "order": 8,
+        "es": "¿Cuándo lanzará XCOM el nuevo XPhone?",
+        "en": "When will Xcom bring out the new Xphone?"
+      },
+      {
+        "order": 9,
+        "es": "Lo lanzarán para competir con el YPhone.",
+        "en": "They'll bring it out to compete with the YPhone."
+      },
+      {
+        "order": 10,
+        "es": "Sacaron su nuevo disco y se fueron de gira.",
+        "en": "They brought out their new disc and went on tour."
+      }
+    ]
+  },
+  {
+    "id": 164,
+    "file_name": "Phrasal_verbs_164.mp3",
+    "phrasal_verb": "bring out",
+    "base_verb": "bring",
+    "particle": "out",
+    "meaning_es": "Publicar, lanzar (un libro, producto, etc.)",
+    "situation": "Arte y Cultura",
+    "tags_es": [
+      "publicar",
+      "lanzar",
+      "libro",
+      "autor",
+      "edición",
+      "colección",
+      "esperar",
+      "fila",
+      "nuevo"
+    ],
+    "intro_note": "Una historia sobre el lanzamiento de un libro y una fan dedicada.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "El lanzamiento del libro.",
+        "en": "The book launch."
+      },
+      {
+        "order": 2,
+        "es": "La autora favorita de Sarah, J.O. King, estaba lanzando un nuevo libro.",
+        "en": "Sarah's favorite author, J.O. King, was bringing out a new book."
+      },
+      {
+        "order": 3,
+        "es": "Era el último de la serie, y Sarah había leído todos los anteriores.",
+        "en": "It was the last one in the series, and Sarah had read all of the previous ones."
+      },
+      {
+        "order": 4,
+        "es": "El día que J.O. King sacó su primer libro, Sarah había esperado en la fila para conseguir una copia firmada de la primera edición, y posteriormente, había esperado en la fila cada vez que J.O. King sacaba uno nuevo.",
+        "en": "On the day J.O. King brought out her first book, Sarah had waited in line to get a signed first edition copy, and subsequently, had waited in line every time J.O. King brought out a new one."
+      },
+      {
+        "order": 5,
+        "es": "Ahora, solo necesitaba una copia firmada más para completar su colección.",
+        "en": "Now, she only needed one more signed copy to complete her collection."
+      },
+      {
+        "order": 6,
+        "es": "Sarah estaba feliz de que J.O. King finalmente estuviera lanzando la última entrega, pero al mismo tiempo, estaba triste de que no fuera a sacar más libros.",
+        "en": "Sarah was happy that J.O. King was finally bringing out the final installment, but at the same time, she was sad that she wouldn't be bringing out any more books."
+      }
+    ]
+  },
+  {
+    "id": 165,
+    "file_name": "Phrasal_verbs_165.mp3",
+    "phrasal_verb": "come out",
+    "base_verb": "come",
+    "particle": "out",
+    "meaning_es": "Salir, lanzar (referirse a publicaciones, productos, información, resultados, o incluso a una persona que 'sale del armario')",
+    "situation": "Publicaciones y Productos",
+    "tags_es": [
+      "lanzamiento",
+      "publicar",
+      "aparecer",
+      "salir a la luz",
+      "productos",
+      "libros",
+      "películas",
+      "información"
+    ],
+    "intro_note": "To come out: Salir, lanzar",
+    "type": "drill",
+    "drills": [
+      {
+        "order": 1,
+        "es": "¿Cuando sale el libro?",
+        "en": "When is the book coming out?"
+      },
+      {
+        "order": 2,
+        "es": "Salió la semana pasada.",
+        "en": "It came out last week."
+      },
+      {
+        "order": 3,
+        "es": "No puedo esperar a que lancen el siguiente.",
+        "en": "I can't wait until the next one comes out."
+      },
+      {
+        "order": 4,
+        "es": "La última película salió en blanco y negro.",
+        "en": "The last film came out in black and white."
+      },
+      {
+        "order": 5,
+        "es": "Van a lanzar un nuevo y revolucionario producto.",
+        "en": "They're coming out with a revolutionary new product."
+      },
+      {
+        "order": 6,
+        "es": "Se supone que sale en marzo.",
+        "en": "It's supposed to come out in March."
+      },
+      {
+        "order": 7,
+        "es": "¿Qué harás cuando salga?",
+        "en": "What will you do when it comes out?"
+      },
+      {
+        "order": 8,
+        "es": "¿Cuando van a salir los informes trimestrales?",
+        "en": "When are the quarterly reports coming out?"
+      },
+      {
+        "order": 9,
+        "es": "Compraré el libro cuando salga en tapa blanda.",
+        "en": "I'll buy the book when it comes out in paperback."
+      },
+      {
+        "order": 10,
+        "es": "Los libros de tapa dura siempre salen primero.",
+        "en": "Hardback books always come out first."
+      }
+    ]
+  },
+  {
+    "id": 166,
+    "file_name": "Phrasal_verbs_166.mp3",
+    "phrasal_verb": "come out",
+    "base_verb": "come",
+    "particle": "out",
+    "meaning_es": "Salir, ser lanzado (película, producto, libro), hacerse público, ser publicado o revelado.",
+    "situation": "Entretenimiento y Medios",
+    "tags_es": [
+      "lanzamiento",
+      "película",
+      "producto",
+      "publicación",
+      "estreno",
+      "salir",
+      "trilogía",
+      "nostalgia"
+    ],
+    "intro_note": "Esta historia ilustra el phrasal verb 'come out' en varios contextos relacionados con el lanzamiento de películas y productos.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Nostalgia.",
+        "en": "Nostalgia."
+      },
+      {
+        "order": 2,
+        "es": "Hay una nueva película taquillera que sale este fin de semana.",
+        "en": "There's a new blockbuster movie coming out this weekend."
+      },
+      {
+        "order": 3,
+        "es": "Es la tercera parte de una trilogía, y Sara planea verla.",
+        "en": "It's the third part of a trilogy, and Sara is planning to see it."
+      },
+      {
+        "order": 4,
+        "es": "Cuando salió la primera parte, Sara tenía solo nueve años.",
+        "en": "When the first part came out, Sara was only nine years old."
+      },
+      {
+        "order": 5,
+        "es": "Cuando salió la segunda parte, se quedó despierta toda la noche para conseguir entradas.",
+        "en": "When the second part came out, she waited up all night to get tickets."
+      },
+      {
+        "order": 6,
+        "es": "Ahora que la tercera y última parte está a punto de salir, Sara ha notado que muchas compañías están lanzando productos promocionales basados en la trilogía.",
+        "en": "Now that the third and final part is about to come out, Sara has noticed a lot of companies coming out with promotional products based on the trilogy."
+      }
+    ]
+  },
+  {
+    "id": 167,
+    "file_name": "Phrasal_verbs_167.mp3",
+    "phrasal_verb": "to back out",
+    "base_verb": "back",
+    "particle": "out",
+    "meaning_es": "retirarse de un compromiso, acuerdo o situación",
+    "situation": "Negocios y Acuerdos",
+    "tags_es": [
+      "retirarse",
+      "cancelar",
+      "abandonar",
+      "desistir",
+      "incumplir",
+      "promesa",
+      "acuerdo",
+      "trato",
+      "contrato"
+    ],
+    "intro_note": "Este audio es un drill de la frase verbal 'to back out' (echarse atrás) con ejemplos en diferentes contextos.",
+    "type": "drill",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Echarse atrás.",
+        "en": "To back out."
+      },
+      {
+        "order": 2,
+        "es": "¿Van a echarse atrás con el trato?",
+        "en": "Are they going to back out of the deal?"
+      },
+      {
+        "order": 3,
+        "es": "No se echarán atrás si les ofrecemos más dinero.",
+        "en": "They won't back out if we offer them more money."
+      },
+      {
+        "order": 4,
+        "es": "No pueden echarse atrás ahora. Han firmado el contrato.",
+        "en": "They can't back out now. They've signed the contract."
+      },
+      {
+        "order": 5,
+        "es": "Se echó atrás en el último momento.",
+        "en": "He backed out at the last moment."
+      },
+      {
+        "order": 6,
+        "es": "Esperemos que nadie más se eche atrás.",
+        "en": "Let's hope no one else backs out."
+      },
+      {
+        "order": 7,
+        "es": "¿Cuántos más van a echarse atrás con el proyecto?",
+        "en": "How many others are going to back out of the project?"
+      },
+      {
+        "order": 8,
+        "es": "Ella se echó atrás con el acuerdo.",
+        "en": "She backed out of their agreement."
+      },
+      {
+        "order": 9,
+        "es": "No puedo creer que se echara atrás.",
+        "en": "I can't believe she backed out."
+      },
+      {
+        "order": 10,
+        "es": "Si los rusos se echan atrás, todos se echarán atrás.",
+        "en": "If the Russians back out, everyone will back out."
+      },
+      {
+        "order": 11,
+        "es": "Le sobornaron para que no se echara atrás.",
+        "en": "They bribed him so he wouldn't back out."
+      }
+    ]
+  },
+  {
+    "id": 168,
+    "file_name": "Phrasal_verbs_168.mp3",
+    "phrasal_verb": "back out",
+    "base_verb": "back",
+    "particle": "out",
+    "meaning_es": "Echarse atrás, retirarse de un acuerdo o compromiso.",
+    "situation": "Trabajo y Negocios",
+    "tags_es": [
+      "echarse atrás",
+      "retirarse",
+      "cancelar",
+      "arrepentirse",
+      "compromiso",
+      "proyecto",
+      "vender",
+      "negocio"
+    ],
+    "intro_note": "A short story illustrating the phrasal verb 'back out'.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Dudas de última hora.",
+        "en": "Second thoughts."
+      },
+      {
+        "order": 2,
+        "es": "Sarah estaba intentando vender su casa y pensó que había encontrado un comprador, pero se echaron atrás y dejaron a Sarah en la estacada.",
+        "en": "Sarah was trying to sell her house and thought she had found a buyer, but they backed out and left Sarah high and dry."
+      },
+      {
+        "order": 3,
+        "es": "Las cosas empeoraron en el trabajo cuando le dijeron a Sarah que varias figuras clave se habían retirado de su proyecto.",
+        "en": "Things got worse at work when Sarah was told several key figures had backed out of her project."
+      },
+      {
+        "order": 4,
+        "es": "Ella pensó que se habían echado atrás porque se habían arrepentido.",
+        "en": "She thought they had backed out because they had got cold feet."
+      },
+      {
+        "order": 5,
+        "es": "Sarah no podía permitirse que nadie más se echara atrás, así que convocó una reunión para hablar con las personas que no se habían retirado.",
+        "en": "Sarah couldn't afford anyone else to back out, so she called a meeting to talk to the people who hadn't backed out."
+      },
+      {
+        "order": 6,
+        "es": "Les dijo que si se echaban atrás ahora, se arrepentirían más tarde.",
+        "en": "She told them that if they backed out now, they would regret it later."
+      }
+    ]
+  },
+  {
+    "id": 169,
+    "file_name": "Phrasal_verbs_169.mp3",
+    "phrasal_verb": "drop out",
+    "base_verb": "drop",
+    "particle": "out",
+    "meaning_es": "Dejar o abandonar una actividad, una competición, los estudios, o un grupo.",
+    "situation": "Educación y Trabajo, Competición",
+    "tags_es": [
+      "abandonar",
+      "dejar",
+      "retirarse",
+      "renunciar",
+      "estudios",
+      "universidad",
+      "colegio",
+      "competición",
+      "carrera",
+      "elecciones",
+      "ejército",
+      "quitarse"
+    ],
+    "intro_note": "Práctica del phrasal verb 'drop out' en diferentes contextos, especialmente para dejar estudios o retirarse de competiciones.",
+    "type": "drill",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Dejar los estudios, abandonar.",
+        "en": "To drop out."
+      },
+      {
+        "order": 2,
+        "es": "Él dejó los estudios cuando cumplió 18 años.",
+        "en": "He dropped out of school on his 18th birthday."
+      },
+      {
+        "order": 3,
+        "es": "¿Por qué dejó los estudios?",
+        "en": "Why did he drop out?"
+      },
+      {
+        "order": 4,
+        "es": "Dejó los estudios para entrar en el ejército.",
+        "en": "He dropped out to join the army."
+      },
+      {
+        "order": 5,
+        "es": "La corredora abandonó cuando iba segunda.",
+        "en": "The runner dropped out in second position."
+      },
+      {
+        "order": 6,
+        "es": "Ella debe de haber abandonado por una lesión.",
+        "en": "She must have dropped out because of an injury."
+      },
+      {
+        "order": 7,
+        "es": "Si no hubiera abandonado, habría ganado.",
+        "en": "If she hadn't dropped out, she would have won."
+      },
+      {
+        "order": 8,
+        "es": "Smith se ha retirado de las elecciones.",
+        "en": "Smith has dropped out of the election race."
+      },
+      {
+        "order": 9,
+        "es": "Se ha retirado para salvar las apariencias.",
+        "en": "He dropped out to save face."
+      },
+      {
+        "order": 10,
+        "es": "Dejó los estudios de la universidad en el primer semestre.",
+        "en": "He dropped out of university during the first semester."
+      },
+      {
+        "order": 11,
+        "es": "¿Les ha dicho él a sus padres que ha dejado los estudios?",
+        "en": "Has he told his parents he dropped out?"
+      }
+    ]
+  },
+  {
+    "id": 170,
+    "file_name": "Phrasal_verbs_170.mp3",
+    "phrasal_verb": "drop out",
+    "base_verb": "drop",
+    "particle": "out",
+    "meaning_es": "Abandonar o retirarse de algo (como la escuela, una carrera, una competición, etc.)",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "abandonar",
+      "retirarse",
+      "dejar",
+      "educación",
+      "elecciones",
+      "política",
+      "escuela"
+    ],
+    "intro_note": "Una historia sobre las percepciones en torno a un candidato electoral y el phrasal verb 'drop out'.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Tienes mi voto.",
+        "en": "You've got my vote."
+      },
+      {
+        "order": 2,
+        "es": "Era tiempo de elecciones y cada mañana los periódicos estaban llenos de noticias electorales.",
+        "en": "It was election time and every morning the papers were filled with election news."
+      },
+      {
+        "order": 3,
+        "es": "Esta mañana, Sarah estaba leyendo sobre un candidato a quien la gente quería que se retirara de la elección.",
+        "en": "This morning, Sarah was reading about a candidate who people wanted to drop out of the election."
+      },
+      {
+        "order": 4,
+        "es": "Querían que se retirara porque abandonó la escuela cuando tenía 15 años para trabajar en la tienda de sus padres.",
+        "en": "They wanted him to drop out because he dropped out of school when he was 15 to work in his parents' store."
+      },
+      {
+        "order": 5,
+        "es": "Algunas personas querían que se retirara de la elección porque pensaban que no estaba lo suficientemente educado.",
+        "en": "Some people wanted him to drop out of the election because they thought he wasn't educated enough."
+      },
+      {
+        "order": 6,
+        "es": "Sarah, por otro lado, no quería que el candidato se retirara.",
+        "en": "Sarah, on the other hand, didn't want the candidate to drop out."
+      },
+      {
+        "order": 7,
+        "es": "Al contrario, ella iba a votar por él porque abandonar la escuela para ayudar a tu familia mostraba lealtad y una buena ética de trabajo.",
+        "en": "On the contrary, she was going to vote for him because dropping out of school to help your family showed loyalty and a good work ethic."
+      }
+    ]
+  },
+  {
+    "id": 171,
+    "file_name": "Phrasal_verbs_171.mp3",
+    "phrasal_verb": "pull out",
+    "base_verb": "pull",
+    "particle": "out",
+    "meaning_es": "retirarse, abandonar",
+    "situation": "Trabajo y Negocios",
+    "tags_es": [
+      "retirarse",
+      "abandonar",
+      "cancelar",
+      "renunciar",
+      "desistir",
+      "acuerdo",
+      "contrato",
+      "competición",
+      "elecciones",
+      "tropas",
+      "inversores"
+    ],
+    "intro_note": "Introduction to the phrasal verb 'to pull out', meaning 'retirarse, abandonar'.",
+    "type": "drill",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Están amenazando con abandonar el trato.",
+        "en": "They are threatening to pull out of the deal."
+      },
+      {
+        "order": 2,
+        "es": "El boxeador se retiró del combate.",
+        "en": "The boxer pulled out of the fight."
+      },
+      {
+        "order": 3,
+        "es": "El candidato se ha retirado de las elecciones.",
+        "en": "The candidate has pulled out of the election."
+      },
+      {
+        "order": 4,
+        "es": "Él no puede retirarse, firmó un contrato.",
+        "en": "He can't pull out, he signed a contract."
+      },
+      {
+        "order": 5,
+        "es": "El gobierno aceptó retirar las tropas.",
+        "en": "The government agreed to pull its troops out."
+      },
+      {
+        "order": 6,
+        "es": "La retirada fue bien acogida por otros países.",
+        "en": "The pull-out was welcomed by other countries."
+      },
+      {
+        "order": 7,
+        "es": "La empresa abandonó el acuerdo.",
+        "en": "The company pulled out of the agreement."
+      },
+      {
+        "order": 8,
+        "es": "Se retiraron en el último momento.",
+        "en": "They pulled out at the last minute."
+      },
+      {
+        "order": 9,
+        "es": "Francia iba a retirar a sus atletas de las Olimpiadas.",
+        "en": "France was going to pull its athletes out of the Olympics."
+      },
+      {
+        "order": 10,
+        "es": "Todos los inversores se han retirado.",
+        "en": "All the investors have pulled out."
+      }
+    ]
+  },
+  {
+    "id": 172,
+    "file_name": "Phrasal_verbs_172.mp3",
+    "phrasal_verb": "pull out",
+    "base_verb": "pull",
+    "particle": "out",
+    "meaning_es": "Retirarse, salir de una situación, evento o compromiso; retirar algo o a alguien de un lugar o situación. También significa sacar o extraer.",
+    "situation": "Política y Eventos",
+    "tags_es": [
+      "retirar",
+      "retirarse",
+      "elecciones",
+      "guerra",
+      "salir",
+      "abandonar",
+      "contienda",
+      "política",
+      "extraer"
+    ],
+    "intro_note": "This story illustrates the use of the phrasal verb 'pull out' in the context of elections and war, meaning to withdraw or remove.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Se acercaban unas elecciones generales, y uno de los principales candidatos acababa de retirarse de la contienda.",
+        "en": "There was a general election coming up, and one of the main candidates had just pulled out of the race."
+      },
+      {
+        "order": 2,
+        "es": "Nadie estaba seguro si fue su decisión retirarse, o si su partido lo había retirado.",
+        "en": "No one was sure if it was his decision to pull out, or if his party had pulled him out."
+      },
+      {
+        "order": 3,
+        "es": "El candidato había estado en contra de retirar las tropas de la guerra, pero muchos de los votantes apoyaban una retirada.",
+        "en": "The candidate had been against pulling troops out of the war, but many of the voters supported a pull out."
+      },
+      {
+        "order": 4,
+        "es": "Sarah estaba segura de que si el candidato hubiera estado a favor de retirar las tropas de la guerra, no habría tenido que retirarse de la contienda electoral.",
+        "en": "Sarah was sure that if the candidate had been in favor of pulling troops out of the war, he wouldn't have had to pull out of the election race."
+      },
+      {
+        "order": 5,
+        "es": "Por supuesto, el principal candidato de la oposición había estado a favor de retirar las tropas desde que comenzó la guerra.",
+        "en": "Of course, the main opposition candidate had been in favor of pulling troops out since the war began."
+      }
+    ]
+  },
+  {
+    "id": 173,
+    "file_name": "Phrasal_verbs_173.mp3",
+    "phrasal_verb": "count out",
+    "base_verb": "count",
+    "particle": "out",
+    "meaning_es": "excluir, no contar con, descartar",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "excluir",
+      "descartar",
+      "no contar con",
+      "rechazar",
+      "eliminar"
+    ],
+    "intro_note": "Este audio practica el phrasal verb 'count out' en el sentido de excluir o no contar con alguien/algo.",
+    "type": "drill",
+    "drills": [
+      {
+        "order": 1,
+        "es": "No cuentes con él para la fiesta.",
+        "en": "Count him out for the party."
+      },
+      {
+        "order": 2,
+        "es": "Si él no viene, no cuentes conmigo tampoco.",
+        "en": "If he's not coming, count me out too."
+      },
+      {
+        "order": 3,
+        "es": "Nunca excluyas al desvalido.",
+        "en": "Never count out the underdog."
+      },
+      {
+        "order": 4,
+        "es": "Si yo fuera tú, no contaría con ellos.",
+        "en": "If I were you, I'd count them out."
+      },
+      {
+        "order": 5,
+        "es": "No cuentes conmigo, estoy arruinado.",
+        "en": "Count me out, I'm broke."
+      },
+      {
+        "order": 6,
+        "es": "Creo que es seguro excluirlos a estas alturas.",
+        "en": "I think it's safe to count them out at this stage."
+      },
+      {
+        "order": 7,
+        "es": "No descartaremos esa posibilidad hasta el final.",
+        "en": "We won't count that possibility out until the end."
+      },
+      {
+        "order": 8,
+        "es": "¿Por qué no contaste con ella?",
+        "en": "Why did you count her out?"
+      },
+      {
+        "order": 9,
+        "es": "¿Crees que no deberías haber contado con ella?",
+        "en": "Do you think you should have counted her out?"
+      },
+      {
+        "order": 10,
+        "es": "Si ese es tu plan, no cuentes conmigo.",
+        "en": "If that's your plan, you can count me out."
+      }
+    ]
+  },
+  {
+    "id": 174,
+    "file_name": "Phrasal_verbs_174.mp3",
+    "phrasal_verb": "count out / count in",
+    "base_verb": "count",
+    "particle": "out / in",
+    "meaning_es": "Contar a alguien fuera (excluir) o dentro (incluir) de un grupo o actividad.",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "incluir",
+      "excluir",
+      "participar",
+      "unirse",
+      "descartar",
+      "aceptar",
+      "rechazar",
+      "actividad",
+      "maratón",
+      "planes"
+    ],
+    "intro_note": "This story illustrates the use of 'count out' to exclude someone from an activity, and 'count in' to include someone.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Sarah decidió correr un maratón, pero descartó la posibilidad de correrlo sola.",
+        "en": "Sarah decided to run a marathon but counted out the possibility of running it alone."
+      },
+      {
+        "order": 2,
+        "es": "Cuando le preguntó a María, ella dijo: 'No cuentes conmigo. Odio correr'.",
+        "en": "When she asked Maria, she said, 'Count me out. I hate running.'"
+      },
+      {
+        "order": 3,
+        "es": "Y cuando le preguntó a Kyle, él dijo: 'No cuentes conmigo. Tengo las rodillas mal'.",
+        "en": "And when she asked Kyle, he said, 'Count me out. I have bad knees.'"
+      },
+      {
+        "order": 4,
+        "es": "Luego les preguntó a todos en el trabajo y todos le dijeron que los descartara.",
+        "en": "Then she asked everyone at work and they all told her to count them out."
+      },
+      {
+        "order": 5,
+        "es": "Así que le preguntó a todos en su familia, y todos dijeron que los excluyera esta vez, pero quizás la próxima.",
+        "en": "So she asked everybody in her family, and they all said to count them out this time, but maybe next time."
+      },
+      {
+        "order": 6,
+        "es": "Sarah inicialmente había descartado preguntarle a su primo, Sam, porque no lo había visto en años.",
+        "en": "Sarah had initially counted out asking her cousin, Sam, because she hadn't seen him for ages."
+      },
+      {
+        "order": 7,
+        "es": "Pero estaba desesperada, así que le preguntó.",
+        "en": "But she was desperate, so she asked him."
+      },
+      {
+        "order": 8,
+        "es": "Para su sorpresa, él dijo: 'Cuenta conmigo'.",
+        "en": "To her surprise, he said, 'Count me in.'"
+      }
+    ]
+  },
+  {
+    "id": 175,
+    "file_name": "Phrasal_verbs_175.mp3",
+    "phrasal_verb": "rule out",
+    "base_verb": "rule",
+    "particle": "out",
+    "meaning_es": "Descartar, excluir, eliminar una posibilidad, una opción, o una persona.",
+    "situation": "Toma de Decisiones",
+    "tags_es": [
+      "descartar",
+      "excluir",
+      "eliminar",
+      "posibilidad",
+      "opción",
+      "hipótesis",
+      "sospechoso",
+      "teoría"
+    ],
+    "intro_note": "El phrasal verb 'to rule out' significa descartar, excluir o eliminar algo o a alguien de una consideración o posibilidad.",
+    "type": "drill",
+    "drills": [
+      {
+        "order": 1,
+        "es": "To rule out. Descartar, excluir.",
+        "en": "To rule out."
+      },
+      {
+        "order": 2,
+        "es": "Creo que podemos descartar esa posibilidad ahora.",
+        "en": "I think we can rule that possibility out now."
+      },
+      {
+        "order": 3,
+        "es": "¿Qué te hace pensar que podemos descartarla?",
+        "en": "What makes you think we can rule it out?"
+      },
+      {
+        "order": 4,
+        "es": "Las pruebas la descartan.",
+        "en": "The tests rule it out."
+      },
+      {
+        "order": 5,
+        "es": "La policía le descartó como sospechoso.",
+        "en": "The police ruled him out as a suspect."
+      },
+      {
+        "order": 6,
+        "es": "No lo descartaría para un futuro.",
+        "en": "I wouldn't rule it out for the future."
+      },
+      {
+        "order": 7,
+        "es": "¿Por qué descartaste esa idea?",
+        "en": "Why did you rule out that idea?"
+      },
+      {
+        "order": 8,
+        "es": "Han descartado esa hipótesis.",
+        "en": "They have ruled out that hypothesis."
+      },
+      {
+        "order": 9,
+        "es": "Los científicos descartaron varias teorías.",
+        "en": "Scientists ruled several theories out."
+      },
+      {
+        "order": 10,
+        "es": "No han descartado la posibilidad de vida en Marte.",
+        "en": "They haven't ruled out the possibility of life on Mars."
+      },
+      {
+        "order": 11,
+        "es": "No la excluyas tan rápido. Ella es lista.",
+        "en": "Don't be so quick to rule her out. She's clever."
+      }
+    ]
+  },
+  {
+    "id": 176,
+    "file_name": "Phrasal_verbs_176.mp3",
+    "phrasal_verb": "rule out",
+    "base_verb": "rule",
+    "particle": "out",
+    "meaning_es": "Descartar, excluir una posibilidad o una opción.",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "descartar",
+      "excluir",
+      "eliminar opciones",
+      "planificar",
+      "decisiones",
+      "vacaciones"
+    ],
+    "intro_note": "Una historia sobre Sarah planeando sus vacaciones de verano y cómo descarta diferentes opciones.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Fuera de cuestión.",
+        "en": "Out of the question."
+      },
+      {
+        "order": 2,
+        "es": "Sarah estaba planeando sus vacaciones de verano, pero tenía demasiadas opciones y necesitaba descartar algunas.",
+        "en": "Sarah was planning her summer holiday, but she had too many options and needed to rule some of them out."
+      },
+      {
+        "order": 3,
+        "es": "La primera idea que descartó fue un safari porque era demasiado caro.",
+        "en": "The first idea she ruled out was a safari holiday because it was too expensive."
+      },
+      {
+        "order": 4,
+        "es": "También descartó un viaje a Florida porque le daban miedo los huracanes.",
+        "en": "She also ruled out a trip to Florida because she was scared of hurricanes."
+      },
+      {
+        "order": 5,
+        "es": "No estaba segura de por qué descartó la India, pero tenía la sensación de que tampoco quería ir allí.",
+        "en": "She wasn't sure why she ruled out India, but she had a feeling that she didn't want to go there either."
+      },
+      {
+        "order": 6,
+        "es": "De hecho, Sarah descartó tantos lugares que al final, el único lugar que no había descartado era Escocia, así que allí fue.",
+        "en": "In fact, Sarah ruled out so many places that in the end, the only place she hadn't ruled out was Scotland, so that's where she went."
+      }
+    ]
+  },
+  {
+    "id": 177,
+    "file_name": "Phrasal_verbs_177.mp3",
+    "phrasal_verb": "kick out",
+    "base_verb": "kick",
+    "particle": "out",
+    "meaning_es": "Expulsar, echar (a patadas). Se usa para indicar que alguien es obligado a salir de un lugar de forma abrupta o por la fuerza, o por una transgresión de reglas.",
+    "situation": "Conflicto y Disciplina",
+    "tags_es": [
+      "expulsar",
+      "echar",
+      "sacar",
+      "desalojar",
+      "despedir"
+    ],
+    "intro_note": "Este ejercicio se centra en el phrasal verb 'kick out', que significa expulsar o echar a alguien de un lugar, a menudo de forma abrupta o por la fuerza.",
+    "type": "drill",
+    "drills": [
+      {
+        "order": 1,
+        "es": "¿Por qué lo echaron del bar?",
+        "en": "Why did they kick him out of the bar?"
+      },
+      {
+        "order": 2,
+        "es": "Lo echaron a patadas por estar borracho.",
+        "en": "He was kicked out for being drunk."
+      },
+      {
+        "order": 3,
+        "es": "Echaron a los periodistas del país.",
+        "en": "The journalists were kicked out of the country."
+      },
+      {
+        "order": 4,
+        "es": "Lo echaron a patadas del club.",
+        "en": "They kicked him out of the club."
+      },
+      {
+        "order": 5,
+        "es": "Su madre la echó a patadas de casa.",
+        "en": "Her mother kicked her out of the house."
+      },
+      {
+        "order": 6,
+        "es": "A quien pillen fumando lo echarán.",
+        "en": "Anyone caught smoking will be kicked out."
+      },
+      {
+        "order": 7,
+        "es": "Si lo hace otra vez, tendremos que echarlo.",
+        "en": "If he does it again, we'll have to kick him out."
+      },
+      {
+        "order": 8,
+        "es": "Lo echaron a patadas por no llevar zapatos.",
+        "en": "He was kicked out for not wearing shoes."
+      },
+      {
+        "order": 9,
+        "es": "¿Quién lo echó?",
+        "en": "Who kicked him out?"
+      },
+      {
+        "order": 10,
+        "es": "¿Por qué no lo han echado todavía?",
+        "en": "Why hasn't she been kicked out yet?"
+      }
+    ]
+  },
+  {
+    "id": 178,
+    "file_name": "Phrasal_verbs_178.mp3",
+    "phrasal_verb": "kick out",
+    "base_verb": "kick",
+    "particle": "out",
+    "meaning_es": "Expulsar a alguien de un lugar (escuela, casa, grupo, etc.)",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "expulsar",
+      "echar",
+      "sacar",
+      "disciplina",
+      "escuela",
+      "hogar",
+      "problemas"
+    ],
+    "intro_note": "Una historia sobre un chico que es constantemente expulsado de las escuelas, ilustrando el uso de 'kick out'.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Un chico travieso.",
+        "en": "A mischievous boy."
+      },
+      {
+        "order": 2,
+        "es": "Matt, el sobrino de Sarah, ha sido expulsado de más escuelas de las que cualquiera puede contar.",
+        "en": "Sarah's nephew Matt has been kicked out of more schools than anyone can count."
+      },
+      {
+        "order": 3,
+        "es": "Él no es un niño malo, es solo que siempre parece estar en el lugar equivocado en el momento equivocado.",
+        "en": "He's not a bad kid, it's just that he always seems to be in the wrong place at the wrong time."
+      },
+      {
+        "order": 4,
+        "es": "La primera vez que lo expulsaron de una escuela fue cuando tenía 12 años, y su maestro lo atrapó a él y a otros chicos con algo de alcohol.",
+        "en": "The first time he was kicked out of a school was when he was 12 years old, and his teacher caught him and some other boys with some alcohol."
+      },
+      {
+        "order": 5,
+        "es": "Matt fue el único expulsado porque asumió la culpa.",
+        "en": "Matt was the only one kicked out because he took the blame for it."
+      },
+      {
+        "order": 6,
+        "es": "Lo expulsaron de su siguiente escuela porque alguien dijo que lo vio fumando en los baños de los chicos.",
+        "en": "He was kicked out of his next school because someone said they saw him smoking in the boys' toilets."
+      },
+      {
+        "order": 7,
+        "es": "Matt ha sido expulsado de tantas escuelas que sus padres están pensando en echarlo de la casa.",
+        "en": "Matt has been kicked out of so many schools that his parents are thinking about kicking him out of the house."
+      }
+    ]
+  },
+  {
+    "id": 179,
+    "file_name": "Phrasal_verbs_179.mp3",
+    "phrasal_verb": "drive out",
+    "base_verb": "drive",
+    "particle": "out",
+    "meaning_es": "Expulsar, echar, deshacerse de, forzar la salida de alguien o algo de un lugar o situación.",
+    "situation": "Conflictos y Desplazamiento",
+    "tags_es": [
+      "expulsar",
+      "echar",
+      "deshacerse de",
+      "obligar a irse",
+      "sacar",
+      "desalojar",
+      "eliminar",
+      "competencia",
+      "guerra",
+      "demonio"
+    ],
+    "intro_note": "Aprende a usar 'drive out' para expresar la acción de expulsar o forzar la salida de algo o alguien.",
+    "type": "drill",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Las grandes tiendas están haciendo que cierren las pequeñas.",
+        "en": "The big stores are driving out the smaller ones."
+      },
+      {
+        "order": 2,
+        "es": "Recortan los precios para deshacerse de la competencia.",
+        "en": "They cut their prices to drive out the competition."
+      },
+      {
+        "order": 3,
+        "es": "Los soldados fueron expulsados por la caballería.",
+        "en": "The soldiers were driven out by the cavalry."
+      },
+      {
+        "order": 4,
+        "es": "La guerra forzó la huida de mucha gente de la región.",
+        "en": "The war drove many people out of the region."
+      },
+      {
+        "order": 5,
+        "es": "Necesitaron un cura para expulsar a los demonios.",
+        "en": "They needed a priest to drive out the demons."
+      },
+      {
+        "order": 6,
+        "es": "El olor los echó de su casa.",
+        "en": "The smell drove them out of their house."
+      },
+      {
+        "order": 7,
+        "es": "Él fue expulsado de la ciudad y nunca volvió.",
+        "en": "He was driven out of town and never returned."
+      },
+      {
+        "order": 8,
+        "es": "La policía expulsó a los manifestantes del tribunal.",
+        "en": "Police drove the protesters out of the courthouse."
+      },
+      {
+        "order": 9,
+        "es": "Napoleón fue expulsado de España en 1814.",
+        "en": "Napoleon was driven out of Spain in 1814."
+      },
+      {
+        "order": 10,
+        "es": "El flautista de Hamelin echó a las ratas.",
+        "en": "The Pied Piper of Hamelin drove the rats out."
+      }
+    ]
+  },
+  {
+    "id": 180,
+    "file_name": "Phrasal_verbs_180.mp3",
+    "phrasal_verb": "drive out",
+    "base_verb": "drive",
+    "particle": "out",
+    "meaning_es": "Expulsar, ahuyentar, forzar a alguien a irse.",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "expulsar",
+      "ahuyentar",
+      "desalojar",
+      "fábrica",
+      "vecinos",
+      "ruido",
+      "polvo",
+      "olor"
+    ],
+    "intro_note": "Este es un pasaje narrativo que ilustra el uso del phrasal verb 'drive out' en varios contextos.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "La nueva fábrica de cemento ha expulsado a la mayoría de los vecinos de Sarah.",
+        "en": "The new cement factory has driven most of Sarah's neighbors out."
+      },
+      {
+        "order": 2,
+        "es": "Los Petersons fueron expulsados por el olor.",
+        "en": "The Petersons were driven out by the smell."
+      },
+      {
+        "order": 3,
+        "es": "Los Broons fueron expulsados por el polvo.",
+        "en": "The Broons were driven out by the dust."
+      },
+      {
+        "order": 4,
+        "es": "Los Whittles fueron expulsados por el ruido de los camiones.",
+        "en": "The Whittles were driven out by the noise of the lorries."
+      },
+      {
+        "order": 5,
+        "es": "Los Escarrias fueron expulsados porque la fábrica estropeaba su vista de las montañas.",
+        "en": "The Escarrias were driven out because the factory spoiled their view of the mountains."
+      },
+      {
+        "order": 6,
+        "es": "Y los Palomeis fueron expulsados por la cantidad de tráfico que pasaba por su casa todos los días.",
+        "en": "And the Palomeis were driven out because of the amount of traffic driving past their house every day."
+      },
+      {
+        "order": 7,
+        "es": "Sarah estaba segura de que el ruido nunca la expulsaría de su casa.",
+        "en": "Sarah was sure the noise would never drive her out of her house."
+      },
+      {
+        "order": 8,
+        "es": "Estaba segura de que el polvo tampoco la expulsaría a ella.",
+        "en": "She was sure that the dust wouldn't drive her out either."
+      },
+      {
+        "order": 9,
+        "es": "El ruido de los camiones podría ser suficiente para expulsar a los Whittles, pero nunca la expulsaría a ella.",
+        "en": "The noise of the lorries might be enough to drive the Whittles out, but it would never drive her out."
+      },
+      {
+        "order": 10,
+        "es": "La fábrica de cemento no expulsaría a Sarah de su casa, porque acababa de ser nombrada Gerente de Recursos Humanos de la fábrica de cemento.",
+        "en": "The cement factory wouldn't drive Sarah out of her house because she had just been named Human Resources Manager of the cement factory."
+      }
+    ]
+  },
+  {
+    "id": 181,
+    "file_name": "Phrasal_verbs_181.mp3",
+    "phrasal_verb": "iron out",
+    "base_verb": "iron",
+    "particle": "out",
+    "meaning_es": "resolver",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "resolver",
+      "solucionar",
+      "aclarar",
+      "superar",
+      "diferencias",
+      "problemas",
+      "dificultades"
+    ],
+    "intro_note": "To iron out: resolver, solucionar problemas o diferencias.",
+    "type": "drill",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Deberíais intentar resolver vuestras diferencias.",
+        "en": "You should try to iron out your differences."
+      },
+      {
+        "order": 2,
+        "es": "Resolvieron los puntos de desencuentro.",
+        "en": "They ironed out the points of contention."
+      },
+      {
+        "order": 3,
+        "es": "¿Cuánto tiempo les llevó resolverlos?",
+        "en": "How long did it take them to iron them out?"
+      },
+      {
+        "order": 4,
+        "es": "Resuelve los problemas antes de la fecha límite.",
+        "en": "Iron out the problems before the deadline."
+      },
+      {
+        "order": 5,
+        "es": "Había demasiados temas que resolver.",
+        "en": "There were too many issues to iron out."
+      },
+      {
+        "order": 6,
+        "es": "Antes, habrá algunos asuntos que resolver.",
+        "en": "There will be a few issues to iron out beforehand."
+      },
+      {
+        "order": 7,
+        "es": "Un bufete de abogados resolvió el problema.",
+        "en": "A law firm ironed out the problem."
+      },
+      {
+        "order": 8,
+        "es": "Esperemos que todo esté resuelto antes del viernes.",
+        "en": "Let's hope everything is ironed out before Friday."
+      },
+      {
+        "order": 9,
+        "es": "Se eliminaron todos los fallos del servidor.",
+        "en": "All the glitches in the server were ironed out."
+      },
+      {
+        "order": 10,
+        "es": "Les llevó toda la noche eliminarlos.",
+        "en": "It took them all night to iron them out."
+      }
+    ]
+  },
+  {
+    "id": 182,
+    "file_name": "Phrasal_verbs_182.mp3",
+    "phrasal_verb": "iron out",
+    "base_verb": "iron",
+    "particle": "out",
+    "meaning_es": "Solucionar, resolver, o limar (diferencias, problemas, disputas) para llegar a un acuerdo o eliminar obstáculos. A veces también implica planchar literalmente, como se juega en la historia.",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "resolver",
+      "solucionar",
+      "limar diferencias",
+      "disputas",
+      "problemas",
+      "acuerdo",
+      "superar obstáculos",
+      "divorcio",
+      "matrimonio"
+    ],
+    "intro_note": "Una historia sobre Sarah y sus amigos que se están divorciando, utilizando el phrasal verb 'iron out' tanto en su sentido figurado como en un juego de palabras literal.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Voluntad de hierro.",
+        "en": "Iron Will."
+      },
+      {
+        "order": 2,
+        "es": "Dos de los amigos de Sarah se estaban divorciando.",
+        "en": "Two of Sarah's friends were getting divorced."
+      },
+      {
+        "order": 3,
+        "es": "Habían estado tratando de limar sus diferencias durante unos años, pero eran demasiadas para resolver, y al final, fue más fácil separarse.",
+        "en": "They had been trying to iron out their differences for a few years, but there were too many to iron out, and in the end, it was easier to separate."
+      },
+      {
+        "order": 4,
+        "es": "Sarah había intentado ayudarlos a solucionar sus problemas, pero fue en vano.",
+        "en": "Sarah had tried to help them to iron out their problems, but it was in vain."
+      },
+      {
+        "order": 5,
+        "es": "Ahora, ni siquiera se hablaban, lo cual era un problema ya que había muchos detalles del divorcio que resolver.",
+        "en": "Now, they weren't even talking to each other, which was a problem since there were a lot of divorce details to iron out."
+      },
+      {
+        "order": 6,
+        "es": "Ambos tuvieron que contratar abogados para redactar los papeles y solucionar algunas disputas sobre pertenencias, como la plancha y la tabla de planchar.",
+        "en": "Both of them had to get lawyers in order to drop up the papers and iron out a few disputes over belongings, such as the iron and the ironing board."
+      }
+    ]
+  },
+  {
+    "id": 183,
+    "file_name": "Phrasal_verbs_183.mp3",
+    "phrasal_verb": "sort out",
+    "base_verb": "sort",
+    "particle": "out",
+    "meaning_es": "solucionar, arreglar, poner en orden, finalizar",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "solucionar",
+      "arreglar",
+      "resolver",
+      "organizar",
+      "poner en orden",
+      "finalizar",
+      "problemas",
+      "asuntos",
+      "gestionar"
+    ],
+    "intro_note": "The phrasal verb 'sort out' is used to talk about resolving problems, organizing things, or arranging details. It can mean to resolve a conflict, tidy up, arrange something, or understand something.",
+    "type": "drill",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Todavía hay un montón de detalles que finalizar.",
+        "en": "There are still a lot of details to sort out."
+      },
+      {
+        "order": 2,
+        "es": "Él tiene que solucionar sus propios líos.",
+        "en": "He has to sort out his own mess."
+      },
+      {
+        "order": 3,
+        "es": "No podéis vosotros dos solucionar vuestros problemas.",
+        "en": "Can't you two sort your own problems out?"
+      },
+      {
+        "order": 4,
+        "es": "¿Quién va a solucionarlo?",
+        "en": "Who's going to sort it out?"
+      },
+      {
+        "order": 5,
+        "es": "Necesito a gente que pueda solucionar sus propios problemas.",
+        "en": "I need people who can sort out their own problems."
+      },
+      {
+        "order": 6,
+        "es": "Tramitar el visado para aquel país fue una pesadilla.",
+        "en": "Sorting out the visa for that country was a nightmare."
+      },
+      {
+        "order": 7,
+        "es": "Vamos, Jones, pon en orden tu vida.",
+        "en": "Come on, Jones, sort your life out."
+      },
+      {
+        "order": 8,
+        "es": "Su abogado arregló todo el papeleo.",
+        "en": "His lawyer sorted out all the paperwork."
+      },
+      {
+        "order": 9,
+        "es": "Habrá una guerra si el conflicto no se soluciona.",
+        "en": "There will be a war if the dispute isn't sorted out."
+      },
+      {
+        "order": 10,
+        "es": "Él puso en orden sus finanzas antes de morir.",
+        "en": "He sorted his finances out before he died."
+      }
+    ]
+  },
+  {
+    "id": 184,
+    "file_name": "Phrasal_verbs_184.mp3",
+    "phrasal_verb": "Story: A vicious circle (sort out)",
+    "base_verb": null,
+    "particle": null,
+    "meaning_es": "Una historia que ilustra el uso repetido del phrasal verb 'sort out' (resolver, solucionar) en un contexto de un problema recurrente y frustrante.",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "sort out",
+      "resolver",
+      "solucionar",
+      "problemas",
+      "círculo vicioso",
+      "ayuntamiento",
+      "tráfico",
+      "semáforos",
+      "cables de energía",
+      "obras viales"
+    ],
+    "intro_note": "Este audio presenta una historia corta que utiliza el phrasal verb 'sort out' para describir una serie de problemas interconectados que impiden la resolución de una situación, creando un 'círculo vicioso'.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Un círculo vicioso.",
+        "en": "A vicious circle."
+      },
+      {
+        "order": 2,
+        "es": "El ayuntamiento había prometido solucionar el problema del tráfico, pero eso fue hace un año y todavía no lo habían resuelto.",
+        "en": "The town council had promised to sort out the traffic problem, but that was a year ago, and they still hadn't sorted it out."
+      },
+      {
+        "order": 3,
+        "es": "Dijeron que no podían solucionar el problema del tráfico hasta que resolvieran el problema con los semáforos.",
+        "en": "They said they couldn't sort out the traffic problem until they sorted out the problem with the traffic lights."
+      },
+      {
+        "order": 4,
+        "es": "Y no podían solucionar el problema con los semáforos hasta que resolvieran el asunto de los nuevos cables de energía.",
+        "en": "And they couldn't sort out the problem with the traffic lights until they sorted out the issue with the new power cables."
+      },
+      {
+        "order": 5,
+        "es": "Genial, pensó Sarah.",
+        "en": "Great, thought Sarah."
+      },
+      {
+        "order": 6,
+        "es": "Todo lo que tienen que hacer es resolver el asunto de los nuevos cables de energía y podrán solucionar el resto de los problemas.",
+        "en": "All they have to do is sort out the issue with the new power cables and they can sort out the rest of the problems."
+      },
+      {
+        "order": 7,
+        "es": "Es fácil.",
+        "en": "It's easy."
+      },
+      {
+        "order": 8,
+        "es": "Desafortunadamente, el ayuntamiento no pudo solucionar el problema de los nuevos cables de energía porque había demasiado tráfico para comenzar cualquier obra vial.",
+        "en": "Unfortunately, the council couldn't sort out the issue of the new power cables because there was too much traffic to start any roadworks."
+      }
+    ]
+  },
+  {
+    "id": 185,
+    "file_name": "Phrasal_verbs_185.mp3",
+    "phrasal_verb": "figure out",
+    "base_verb": "figure",
+    "particle": "out",
+    "meaning_es": "averiguar, descifrar, resolver, explicarse, entender",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "averiguar",
+      "descifrar",
+      "resolver",
+      "entender",
+      "comprender",
+      "descubrir",
+      "soluciones"
+    ],
+    "intro_note": "This drill focuses on the phrasal verb 'to figure out', meaning to understand, solve, or discover something.",
+    "type": "drill",
+    "drills": [
+      {
+        "order": 1,
+        "es": "No puedo resolver este problema.",
+        "en": "I can't figure this problem out."
+      },
+      {
+        "order": 2,
+        "es": "Pídele a Smith que te ayude a resolverlo.",
+        "en": "Ask Smith to help you figure it out."
+      },
+      {
+        "order": 3,
+        "es": "¿Has averiguado por qué no arranca tu coche?",
+        "en": "Have you figured out why your car doesn't start?"
+      },
+      {
+        "order": 4,
+        "es": "Nadie podría averiguar eso.",
+        "en": "Nobody could figure that out."
+      },
+      {
+        "order": 5,
+        "es": "¿Averiguaste qué le pasaba al servidor?",
+        "en": "Did you figure out what was wrong with the server?"
+      },
+      {
+        "order": 6,
+        "es": "¿Cómo lo averiguaste?",
+        "en": "How did you figure it out?"
+      },
+      {
+        "order": 7,
+        "es": "No hace falta que seas científico para descifrarlo.",
+        "en": "You don't need to be a scientist to figure it out."
+      },
+      {
+        "order": 8,
+        "es": "Nadie se explicaba cómo pudo escapar de la cárcel.",
+        "en": "No one could figure out how he escaped from prison."
+      },
+      {
+        "order": 9,
+        "es": "Necesitamos averiguar cómo pasó.",
+        "en": "We need to figure out how it happened."
+      },
+      {
+        "order": 10,
+        "es": "Llevo muchísimo tiempo intentando averiguarlo.",
+        "en": "I've been trying to figure it out for ages."
+      }
+    ]
+  },
+  {
+    "id": 186,
+    "file_name": "Phrasal_verbs_186.mp3",
+    "phrasal_verb": "Story: Rubik's Cube",
+    "base_verb": null,
+    "particle": null,
+    "meaning_es": "Una historia sobre Sarah intentando resolver un Cubo de Rubik viejo que encontró, usando y explicando varios 'phrasal verbs' como 'looking through', 'figured out' y 'gave up' en contexto.",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "pasatiempos",
+      "recuerdos",
+      "resolver problemas",
+      "desistir",
+      "intentar"
+    ],
+    "intro_note": "Una historia sobre Sarah intentando resolver un Cubo de Rubik viejo.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Sarah estaba buscando entre unas cajas en su ático y encontró su viejo Cubo de Rubik.",
+        "en": "Sarah was looking through some boxes in her attic and found her old Rubik's Cube."
+      },
+      {
+        "order": 2,
+        "es": "Recordó que una vez había descubierto cómo resolverlo, pero ahora no podía descifrar cómo hacerlo de nuevo.",
+        "en": "She remembered that she had figured out how to solve it once, but now, she couldn't figure out how to do it again."
+      },
+      {
+        "order": 3,
+        "es": "Lo mejor que pudo hacer fue averiguar cómo poner todos los cuadrados amarillos en un lado, pero no pudo descifrar cómo seguir desde ahí.",
+        "en": "The best she could do was to figure out how to get all the yellow squares on one side, but she couldn't figure out where to go from there."
+      },
+      {
+        "order": 4,
+        "es": "Sabía que había un truco para descifrar el cubo, pero tampoco pudo averiguar cuál era.",
+        "en": "She knew there was a trick to figuring out the cube, but she couldn't figure out what that was either."
+      },
+      {
+        "order": 5,
+        "es": "Sarah pasó casi una hora en su ático intentando resolverlo, pero finalmente, se dio por vencida.",
+        "en": "Sarah spent almost an hour in her attic trying to figure it out, but eventually, gave up."
+      }
+    ]
+  },
+  {
+    "id": 187,
+    "file_name": "Phrasal_verbs_187.mp3",
+    "phrasal_verb": "to pull out",
+    "base_verb": "pull",
+    "particle": "out",
+    "meaning_es": "Sacar, retirar",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "sacar",
+      "retirar",
+      "extraer",
+      "quitar",
+      "mostrar",
+      "liberar"
+    ],
+    "intro_note": "Este audio es un ejercicio de traducción bilingüe (español a inglés) para practicar el phrasal verb 'to pull out', que significa sacar o retirar en español, en diversos contextos.",
+    "type": "drill",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Él sacó una pistola y empezó a disparar.",
+        "en": "He pulled out a gun and started shooting."
+      },
+      {
+        "order": 2,
+        "es": "Él sacó un sobre de su bolsillo.",
+        "en": "He pulled an envelope out of his pocket."
+      },
+      {
+        "order": 3,
+        "es": "Ella se sacó una astilla con unas pinzas.",
+        "en": "She pulled out a splinter with some tweezers."
+      },
+      {
+        "order": 4,
+        "es": "El bombero sacó a un chico de un pozo.",
+        "en": "The fireman pulled a little boy out of a well."
+      },
+      {
+        "order": 5,
+        "es": "La niña se sacó un diente para el Ratoncito Pérez.",
+        "en": "The little girl pulled her tooth out for the tooth fairy."
+      },
+      {
+        "order": 6,
+        "es": "Los médicos sacaron algo de metralla de su pierna.",
+        "en": "Doctors pulled out some shrapnel from his leg."
+      },
+      {
+        "order": 7,
+        "es": "Él se sacó un as de la manga para poder ganar.",
+        "en": "He pulled an ace out of his sleeve so he could win."
+      },
+      {
+        "order": 8,
+        "es": "No puedo sacar el corcho, está atascado.",
+        "en": "I can't pull the cork out, it's stuck."
+      },
+      {
+        "order": 9,
+        "es": "Él sacó su teléfono nuevo para presumir de él.",
+        "en": "He pulled out his new phone to show it off."
+      },
+      {
+        "order": 10,
+        "es": "¿Le viste sacar un conejo del sombrero?",
+        "en": "Did you see him pull a rabbit out of the hat?"
+      }
+    ]
+  },
+  {
+    "id": 188,
+    "file_name": "Phrasal_verbs_188.mp3",
+    "phrasal_verb": "pull out",
+    "base_verb": "pull",
+    "particle": "out",
+    "meaning_es": "Sacar, extraer (generalmente de un bolsillo, bolsa, o un lugar oculto; también metafóricamente, como sacar un truco o una solución)",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "sacar",
+      "extraer",
+      "quitar",
+      "cita",
+      "teléfono",
+      "tarjeta de crédito",
+      "dificultad",
+      "sorpresa"
+    ],
+    "intro_note": "Una historia sobre una cita desastrosa, que ilustra el uso del phrasal verb 'pull out' en varios contextos cotidianos.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Estás fuera.",
+        "en": "You're out."
+      },
+      {
+        "order": 2,
+        "es": "Sarah estaba en una cita con un compañero de trabajo.",
+        "en": "Sarah was on a date with a guy from work."
+      },
+      {
+        "order": 3,
+        "es": "Era la primera vez que salían juntos.",
+        "en": "It was the first time they had gone out together."
+      },
+      {
+        "order": 4,
+        "es": "Y ella estaba tratando de dar una buena impresión.",
+        "en": "And she was trying to make a good impression."
+      },
+      {
+        "order": 5,
+        "es": "Él, por otro lado, no lo estaba.",
+        "en": "He, on the other hand, was not."
+      },
+      {
+        "order": 6,
+        "es": "A mitad del entrante, sacó su teléfono para hacer una llamada.",
+        "en": "Halfway through the starter, he pulled out his phone to make a call."
+      },
+      {
+        "order": 7,
+        "es": "Y luego sacó un bolígrafo y papel para apuntar algo.",
+        "en": "And then pulled out a pen and paper to write something down."
+      },
+      {
+        "order": 8,
+        "es": "Sarah se mantuvo ocupada, tratando de sacarse una espina de pescado de entre los dientes.",
+        "en": "Sarah kept herself busy, trying to pull a fish bone out from between her teeth."
+      },
+      {
+        "order": 9,
+        "es": "Cuando llegó la cuenta, su cita fue al baño.",
+        "en": "When the check came, her date went to the bathroom."
+      },
+      {
+        "order": 10,
+        "es": "Así que Sarah tuvo que sacar su tarjeta de crédito para pagar.",
+        "en": "So Sarah had to pull out her credit card to pay."
+      },
+      {
+        "order": 11,
+        "es": "Sarah no quería ver qué otros trucos este chico podría sacar de la manga.",
+        "en": "Sarah didn't want to see what other tricks this guy might pull out of his sleeve."
+      },
+      {
+        "order": 12,
+        "es": "Así que sacó su teléfono y pidió un taxi.",
+        "en": "So she pulled out her phone and called a taxi."
+      }
+    ]
+  },
+  {
+    "id": 189,
+    "file_name": "Phrasal_verbs_189.mp3",
+    "phrasal_verb": "take out",
+    "base_verb": "take",
+    "particle": "out",
+    "meaning_es": "Sacar, quitar (extraer, remover, llevar afuera)",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "sacar",
+      "quitar",
+      "extraer",
+      "remover",
+      "llevar fuera",
+      "retirar",
+      "obtener",
+      "excluir"
+    ],
+    "intro_note": "Learn to use 'take out' in various contexts with these common phrases.",
+    "type": "drill",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Tengo que sacar algo de dinero del cajero.",
+        "en": "I need to take out some money from the ATM."
+      },
+      {
+        "order": 2,
+        "es": "Deberías ir a que te quiten ese diente.",
+        "en": "You should have that tooth taken out."
+      },
+      {
+        "order": 3,
+        "es": "Él tuvo que sacar todas las cosas de su maleta.",
+        "en": "He had to take everything out of his suitcase."
+      },
+      {
+        "order": 4,
+        "es": "Saca tu portátil de la funda.",
+        "en": "Take your laptop out of the case."
+      },
+      {
+        "order": 5,
+        "es": "Ella sacó su teléfono del bolso.",
+        "en": "She took her phone out of her handbag."
+      },
+      {
+        "order": 6,
+        "es": "No te olvides de sacar el pavo del horno.",
+        "en": "Don't forget to take the turkey out of the oven."
+      },
+      {
+        "order": 7,
+        "es": "Sacaron al perro de paseo.",
+        "en": "They took the dog out for a walk."
+      },
+      {
+        "order": 8,
+        "es": "Quita el párrafo que menciona mi nombre.",
+        "en": "Take out the paragraph that mentions my name."
+      },
+      {
+        "order": 9,
+        "es": "Olvidamos sacar la basura.",
+        "en": "We forgot to take out the garbage."
+      },
+      {
+        "order": 10,
+        "es": "Él sacó su tarjeta de visita y la puso sobre la mesa.",
+        "en": "He took out his business card and put it on the table."
+      }
+    ]
+  },
+  {
+    "id": 190,
+    "file_name": "Phrasal_verbs_190.mp3",
+    "phrasal_verb": "Story: The Dentist (Multiple Phrasal Verbs)",
+    "base_verb": null,
+    "particle": null,
+    "meaning_es": "Una historia sobre Sarah yendo al dentista, que ilustra varios phrasal verbs en contexto, como 'put off' (posponer), 'take out' (sacar), 'put in' (poner), 'turn out' (resultar) y 'hand out' (repartir).",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "dentista",
+      "salud",
+      "cita",
+      "posponer",
+      "extraer",
+      "insertar",
+      "resultar",
+      "repartir",
+      "caramelos",
+      "historia"
+    ],
+    "intro_note": "Este es un fragmento narrativo que utiliza varios phrasal verbs en el contexto de una visita al dentista.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "El dentista.",
+        "en": "The dentist."
+      },
+      {
+        "order": 2,
+        "es": "Sarah lo había estado posponiendo durante mucho tiempo, pero era hora de ir al dentista.",
+        "en": "Sarah had been putting it off for a long time, but it was time to go to the dentist."
+      },
+      {
+        "order": 3,
+        "es": "Le iban a sacar un diente y le iban a poner uno falso.",
+        "en": "She was going to have a tooth taken out and a fake one put in."
+      },
+      {
+        "order": 4,
+        "es": "Sarah estaba nerviosa porque había oído historias de dentistas que sacaban el diente equivocado, y Sarah realmente no quería que le sacaran dos dientes.",
+        "en": "Sarah was nervous because she'd heard stories about dentists taking out the wrong tooth, and Sarah really didn't want to have two teeth taken out."
+      },
+      {
+        "order": 5,
+        "es": "Al final, el dentista le sacó el diente correcto y, para sorpresa de Sarah, sacó una piruleta de su bolsillo para dársela.",
+        "en": "As it turned out, the dentist took out the right tooth, and to Sarah's surprise, took a lollipop out of his pocket to give to her."
+      },
+      {
+        "order": 6,
+        "es": "Se preguntó si los dentistas realmente deberían estar repartiendo dulces a la gente.",
+        "en": "She wondered if dentists should really be handing candy out to people."
+      },
+      {
+        "order": 7,
+        "es": "Después de todo, si no hubiera comido tantos dulces, no habría tenido que sacarse el diente en primer lugar.",
+        "en": "After all, if she hadn't eaten so many sweets, she wouldn't have had to have her tooth taken out in the first place."
+      }
+    ]
+  },
+  {
+    "id": 191,
+    "file_name": "Phrasal_verbs_191.mp3",
+    "phrasal_verb": "get out",
+    "base_verb": "get",
+    "particle": "out",
+    "meaning_es": "Sacar, quitar (algo de un lugar, una persona de un lugar, una mancha, un objeto incrustado, etc.)",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "sacar",
+      "quitar",
+      "extraer",
+      "mover",
+      "liberar",
+      "retirar",
+      "salir de",
+      "eliminar",
+      "excluir"
+    ],
+    "intro_note": "To get out means to remove something or someone from a place, or to extract something that is stuck.",
+    "type": "drill",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Puedes ayudarme a sacar las provisiones del coche?",
+        "en": "Can you help me get the groceries out of the car?"
+      },
+      {
+        "order": 2,
+        "es": "No puedo sacar este clavo.",
+        "en": "I can't get this nail out."
+      },
+      {
+        "order": 3,
+        "es": "Usa los alicates para sacarlo.",
+        "en": "Use the pliers to get it out."
+      },
+      {
+        "order": 4,
+        "es": "¿Cómo puedo quitar esta mancha?",
+        "en": "How can I get this stain out?"
+      },
+      {
+        "order": 5,
+        "es": "Un poco de lejía la quitará.",
+        "en": "Some bleach will get it out."
+      },
+      {
+        "order": 6,
+        "es": "Sácalo de aquí.",
+        "en": "Get him out of here."
+      },
+      {
+        "order": 7,
+        "es": "Por favor, saca ese perro de la cocina.",
+        "en": "Please, get that dog out of the kitchen."
+      },
+      {
+        "order": 8,
+        "es": "Ayuda, quítame la araña del pelo.",
+        "en": "Help, get the spider out of my hair!"
+      },
+      {
+        "order": 9,
+        "es": "¿Cómo sacaron al niño del pozo?",
+        "en": "How did they get the boy out of the well?"
+      },
+      {
+        "order": 10,
+        "es": "El bombero la sacó del edificio justo a tiempo.",
+        "en": "The fireman got her out of the building just in time."
+      }
+    ]
+  },
+  {
+    "id": 192,
+    "file_name": "Phrasal_verbs_192.mp3",
+    "phrasal_verb": "Story: The red wine stain",
+    "base_verb": "get",
+    "particle": "out",
+    "meaning_es": "remover, quitar (una mancha, algo de un lugar)",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "mancha",
+      "limpiar",
+      "quitar",
+      "remover",
+      "vino tinto",
+      "alfombra",
+      "problema",
+      "solucionar"
+    ],
+    "intro_note": "This story illustrates the phrasal verb 'get out' in the context of removing a stain and how someone solves a problem.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "La mancha de vino tinto.",
+        "en": "The red wine stain."
+      },
+      {
+        "order": 2,
+        "es": "Sarah había derramado vino tinto en su alfombra blanca, y no podía quitarlo.",
+        "en": "Sarah had spilled some red wine on her white carpet, and she couldn't get it out."
+      },
+      {
+        "order": 3,
+        "es": "Primero, intentó quitar la mancha vertiendo vino blanco sobre ella, pero eso no la quitó.",
+        "en": "First, she tried to get the stain out by pouring white wine on it, but that didn't get it out."
+      },
+      {
+        "order": 4,
+        "es": "Luego, intentó quitarla usando quitaesmalte sobre ella, pero eso tampoco la quitó.",
+        "en": "Next, she tried to get it out by using nail polish remover on it, but that didn't get it out either."
+      },
+      {
+        "order": 5,
+        "es": "Finalmente, intentó verter bicarbonato de sodio sobre la mancha para quitarla, pero eso solo empeoró las cosas.",
+        "en": "Finally, she tried pouring baking soda on the stain to get it out, but that just made things worse."
+      },
+      {
+        "order": 6,
+        "es": "Sarah había intentado todos los trucos que conocía para quitar la mancha, así que llamó a un limpiador de alfombras para que la quitara.",
+        "en": "Sarah had tried every trick that she knew to get the stain out, so she called a carpet cleaner to get it out."
+      },
+      {
+        "order": 7,
+        "es": "El limpiador de alfombras la quitó usando Mr. Red Wine, y le cobró a Sarah 100 dólares por el trabajo.",
+        "en": "The carpet cleaner got it out by using Mr. Red Wine, and charged Sarah $100 for the job."
+      }
+    ]
+  },
+  {
+    "id": 193,
+    "file_name": "Phrasal_verbs_193.mp3",
+    "phrasal_verb": "find out",
+    "base_verb": "find",
+    "particle": "out",
+    "meaning_es": "enterarse, informarse, descubrir",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "enterarse",
+      "informarse",
+      "descubrir",
+      "averiguar",
+      "saber"
+    ],
+    "intro_note": "Aprende a usar 'find out' para referirte a enterarse o descubrir información.",
+    "type": "drill",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Enterarse, informarse, descubrir",
+        "en": "To find out"
+      },
+      {
+        "order": 2,
+        "es": "¿Te enteraste de lo que le pasó?",
+        "en": "Did you find out what happened to him?"
+      },
+      {
+        "order": 3,
+        "es": "Nadie ha descubierto nada.",
+        "en": "Nobody has found anything out."
+      },
+      {
+        "order": 4,
+        "es": "No nos enteramos hasta que fue demasiado tarde.",
+        "en": "We didn't find out until it was too late."
+      },
+      {
+        "order": 5,
+        "es": "¿Podrías informarte por mí?",
+        "en": "Could you find out for me?"
+      },
+      {
+        "order": 6,
+        "es": "Adivina quién se ha enterado de la fiesta.",
+        "en": "Guess who found out about the party."
+      },
+      {
+        "order": 7,
+        "es": "¿Cómo se enteró Smith de ello?",
+        "en": "How did Smith find out about it?"
+      },
+      {
+        "order": 8,
+        "es": "Se enteró por casualidad.",
+        "en": "He found out by accident."
+      },
+      {
+        "order": 9,
+        "es": "¿Cuándo te enteraste?",
+        "en": "When did you find out?"
+      },
+      {
+        "order": 10,
+        "es": "Asegúrate de que nadie se entere, ¿vale?",
+        "en": "Make sure no one finds out, okay?"
+      },
+      {
+        "order": 11,
+        "es": "¿Alguien se ha informado de dónde es la fiesta?",
+        "en": "Has anyone found out where the party is?"
+      }
+    ]
+  },
+  {
+    "id": 194,
+    "file_name": "Phrasal_verbs_194.mp3",
+    "phrasal_verb": "find out",
+    "base_verb": "find",
+    "particle": "out",
+    "meaning_es": "descubrir, averiguar, enterarse",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "descubrir",
+      "averiguar",
+      "enterarse",
+      "información",
+      "secreto",
+      "cumpleaños",
+      "sorpresa"
+    ],
+    "intro_note": "This story illustrates the use of the phrasal verb 'find out' (averiguar, enterarse) in various contexts related to discovering information about a surprise party.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "La fiesta sorpresa.",
+        "en": "The surprise party."
+      },
+      {
+        "order": 2,
+        "es": "El cumpleaños de Sara se acercaba y ella no quería que nadie se enterara.",
+        "en": "Sara's birthday was coming up and she didn't want anyone to find out about it."
+      },
+      {
+        "order": 3,
+        "es": "El año pasado nadie se había enterado y así es como ella lo quería.",
+        "en": "Last year no one had found out and that was the way she wanted it."
+      },
+      {
+        "order": 4,
+        "es": "Este año, sin embargo, Sara estaba segura de que alguien se había enterado porque la gente le hacía preguntas sobre sus gustos y disgustos, probablemente intentando averiguar qué comprarle.",
+        "en": "This year though, Sara was sure someone had found out because people were asking her questions about her likes and dislikes, probably trying to find out what to buy her."
+      },
+      {
+        "order": 5,
+        "es": "A Sara no le importaba un regalo, pero si se enteraba de una fiesta sorpresa, averiguaría quién la estaba organizando y les haría saber que se había enterado.",
+        "en": "Sara didn't mind a present, but if she found out about a surprise party, she would find out who was organizing it and let them know she had found out."
+      },
+      {
+        "order": 6,
+        "es": "Para averiguar más, le pidió a una de sus mejores amigas que descubriera qué se estaba planeando.",
+        "en": "In order to find out more, she asked one of her best friends to find out what was being planned."
+      }
+    ]
+  },
+  {
+    "id": 195,
+    "file_name": "Phrasal_verbs_195.mp3",
+    "phrasal_verb": "run out",
+    "base_verb": "run",
+    "particle": "out",
+    "meaning_es": "Agotarse, quedarse sin, vencer, acabarse (referring to supplies, time, options, or a contract's expiration).",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "agotarse",
+      "quedarse sin",
+      "vencer",
+      "acabarse",
+      "terminar",
+      "no tener más",
+      "consumirse",
+      "expirar",
+      "tiempo",
+      "suministros",
+      "opciones",
+      "recursos",
+      "contrato"
+    ],
+    "intro_note": "To run out. Agotarse, quedarse sin, vencer, acabarse.",
+    "type": "drill",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Se nos está acabando el tiempo.",
+        "en": "We're running out of time."
+      },
+      {
+        "order": 2,
+        "es": "Él se quedó sin opciones.",
+        "en": "He ran out of options."
+      },
+      {
+        "order": 3,
+        "es": "Las existencias se agotaron en pocos días.",
+        "en": "Stocks ran out in a few days."
+      },
+      {
+        "order": 4,
+        "es": "Nos hemos quedado sin leche?",
+        "en": "Have we run out of milk?"
+      },
+      {
+        "order": 5,
+        "es": "Dile a Smith que el ponche se está acabando.",
+        "en": "Tell Smith the punch is running out."
+      },
+      {
+        "order": 6,
+        "es": "Nos hemos quedado sin papel higiénico.",
+        "en": "We've run out of toilet paper."
+      },
+      {
+        "order": 7,
+        "es": "Cuando vence su contrato?",
+        "en": "When does his contract run out?"
+      },
+      {
+        "order": 8,
+        "es": "Vence la semana que viene. ¿Por qué?",
+        "en": "It runs out next week. Why?"
+      },
+      {
+        "order": 9,
+        "es": "Él se está quedando sin tiempo para renovarlo.",
+        "en": "He's running out of time to renew it."
+      },
+      {
+        "order": 10,
+        "es": "A él se le han acabado las oportunidades.",
+        "en": "He has run out of chances."
+      }
+    ]
+  },
+  {
+    "id": 196,
+    "file_name": "Phrasal_verbs_196.mp3",
+    "phrasal_verb": "run out of",
+    "base_verb": "run",
+    "particle": "out of",
+    "meaning_es": "Indica que se ha agotado o no queda más de algo. Puede referirse a recursos, suministros, tiempo o incluso paciencia.",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "agotarse",
+      "quedarse sin",
+      "terminarse",
+      "no tener más",
+      "escasez",
+      "frustración",
+      "paciencia"
+    ],
+    "intro_note": "Una historia sobre Sarah, quien tiene una mala semana y se queda sin varias cosas, hasta que finalmente se le acaba la paciencia.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "La clienta enojada.",
+        "en": "The angry customer."
+      },
+      {
+        "order": 2,
+        "es": "Sarah estaba teniendo una semana particularmente mala.",
+        "en": "Sarah was having a particularly bad week."
+      },
+      {
+        "order": 3,
+        "es": "El lunes, cuando conducía de vuelta a casa del trabajo, su coche se quedó sin gasolina.",
+        "en": "On Monday, when she was driving home from work, her car ran out of petrol."
+      },
+      {
+        "order": 4,
+        "es": "¿Cómo pude haberme quedado sin gasolina?",
+        "en": "How could I have run out of petrol?"
+      },
+      {
+        "order": 5,
+        "es": "se dijo a sí misma. Lo llené hace solo un par de días.",
+        "en": "she said to herself. I filled it up only a couple of days ago."
+      },
+      {
+        "order": 6,
+        "es": "Luego, el martes, mientras preparaba su desayuno, se dio cuenta de que se había quedado sin café.",
+        "en": "Then on Tuesday, as she was making her breakfast, she realized that she'd run out of coffee."
+      },
+      {
+        "order": 7,
+        "es": "¿Cómo puedo haberme quedado sin café?",
+        "en": "How can I have run out of coffee?"
+      },
+      {
+        "order": 8,
+        "es": "se dijo a sí misma. Compré hace solo una semana.",
+        "en": "she said to herself. I bought some only a week ago."
+      },
+      {
+        "order": 9,
+        "es": "Pero lo peor estaba por venir.",
+        "en": "But worse was to come."
+      },
+      {
+        "order": 10,
+        "es": "No solo se había quedado sin café, sino que también se había quedado sin leche.",
+        "en": "Not only had she run out of coffee, but she'd also run out of milk."
+      },
+      {
+        "order": 11,
+        "es": "Y no solo se había quedado sin leche, sino que también se había quedado sin azúcar.",
+        "en": "And not only had she run out of milk, but she'd also run out of sugar."
+      },
+      {
+        "order": 12,
+        "es": "Cuando se dio cuenta de que también se había quedado sin pan, esa fue la gota que colmó el vaso.",
+        "en": "When she realized that she'd also run out of bread, that was the last straw."
+      },
+      {
+        "order": 13,
+        "es": "¡Maldita sea!",
+        "en": "Oh, sugar!"
+      },
+      {
+        "order": 14,
+        "es": "gritó. Sarah finalmente se había quedado sin paciencia.",
+        "en": "she shouted. Sarah had finally run out of patience."
+      }
+    ]
+  },
+  {
+    "id": 197,
+    "file_name": "Phrasal_verbs_197.mp3",
+    "phrasal_verb": "turn out",
+    "base_verb": "turn",
+    "particle": "out",
+    "meaning_es": "Salir bien, resultar",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "resultar",
+      "salir",
+      "finalizar",
+      "descubrir",
+      "concluir",
+      "acontecer",
+      "esperar",
+      "éxito",
+      "fracaso",
+      "predicción",
+      "revelar"
+    ],
+    "intro_note": "Drill for the phrasal verb 'turn out', meaning to happen or prove to be in a particular way, or to result in a specific outcome.",
+    "type": "drill",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Las cosas nunca salen como pensamos.",
+        "en": "Things never turn out the way we think they will."
+      },
+      {
+        "order": 2,
+        "es": "Nadie lo creía, pero resultó ser verdad.",
+        "en": "Nobody believed it, but it turned out to be true."
+      },
+      {
+        "order": 3,
+        "es": "La canción resultó ser un fracaso.",
+        "en": "The song turned out to be a flop."
+      },
+      {
+        "order": 4,
+        "es": "Espero que todo te salga bien.",
+        "en": "I hope everything turns out well for you."
+      },
+      {
+        "order": 5,
+        "es": "Resultó que Larry no era su verdadero nombre.",
+        "en": "It turned out that Larry wasn't his real name."
+      },
+      {
+        "order": 6,
+        "es": "Ella estaba segura de que todo iba a salir bien.",
+        "en": "She was sure everything was going to turn out fine."
+      },
+      {
+        "order": 7,
+        "es": "La previsión del tiempo resultó ser errónea.",
+        "en": "The weather forecast turned out to be wrong."
+      },
+      {
+        "order": 8,
+        "es": "La fiesta resultó ser un desastre total.",
+        "en": "The party turned out to be a complete disaster."
+      },
+      {
+        "order": 9,
+        "es": "El actor principal resultó ser un viejo amigo de ella.",
+        "en": "The lead actor turned out to be an old friend of hers."
+      },
+      {
+        "order": 10,
+        "es": "Al final, resultó que todo el mundo lo pasó muy bien.",
+        "en": "As it turned out, everyone had a great time."
+      }
+    ]
+  },
+  {
+    "id": 198,
+    "file_name": "Phrasal_verbs_198.mp3",
+    "phrasal_verb": "turn out",
+    "base_verb": "turn",
+    "particle": "out",
+    "meaning_es": "Resultar, acabar, salir (referente a cómo algo acaba siendo o se desarrolla, a menudo de forma inesperada)",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "resultar",
+      "acabar",
+      "finalmente",
+      "desarrollarse",
+      "previsión",
+      "tiempo",
+      "paraguas",
+      "inesperado",
+      "suceder"
+    ],
+    "intro_note": "Una breve historia que ilustra el uso de 'turn out' para describir cómo algo acaba siendo o se desarrolla, a menudo de forma inesperada.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Como las cosas nunca resultan como esperamos, Sarah siempre espera lo mejor, pero planea para lo peor.",
+        "en": "Because things never turn out the way we expect, Sarah always hopes for the best, but plans for the worst."
+      },
+      {
+        "order": 2,
+        "es": "Por ejemplo, ella siempre piensa que el pronóstico del tiempo resultará ser incorrecto.",
+        "en": "For example, she always thinks the weather forecast will turn out to be wrong."
+      },
+      {
+        "order": 3,
+        "es": "Así que, si dice que va a hacer sol, Sarah lleva un paraguas consigo.",
+        "en": "So, if it says it's going to be sunny, Sarah takes an umbrella with her."
+      },
+      {
+        "order": 4,
+        "es": "Resultó que el pronóstico del tiempo del jueves pasado resultó ser correcto, pero el paraguas de Sarah resultó ser útil cuando una bandada de gansos migratorios voló por encima.",
+        "en": "As it turned out, last Thursday's weather forecast turned out to be right, but Sarah's umbrella turned out to be useful when a flock of migrating geese flew overhead."
+      }
+    ]
+  },
+  {
+    "id": 199,
+    "file_name": "Phrasal_verbs_199.mp3",
+    "phrasal_verb": "to leave out",
+    "base_verb": "leave",
+    "particle": "out",
+    "meaning_es": "Omitir, excluir, no incluir, no mencionar.",
+    "situation": "Comunicación y Relaciones",
+    "tags_es": [
+      "omitir",
+      "excluir",
+      "no incluir",
+      "pasar por alto",
+      "obviar",
+      "marginar"
+    ],
+    "intro_note": "Aprende a usar 'leave out' para hablar de omitir o excluir algo o a alguien.",
+    "type": "drill",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Me he dejado algo de la historia por contar?",
+        "en": "Have I left anything out of the story?"
+      },
+      {
+        "order": 2,
+        "es": "Te has dejado la parte del payaso.",
+        "en": "You left out the part about the clown."
+      },
+      {
+        "order": 3,
+        "es": "No quería omitir esa parte.",
+        "en": "I didn't mean to leave that part out."
+      },
+      {
+        "order": 4,
+        "es": "El pobre payaso debe de sentirse excluido.",
+        "en": "The poor clown must feel left out."
+      },
+      {
+        "order": 5,
+        "es": "Él invitó a todo el mundo, así que no se excluyó a nadie.",
+        "en": "He invited everyone, so no one was left out."
+      },
+      {
+        "order": 6,
+        "es": "Ella no omitió nada cuando escribió su informe.",
+        "en": "She didn't leave anything out when she wrote her report."
+      },
+      {
+        "order": 7,
+        "es": "Se le excluyó del equipo porque estaba lesionado.",
+        "en": "He was left out of the team because he was injured."
+      },
+      {
+        "order": 8,
+        "es": "Omite mi nombre de la historia, por favor.",
+        "en": "Leave my name out of the story, please."
+      },
+      {
+        "order": 9,
+        "es": "No te sentirás excluido si omiten tu nombre?",
+        "en": "Won't you feel left out if your name is left out?"
+      },
+      {
+        "order": 10,
+        "es": "Déjalo fuera de esto.",
+        "en": "Leave him out of this."
+      }
+    ]
+  },
+  {
+    "id": 200,
+    "file_name": "Phrasal_verbs_200.mp3",
+    "phrasal_verb": "leave out",
+    "base_verb": "leave",
+    "particle": "out",
+    "meaning_es": "Omitir, excluir, dejar fuera.",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "omitir",
+      "excluir",
+      "película",
+      "libro",
+      "adaptación",
+      "dejar fuera",
+      "quitar",
+      "decepción"
+    ],
+    "intro_note": "Una historia sobre la decepción de Sarah al ver la adaptación cinematográfica de su libro favorito, donde se omitieron muchas partes importantes.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "El libro era mejor.",
+        "en": "The book was better."
+      },
+      {
+        "order": 2,
+        "es": "La semana pasada, Sarah fue al cine a ver una película llamada Footprints, que estaba basada en uno de sus libros favoritos.",
+        "en": "Last week, Sarah went to the cinema to see a movie called Footprints, which was based on one of her favorite books."
+      },
+      {
+        "order": 3,
+        "es": "A Sarah le gustó la película, pero estaba decepcionada de que el director hubiera omitido muchas cosas del libro.",
+        "en": "Sarah liked the movie, but she was disappointed that the director had left out a lot of things from the book."
+      },
+      {
+        "order": 4,
+        "es": "Había omitido la parte de la cometa, y había omitido la escena donde los dos niños descubren un pájaro herido.",
+        "en": "He had left out the part about the kite, and he had left out the scene where the two children discover an injured bird."
+      },
+      {
+        "order": 5,
+        "es": "Muchos de los personajes secundarios del libro habían sido omitidos, e incluso había omitido el capítulo sobre el incendio en la iglesia.",
+        "en": "A lot of the minor characters from the book had been left out, and he had even left out the chapter about the fire in the church."
+      },
+      {
+        "order": 6,
+        "es": "Sarah entendía que algunas cosas tenían que ser omitidas por razones de tiempo, pero no podía entender cómo el director pudo haber omitido el capítulo final del libro.",
+        "en": "Sarah understood that some things had to be left out for time reasons, but she couldn't understand how the director could have left out the final chapter of the book."
+      }
+    ]
+  },
+  {
+    "id": 201,
+    "file_name": "Phrasal_verbs_201.mp3",
+    "phrasal_verb": "wear out",
+    "base_verb": "wear",
+    "particle": "out",
+    "meaning_es": "Agotar, gastar, desgastar(se). También significa cansar a alguien o acabar con la paciencia.",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "gastarse",
+      "agotarse",
+      "desgastarse",
+      "ropa",
+      "cansancio",
+      "paciencia",
+      "objetos",
+      "batería",
+      "neumáticos"
+    ],
+    "intro_note": "The phrasal verb 'to wear out' has several meanings in Spanish, including 'desgastar' (to wear something down physically), 'agotarse' (to become exhausted), and 'acabarse' (to run out, especially for patience or something consumable).",
+    "type": "drill",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Agota, gastar, gastarse.",
+        "en": "To wear out."
+      },
+      {
+        "order": 2,
+        "es": "Sus zapatos de él están gastados.",
+        "en": "His shoes are worn out."
+      },
+      {
+        "order": 3,
+        "es": "Él los gastó andando al trabajo todos los días.",
+        "en": "He wore them out walking to work every day."
+      },
+      {
+        "order": 4,
+        "es": "Él desgastó el embrague conduciendo como un loco.",
+        "en": "He wore out the clutch driving like a madman."
+      },
+      {
+        "order": 5,
+        "es": "Estoy agotado.",
+        "en": "I'm worn out."
+      },
+      {
+        "order": 6,
+        "es": "Jugar al tenis toda la mañana la agotó.",
+        "en": "Playing tennis all morning wore her out."
+      },
+      {
+        "order": 7,
+        "es": "Creo que se están gastando las pilas.",
+        "en": "I think the batteries are wearing out."
+      },
+      {
+        "order": 8,
+        "es": "Los neumáticos están muy gastados.",
+        "en": "The tires are really worn out."
+      },
+      {
+        "order": 9,
+        "es": "Los niños me agotaron.",
+        "en": "The children wore me out."
+      },
+      {
+        "order": 10,
+        "es": "Se me está acabando la paciencia.",
+        "en": "My patience is wearing out."
+      },
+      {
+        "order": 11,
+        "es": "Cuanto más barato es, más rápido se agota.",
+        "en": "The cheaper it is, the faster it wears out."
+      }
+    ]
+  },
+  {
+    "id": 202,
+    "file_name": "Phrasal_verbs_202.mp3",
+    "phrasal_verb": "wear out",
+    "base_verb": "wear",
+    "particle": "out",
+    "meaning_es": "1. Agotar o cansar mucho a alguien. 2. Desgastar o estropear algo por el uso continuado hasta hacerlo inservible. 3. Agotarse (una batería, etc.).",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "agotado",
+      "cansado",
+      "desgastar",
+      "estropear",
+      "gastarse",
+      "fatiga",
+      "cansancio",
+      "ropa",
+      "batería",
+      "frenos"
+    ],
+    "intro_note": "Una historia sobre Sarah y cómo varias cosas y personas la han 'desgastado' o 'agotado'.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "¡Agotada!",
+        "en": "Worn out!"
+      },
+      {
+        "order": 2,
+        "es": "Hoy ha sido un día largo para Sarah, y se siente agotada.",
+        "en": "Today has been a long day for Sarah, and she feels worn out."
+      },
+      {
+        "order": 3,
+        "es": "Pasó todo el día de ayer jugando con sus sobrinos y sobrinas, y la agotaron.",
+        "en": "She spent all day yesterday playing with her nephews and nieces, and they wore her out."
+      },
+      {
+        "order": 4,
+        "es": "También desgastó sus pantalones nuevos jugando con ellos.",
+        "en": "She also wore out her brand-new jeans playing games with them."
+      },
+      {
+        "order": 5,
+        "es": "Ahora, está en el trabajo, y el tiempo pasa tan lentamente que cree que la batería de su reloj debe estar agotándose.",
+        "en": "Now, she's at work, and time is going by so slowly that she thinks the battery in her watch must be wearing out."
+      },
+      {
+        "order": 6,
+        "es": "Le gustaría ir a casa después del trabajo, pero los frenos de su coche se han desgastado de tanto conducir por la ciudad, y tiene que ir al taller para que los reemplacen.",
+        "en": "She'd like to go home after work, but the brakes on her car have worn out from driving in the city so much, and she has to go to the garage to have them replaced."
+      }
+    ]
+  },
+  {
+    "id": 203,
+    "file_name": "Phrasal_verbs_203.mp3",
+    "phrasal_verb": "fall out",
+    "base_verb": "fall",
+    "particle": "out",
+    "meaning_es": "pelearse, discutir",
+    "situation": "Relaciones y Emociones",
+    "tags_es": [
+      "discutir",
+      "pelear",
+      "enfadarse",
+      "disputa",
+      "conflicto",
+      "relaciones",
+      "tener una pelea"
+    ],
+    "intro_note": "Este drill se centra en el phrasal verb 'fall out', que significa 'pelearse' o 'tener una disputa'.",
+    "type": "drill",
+    "drills": [
+      {
+        "order": 1,
+        "es": "To fall out. Pelearse.",
+        "en": "To fall out."
+      },
+      {
+        "order": 2,
+        "es": "Se pelearon la semana pasada.",
+        "en": "They fell out last week."
+      },
+      {
+        "order": 3,
+        "es": "Antes me peleaba mucho con mi madre.",
+        "en": "I used to fall out with my mother a lot."
+      },
+      {
+        "order": 4,
+        "es": "¿Por qué se pelearon?",
+        "en": "What did they fall out over?"
+      },
+      {
+        "order": 5,
+        "es": "Se pelearon por la herencia.",
+        "en": "They fell out over the inheritance."
+      },
+      {
+        "order": 6,
+        "es": "Casi nunca nos peleamos.",
+        "en": "We hardly ever fall out."
+      },
+      {
+        "order": 7,
+        "es": "Tuvieron una pelea la semana pasada.",
+        "en": "They had a falling out last week."
+      },
+      {
+        "order": 8,
+        "es": "¿Por qué se pelean siempre?",
+        "en": "Why do they always fall out?"
+      },
+      {
+        "order": 9,
+        "es": "James se peleó con su hermano por una chica.",
+        "en": "James fell out with his brother over a girl."
+      },
+      {
+        "order": 10,
+        "es": "No se hablan desde que se pelearon.",
+        "en": "They haven't spoken since the falling out."
+      },
+      {
+        "order": 11,
+        "es": "Prométeme que nunca nos pelearemos.",
+        "en": "Promise me we'll never fall out."
+      }
+    ]
+  },
+  {
+    "id": 204,
+    "file_name": "Phrasal_verbs_204.mp3",
+    "phrasal_verb": "fall out / falling out",
+    "base_verb": "fall",
+    "particle": "out",
+    "meaning_es": "Pelearse, discutir, tener una desavenencia. 'Falling out' como sustantivo se refiere a una discusión o desacuerdo.",
+    "situation": "Relaciones y Emociones",
+    "tags_es": [
+      "discutir",
+      "pelearse",
+      "romper una amistad",
+      "tener una discusión",
+      "separarse",
+      "desacuerdo"
+    ],
+    "intro_note": "A short story illustrating the phrasal verb 'fall out' and the noun 'falling out' in context.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Dejemos que el pasado sea pasado.",
+        "en": "Let bygones be bygones."
+      },
+      {
+        "order": 2,
+        "es": "Cuando Sarah estaba en el instituto, se peleó con su mejor amiga.",
+        "en": "When Sarah was at high school, she fell out with her best friend."
+      },
+      {
+        "order": 3,
+        "es": "Se pelearon por un chico que a ambas les gustaba, y no se hablaron durante casi un año.",
+        "en": "They fell out over a boy whom they both liked, and they didn't talk to each other for nearly a year."
+      },
+      {
+        "order": 4,
+        "es": "Sarah terminó saliendo con el chico, pero más tarde tuvieron una discusión y rompieron.",
+        "en": "Sarah ended up going out with the boy, but later they had a falling out and broke up."
+      },
+      {
+        "order": 5,
+        "es": "La discusión fue tan trivial que Sarah ni siquiera podía recordar por qué había sido.",
+        "en": "The falling out was so trivial that Sarah couldn't even remember what it was over."
+      },
+      {
+        "order": 6,
+        "es": "Sarah lamentó haberse peleado con su mejor amiga, especialmente por un chico con quien ella misma se peleó más tarde.",
+        "en": "Sarah regretted having fallen out with her best friend, especially over a boy whom she later fell out with."
+      }
+    ]
+  },
+  {
+    "id": 205,
+    "file_name": "Phrasal_verbs_205.mp3",
+    "phrasal_verb": "turn on / switch on",
+    "base_verb": null,
+    "particle": "on",
+    "meaning_es": "Encender, activar (aparatos, luces, gas, agua)",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "encender",
+      "activar",
+      "poner en marcha",
+      "dispositivos",
+      "luz",
+      "ventilador",
+      "radio",
+      "grifo",
+      "gas",
+      "calentador",
+      "móvil"
+    ],
+    "intro_note": "Drill de phrasal verbs con la preposición 'on', centrado en 'turn on' y 'switch on' para encender diferentes aparatos o suministros.",
+    "type": "drill",
+    "drills": [
+      {
+        "order": 1,
+        "es": "¿Podrías encender el ventilador? Hace calor.",
+        "en": "Could you turn on the fan? It's hot."
+      },
+      {
+        "order": 2,
+        "es": "¿Cómo lo enciendo?",
+        "en": "How do I turn it on?"
+      },
+      {
+        "order": 3,
+        "es": "Cuando ella encendió la luz, la bombilla se fundió.",
+        "en": "When she switched the light on, the bulb blew."
+      },
+      {
+        "order": 4,
+        "es": "No enciendas la batidora sin la tapa puesta.",
+        "en": "Don't turn on the blender without the lid on."
+      },
+      {
+        "order": 5,
+        "es": "Él encendió la radio y sintonizó las noticias.",
+        "en": "He turned the radio on and tuned into the news."
+      },
+      {
+        "order": 6,
+        "es": "No abras el grifo hasta que yo te diga.",
+        "en": "Don't turn the tap on until I say so."
+      },
+      {
+        "order": 7,
+        "es": "Él abrió el gas y dio fuego a la barbacoa.",
+        "en": "He turned the gas on and lit the barbecue."
+      },
+      {
+        "order": 8,
+        "es": "Enciende el calentador si hace demasiado frío.",
+        "en": "Switch on the heater if it's too cold."
+      },
+      {
+        "order": 9,
+        "es": "Se me olvidó encender las luces del coche.",
+        "en": "I forgot to turn on my car lights."
+      },
+      {
+        "order": 10,
+        "es": "Ella encendió su móvil después de la película.",
+        "en": "She turned her phone on after the movie."
+      }
+    ]
+  },
+  {
+    "id": 206,
+    "file_name": "Phrasal_verbs_206.mp3",
+    "phrasal_verb": "Story: The Greens and their electricity consumption",
+    "base_verb": null,
+    "particle": null,
+    "meaning_es": "Una historia irónica sobre la familia 'Green' que consume mucha electricidad, ilustrando el uso de 'turn on' y 'switch on' para encender aparatos.",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "turn on",
+      "switch on",
+      "encender",
+      "luces",
+      "aparatos",
+      "consumo eléctrico",
+      "factura",
+      "electricidad",
+      "familia",
+      "rutina diaria"
+    ],
+    "intro_note": "Una historia irónica sobre la familia 'Green' y su alto consumo de electricidad, destacando el uso de 'turn on' y 'switch on'.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Los Green no son muy 'verdes' (ecológicos).",
+        "en": "The Greens aren't very green."
+      },
+      {
+        "order": 2,
+        "es": "Los Green nunca se sorprenden cuando reciben facturas de electricidad enormes al final del mes.",
+        "en": "The Greens are never surprised when they receive enormous electricity bills at the end of the month."
+      },
+      {
+        "order": 3,
+        "es": "Cuando Harry Green llega a casa, enciende su televisor de pantalla plana de 50 pulgadas y ve las noticias.",
+        "en": "When Harry Green gets home, he turns on his 50-inch flat-screen TV and watches the news."
+      },
+      {
+        "order": 4,
+        "es": "Cuando Cindy Green llega a casa, enciende el horno y luego enciende la estufa y empieza a preparar la cena.",
+        "en": "When Cindy Green gets home, she turns on the oven and then turns on the range and starts preparing dinner."
+      },
+      {
+        "order": 5,
+        "es": "Cuando Holly Green llega a casa, enciende su computadora y chatea con sus amigos.",
+        "en": "When Holly Green gets home, she turns on her computer and chats with her friends."
+      },
+      {
+        "order": 6,
+        "es": "Y cuando Charlie Green llega a casa, enciende su equipo de música, enciende su amplificador y empieza a tocar la guitarra.",
+        "en": "And when Charlie Green gets home, he turns on his hifi, switches on his amplifier and starts playing the guitar."
+      },
+      {
+        "order": 7,
+        "es": "Por supuesto, cuando oscurece, tienen que encender todas las luces de la casa.",
+        "en": "Of course, when it gets dark, they have to turn on all the lights in the house."
+      },
+      {
+        "order": 8,
+        "es": "Luego, cuando se van a la cama, todos encienden sus lámparas de noche y leen antes de quedarse dormidos.",
+        "en": "Then, when they go to bed, they all turn on their bedside lamps and read before falling asleep."
+      },
+      {
+        "order": 9,
+        "es": "Con las luces encendidas.",
+        "en": "With the lights on."
+      }
+    ]
+  },
+  {
+    "id": 207,
+    "file_name": "Phrasal_verbs_207.mp3",
+    "phrasal_verb": "leave on",
+    "base_verb": "leave",
+    "particle": "on",
+    "meaning_es": "Dejar encendido/abierto (un aparato, luz, grifo, etc.)",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "dejar encendido",
+      "dejar abierto",
+      "mantener encendido",
+      "luz",
+      "electricidad",
+      "aparato",
+      "grifo"
+    ],
+    "intro_note": "Este ejercicio se centra en el phrasal verb 'to leave on', que significa dejar algo encendido o abierto.",
+    "type": "drill",
+    "drills": [
+      {
+        "order": 1,
+        "es": "No dejes el grifo abierto cuando te cepilles los dientes.",
+        "en": "Don't leave the tap on when you brush your teeth."
+      },
+      {
+        "order": 2,
+        "es": "¿Quién dejó la luz del baño encendida?",
+        "en": "Who left the bathroom light on?"
+      },
+      {
+        "order": 3,
+        "es": "Dejo la tele encendida para ayudarme a quedarme dormida.",
+        "en": "I leave the TV on to help me fall asleep."
+      },
+      {
+        "order": 4,
+        "es": "Dejaste las luces del coche encendidas y no arranca.",
+        "en": "You left your car lights on, and it won't start."
+      },
+      {
+        "order": 5,
+        "es": "Alguien dejó el gas abierto y la casa estalló.",
+        "en": "Someone left the gas on, and the house blew up."
+      },
+      {
+        "order": 6,
+        "es": "Nunca dejo el móvil encendido en el cine.",
+        "en": "I never leave my phone on at the cinema."
+      },
+      {
+        "order": 7,
+        "es": "¿Siempre dejas el PC encendido?",
+        "en": "Do you always leave your PC on?"
+      },
+      {
+        "order": 8,
+        "es": "Ella siempre deja la calefacción encendida.",
+        "en": "She always leaves the heating on."
+      },
+      {
+        "order": 9,
+        "es": "Deja una luz encendida para el bebé.",
+        "en": "Leave a light on for the baby."
+      },
+      {
+        "order": 10,
+        "es": "Él dejó la plancha encendida y casi causó un incendio.",
+        "en": "He left the iron on and almost started a fire."
+      }
+    ]
+  },
+  {
+    "id": 208,
+    "file_name": "Phrasal_verbs_208.mp3",
+    "phrasal_verb": "leave on",
+    "base_verb": "leave",
+    "particle": "on",
+    "meaning_es": "Dejar encendido/a (un aparato, luz, etc.)",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "ahorrar energía",
+      "electricidad",
+      "apagar",
+      "encender",
+      "dejar encendido",
+      "uso de aparatos",
+      "casa",
+      "medio ambiente",
+      "responsabilidad"
+    ],
+    "intro_note": "A narrative about the Green family's efforts to save electricity by remembering to turn off appliances.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Piensa en verde.",
+        "en": "Think Green."
+      },
+      {
+        "order": 2,
+        "es": "Los Green están intentando ser más ecológicos usando menos electricidad.",
+        "en": "The Greens are trying to be greener by using less electricity."
+      },
+      {
+        "order": 3,
+        "es": "Harry Green tiene que recordar no dejar la televisión encendida cuando sale de la sala de estar.",
+        "en": "Harry Green has to remember not to leave the TV on when he leaves the living room."
+      },
+      {
+        "order": 4,
+        "es": "Cindy Green tiene que recordar no dejar el horno encendido cuando termina de usarlo.",
+        "en": "Cindy Green has to remember not to leave the oven on when she finishes using it."
+      },
+      {
+        "order": 5,
+        "es": "Holly Green tiene que recordar no dejar su ordenador encendido cuando va a la escuela.",
+        "en": "Holly Green has to remember not to leave her computer on when she goes to school."
+      },
+      {
+        "order": 6,
+        "es": "Y Charlie Green tiene que recordar no dejar su música encendida cuando no está en su habitación.",
+        "en": "And Charlie Green has to remember not to leave his music on when he's not in his room."
+      },
+      {
+        "order": 7,
+        "es": "Todos van a tener que esforzarse para no dejar la luz encendida cuando salgan de una habitación.",
+        "en": "They are all going to have to make an effort not to leave the light on when they leave a room."
+      },
+      {
+        "order": 8,
+        "es": "Y recordar no dejar la calefacción encendida cuando salgan de casa.",
+        "en": "And remember not to leave the heating on when they leave the house."
+      },
+      {
+        "order": 9,
+        "es": "Por supuesto, pueden dejar la alarma encendida cuando salgan de casa, pero nada más.",
+        "en": "Of course, they can leave the alarm on when they leave the house, but nothing else."
+      }
+    ]
+  },
+  {
+    "id": 209,
+    "file_name": "Phrasal_verbs_209.mp3",
+    "phrasal_verb": "put on",
+    "base_verb": "put",
+    "particle": "on",
+    "meaning_es": "Encender (aparatos), poner (música, película, etc.), empezar a usar (ropa, maquillaje), organizar (un evento), fingir (un acento). Este audio se centra en 'encender' y 'poner'.",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "encender",
+      "activar",
+      "conectar",
+      "poner",
+      "iniciar",
+      "aparato",
+      "radio",
+      "televisión",
+      "música",
+      "película"
+    ],
+    "intro_note": "El phrasal verb 'put on' tiene múltiples significados. En este ejercicio, nos enfocaremos en 'encender' (un aparato) o 'poner' (música, una película, un programa).",
+    "type": "drill",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Pongo la cafetera?",
+        "en": "Shall I put the coffee machine on?"
+      },
+      {
+        "order": 2,
+        "es": "Pon el horno a 350 grados.",
+        "en": "Put the oven on to 350 degrees Fahrenheit."
+      },
+      {
+        "order": 3,
+        "es": "Él puso la tetera para el té de sus invitados.",
+        "en": "He put the kettle on for his guests' tea."
+      },
+      {
+        "order": 4,
+        "es": "Ella puso la tele a las 6 de la tarde para ver las noticias.",
+        "en": "She put the TV on at 6 PM to watch the news."
+      },
+      {
+        "order": 5,
+        "es": "Él puso la radio y empezó a trabajar.",
+        "en": "He put the radio on and started working."
+      },
+      {
+        "order": 6,
+        "es": "Te importa si pongo música?",
+        "en": "Do you mind if I put some music on?"
+      },
+      {
+        "order": 7,
+        "es": "Para nada, pero pon algo alegre.",
+        "en": "Not at all, but put on something upbeat."
+      },
+      {
+        "order": 8,
+        "es": "Pon la Nueve, mi programa favorito está empezando.",
+        "en": "Put Channel 9 on, my favorite show is starting."
+      },
+      {
+        "order": 9,
+        "es": "Ella puso la película donde la dejó ayer.",
+        "en": "She put the movie on where she left off yesterday."
+      },
+      {
+        "order": 10,
+        "es": "Siempre ponen una película después de cenar.",
+        "en": "They always put on a movie after dinner."
+      }
+    ]
+  },
+  {
+    "id": 210,
+    "file_name": "Phrasal_verbs_210.mp3",
+    "phrasal_verb": "Story: Put on",
+    "base_verb": "put",
+    "particle": "on",
+    "meaning_es": "El phrasal verb 'put on' en este contexto significa 'poner', 'encender' o 'reproducir' (música, una película, la calefacción).",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "poner",
+      "encender",
+      "reproducir",
+      "música",
+      "película",
+      "calefacción",
+      "Navidad",
+      "familia",
+      "gustos",
+      "diferencias"
+    ],
+    "intro_note": "Una historia sobre una familia Green que celebra la Navidad, donde los miembros tienen diferentes gustos sobre la música y las películas, usando el phrasal verb 'put on' repetidamente.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Navidad en casa de los Green.",
+        "en": "Christmas at the Greens."
+      },
+      {
+        "order": 2,
+        "es": "El abuelo y la abuela Green vienen a almorzar en Navidad cada año.",
+        "en": "Grandpa and Grandma Green come over for Christmas lunch every year."
+      },
+      {
+        "order": 3,
+        "es": "Este año, hacía especialmente frío, así que Cindy Green encendió la calefacción muy alta para ellos.",
+        "en": "This year, it was especially cold, so Cindy Green put the heating on extra high for them."
+      },
+      {
+        "order": 4,
+        "es": "Después del almuerzo, Harry Green puso algo de música navideña que pensó que a la familia le gustaría.",
+        "en": "After lunch, Harry Green put on some Christmas music he thought the family would enjoy."
+      },
+      {
+        "order": 5,
+        "es": "A Charlie Green no le gustó la música que su papá puso, así que fue a su habitación y puso música que no le permitían escuchar delante de sus abuelos.",
+        "en": "Charlie Green didn't like the music his dad put on, so he went to his room and put on music he wasn't allowed to put on in front of his grandparents."
+      },
+      {
+        "order": 6,
+        "es": "Después de la música, Cindy Green puso una película que pensó que a todos les gustaría.",
+        "en": "After the music, Cindy Green put on a movie she thought everyone would like."
+      },
+      {
+        "order": 7,
+        "es": "A Holly Green no le gustó la película que su mamá puso, así que fue a su habitación y puso una película diferente.",
+        "en": "Holly Green didn't like the movie her mom put on, so she went to her room and put on a different movie."
+      },
+      {
+        "order": 8,
+        "es": "Cuando los abuelos se fueron, Cindy le preguntó a Harry: '¿Por qué siempre pones música tan horrible?'",
+        "en": "When the grandparents were gone, Cindy asked Harry, 'Why do you always put such horrible music on?'"
+      },
+      {
+        "order": 9,
+        "es": "A lo que Harry respondió: '¿Por qué siempre pones películas tan malas?'",
+        "en": "To which Harry replied, 'Why do you always put such bad movies on?'"
+      }
+    ]
+  },
+  {
+    "id": 211,
+    "file_name": "Phrasal_verbs_211.mp3",
+    "phrasal_verb": "get on",
+    "base_verb": "get",
+    "particle": "on",
+    "meaning_es": "Subirse o montarse en algo, como un vehículo, un animal o una superficie.",
+    "situation": "Movimiento y Lugares",
+    "tags_es": [
+      "subir",
+      "montar",
+      "acceder",
+      "transportarse",
+      "vehículo",
+      "animal",
+      "superficie"
+    ],
+    "intro_note": "Aprende a usar 'get on' para expresar la acción de subirse o montarse en un medio de transporte, un animal o una superficie.",
+    "type": "drill",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Sube al autobús antes de que se vaya.",
+        "en": "Get on the bus before it leaves."
+      },
+      {
+        "order": 2,
+        "es": "¿Por qué no pudiste subir al caballo?",
+        "en": "Why couldn't you get on the horse?"
+      },
+      {
+        "order": 3,
+        "es": "Él no se ha subido a una bici en mucho tiempo.",
+        "en": "He hasn't gotten on a bike in years."
+      },
+      {
+        "order": 4,
+        "es": "Nunca me subiría a esa montaña rusa.",
+        "en": "I'd never get on that roller coaster."
+      },
+      {
+        "order": 5,
+        "es": "Súbete a mi espalda, te llevo a caballito.",
+        "en": "Get on my back, I'll give you a piggyback."
+      },
+      {
+        "order": 6,
+        "es": "Él se subió a la cama de sus padres y empezó a saltar.",
+        "en": "He got on his parents' bed and started jumping."
+      },
+      {
+        "order": 7,
+        "es": "Ella se subió a la mesa para dar su discurso.",
+        "en": "She got on the table to give her speech."
+      },
+      {
+        "order": 8,
+        "es": "Vamos a coger el tren siguiente, este está lleno.",
+        "en": "Let's get on the next train. This one is full."
+      },
+      {
+        "order": 9,
+        "es": "No voy a subir a la parte de atrás de tu moto.",
+        "en": "I'm not getting on the back of your motorbike."
+      },
+      {
+        "order": 10,
+        "es": "Él se subió al tren sin su maletín.",
+        "en": "He got on the train without his briefcase."
+      }
+    ]
+  },
+  {
+    "id": 212,
+    "file_name": "Phrasal_verbs_212.mp3",
+    "phrasal_verb": "get on",
+    "base_verb": "get",
+    "particle": "on",
+    "meaning_es": "Subirse a, montarse en (un vehículo, animal, persona o superficie); ponerse encima de.",
+    "situation": "Movimiento y Lugares",
+    "tags_es": [
+      "subir",
+      "montar",
+      "caer",
+      "fall off",
+      "suceder",
+      "ocurrir",
+      "progreso",
+      "espectáculo",
+      "circo",
+      "elefante",
+      "payaso",
+      "trapecista"
+    ],
+    "intro_note": "Una historia divertida sobre un circo muy peculiar, donde la gente y los animales se 'suben' unos a otros, y el phrasal verb 'get on' se usa repetidamente para describir esta acción. También se menciona 'fall off' (caerse) y 'go on' (suceder).",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "El circo.",
+        "en": "The circus."
+      },
+      {
+        "order": 2,
+        "es": "Los Green estaban en el circo, que este año fue incluso más espectacular que nunca.",
+        "en": "The Greens were at the circus, which this year was even more spectacular than ever."
+      },
+      {
+        "order": 3,
+        "es": "La atracción principal era Jimbo, un elefante que se subió a una pequeña bicicleta y la condujo por la carpa del circo.",
+        "en": "The main attraction was Jimbo, an elephant who got on a tiny bike and rode it around the circus tent."
+      },
+      {
+        "order": 4,
+        "es": "Luego, un forzudo se subió a Jimbo, y un payaso se subió al forzudo.",
+        "en": "Then, a strongman got on Jimbo, and a clown got on the strongman."
+      },
+      {
+        "order": 5,
+        "es": "Parecía que todos se iban a caer, pero un trapecista se subió a la espalda del payaso para equilibrar la torre de personas.",
+        "en": "It looked like they were all going to fall off, but a trapeze artist got on the clown's back to balance the tower of people."
+      },
+      {
+        "order": 6,
+        "es": "No parecía posible que nadie más se subiera.",
+        "en": "It didn't seem possible for anyone else to get on."
+      },
+      {
+        "order": 7,
+        "es": "Sin embargo, el maestro de ceremonias dijo que necesitaba un voluntario de la audiencia para subirse al trapecista.",
+        "en": "Nevertheless, the ringmaster said he needed a volunteer from the audience to get on the trapeze artist."
+      },
+      {
+        "order": 8,
+        "es": "Charlie, que se estaba subiendo a los hombros de su padre para ver qué pasaba, fue la elección perfecta.",
+        "en": "Charlie, who was getting on his dad's shoulders to see what was going on, was the perfect choice."
+      },
+      {
+        "order": 9,
+        "es": "Varios equilibristas ayudaron a Charlie a subirse a los hombros del trapecista, y luego ellos también se subieron.",
+        "en": "Several tightrope walkers helped Charlie get on the trapeze artist's shoulders, and then they got on as well."
+      }
+    ]
+  },
+  {
+    "id": 213,
+    "file_name": "Phrasal_verbs_213.mp3",
+    "phrasal_verb": "to jump on / to hop on",
+    "base_verb": "jump / hop",
+    "particle": "on",
+    "meaning_es": "subir a (con un movimiento rápido o ligero), montarse en",
+    "situation": "Movimiento y Lugares",
+    "tags_es": [
+      "subir",
+      "montar",
+      "acceder",
+      "unirse",
+      "transportarse",
+      "salto",
+      "brincar",
+      "carro",
+      "tren",
+      "bicicleta",
+      "autobús",
+      "subir de un salto"
+    ],
+    "intro_note": "Practice the phrasal verbs 'to jump on' and 'to hop on', which mean to get onto something quickly or with a light movement. Also includes the figurative use of 'jump on the bandwagon'.",
+    "type": "drill",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Después de que él marcara, todos se le subieron encima.",
+        "en": "After he scored, everyone jumped on top of him."
+      },
+      {
+        "order": 2,
+        "es": "Él subió al tren justo a tiempo.",
+        "en": "He jumped on the train just in time."
+      },
+      {
+        "order": 3,
+        "es": "No te subas al carro también.",
+        "en": "Don't jump on the bandwagon too."
+      },
+      {
+        "order": 4,
+        "es": "El perro subió de un salto a la cama.",
+        "en": "The dog jumped onto the bed."
+      },
+      {
+        "order": 5,
+        "es": "Sube a mi bicicleta, te llevaré a casa.",
+        "en": "Hop on my bike, I'll give you a ride home."
+      },
+      {
+        "order": 6,
+        "es": "Subieron al autobús y encontraron asiento.",
+        "en": "They hopped on the bus and found a seat."
+      },
+      {
+        "order": 7,
+        "es": "Él se cayó del escenario, pero subió de nuevo de un salto.",
+        "en": "He fell off the stage, but jumped back on."
+      },
+      {
+        "order": 8,
+        "es": "Subo a mi avión privado cuando necesito un descanso.",
+        "en": "I hop on my private jet when I need a break."
+      },
+      {
+        "order": 9,
+        "es": "El atleta subió al podio de un salto y sonrió.",
+        "en": "The athlete jumped on the podium and smiled."
+      },
+      {
+        "order": 10,
+        "es": "El niño se subió a la espalda de su padre.",
+        "en": "The boy jumped on his father's back."
+      }
+    ]
+  },
+  {
+    "id": 214,
+    "file_name": "Phrasal_verbs_214.mp3",
+    "phrasal_verb": "Story: The Cat and the Dog",
+    "base_verb": null,
+    "particle": null,
+    "meaning_es": "Una historia sobre un gato perezoso y un perro juguetón, que utiliza phrasal verbs de movimiento como 'jump on' y la expresión 'fed up with' en el contexto de la vida cotidiana.",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "mascotas",
+      "gato",
+      "perro",
+      "narrativa",
+      "vida diaria",
+      "movimiento",
+      "harto",
+      "jump on",
+      "fed up with"
+    ],
+    "intro_note": "Escucha esta divertida historia sobre un gato perezoso y un perro juguetón que interactúan en la casa, utilizando phrasal verbs en contexto.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "El gato y el perro.",
+        "en": "The cat and the dog."
+      },
+      {
+        "order": 2,
+        "es": "El gato de los Green, el señor Jones, era un gato perezoso que nunca hacía mucho, excepto dormir.",
+        "en": "The Green's cat, Mr. Jones, was a lazy cat who never did much, except sleep."
+      },
+      {
+        "order": 3,
+        "es": "Pero todo eso cambió cuando los Green compraron un perro, llamado Skippy.",
+        "en": "But all that changed when the Greens bought a dog, called Skippy."
+      },
+      {
+        "order": 4,
+        "es": "Al señor Jones le gusta dormir en el sofá, pero cuando Skippy saltó al sofá con él, el señor Jones saltó a la silla.",
+        "en": "Mr. Jones likes to sleep on the sofa, but when Skippy jumped on the sofa with him, Mr. Jones jumped on the chair."
+      },
+      {
+        "order": 5,
+        "es": "Skippy pensó que era un juego, así que él también saltó a la silla.",
+        "en": "Skippy thought it was a game so he jumped on the chair too."
+      },
+      {
+        "order": 6,
+        "es": "El señor Jones no estaba muy contento con que Skippy saltara a la silla con él, así que saltó a la mesa del comedor.",
+        "en": "Mr. Jones was not too happy about Skippy jumping on the chair with him, so he jumped on the dining room table."
+      },
+      {
+        "order": 7,
+        "es": "Y Skippy, que se estaba divirtiendo mucho saltando sobre las cosas, saltó a la mesa y ladró.",
+        "en": "And Skippy, who was having a lot of fun jumping on things, jumped on the table and barked."
+      },
+      {
+        "order": 8,
+        "es": "El señor Jones estaba harto de Skippy y saltó a la encimera de la cocina.",
+        "en": "Mr. Jones was fed up with Skippy and jumped on the kitchen counter."
+      },
+      {
+        "order": 9,
+        "es": "Era demasiado alto para que Skippy saltara, pero él era inteligente.",
+        "en": "It was too high for Skippy to jump on, but he was smart."
+      },
+      {
+        "order": 10,
+        "es": "Así que saltó a un taburete y luego saltó a la encimera de la cocina.",
+        "en": "So he jumped on a stool and then jumped on the kitchen counter."
+      }
+    ]
+  },
+  {
+    "id": 215,
+    "file_name": "Phrasal_verbs_215.mp3",
+    "phrasal_verb": "climb on / climb onto",
+    "base_verb": "climb",
+    "particle": "on",
+    "meaning_es": "Subir o ascender a una superficie o un objeto, a menudo usando manos y pies, o simplemente para colocarse encima de algo.",
+    "situation": "Movimiento y Lugares",
+    "tags_es": [
+      "subir",
+      "ascender",
+      "encima",
+      "moverse",
+      "montar",
+      "acceder"
+    ],
+    "intro_note": "Este ejercicio se centra en el phrasal verb 'climb on' o 'climb onto', que significa subir o ascender a una superficie o un objeto.",
+    "type": "drill",
+    "drills": [
+      {
+        "order": 1,
+        "es": "El subió al tejado para limpiar los canalones.",
+        "en": "He climbed onto the roof to clean the gutters."
+      },
+      {
+        "order": 2,
+        "es": "Súbete a mis hombros, podrás ver mejor.",
+        "en": "Climb onto my shoulders, you'll see better."
+      },
+      {
+        "order": 3,
+        "es": "Los supervivientes del naufragio se subieron a un tablón.",
+        "en": "The shipwreck survivors climbed onto a plank."
+      },
+      {
+        "order": 4,
+        "es": "No había suficiente espacio para que todos subieran.",
+        "en": "There wasn't enough room for everyone to climb on."
+      },
+      {
+        "order": 5,
+        "es": "Dos estudiantes subieron a la estatua para protestar.",
+        "en": "Two students climbed onto the statue to protest."
+      },
+      {
+        "order": 6,
+        "es": "No te subas ahí!",
+        "en": "Don't climb on there!"
+      },
+      {
+        "order": 7,
+        "es": "El surfista se volvió a subir a su tabla de surf.",
+        "en": "The surfer climbed back on his surfboard."
+      },
+      {
+        "order": 8,
+        "es": "A los lagartos les gusta subirse a piedras para tomar el sol.",
+        "en": "Lizards like to climb on rocks to sunbathe."
+      },
+      {
+        "order": 9,
+        "es": "El ladrón subió a un alféizar para esconderse.",
+        "en": "The thief climbed onto a ledge to hide."
+      },
+      {
+        "order": 10,
+        "es": "Los trabajadores subieron a los autobuses para volver a casa.",
+        "en": "The workers climbed on the buses to go home."
+      }
+    ]
+  },
+  {
+    "id": 216,
+    "file_name": "Phrasal_verbs_216.mp3",
+    "phrasal_verb": "Story: Where did we park? (climb on, get off, walk around)",
+    "base_verb": null,
+    "particle": null,
+    "meaning_es": "Una historia sobre varias personas intentando encontrar su coche perdido, subiéndose a diferentes objetos y un coche para buscarlo, y luego bajándose de uno.",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "buscar",
+      "coche",
+      "aparcamiento",
+      "subir",
+      "bajar",
+      "encontrar",
+      "desorientación"
+    ],
+    "intro_note": "Una historia divertida sobre una familia intentando encontrar su coche aparcado de maneras poco convencionales.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "¿Dónde aparcamos?",
+        "en": "Where did we park?"
+      },
+      {
+        "order": 2,
+        "es": "Después de hacer la compra, Harry Green no podía recordar dónde había aparcado el coche.",
+        "en": "After doing the shopping, Harry Green couldn't remember where he had parked the car."
+      },
+      {
+        "order": 3,
+        "es": "Así que se subió a un banco para ver si podía verlo.",
+        "en": "So he climbed on a bench to see if he could see it."
+      },
+      {
+        "order": 4,
+        "es": "No pudo.",
+        "en": "He couldn't."
+      },
+      {
+        "order": 5,
+        "es": "Así que Charlie se subió a un cubo de basura, pero él tampoco pudo verlo.",
+        "en": "So Charlie climbed on a bin, but he couldn't see it either."
+      },
+      {
+        "order": 6,
+        "es": "Cindy no quería subirse a nada.",
+        "en": "Cindy didn't want to climb on anything."
+      },
+      {
+        "order": 7,
+        "es": "Así que caminó por el aparcamiento buscando el coche.",
+        "en": "So she walked around the parking lot looking for the car."
+      },
+      {
+        "order": 8,
+        "es": "Holly estaba ansiosa por llegar a casa.",
+        "en": "Holly was anxious to get home."
+      },
+      {
+        "order": 9,
+        "es": "Así que se subió encima de otro coche y miró a su alrededor.",
+        "en": "So she climbed on top of another car and looked around."
+      },
+      {
+        "order": 10,
+        "es": "Justo entonces, el dueño del coche al que Holly se había subido, la vio y gritó: '¡Oye, bájate de mi coche!'",
+        "en": "Just then, the owner of the car Holly had climbed on, saw her and shouted: 'Hey, get off my car!'"
+      },
+      {
+        "order": 11,
+        "es": "Se estaba haciendo tarde, y Harry estaba a punto de subirse al tejado del supermercado cuando Cindy gritó que había encontrado el coche.",
+        "en": "It was getting late, and Harry was about to climb on the roof of the supermarket when Cindy shouted that she had found the car."
+      }
+    ]
+  },
+  {
+    "id": 217,
+    "file_name": "Phrasal_verbs_217.mp3",
+    "phrasal_verb": "hang on / hold on",
+    "base_verb": null,
+    "particle": null,
+    "meaning_es": "Esperar; aguantar; sujetar.",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "esperar",
+      "aguantar",
+      "pausa",
+      "tiempo",
+      "sujetar",
+      "retener"
+    ],
+    "intro_note": "A drill focusing on the phrasal verbs 'to hang on' and 'to hold on', often used interchangeably to mean 'to wait' or 'to endure'.",
+    "type": "drill",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Espera, vuelvo enseguida.",
+        "en": "Hang on, I'll be right back."
+      },
+      {
+        "order": 2,
+        "es": "¿Puedes esperar hasta que él vuelva?",
+        "en": "Can you hang on till he gets back?"
+      },
+      {
+        "order": 3,
+        "es": "Él le dijo a ella que esperara.",
+        "en": "He told her to hang on."
+      },
+      {
+        "order": 4,
+        "es": "Espera, no estoy listo.",
+        "en": "Hold on, I'm not ready."
+      },
+      {
+        "order": 5,
+        "es": "No puedo esperar mucho más, llego tarde.",
+        "en": "I can't hold on much longer. I'm running late."
+      },
+      {
+        "order": 6,
+        "es": "Él esperó hasta que llegó la ambulancia.",
+        "en": "He held on for the ambulance to arrive."
+      },
+      {
+        "order": 7,
+        "es": "La secretaria le pidió que esperara.",
+        "en": "The secretary asked him to hold on."
+      },
+      {
+        "order": 8,
+        "es": "Espera, ¿qué has dicho?",
+        "en": "Hold on a minute. What did you say?"
+      },
+      {
+        "order": 9,
+        "es": "Sé que tienes hambre, pero aguanta hasta la hora de comer.",
+        "en": "I know you're hungry, but hang on until lunchtime."
+      },
+      {
+        "order": 10,
+        "es": "No sé si puedo aguantar hasta entonces.",
+        "en": "I don't know if I can hang on until then."
+      }
+    ]
+  },
+  {
+    "id": 218,
+    "file_name": "Phrasal_verbs_218.mp3",
+    "phrasal_verb": "hold on",
+    "base_verb": "hold",
+    "particle": "on",
+    "meaning_es": "Esperar, aguardar, tener paciencia. En este contexto, 'hang on' es un sinónimo informal.",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "esperar",
+      "aguardar",
+      "paciencia",
+      "familia",
+      "tareas",
+      "niño",
+      "conversación"
+    ],
+    "intro_note": "Un cuento corto que ilustra el uso del phrasal verb 'hold on' en varias situaciones familiares.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "No contengas la respiración.",
+        "en": "Don't hold your breath."
+      },
+      {
+        "order": 2,
+        "es": "Charlie tenía problemas con su tarea.",
+        "en": "Charlie was having trouble with his homework."
+      },
+      {
+        "order": 3,
+        "es": "Así que le preguntó a su papá si podía ayudarle.",
+        "en": "So he asked his dad if he could help him."
+      },
+      {
+        "order": 4,
+        "es": "Pero su papá dijo: 'Espera, Charlie, estoy viendo las noticias'.",
+        "en": "But his dad said, 'Hang on, Charlie, I'm watching the news.'"
+      },
+      {
+        "order": 5,
+        "es": "Así que Charlie le preguntó a su mamá.",
+        "en": "So Charlie asked his mum."
+      },
+      {
+        "order": 6,
+        "es": "Pero ella dijo: '¿No puedes esperar hasta después de la cena, Charlie?'",
+        "en": "But she said, 'Can't you hold on until after dinner, Charlie?'"
+      },
+      {
+        "order": 7,
+        "es": "Y cuando Charlie le preguntó a su hermana mayor Holly, ella dijo: 'Espera, Charlie, estoy hablando por teléfono'.",
+        "en": "And when Charlie asked his oldest sister Holly, she said, 'Hold on, Charlie, I'm on the phone.'"
+      },
+      {
+        "order": 8,
+        "es": "Charlie no tenía tiempo para esperar hasta que su papá terminara de ver las noticias,",
+        "en": "Charlie didn't have time to hold on until his dad finished watching the news,"
+      },
+      {
+        "order": 9,
+        "es": "y no tenía tiempo para esperar hasta después de la cena.",
+        "en": "and he didn't have time to hold on until after dinner."
+      },
+      {
+        "order": 10,
+        "es": "Ciertamente no tenía tiempo para esperar hasta que Holly colgara el teléfono porque podría estar esperando durante horas.",
+        "en": "He certainly didn't have time to hold on until Holly hung up the phone because he could be holding on for hours."
+      },
+      {
+        "order": 11,
+        "es": "Así que, al final, Charlie se sentó a hacer su tarea él mismo.",
+        "en": "So, in the end, Charlie sat down to do his homework himself."
+      },
+      {
+        "order": 12,
+        "es": "Cuando la mamá de Charlie le pidió que pusiera la mesa para la cena, Charlie dijo:",
+        "en": "When Charlie's mum asked him to set the table for dinner, Charlie said:"
+      },
+      {
+        "order": 13,
+        "es": "'Espera, mamá, estoy haciendo mi tarea'.",
+        "en": "'Hang on, Mum, I'm doing my homework.'"
+      }
+    ]
+  },
+  {
+    "id": 219,
+    "file_name": "Phrasal_verbs_219.mp3",
+    "phrasal_verb": "stay on",
+    "base_verb": "stay",
+    "particle": "on",
+    "meaning_es": "Significa 'permanecer' o 'continuar' en un lugar, una posición, un trabajo o una situación por un tiempo adicional o de forma prolongada.",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "permanecer",
+      "quedarse",
+      "continuar",
+      "extender la estancia",
+      "seguir en un puesto",
+      "mantenerse",
+      "continuar trabajando"
+    ],
+    "intro_note": "Ejercicios de taladro para el phrasal verb 'stay on'.",
+    "type": "drill",
+    "drills": [
+      {
+        "order": 1,
+        "es": "La profesora suplente se quedó por dos semanas más.",
+        "en": "The substitute teacher stayed on for two more weeks."
+      },
+      {
+        "order": 2,
+        "es": "Se quedó hasta que el profesor habitual mejoró.",
+        "en": "She stayed on until the usual teacher got better."
+      },
+      {
+        "order": 3,
+        "es": "Le pidieron que se quedara permanentemente.",
+        "en": "They asked her to stay on permanently."
+      },
+      {
+        "order": 4,
+        "es": "Ella decidió quedarse por otro año.",
+        "en": "She decided to stay on for another year."
+      },
+      {
+        "order": 5,
+        "es": "¿Te quedarás como tesorero el próximo mandato?",
+        "en": "Will you stay on as treasurer next term?"
+      },
+      {
+        "order": 6,
+        "es": "Me quedaré solo si Nikki se queda como presidente.",
+        "en": "I'll only stay on if Nikki stays on as president."
+      },
+      {
+        "order": 7,
+        "es": "Él dijo que no quería quedarse por otro mandato.",
+        "en": "He said he didn't want to stay on another term."
+      },
+      {
+        "order": 8,
+        "es": "Nadie quería que se quedara como entrenador del club.",
+        "en": "No one wanted him to stay on as club manager."
+      },
+      {
+        "order": 9,
+        "es": "Hemos decidido quedarnos por otro mes.",
+        "en": "We've decided to stay on for another month."
+      },
+      {
+        "order": 10,
+        "es": "Se quedarán el tiempo necesario para hacer el trabajo.",
+        "en": "They'll stay on for as long as it takes to do the job."
+      }
+    ]
+  },
+  {
+    "id": 220,
+    "file_name": "Phrasal_verbs_220.mp3",
+    "phrasal_verb": "stay on",
+    "base_verb": "stay",
+    "particle": "on",
+    "meaning_es": "Permanecer en un lugar, trabajo o puesto; continuar en una situación.",
+    "situation": "Educación",
+    "tags_es": [
+      "quedarse",
+      "permanecer",
+      "escuela",
+      "maestra",
+      "permanencia",
+      "continuar"
+    ],
+    "intro_note": "Este audio cuenta la historia de una nueva maestra sustituta en una escuela y las diferentes opiniones que padres y alumnos tienen sobre su permanencia en el puesto.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "La nueva maestra.",
+        "en": "The new teacher."
+      },
+      {
+        "order": 2,
+        "es": "Harry y Cindy Green no estaban contentos con una de las maestras en la escuela de sus hijos.",
+        "en": "Harry and Cindy Green were not happy about one of the teachers at their children's school."
+      },
+      {
+        "order": 3,
+        "es": "Ella era una maestra sustituta, a quien se le había pedido que se quedara por el resto del semestre.",
+        "en": "She was a substitute teacher, who had been asked to stay on for the rest of the semester."
+      },
+      {
+        "order": 4,
+        "es": "Todos los estudiantes de la escuela querían que ella se quedara, porque no era como ninguna de las otras maestras.",
+        "en": "All the students in the school wanted her to stay on, because she wasn't like any of the other teachers."
+      },
+      {
+        "order": 5,
+        "es": "Sin embargo, los Green no querían que ella se quedara, porque pensaban que era demasiado joven.",
+        "en": "However, the Greens didn't want her to stay on, because they thought she was too young."
+      },
+      {
+        "order": 6,
+        "es": "Los Fresno tampoco querían que ella se quedara, porque pensaban que era demasiado estricta.",
+        "en": "The Fresnos didn't want her to stay on either, because they thought she was too strict."
+      },
+      {
+        "order": 7,
+        "es": "Y los Chan no querían que ella se quedara, porque sus clases eran demasiado difíciles.",
+        "en": "And the Chans didn't want her to stay on, because her classes were too difficult."
+      },
+      {
+        "order": 8,
+        "es": "Cuando fueron al director para decirle por qué no querían que ella se quedara, él les dijo que la razón por la que le había pedido que se quedara en primer lugar, era porque era joven, estricta y sus clases eran diferentes.",
+        "en": "When they went to the principal to tell him why they didn't want her to stay on, he told them that the reason he had asked her to stay on in the first place, was because she was young, strict, and her classes were different."
+      }
+    ]
+  },
+  {
+    "id": 221,
+    "file_name": "Phrasal_verbs_221.mp3",
+    "phrasal_verb": "add on",
+    "base_verb": "add",
+    "particle": "on",
+    "meaning_es": "Añadir o agregar algo extra a lo que ya existe o está previsto; incorporar un elemento adicional.",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "añadir",
+      "agregar",
+      "sumar",
+      "incluir",
+      "extra",
+      "adicional",
+      "incorporar",
+      "complementar"
+    ],
+    "intro_note": "To add on.",
+    "type": "drill",
+    "drills": [
+      {
+        "order": 1,
+        "es": "¿Vamos a agregar una propina?",
+        "en": "Are we going to add on a tip?"
+      },
+      {
+        "order": 2,
+        "es": "Las líneas aéreas añaden un recargo por exceso de equipaje.",
+        "en": "Airlines add on a surcharge for heavy bags."
+      },
+      {
+        "order": 3,
+        "es": "La película dura 3 horas cuando añades los avances.",
+        "en": "The movie lasts 3 hours when you add on the trailers."
+      },
+      {
+        "order": 4,
+        "es": "Cuando les pases la factura, no te olvides de añadir el IVA.",
+        "en": "When you bill them, don't forget to add on the VAT."
+      },
+      {
+        "order": 5,
+        "es": "Los creadores añadieron una característica nueva.",
+        "en": "The developers added on a new feature."
+      },
+      {
+        "order": 6,
+        "es": "El complemento fue una mejora importante.",
+        "en": "The add-on was a major improvement."
+      },
+      {
+        "order": 7,
+        "es": "El grupo de música añadió un concierto nuevo a su gira.",
+        "en": "The band added on a new concert to their tour."
+      },
+      {
+        "order": 8,
+        "es": "Añadieron una ampliación a su casa.",
+        "en": "They added on an extension to their house."
+      },
+      {
+        "order": 9,
+        "es": "Un dormitorio nuevo fue añadido.",
+        "en": "A new bedroom was added on."
+      },
+      {
+        "order": 10,
+        "es": "La mayoría de los estados en Estados Unidos agregan IVA.",
+        "en": "Most states in the USA add on a sales tax."
+      }
+    ]
+  },
+  {
+    "id": 222,
+    "file_name": "Phrasal_verbs_222.mp3",
+    "phrasal_verb": "add on",
+    "base_verb": "add",
+    "particle": "on",
+    "meaning_es": "Añadir, anexar o adjuntar algo, especialmente una extensión o una parte adicional a algo ya existente (como una casa o una factura).",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "añadir",
+      "anexar",
+      "ampliar",
+      "extender",
+      "construcción",
+      "casa",
+      "habitación",
+      "expansión"
+    ],
+    "intro_note": null,
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "En construcción.",
+        "en": "Under construction."
+      },
+      {
+        "order": 2,
+        "es": "Los Green estaban pensando en añadir una nueva habitación a su casa.",
+        "en": "The Greens were thinking about adding on a new room to their house."
+      },
+      {
+        "order": 3,
+        "es": "Pero no estaban seguros de qué querían añadir.",
+        "en": "But they weren't sure what they wanted to add on."
+      },
+      {
+        "order": 4,
+        "es": "¡Añadid una sala de juegos!, dijo Charlie.",
+        "en": "Add on a game room, said Charlie."
+      },
+      {
+        "order": 5,
+        "es": "¡No, añadid una sala de cine!, dijo Holly.",
+        "en": "No, add on a movie room, said Holly."
+      },
+      {
+        "order": 6,
+        "es": "Harry quería añadir un segundo salón.",
+        "en": "Harry wanted to add on a second living room."
+      },
+      {
+        "order": 7,
+        "es": "Pero Cindy dijo que le gustaría añadir una cocina nueva que fuera más grande que la que tenían.",
+        "en": "But Cindy said she would like to add on a new kitchen that was bigger than the one they had."
+      },
+      {
+        "order": 8,
+        "es": "Al final, los Green decidieron añadir una cocina más grande y convertir la antigua en un segundo salón para juegos y películas.",
+        "en": "In the end, the Greens decided to add on a bigger kitchen and convert the old one into a second living room for games and movies."
+      },
+      {
+        "order": 9,
+        "es": "Cuando la ampliación estuvo terminada, los vecinos de los Green quedaron tan impresionados que muchos de ellos decidieron añadir nuevas habitaciones también.",
+        "en": "When the add-on was finished, the Greens neighbors were so impressed that many of them decided to add on new rooms too."
+      }
+    ]
+  },
+  {
+    "id": 223,
+    "file_name": "Phrasal_verbs_223.mp3",
+    "phrasal_verb": "put on",
+    "base_verb": "put",
+    "particle": "on",
+    "meaning_es": "Añadir, colocar, registrar, o aplicar algo sobre una superficie, en un documento, una cuenta, un tiempo, etc.",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "añadir",
+      "poner",
+      "colocar",
+      "incluir",
+      "registrar",
+      "documentos",
+      "cuentas",
+      "tiempo",
+      "comida",
+      "aplicar"
+    ],
+    "intro_note": "Este ejercicio se centra en el phrasal verb 'put on' con el significado de añadir o colocar algo sobre una superficie, en una cuenta, un documento o un registro de tiempo.",
+    "type": "drill",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Añade mi nombre al informe también.",
+        "en": "Put my name on the report too."
+      },
+      {
+        "order": 2,
+        "es": "Él pagó la cena con su tarjeta de crédito.",
+        "en": "He put dinner on his credit card."
+      },
+      {
+        "order": 3,
+        "es": "Añade las copas a mi cuenta.",
+        "en": "Put the drinks on my tab."
+      },
+      {
+        "order": 4,
+        "es": "Se me olvidó poner tu nombre en la lista de invitados.",
+        "en": "I forgot to put your name on the guest list."
+      },
+      {
+        "order": 5,
+        "es": "¿Pusiste la fecha en el contrato?",
+        "en": "Did you put the date on the contract?"
+      },
+      {
+        "order": 6,
+        "es": "Podemos añadir eso al orden del día para mañana.",
+        "en": "We can put that on the agenda for tomorrow."
+      },
+      {
+        "order": 7,
+        "es": "El árbitro añadió 3 minutos más al reloj.",
+        "en": "The referee put 3 more minutes on the clock."
+      },
+      {
+        "order": 8,
+        "es": "Añade otro cero al cheque.",
+        "en": "Put another zero on that check."
+      },
+      {
+        "order": 9,
+        "es": "No añadas más vinagre a la ensalada.",
+        "en": "Don't put any more vinegar on the salad."
+      },
+      {
+        "order": 10,
+        "es": "El camarero puso demasiado parmesano a mi pasta.",
+        "en": "The waiter put too much Parmesan on my pasta."
+      }
+    ]
+  },
+  {
+    "id": 224,
+    "file_name": "Phrasal_verbs_224.mp3",
+    "phrasal_verb": "Story: The Shopping List",
+    "base_verb": null,
+    "particle": null,
+    "meaning_es": "La historia trata sobre Cindy volviendo del supermercado y su familia preguntándole por artículos específicos (brownies, cola, pilas) que no estaban en la lista de compras, por lo que los añaden para la semana siguiente.",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "lista de compras",
+      "supermercado",
+      "tareas del hogar",
+      "olvidos",
+      "planificación semanal"
+    ],
+    "intro_note": "A short story illustrating daily life situations related to shopping lists.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "La lista de compras.",
+        "en": "The shopping list."
+      },
+      {
+        "order": 2,
+        "es": "Cuando Cindy regresó del supermercado, Holly le preguntó si había comprado brownies.",
+        "en": "When Cindy got back from the supermarket, Holly asked her if she had bought brownies."
+      },
+      {
+        "order": 3,
+        "es": "¿Los pusiste en la lista?",
+        "en": "Did you put them on the list?"
+      },
+      {
+        "order": 4,
+        "es": "preguntó Cindy.",
+        "en": "asked Cindy."
+      },
+      {
+        "order": 5,
+        "es": "Holly no los había puesto en la lista.",
+        "en": "Holly hadn't put them on the list."
+      },
+      {
+        "order": 6,
+        "es": "Así que los puso en la lista para la próxima semana.",
+        "en": "So she put them on the list for next week."
+      },
+      {
+        "order": 7,
+        "es": "Luego Charlie le preguntó si había comprado cola.",
+        "en": "Then Charlie asked her if she had bought cola."
+      },
+      {
+        "order": 8,
+        "es": "¿Lo pusiste en la lista?",
+        "en": "Did you put it on the list?"
+      },
+      {
+        "order": 9,
+        "es": "preguntó Cindy.",
+        "en": "asked Cindy."
+      },
+      {
+        "order": 10,
+        "es": "Charlie no había puesto la cola en la lista.",
+        "en": "Charlie hadn't put cola on the list."
+      },
+      {
+        "order": 11,
+        "es": "Así que lo puso en la lista para la próxima semana.",
+        "en": "So he put it on the list for next week."
+      },
+      {
+        "order": 12,
+        "es": "Harry estaba seguro de que había puesto las pilas en la lista.",
+        "en": "Harry was sure he had put batteries on the list."
+      },
+      {
+        "order": 13,
+        "es": "Sin embargo, Cindy no las había comprado.",
+        "en": "However, Cindy hadn't bought them."
+      },
+      {
+        "order": 14,
+        "es": "Así que ella le dijo que las pusiera en la lista también para la próxima semana.",
+        "en": "So she told him to put them on the list for next week too."
+      }
+    ]
+  },
+  {
+    "id": 225,
+    "file_name": "Phrasal_verbs_225.mp3",
+    "phrasal_verb": "to stick on",
+    "base_verb": "stick",
+    "particle": "on",
+    "meaning_es": "Adherir algo a una superficie utilizando pegamento, cinta adhesiva, o cualquier otro método para fijarlo.",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "pegar",
+      "adherir",
+      "fijar",
+      "unir",
+      "superficie",
+      "etiqueta",
+      "sello"
+    ],
+    "intro_note": "Este ejercicio se centra en el phrasal verb 'to stick on', que significa 'pegar' o 'adherir' algo a una superficie.",
+    "type": "drill",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Alguien te ha pegado una pegatina en la espalda?",
+        "en": "Someone stuck a sticker on your back."
+      },
+      {
+        "order": 2,
+        "es": "No pegues nada en las paredes.",
+        "en": "Don't stick anything on the walls."
+      },
+      {
+        "order": 3,
+        "es": "Él volvió a pegar su suela con cola de contacto.",
+        "en": "He stuck his sole back on with super glue."
+      },
+      {
+        "order": 4,
+        "es": "Ella pegó la etiqueta con su nombre en su abrigo.",
+        "en": "She stuck her name tag on her coat."
+      },
+      {
+        "order": 5,
+        "es": "Tengo que pegar un sello a esta carta.",
+        "en": "I need to stick a stamp on this letter."
+      },
+      {
+        "order": 6,
+        "es": "Asegúrate de que pegues suficiente franqueo.",
+        "en": "Make sure you stick enough postage on."
+      },
+      {
+        "order": 7,
+        "es": "Él pegó su dirección en su maleta.",
+        "en": "He stuck his address on his suitcase."
+      },
+      {
+        "order": 8,
+        "es": "Lo pegué con velcro.",
+        "en": "I stuck it on with Velcro."
+      },
+      {
+        "order": 9,
+        "es": "Vas a poner ese póster en la pared?",
+        "en": "Are you going to stick that poster on the wall?"
+      },
+      {
+        "order": 10,
+        "es": "No deberías pegar una tirita en esa herida?",
+        "en": "Shouldn't you stick a bandage on that cut?"
+      }
+    ]
+  },
+  {
+    "id": 226,
+    "file_name": "Phrasal_verbs_226.mp3",
+    "phrasal_verb": "stick on",
+    "base_verb": "stick",
+    "particle": "on",
+    "meaning_es": "Pegar o adherir algo sobre una superficie.",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "notas adhesivas",
+      "olvidadizo",
+      "recordatorios",
+      "pegar",
+      "adherir",
+      "familia"
+    ],
+    "intro_note": "Una breve historia sobre la familia Green, que usa notas adhesivas para recordar cosas.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Los Green son una familia bastante olvidadiza.",
+        "en": "The Greens are a pretty forgetful family."
+      },
+      {
+        "order": 2,
+        "es": "Así que a menudo pegan notas en las cosas.",
+        "en": "So they often stick notes on things."
+      },
+      {
+        "order": 3,
+        "es": "Harry Green pega sus notas en el monitor de su ordenador y a menudo las pega en el salpicadero de su coche.",
+        "en": "Harry Green sticks his notes on his computer monitor and often sticks them on his car dashboard."
+      },
+      {
+        "order": 4,
+        "es": "Cindy Green pega sus notas en el espejo del baño y también las pega en la puerta principal.",
+        "en": "Cindy Green sticks her notes on the bathroom mirror and also sticks them on the front door."
+      },
+      {
+        "order": 5,
+        "es": "Holly Green pega sus notas adhesivas en su escritorio y a veces las pega en la puerta de su dormitorio.",
+        "en": "Holly Green sticks her sticky notes on her desk and sometimes sticks them on her bedroom door."
+      },
+      {
+        "order": 6,
+        "es": "Charlie Green es el miembro más olvidadizo de la familia, así que pega sus notas en la televisión e incluso las pega en su frente.",
+        "en": "Charlie Green is the most forgetful member of the family, so he sticks his notes on the TV and even sticks them on his forehead."
+      }
+    ]
+  },
+  {
+    "id": 227,
+    "file_name": "Phrasal_verbs_227.mp3",
+    "phrasal_verb": "carry on",
+    "base_verb": "carry",
+    "particle": "on",
+    "meaning_es": "Continuar, seguir haciendo algo, persistir. También puede significar mantener o proseguir una tradición, una conversación, etc.",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "continuar",
+      "seguir",
+      "proseguir",
+      "mantener",
+      "persistir",
+      "reanudación"
+    ],
+    "intro_note": "To carry on.",
+    "type": "drill",
+    "drills": [
+      {
+        "order": 1,
+        "es": "El boxeador no podía seguir.",
+        "en": "The boxer couldn't carry on."
+      },
+      {
+        "order": 2,
+        "es": "¿Puedes seguir sin mí?",
+        "en": "Can you carry on without me?"
+      },
+      {
+        "order": 3,
+        "es": "Las cosas no pueden seguir así.",
+        "en": "Things can't carry on like this."
+      },
+      {
+        "order": 4,
+        "es": "Continuemos esta conversación luego.",
+        "en": "Let's carry on this conversation later."
+      },
+      {
+        "order": 5,
+        "es": "Perdona la interrupción, sigue.",
+        "en": "Sorry for the interruption, carry on."
+      },
+      {
+        "order": 6,
+        "es": "Su hijo continuó la tradición familiar.",
+        "en": "His son carried on the family tradition."
+      },
+      {
+        "order": 7,
+        "es": "¿Cuánto tiempo vas a seguir trabajando?",
+        "en": "How long are you going to carry on working?"
+      },
+      {
+        "order": 8,
+        "es": "Él seguirá trabajando hasta que se caiga muerto.",
+        "en": "He'll carry on working until he drops dead."
+      },
+      {
+        "order": 9,
+        "es": "¿Cuánto tiempo va a seguir esta recesión?",
+        "en": "How long is this recession going to carry on?"
+      },
+      {
+        "order": 10,
+        "es": "Sigue con lo que estabas haciendo.",
+        "en": "Carry on with what you were doing."
+      }
+    ]
+  },
+  {
+    "id": 228,
+    "file_name": "Phrasal_verbs_228.mp3",
+    "phrasal_verb": "carry on",
+    "base_verb": "carry",
+    "particle": "on",
+    "meaning_es": "Continuar o seguir haciendo algo.",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "continuar",
+      "seguir",
+      "proseguir",
+      "mantener",
+      "persistencia"
+    ],
+    "intro_note": "Una historia sobre la familia Green y cómo todos quieren 'carry on' con sus actividades después de cenar.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Era la hora de la cena en casa de los Green, y todos tenían prisa por terminar de comer para poder continuar con lo que estaban haciendo.",
+        "en": "It was dinner time at the Greens, and everyone was in a hurry to finish eating so they could carry on with what they were doing."
+      },
+      {
+        "order": 2,
+        "es": "Holly Green quería terminar de cenar para poder seguir escribiendo una carta a un amigo.",
+        "en": "Holly Green wanted to finish dinner so she could carry on writing a letter to a friend."
+      },
+      {
+        "order": 3,
+        "es": "Harry Green quería terminar de comer para poder seguir viendo el fútbol.",
+        "en": "Harry Green wanted to finish eating so he could carry on watching the football."
+      },
+      {
+        "order": 4,
+        "es": "Charlie Green tenía prisa por terminar de comer para poder seguir jugando a su nuevo videojuego.",
+        "en": "Charlie Green was in a hurry to finish eating so he could carry on playing his new video game."
+      },
+      {
+        "order": 5,
+        "es": "Cuando Holly, Harry y Charlie terminaron de comer, Cindy continuó cenando sola.",
+        "en": "When Holly, Harry, and Charlie finished eating, Cindy carried on eating dinner by herself."
+      },
+      {
+        "order": 6,
+        "es": "Ella no tenía ninguna prisa por seguir lavando la ropa o por seguir limpiando la casa.",
+        "en": "She was in no hurry to carry on washing clothes or to carry on cleaning the house."
+      }
+    ]
+  },
+  {
+    "id": 229,
+    "file_name": "Phrasal_verbs_229.mp3",
+    "phrasal_verb": "keep on",
+    "base_verb": "keep",
+    "particle": "on",
+    "meaning_es": "Continuar haciendo algo, seguir haciendo algo, no parar de hacer algo. Se utiliza seguido de un gerundio (-ing).",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "continuar",
+      "seguir",
+      "persistir",
+      "insistir",
+      "no parar"
+    ],
+    "intro_note": "to keep on",
+    "type": "drill",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Mi ordenador no para de colgarse.",
+        "en": "My computer keeps on crashing."
+      },
+      {
+        "order": 2,
+        "es": "Si sigues haciendo eso, te despedirán.",
+        "en": "If you keep on doing that, you'll get fired."
+      },
+      {
+        "order": 3,
+        "es": "Él sigue fingiendo que no me conoce.",
+        "en": "He keeps on pretending not to know me."
+      },
+      {
+        "order": 4,
+        "es": "No paró de gritar hasta que vino la policía.",
+        "en": "He kept on yelling until the police came."
+      },
+      {
+        "order": 5,
+        "es": "Sigue practicando, lo conseguirás.",
+        "en": "Keep on practicing, and you'll get it."
+      },
+      {
+        "order": 6,
+        "es": "Ella no para de llamarme.",
+        "en": "She keeps on calling me."
+      },
+      {
+        "order": 7,
+        "es": "Yo no dejo de colgar el teléfono.",
+        "en": "I keep on hanging up the phone."
+      },
+      {
+        "order": 8,
+        "es": "Él seguía conduciendo aunque tenía sueño.",
+        "en": "He kept on driving even though he was tired."
+      },
+      {
+        "order": 9,
+        "es": "Ella no para de meterse en líos en el colegio.",
+        "en": "She keeps on getting in trouble at school."
+      },
+      {
+        "order": 10,
+        "es": "¿Por qué sigues comprándole regalos?",
+        "en": "Why do you keep on buying her presents?"
+      }
+    ]
+  },
+  {
+    "id": 230,
+    "file_name": "Phrasal_verbs_230.mp3",
+    "phrasal_verb": "keep on",
+    "base_verb": "keep",
+    "particle": "on",
+    "meaning_es": "Continuar haciendo algo repetidamente; seguir haciendo algo sin parar.",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "continuar",
+      "seguir",
+      "repetir",
+      "persistir",
+      "hábitos",
+      "problemas escolares",
+      "rutina"
+    ],
+    "intro_note": "Una historia sobre Charlie Green, quien constantemente tiene problemas en la escuela, ilustrando el uso del phrasal verb 'keep on' para expresar acciones repetitivas y continuas.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Charlie Green sigue metiéndose en problemas en la escuela y sus padres siguen recibiendo cartas de sus profesores.",
+        "en": "Charlie Green keeps on getting in trouble at school and his parents keep on getting letters from his teachers."
+      },
+      {
+        "order": 2,
+        "es": "Aparentemente, él sigue quedándose dormido en clase.",
+        "en": "Apparently, he keeps on falling asleep in class."
+      },
+      {
+        "order": 3,
+        "es": "Cindy sigue diciéndole que tiene que dormir más.",
+        "en": "Cindy keeps on telling him that he has to get more sleep."
+      },
+      {
+        "order": 4,
+        "es": "Pero Charlie sigue acostándose demasiado tarde.",
+        "en": "But Charlie keeps on going to bed too late."
+      },
+      {
+        "order": 5,
+        "es": "Harry sigue recordándole a Charlie que si sigue quedándose dormido en clase, seguirá sacando malas notas.",
+        "en": "Harry keeps on reminding Charlie that if he keeps on falling asleep in class, he'll keep on getting bad grades."
+      },
+      {
+        "order": 6,
+        "es": "Charlie sigue diciéndoles a sus padres que sigue quedándose dormido en clase porque sus profesores siguen dándole demasiada tarea, por eso sigue acostándose tan tarde.",
+        "en": "Charlie keeps on telling his parents that he keeps on falling asleep in class because his teachers keep on giving him too much homework, which is why he keeps on going to bed so late."
+      }
+    ]
+  },
+  {
+    "id": 231,
+    "file_name": "Phrasal_verbs_231.mp3",
+    "phrasal_verb": "go on",
+    "base_verb": "go",
+    "particle": "on",
+    "meaning_es": "Continuar, seguir, durar. También se usa 'go on about' para hablar de algo extensamente o de forma molesta, y 'go on with' para continuar con una actividad o tu vida.",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "continuar",
+      "seguir",
+      "durar",
+      "proseguir",
+      "extenderse",
+      "insistir",
+      "hablar de",
+      "avanzar"
+    ],
+    "intro_note": "Ejemplos de 'go on' con diferentes matices de 'continuar' o 'seguir', incluyendo su uso con 'about' y 'with'.",
+    "type": "drill",
+    "drills": [
+      {
+        "order": 1,
+        "es": "¿Tienes intención de continuar con ello?",
+        "en": "Are you planning to go on with it?"
+      },
+      {
+        "order": 2,
+        "es": "El espectáculo debe continuar.",
+        "en": "The show must go on."
+      },
+      {
+        "order": 3,
+        "es": "No podemos continuar sin ellos.",
+        "en": "We can't go on without them."
+      },
+      {
+        "order": 4,
+        "es": "La fiesta siguió por más tiempo del que se esperaba.",
+        "en": "The party went on longer than expected."
+      },
+      {
+        "order": 5,
+        "es": "Siguió hasta altas horas de la madrugada.",
+        "en": "It went on to the early hours of the morning."
+      },
+      {
+        "order": 6,
+        "es": "Para de hablar tanto de tu nueva novia.",
+        "en": "Stop going on about your new girlfriend."
+      },
+      {
+        "order": 7,
+        "es": "Llevas horas hablando de ella.",
+        "en": "You've been going on and on about her for hours."
+      },
+      {
+        "order": 8,
+        "es": "Su padre no me permitirá continuar viéndola.",
+        "en": "Her father won't let me go on seeing her."
+      },
+      {
+        "order": 9,
+        "es": "No puedes continuar viviendo así.",
+        "en": "You can't go on living like this."
+      },
+      {
+        "order": 10,
+        "es": "Ya es hora de continuar con tu vida.",
+        "en": "It's time to go on with your life."
+      }
+    ]
+  },
+  {
+    "id": 232,
+    "file_name": "Phrasal_verbs_232.mp3",
+    "phrasal_verb": "go on",
+    "base_verb": "go",
+    "particle": "on",
+    "meaning_es": "Continuar, seguir, persistir. Puede implicar seguir de forma ininterrumpida o excesiva, o simplemente que algo dure.",
+    "situation": "Vida Cotidiana, Eventos Sociales",
+    "tags_es": [
+      "continuar",
+      "seguir",
+      "durar",
+      "extenderse",
+      "persistir",
+      "proseguir",
+      "no parar"
+    ],
+    "intro_note": "Este relato corto ilustra diversas formas en que se utiliza el 'phrasal verb' 'go on', principalmente para expresar continuidad, a menudo con la connotación de que algo se extiende por mucho tiempo, a veces de manera excesiva.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Invitados inoportunos.",
+        "en": "Unwelcome guests."
+      },
+      {
+        "order": 2,
+        "es": "Era el aniversario de bodas de los Green y habían invitado a todos sus amigos.",
+        "en": "It was a Green's wedding anniversary and they had invited all of their friends."
+      },
+      {
+        "order": 3,
+        "es": "Pensaron que la fiesta continuaría hasta aproximadamente las 11 p.m.",
+        "en": "They thought the party would go on until about 11 p.m."
+      },
+      {
+        "order": 4,
+        "es": "Pero terminó continuando hasta mucho más tarde.",
+        "en": "But it ended up going on until much later."
+      },
+      {
+        "order": 5,
+        "es": "Marge, la amiga de Cindy, siguió y siguió hablando de su nuevo perro.",
+        "en": "Cindy's friend Marge went on and on about her new dog."
+      },
+      {
+        "order": 6,
+        "es": "Y Frank, el amigo de Harry, siguió durante horas hablando del estado de la economía.",
+        "en": "And Harry's friend Frank went on for hours about the state of the economy."
+      },
+      {
+        "order": 7,
+        "es": "Cindy siguió sirviendo bebidas.",
+        "en": "Cindy went on serving drinks."
+      },
+      {
+        "order": 8,
+        "es": "Y Harry siguió hablando con gente, que siguió y siguió hablando de cosas aburridas.",
+        "en": "And Harry went on talking to people, who went on and on about boring things."
+      },
+      {
+        "order": 9,
+        "es": "A las 2 a.m., los Green no pudieron seguir más y les dijeron a todos que continuaran la fiesta en otro lugar.",
+        "en": "At 2 a.m., the Greens couldn't go on anymore and told everyone to go on with the party elsewhere."
+      }
+    ]
+  },
+  {
+    "id": 233,
+    "file_name": "Phrasal_verbs_233.mp3",
+    "phrasal_verb": "log on / sign on",
+    "base_verb": "log / sign",
+    "particle": "on",
+    "meaning_es": "Acceder a un sistema informático, sitio web o cuenta, generalmente introduciendo credenciales (nombre de usuario y contraseña).",
+    "situation": "Tecnología y Comunicación",
+    "tags_es": [
+      "acceder",
+      "iniciar sesión",
+      "entrar",
+      "computadora",
+      "internet",
+      "cuenta",
+      "seguridad"
+    ],
+    "intro_note": "Usamos 'log on' o 'sign on' para describir el acto de acceder a un sistema informático, sitio web o cuenta, generalmente proporcionando un nombre de usuario y una contraseña. Son intercambiables en este contexto.",
+    "type": "drill",
+    "drills": [
+      {
+        "order": 1,
+        "es": "No puedo entrar al servidor.",
+        "en": "I can't log on to the server."
+      },
+      {
+        "order": 2,
+        "es": "Cuando intento entrar, recibo un mensaje de error.",
+        "en": "When I try to log on, I get an error message."
+      },
+      {
+        "order": 3,
+        "es": "Necesitas una contraseña nueva para iniciar sesión.",
+        "en": "You need a new password to log on."
+      },
+      {
+        "order": 4,
+        "es": "Alguien ha entrado en mi cuenta.",
+        "en": "Someone logged on to my account."
+      },
+      {
+        "order": 5,
+        "es": "Inicia sesión y mira tu correo.",
+        "en": "Log on and check your email."
+      },
+      {
+        "order": 6,
+        "es": "No puedes iniciar sesión desde aquel terminal.",
+        "en": "You can't sign on from that terminal."
+      },
+      {
+        "order": 7,
+        "es": "Un usuario desconocido ha iniciado sesión.",
+        "en": "An unidentified user has signed on."
+      },
+      {
+        "order": 8,
+        "es": "¿Cómo lograron iniciar sesión?",
+        "en": "How did they manage to sign on?"
+      },
+      {
+        "order": 9,
+        "es": "Pregunta al departamento informático cómo entrar.",
+        "en": "Ask the IT department how to log on."
+      },
+      {
+        "order": 10,
+        "es": "Él entró en internet con su móvil.",
+        "en": "He logged on to the internet with his phone."
+      }
+    ]
+  },
+  {
+    "id": 234,
+    "file_name": "Phrasal_verbs_234.mp3",
+    "phrasal_verb": "log on",
+    "base_verb": "log",
+    "particle": "on",
+    "meaning_es": "Iniciar sesión, acceder a un sistema o red, a menudo introduciendo credenciales.",
+    "situation": "Tecnología y Comunicación",
+    "tags_es": [
+      "iniciar sesión",
+      "acceder",
+      "internet",
+      "computadora",
+      "red",
+      "entrar"
+    ],
+    "intro_note": "Una historia sobre varias personas que necesitan 'iniciar sesión' (log on) en internet para realizar diferentes tareas, pero enfrentan problemas de conexión.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "La conexión a internet de los Green no funcionaba, y todo el mundo se estaba impacientando.",
+        "en": "The Greens' internet connection wasn't working, and everyone was getting impatient."
+      },
+      {
+        "order": 2,
+        "es": "Harry necesitaba iniciar sesión para hacer sus operaciones bancarias en línea.",
+        "en": "Harry needed to log on to do his online banking."
+      },
+      {
+        "order": 3,
+        "es": "Cindy necesitaba iniciar sesión para comprar entradas para el cine.",
+        "en": "Cindy needed to log on to buy tickets for the cinema."
+      },
+      {
+        "order": 4,
+        "es": "Holly no necesitaba iniciar sesión para nada en particular, pero quería iniciar sesión para chatear con sus amigos.",
+        "en": "Holly didn't need to log on for anything in particular, but she wanted to log on to chat with her friends."
+      },
+      {
+        "order": 5,
+        "es": "Y Charlie quería iniciar sesión para jugar videojuegos en línea.",
+        "en": "And Charlie wanted to log on to play online video games."
+      },
+      {
+        "order": 6,
+        "es": "Así que, después de unas horas intentando iniciar sesión desde casa, Harry volvió a su oficina para iniciar sesión en internet desde allí.",
+        "en": "So, after a few hours of trying to log on from home, Harry went back to his office to log on to the internet from there."
+      },
+      {
+        "order": 7,
+        "es": "Cindy decidió que no tenía que iniciar sesión porque podía comprar las entradas en el cine.",
+        "en": "Cindy decided she didn't have to log on because she could buy the tickets at the cinema."
+      },
+      {
+        "order": 8,
+        "es": "Holly recordó que podía iniciar sesión en su cuenta de chat con su teléfono.",
+        "en": "Holly remembered that she could log on to her chat account with her phone."
+      },
+      {
+        "order": 9,
+        "es": "Y Charlie fue a casa de su amigo para iniciar sesión desde allí.",
+        "en": "And Charlie went to his friend's house to log on from there."
+      }
+    ]
+  },
+  {
+    "id": 235,
+    "file_name": "Phrasal_verbs_235.mp3",
+    "phrasal_verb": "clock on",
+    "base_verb": "clock",
+    "particle": "on",
+    "meaning_es": "Registrar el inicio de la jornada laboral, fichar (con tarjeta o sistema electrónico).",
+    "situation": "Trabajo y Negocios",
+    "tags_es": [
+      "fichar",
+      "registrar entrada",
+      "inicio jornada",
+      "trabajo",
+      "horario",
+      "asistencia",
+      "turnos"
+    ],
+    "intro_note": "Aprende a usar 'clock on' para referirte a registrar la entrada al trabajo.",
+    "type": "drill",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Asegúrate de fichar antes de ir a tu mesa.",
+        "en": "Make sure you clock on before going to your desk."
+      },
+      {
+        "order": 2,
+        "es": "Por lo visto, fichaste tarde hoy.",
+        "en": "Apparently, you clocked on late today."
+      },
+      {
+        "order": 3,
+        "es": "Él se olvidó de fichar y no cobró.",
+        "en": "He forgot to clock on and didn't get paid."
+      },
+      {
+        "order": 4,
+        "es": "Si fichas tarde una vez más, estás despedido.",
+        "en": "If you clock on late one more time, you're fired."
+      },
+      {
+        "order": 5,
+        "es": "No hagas llamadas personales después de fichar.",
+        "en": "Don't make personal calls after clocking on."
+      },
+      {
+        "order": 6,
+        "es": "Él fichó a las 9 de la mañana.",
+        "en": "He clocked on at 9 AM."
+      },
+      {
+        "order": 7,
+        "es": "¿A qué hora fichas?",
+        "en": "What time do you clock on?"
+      },
+      {
+        "order": 8,
+        "es": "¿Estás trabajando ahora?",
+        "en": "Are you on the clock right now?"
+      },
+      {
+        "order": 9,
+        "es": "Cuando inicias sesión, automáticamente fichas.",
+        "en": "When you sign on, you automatically clock on."
+      },
+      {
+        "order": 10,
+        "es": "Quiero un trabajo donde no tenga que fichar.",
+        "en": "I want a job where I don't have to clock on."
+      }
+    ]
+  },
+  {
+    "id": 236,
+    "file_name": "Phrasal_verbs_236.mp3",
+    "phrasal_verb": "clock on",
+    "base_verb": "clock",
+    "particle": "on",
+    "meaning_es": "Registrar la entrada al trabajo, usualmente con un reloj de fichar.",
+    "situation": "Trabajo y Negocios",
+    "tags_es": [
+      "fichar",
+      "registrar entrada",
+      "horario",
+      "trabajo",
+      "puntualidad",
+      "empleados"
+    ],
+    "intro_note": "A story about employees clocking on (or not) at work.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Harry estaba teniendo problemas en el trabajo con algunos de sus empleados.",
+        "en": "Harry was having problems at work with some of his employees."
+      },
+      {
+        "order": 2,
+        "es": "Se suponía que todos debían fichar antes de las 9 de la mañana, pero parte del personal estaba fichando tarde.",
+        "en": "Everyone was supposed to clock on before 9 am, but some of the staff were clocking on late."
+      },
+      {
+        "order": 3,
+        "es": "James había fichado tarde dos veces esta semana.",
+        "en": "James had clocked on late twice this week."
+      },
+      {
+        "order": 4,
+        "es": "Y Mark fichaba regularmente a las 9:45 de la mañana.",
+        "en": "And Mark regularly clocked on at 9:45 am."
+      },
+      {
+        "order": 5,
+        "es": "Suzanne siempre fichaba a las 9 de la mañana, pero iba a tomar un café justo después de fichar.",
+        "en": "Suzanne always clocked on at 9 am, but went to have a coffee right after clocking on."
+      },
+      {
+        "order": 6,
+        "es": "Jim, que era nuevo, fichó y pasó la siguiente hora hablando con su novia.",
+        "en": "Jim, who was new, clocked on and spent the next hour talking to his girlfriend."
+      },
+      {
+        "order": 7,
+        "es": "Harry no quería despedir a nadie, pero no podía permitir que sus empleados siguieran fichando y perdiendo el tiempo.",
+        "en": "Harry didn't want to fire anyone, but he couldn't let his employees go on clocking on and wasting time."
+      }
+    ]
+  },
+  {
+    "id": 237,
+    "file_name": "Phrasal_verbs_237.mp3",
+    "phrasal_verb": "to put on",
+    "base_verb": "put",
+    "particle": "on",
+    "meaning_es": "Ponerse (ropa, accesorios, etc.)",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "vestir",
+      "ropa",
+      "accesorios",
+      "ponerse",
+      "usar"
+    ],
+    "intro_note": "to put on",
+    "type": "drill",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Ponte una bufanda, hace frío fuera.",
+        "en": "Put on a scarf, it's freezing outside."
+      },
+      {
+        "order": 2,
+        "es": "Si yo fuera tú, me pondría un traje.",
+        "en": "If I were you, I'd put on a suit."
+      },
+      {
+        "order": 3,
+        "es": "Hacía sol, así que se puso sus gafas de sol.",
+        "en": "It was sunny, so he put his sunglasses on."
+      },
+      {
+        "order": 4,
+        "es": "Ella se puso su camiseta hacia atrás.",
+        "en": "She put her t-shirt on back to front."
+      },
+      {
+        "order": 5,
+        "es": "Me encanta ponerme un par de calcetines nuevos.",
+        "en": "I love putting on a new pair of socks."
+      },
+      {
+        "order": 6,
+        "es": "Él se puso su jersey al revés.",
+        "en": "He put his sweater on inside out."
+      },
+      {
+        "order": 7,
+        "es": "¿Por qué se puso guantes?",
+        "en": "Why did he put gloves on?"
+      },
+      {
+        "order": 8,
+        "es": "Él se los puso para cometer un crimen.",
+        "en": "He put them on to commit a crime."
+      },
+      {
+        "order": 9,
+        "es": "Tuve que ponerme una camisa sucia esta mañana.",
+        "en": "I had to put on a dirty shirt this morning."
+      },
+      {
+        "order": 10,
+        "es": "Ponte un gorro para que nadie te reconozca.",
+        "en": "Put on a hat, so no one recognizes you."
+      }
+    ]
+  },
+  {
+    "id": 238,
+    "file_name": "Phrasal_verbs_238.mp3",
+    "phrasal_verb": "put on",
+    "base_verb": "put",
+    "particle": "on",
+    "meaning_es": "Ponerse (ropa, accesorios, maquillaje). También 'poner' (una expresión, una sonrisa).",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "ponerse",
+      "vestir",
+      "ropa",
+      "accesorios",
+      "joyas",
+      "expresión",
+      "sonrisa",
+      "preparar",
+      "familia",
+      "fotografía",
+      "ocasión especial"
+    ],
+    "intro_note": "A short story illustrating the phrasal verb 'put on' in various contexts related to getting dressed and preparing for a photo.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "¡Sonrían!",
+        "en": "Say cheese!"
+      },
+      {
+        "order": 2,
+        "es": "La familia Green se estaba tomando una foto familiar, y todos tenían que ponerse sus mejores ropas.",
+        "en": "The Greens were having a family photo taken, and everyone had to put on their best clothes."
+      },
+      {
+        "order": 3,
+        "es": "Harry se puso una camisa nueva y se puso su traje nuevo.",
+        "en": "Harry put on a new shirt and put on his new suit."
+      },
+      {
+        "order": 4,
+        "es": "Cindy se puso su vestido favorito y se puso un collar nuevo.",
+        "en": "Cindy put on her favorite dress and put on a new necklace."
+      },
+      {
+        "order": 5,
+        "es": "Charlie se puso el atuendo que se pone para ocasiones especiales, y también se puso una de las corbatas de su padre.",
+        "en": "Charlie put on the outfit he put on for special occasions, and also put on one of his father's ties."
+      },
+      {
+        "order": 6,
+        "es": "Holly no pudo encontrar nada que ponerse, porque dijo que no tenía ropa bonita.",
+        "en": "Holly couldn't find anything to put on, because she said she didn't have any nice clothes."
+      },
+      {
+        "order": 7,
+        "es": "Ella no quería ponerse su ropa vieja para la foto, así que se puso una de las blusas de su madre.",
+        "en": "She didn't want to put on her old clothes for the photo, so she put on one of her mother's blouses."
+      },
+      {
+        "order": 8,
+        "es": "Y también se puso un par de aretes de su madre.",
+        "en": "And also put on a pair of her mother's earrings."
+      },
+      {
+        "order": 9,
+        "es": "Cuando llegaron al estudio del fotógrafo, les pidió a todos que pusieran una sonrisa.",
+        "en": "When they got to the photographer's studio, he asked everyone to put on a smile."
+      },
+      {
+        "order": 10,
+        "es": "¡Y dijeran 'whisky'!",
+        "en": "And say cheese!"
+      }
+    ]
+  },
+  {
+    "id": 239,
+    "file_name": "Phrasal_verbs_239.mp3",
+    "phrasal_verb": "to try on",
+    "base_verb": "try",
+    "particle": "on",
+    "meaning_es": "Probarse (ropa, accesorios, etc.)",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "probarse",
+      "ropa",
+      "accesorios",
+      "medir",
+      "talla",
+      "vestuario"
+    ],
+    "intro_note": "Phrasal verb: to try on",
+    "type": "drill",
+    "drills": [
+      {
+        "order": 1,
+        "es": "¿Te probaste esos zapatos antes de comprarlos?",
+        "en": "Did you try on those shoes before you bought them?"
+      },
+      {
+        "order": 2,
+        "es": "Claro que me los probé, ¿por qué me lo preguntas?",
+        "en": "Of course I tried them on. Why do you ask?"
+      },
+      {
+        "order": 3,
+        "es": "Me gustaría probarme esta camisa, por favor.",
+        "en": "I'd like to try this shirt on, please."
+      },
+      {
+        "order": 4,
+        "es": "¿Te gustaría probarte mi reloj?",
+        "en": "Would you like to try on my watch?"
+      },
+      {
+        "order": 5,
+        "es": "Nunca me he probado un Rolex de verdad.",
+        "en": "I've never tried on a real Rolex before."
+      },
+      {
+        "order": 6,
+        "es": "Ella se lo probó, pero no le quedaba bien.",
+        "en": "She tried it on, but it didn't suit her."
+      },
+      {
+        "order": 7,
+        "es": "Tienes que probarte una talla más pequeña.",
+        "en": "You need to try on a smaller size."
+      },
+      {
+        "order": 8,
+        "es": "Cuando te probaste mi camisa, la estiraste.",
+        "en": "When you tried on my shirt, you stretched it."
+      },
+      {
+        "order": 9,
+        "es": "Déjame probarme tus gafas.",
+        "en": "Let me try on your glasses."
+      },
+      {
+        "order": 10,
+        "es": "Ella compró el primer vestido de novia que se probó.",
+        "en": "She bought the first wedding dress she tried on."
+      }
+    ]
+  },
+  {
+    "id": 240,
+    "file_name": "Phrasal_verbs_240.mp3",
+    "phrasal_verb": "try on",
+    "base_verb": "try",
+    "particle": "on",
+    "meaning_es": "Probarse (ropa, accesorios, etc.)",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "probarse",
+      "ropa",
+      "compras",
+      "vestir",
+      "medida",
+      "traje",
+      "sastrería"
+    ],
+    "intro_note": "Una historia sobre Harry y su visita a la sastrería para probarse un traje de boda, ilustrando el phrasal verb 'try on'.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Los vestidores.",
+        "en": "The changing rooms."
+      },
+      {
+        "order": 2,
+        "es": "Harry tenía una boda en una semana y fue a la sastrería para probarse un traje de mañana.",
+        "en": "Harry had a wedding in a week and went to the tailor's to try on a morning suit."
+      },
+      {
+        "order": 3,
+        "es": "Harry odiaba probarse ropa y a menudo compraba ropa sin probársela.",
+        "en": "Harry hated trying on clothes and often bought clothes without trying them on."
+      },
+      {
+        "order": 4,
+        "es": "Primero, se probó los pantalones.",
+        "en": "First, he tried on the trousers."
+      },
+      {
+        "order": 5,
+        "es": "El primer par que se probó estaba demasiado ajustado.",
+        "en": "The first pair he tried on were too tight."
+      },
+      {
+        "order": 6,
+        "es": "Así que se probó una talla más grande que le quedaba mejor.",
+        "en": "So, he tried on a bigger size that fitted better."
+      },
+      {
+        "order": 7,
+        "es": "Se probó al menos cuatro chaquetas hasta que encontró una que le gustó.",
+        "en": "He tried on at least four jackets until he found one he liked."
+      },
+      {
+        "order": 8,
+        "es": "Se probó chalecos y se probó sombreros de copa.",
+        "en": "He tried on waistcoats, and he tried on top hats."
+      },
+      {
+        "order": 9,
+        "es": "Se probó pajaritas y se probó corbatas.",
+        "en": "He tried on bow ties, and he tried on neck ties."
+      },
+      {
+        "order": 10,
+        "es": "Cuando llegó el momento de probarse los zapatos, Harry estaba tan agotado de probarse tanta ropa que compró un par sin probárselos.",
+        "en": "When it was time to try on shoes, Harry was so exhausted from trying on so many clothes that he bought a pair without trying them on."
+      }
+    ]
+  },
+  {
+    "id": 241,
+    "file_name": "Phrasal_verbs_241.mp3",
+    "phrasal_verb": "to have on",
+    "base_verb": "have",
+    "particle": "on",
+    "meaning_es": "Llevar puesto (ropa, accesorios) o que algo esté colocado en su lugar.",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "ropa",
+      "vestir",
+      "llevar",
+      "puesto",
+      "prendas",
+      "accesorios",
+      "indumentaria"
+    ],
+    "intro_note": "Expresiones para describir la ropa o accesorios que uno lleva puestos.",
+    "type": "drill",
+    "drills": [
+      {
+        "order": 1,
+        "es": "¿Por qué llevas puesto tu abrigo?",
+        "en": "Why do you have your coat on?"
+      },
+      {
+        "order": 2,
+        "es": "Ella llevaba puesto un vestido rosa.",
+        "en": "She had a pink dress on."
+      },
+      {
+        "order": 3,
+        "es": "Los dos llevaban puesto lo mismo.",
+        "en": "They both had on the same thing."
+      },
+      {
+        "order": 4,
+        "es": "Llevo puestos mis calcetines de la suerte.",
+        "en": "I have my lucky socks on."
+      },
+      {
+        "order": 5,
+        "es": "Esa persona no lleva puesto nada.",
+        "en": "That person has nothing on."
+      },
+      {
+        "order": 6,
+        "es": "¿Llevas puestos los zapatos?",
+        "en": "Do you have your shoes on?"
+      },
+      {
+        "order": 7,
+        "es": "Habla con alguien que lleve puesto un credencial.",
+        "en": "Talk to someone who has a name tag on."
+      },
+      {
+        "order": 8,
+        "es": "No puedes llevar puesto el gorro aquí.",
+        "en": "You can't have a hat on in here."
+      },
+      {
+        "order": 9,
+        "es": "El ladrón llevaba puesto un pasamontañas.",
+        "en": "The burglar had a ski mask on."
+      },
+      {
+        "order": 10,
+        "es": "¡Qué suerte que él llevaba puestas sus botas de goma!",
+        "en": "It was lucky he had his Wellingtons on."
+      }
+    ]
+  },
+  {
+    "id": 242,
+    "file_name": "Phrasal_verbs_242.mp3",
+    "phrasal_verb": "have on",
+    "base_verb": "have",
+    "particle": "on",
+    "meaning_es": "llevar puesto (ropa o accesorios)",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "vestimenta",
+      "ropa",
+      "llevar",
+      "usar",
+      "puesta",
+      "identificación",
+      "policía",
+      "robo"
+    ],
+    "intro_note": "Este pasaje ilustra el uso del phrasal verb 'have on' (llevar puesto) en el contexto de describir la ropa de personas en una fila de identificación.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "La rueda de reconocimiento.",
+        "en": "The lineup."
+      },
+      {
+        "order": 2,
+        "es": "La casa de los Green había sido asaltada.",
+        "en": "The Greens' house had been burgled."
+      },
+      {
+        "order": 3,
+        "es": "Y estaban en la comisaría para identificar a un hombre que habían visto huir.",
+        "en": "And they were at the police station to identify a man they had seen running away."
+      },
+      {
+        "order": 4,
+        "es": "El primer hombre en la rueda de reconocimiento llevaba puesta una chaqueta de cuero marrón.",
+        "en": "The first man in the lineup had on a brown leather jacket."
+      },
+      {
+        "order": 5,
+        "es": "El segundo y tercer hombre llevaban puestos pantalones vaqueros azules y camisas blancas.",
+        "en": "The second and third men had on blue jeans and white shirts."
+      },
+      {
+        "order": 6,
+        "es": "El cuarto hombre llevaba puestas gafas de sol.",
+        "en": "The fourth man had sunglasses on."
+      },
+      {
+        "order": 7,
+        "es": "El quinto hombre llevaba puesto un pijama, y el sexto hombre llevaba puesto un traje.",
+        "en": "The fifth man had pajamas on, and the sixth man had on a suit."
+      },
+      {
+        "order": 8,
+        "es": "Los Green no estaban seguros de lo que llevaba puesto el verdadero ladrón.",
+        "en": "The Greens weren't sure what the real burglar had on."
+      },
+      {
+        "order": 9,
+        "es": "Harry pensó que llevaba puesta una chaqueta negra.",
+        "en": "Harry thought he had on a black jacket."
+      },
+      {
+        "order": 10,
+        "es": "Cindy pensó que llevaba puesto un suéter azul marino.",
+        "en": "Cindy thought he had on a navy blue sweater."
+      },
+      {
+        "order": 11,
+        "es": "Holly pensó que llevaba puesto un sombrero, y Charlie estaba seguro de que llevaba puesta una máscara.",
+        "en": "Holly thought he had a hat on, and Charlie was sure he had a mask on."
+      },
+      {
+        "order": 12,
+        "es": "Al final, no pudieron decidir qué llevaba puesto el ladrón.",
+        "en": "In the end, they couldn't decide what the burglar had on."
+      },
+      {
+        "order": 13,
+        "es": "Así que se fueron sin identificar a nadie.",
+        "en": "So they left without identifying anyone."
+      }
+    ]
+  },
+  {
+    "id": 243,
+    "file_name": "Phrasal_verbs_243.mp3",
+    "phrasal_verb": "agree on",
+    "base_verb": "agree",
+    "particle": "on",
+    "meaning_es": "Llegar a un acuerdo sobre algo, estar de acuerdo con algo, o consentir algo. También puede usarse 'agree with' para estar de acuerdo con una persona o una idea abstracta, pero 'agree on' se usa para un tema o decisión específica.",
+    "situation": "Comunicación y Relaciones",
+    "tags_es": [
+      "acordar",
+      "estar de acuerdo",
+      "pactar",
+      "consentir",
+      "negociar",
+      "convenir"
+    ],
+    "intro_note": "Aprende a usar 'to agree on' para hablar de llegar a un acuerdo sobre algo.",
+    "type": "drill",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Nunca nos ponemos de acuerdo en nada.",
+        "en": "We never agree on anything."
+      },
+      {
+        "order": 2,
+        "es": "Están de acuerdo en todo.",
+        "en": "They agree on everything."
+      },
+      {
+        "order": 3,
+        "es": "Acordaron la fecha de la boda?",
+        "en": "Did they agree on the date of the wedding?"
+      },
+      {
+        "order": 4,
+        "es": "Acordaron en celebrarla el día 21.",
+        "en": "They agreed on having it on the 21st."
+      },
+      {
+        "order": 5,
+        "es": "No se ponen de acuerdo sobre la música.",
+        "en": "They can't agree on the music."
+      },
+      {
+        "order": 6,
+        "es": "Quién acordó el nuevo diseño?",
+        "en": "Who agreed on the new layout?"
+      },
+      {
+        "order": 7,
+        "es": "El consejo lo acordó.",
+        "en": "The board agreed on it."
+      },
+      {
+        "order": 8,
+        "es": "Nos pusimos de acuerdo sobre el primer punto.",
+        "en": "We agreed on the first point."
+      },
+      {
+        "order": 9,
+        "es": "Todos estamos de acuerdo sobre la propuesta.",
+        "en": "We all agree on the proposal."
+      },
+      {
+        "order": 10,
+        "es": "Qué pasó con el contrato que acordamos?",
+        "en": "What happened to the contract we agreed on?"
+      }
+    ]
+  },
+  {
+    "id": 244,
+    "file_name": "Phrasal_verbs_244.mp3",
+    "phrasal_verb": "agree on",
+    "base_verb": "agree",
+    "particle": "on",
+    "meaning_es": "Ponerse de acuerdo sobre algo; Estar de acuerdo en algo.",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "acordar",
+      "convenir",
+      "tomar decisiones",
+      "relaciones",
+      "pareja",
+      "desacuerdo",
+      "compromiso"
+    ],
+    "intro_note": "Este pasaje narra las dificultades de una pareja, Harry y Cindy, para ponerse de acuerdo en diversas situaciones de la vida cotidiana, destacando el uso de 'agree on'.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Estar de acuerdo en no estar de acuerdo.",
+        "en": "Agree to disagree."
+      },
+      {
+        "order": 2,
+        "es": "Harry y Cindy siempre están de acuerdo en las cosas pequeñas, pero nunca están de acuerdo en las cosas grandes.",
+        "en": "Harry and Cindy always agree on the little things, but never agree on the big things."
+      },
+      {
+        "order": 3,
+        "es": "Cuando estaban buscando casas para comprar, no pudieron ponerse de acuerdo sobre un vecindario.",
+        "en": "When they were looking at houses to buy, they couldn't agree on a neighborhood."
+      },
+      {
+        "order": 4,
+        "es": "Y cuando sí se pusieron de acuerdo sobre un vecindario, no pudieron ponerse de acuerdo sobre una casa.",
+        "en": "And when they did agree on a neighborhood, they couldn't agree on a house."
+      },
+      {
+        "order": 5,
+        "es": "Cuando compraron un coche, se pusieron de acuerdo sobre el color, pero no pudieron ponerse de acuerdo sobre el modelo.",
+        "en": "When they bought a car, they agreed on the color, but they couldn't agree on the model."
+      },
+      {
+        "order": 6,
+        "es": "Cuando se fueron de vacaciones, se pusieron de acuerdo sobre la duración, pero no pudieron ponerse de acuerdo sobre el destino.",
+        "en": "When they went on holiday, they agreed on the duration, but they couldn't agree on the destination."
+      },
+      {
+        "order": 7,
+        "es": "Y cuando quisieron adoptar un perro, se pusieron de acuerdo sobre el nombre, pero no pudieron ponerse de acuerdo sobre la raza.",
+        "en": "And when they wanted to get a dog, they agreed on the name, but couldn't agree on a breed."
+      }
+    ]
+  },
+  {
+    "id": 245,
+    "file_name": "Phrasal_verbs_245.mp3",
+    "phrasal_verb": "catch on",
+    "base_verb": "catch",
+    "particle": "on",
+    "meaning_es": "Volverse popular, ponerse de moda, ser aceptado o comprendido.",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "popularidad",
+      "tendencia",
+      "moda",
+      "aceptación",
+      "éxito",
+      "comprensión"
+    ],
+    "intro_note": "Ejercicios de traducción que ilustran el phrasal verb 'catch on' en el contexto de 'ganar popularidad' o 'volverse popular'.",
+    "type": "drill",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Nadie pensaba que el estilo ganaría popularidad.",
+        "en": "No one thought the style would catch on."
+      },
+      {
+        "order": 2,
+        "es": "Ganó popularidad muy rápido.",
+        "en": "It caught on really quickly."
+      },
+      {
+        "order": 3,
+        "es": "Si esta idea gana popularidad, haremos una fortuna.",
+        "en": "If this idea catches on, we'll make a fortune."
+      },
+      {
+        "order": 4,
+        "es": "Los coches eléctricos están ganando popularidad.",
+        "en": "Electric cars are catching on."
+      },
+      {
+        "order": 5,
+        "es": "Su sabor nuevo nunca ganó popularidad.",
+        "en": "Their new flavor never caught on."
+      },
+      {
+        "order": 6,
+        "es": "Pensaban que ganaría popularidad.",
+        "en": "They thought it would catch on."
+      },
+      {
+        "order": 7,
+        "es": "Primero ganó popularidad en Estados Unidos y luego se extendió.",
+        "en": "It first caught on in the United States and then spread."
+      },
+      {
+        "order": 8,
+        "es": "Su nueva invención de él no ganó popularidad.",
+        "en": "His new invention didn't catch on."
+      },
+      {
+        "order": 9,
+        "es": "Pantalones de campana ganaron popularidad en los 60.",
+        "en": "Flares caught on in the 60s."
+      },
+      {
+        "order": 10,
+        "es": "Algunos productos ganan popularidad y otros no.",
+        "en": "Some products catch on, and others don't."
+      }
+    ]
+  },
+  {
+    "id": 246,
+    "file_name": "Phrasal_verbs_246.mp3",
+    "phrasal_verb": "catch on",
+    "base_verb": "catch",
+    "particle": "on",
+    "meaning_es": "Hacerse popular o ponerse de moda; entender o comprender algo.",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "popularidad",
+      "moda",
+      "tendencia",
+      "aceptación",
+      "éxito",
+      "comprensión"
+    ],
+    "intro_note": "A short story illustrating the phrasal verb 'catch on' in the context of items becoming popular or fashionable.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Harry nunca pensó que los teléfonos móviles se harían populares.",
+        "en": "Harry never thought that mobile phones would catch on."
+      },
+      {
+        "order": 2,
+        "es": "Pero cuando se hicieron populares, él a regañadientes compró uno.",
+        "en": "But when they did catch on, he reluctantly bought one."
+      },
+      {
+        "order": 3,
+        "es": "Cindy nunca pensó que las computadoras se harían populares en el hogar.",
+        "en": "Cindy never thought that computers would catch on in the home."
+      },
+      {
+        "order": 4,
+        "es": "Pero cuando sí se hicieron populares, no pasó mucho tiempo antes de que los Green tuvieran dos.",
+        "en": "But when they did catch on, it wasn't long before the Greens had two."
+      },
+      {
+        "order": 5,
+        "es": "Sin embargo, los Green no siempre compran cosas después de que se hacen populares.",
+        "en": "Nevertheless, the Greens don't always buy things after they catch on."
+      },
+      {
+        "order": 6,
+        "es": "A veces compran cosas antes de que se hagan populares.",
+        "en": "Sometimes they buy things before they catch on."
+      },
+      {
+        "order": 7,
+        "es": "Por ejemplo, cuando Charlie vio una nueva consola de videojuegos en la tienda, supo que tenía que comprarla antes de que se hiciera popular y se volviera más cara.",
+        "en": "For example, when Charlie saw a new game console in the shop, he knew he had to buy it before it caught on and became more expensive."
+      },
+      {
+        "order": 8,
+        "es": "Y cualquier ropa que Holly compre, se hace popular de inmediato entre sus amigas.",
+        "en": "And whatever clothes Holly buys, catch on right away among her friends."
+      }
+    ]
+  },
+  {
+    "id": 247,
+    "file_name": "Phrasal_verbs_247.mp3",
+    "phrasal_verb": "get on with",
+    "base_verb": "get",
+    "particle": "on with",
+    "meaning_es": "Llevarse bien con alguien, tener una buena relación con alguien. (También 'to get along with').",
+    "situation": "Relaciones y Emociones",
+    "tags_es": [
+      "llevarse bien",
+      "relacionarse",
+      "amistad",
+      "relaciones personales",
+      "congeniar"
+    ],
+    "intro_note": "Usamos 'to get on with' (o 'to get along with') para decir que te llevas bien con alguien, que tienes una buena relación.",
+    "type": "drill",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Me llevo bien con mi vecino.",
+        "en": "I get on with my neighbor."
+      },
+      {
+        "order": 2,
+        "es": "Él no se lleva bien con sus suegros.",
+        "en": "He doesn't get on with his in-laws."
+      },
+      {
+        "order": 3,
+        "es": "Ella quiere llevarse bien con su jefa nueva.",
+        "en": "She wants to get on with her new boss."
+      },
+      {
+        "order": 4,
+        "es": "El equipo se lleva bien con su nuevo entrenador.",
+        "en": "The team get on with the new coach."
+      },
+      {
+        "order": 5,
+        "es": "Es difícil llevarse bien con él.",
+        "en": "It's difficult to get on with him."
+      },
+      {
+        "order": 6,
+        "es": "¿Te llevas bien con tu casero?",
+        "en": "Do you get on with your landlord?"
+      },
+      {
+        "order": 7,
+        "es": "Él desearía llevarse bien con su hijo.",
+        "en": "He wishes he got on with his son."
+      },
+      {
+        "order": 8,
+        "es": "No siempre se llevan bien entre ellos.",
+        "en": "They don't always get on with each other."
+      },
+      {
+        "order": 9,
+        "es": "Antes se llevaban bien entre ellos.",
+        "en": "They used to get on with each other."
+      },
+      {
+        "order": 10,
+        "es": "Hagamos un esfuerzo por llevarnos bien con el nuevo.",
+        "en": "Let's make an effort to get along with the new guy."
+      }
+    ]
+  },
+  {
+    "id": 248,
+    "file_name": "Phrasal_verbs_248.mp3",
+    "phrasal_verb": "get on with",
+    "base_verb": "get",
+    "particle": "on",
+    "meaning_es": "Llevarse bien con alguien, tener una buena relación o congeniar con una persona.",
+    "situation": "Relaciones y Emociones",
+    "tags_es": [
+      "llevarse bien",
+      "congeniar",
+      "amistad",
+      "relaciones interpersonales",
+      "vecinos"
+    ],
+    "intro_note": "Una historia sobre las complejas relaciones entre vecinos, utilizando el phrasal verb 'get on with'.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Los Green y los Brown viven en la misma calle.",
+        "en": "The Greens and the Browns live on the same street."
+      },
+      {
+        "order": 2,
+        "es": "Y como tienen tanto en común, pensarías que se llevarían estupendamente.",
+        "en": "And as they have so much in common, you would think that they would get on with each other stupendously."
+      },
+      {
+        "order": 3,
+        "es": "Pero te equivocarías.",
+        "en": "But you'd be wrong."
+      },
+      {
+        "order": 4,
+        "es": "Harry se lleva bien con Bob Brown, pero Bob no se lleva bien con Cindy.",
+        "en": "Harry gets on with Bob Brown, but Bob doesn't get on with Cindy."
+      },
+      {
+        "order": 5,
+        "es": "Cindy se lleva bien con Jane Brown, pero Jane no se lleva bien con Harry.",
+        "en": "Cindy gets on with Jane Brown, but Jane doesn't get on with Harry."
+      },
+      {
+        "order": 6,
+        "es": "Holly solía llevarse bien con Samantha Brown, pero Samantha no se lleva bien con Sarah, la mejor amiga de Holly.",
+        "en": "Holly used to get on with Samantha Brown, but Samantha doesn't get on with Holly's best friend Sarah."
+      },
+      {
+        "order": 7,
+        "es": "Así que ahora, no se llevan bien.",
+        "en": "So now, they don't get on."
+      },
+      {
+        "order": 8,
+        "es": "Charlie se lleva bastante bien con Jack Brown, pero Jack se lleva bien con Jimmy White, quien nunca se ha llevado bien con Charlie.",
+        "en": "Charlie gets on quite well with Jack Brown, but Jack gets on well with Jimmy White, who has never got on well with Charlie."
+      },
+      {
+        "order": 9,
+        "es": "Si tan solo los Green y los Brown pudieran llevarse bien todos.",
+        "en": "If only the Greens and the Browns could all get on."
+      },
+      {
+        "order": 10,
+        "es": "Serían como una gran familia feliz.",
+        "en": "They'd be like one big happy family."
+      }
+    ]
+  },
+  {
+    "id": 249,
+    "file_name": "Phrasal_verbs_249.mp3",
+    "phrasal_verb": "let on",
+    "base_verb": "let",
+    "particle": "on",
+    "meaning_es": "Revelar, desvelar, delatar, admitir un secreto o información. Generalmente se usa para indicar que se da a conocer algo que se debería mantener oculto.",
+    "situation": "Comunicación y Revelación",
+    "tags_es": [
+      "revelar",
+      "desvelar",
+      "divulgar",
+      "admitir",
+      "confesar",
+      "secreto",
+      "información",
+      "chismorreo"
+    ],
+    "intro_note": "Un ejercicio de repetición bilingüe centrado en el phrasal verb 'to let on', que significa revelar o desvelar información.",
+    "type": "drill",
+    "drills": [
+      {
+        "order": 1,
+        "es": "No reveles que me conoces.",
+        "en": "Don't let on that you know me."
+      },
+      {
+        "order": 2,
+        "es": "¿Por qué no revelaste que te tocó la lotería?",
+        "en": "Why didn't you let on that you won the lottery?"
+      },
+      {
+        "order": 3,
+        "es": "Él reveló sin querer la fiesta sorpresa.",
+        "en": "He accidentally let on about the surprise party."
+      },
+      {
+        "order": 4,
+        "es": "Deberías revelar que le has visto.",
+        "en": "You should let on that you saw him."
+      },
+      {
+        "order": 5,
+        "es": "Ella no reveló que era su cumpleaños.",
+        "en": "She didn't let on that it was her birthday."
+      },
+      {
+        "order": 6,
+        "es": "Él siempre revela cuánto gana.",
+        "en": "He always lets on how much money he makes."
+      },
+      {
+        "order": 7,
+        "es": "¿Vas a desvelar cuánto pesas?",
+        "en": "Are you going to let on how much you weigh?"
+      },
+      {
+        "order": 8,
+        "es": "¿Quién reveló la fusión?",
+        "en": "Who let on about the merger?"
+      },
+      {
+        "order": 9,
+        "es": "Alguien desveló que el jefe se va.",
+        "en": "Someone let on that the boss is leaving."
+      },
+      {
+        "order": 10,
+        "es": "Por favor, no desveles mi error.",
+        "en": "Please, don't let on about my mistake."
+      }
+    ]
+  },
+  {
+    "id": 250,
+    "file_name": "Phrasal_verbs_250.mp3",
+    "phrasal_verb": "let on",
+    "base_verb": "let",
+    "particle": "on",
+    "meaning_es": "Revelar un secreto, delatar, hacer saber, fingir.",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "revelar",
+      "secreto",
+      "delatar",
+      "confesar",
+      "divulgar",
+      "chismear"
+    ],
+    "intro_note": "Este es un pasaje narrativo que ilustra el uso del 'phrasal verb' 'let on' en diferentes contextos, especialmente relacionado con revelar secretos o información.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Guardando un secreto.",
+        "en": "Keeping a secret."
+      },
+      {
+        "order": 2,
+        "es": "A los Green les encanta la Navidad y pasan mucho tiempo eligiendo regalos el uno para el otro.",
+        "en": "The Greens love Christmas time and spend a lot of time picking out presents for each other."
+      },
+      {
+        "order": 3,
+        "es": "El problema es que siempre delatan lo que compraron.",
+        "en": "The problem is, they always let on what they bought."
+      },
+      {
+        "order": 4,
+        "es": "El año pasado, Harry le reveló a Holly lo que le compró a Cindy.",
+        "en": "Last year, Harry let on to Holly what he bought for Cindy."
+      },
+      {
+        "order": 5,
+        "es": "Le pidió a Holly que no revelara que ella lo sabía.",
+        "en": "He asked Holly not to let on that she knew."
+      },
+      {
+        "order": 6,
+        "es": "Pero Holly se lo reveló a Charlie y Charlie se lo reveló a Cindy.",
+        "en": "But Holly let on to Charlie and Charlie let on to Cindy."
+      },
+      {
+        "order": 7,
+        "es": "Cindy no reveló que Charlie le había dicho cuál era su regalo, pero sí reveló lo que le había comprado a Holly.",
+        "en": "Cindy didn't let on that Charlie had let on what her present was, but she did let on what she had bought Holly."
+      },
+      {
+        "order": 8,
+        "es": "Charlie era terrible guardando secretos y le reveló a Holly cuál era su regalo.",
+        "en": "Charlie was terrible at keeping secrets and let on to Holly what her present was."
+      },
+      {
+        "order": 9,
+        "es": "Como Holly no sabía lo que Charlie iba a recibir por Navidad, obviamente, no podía revelar lo que era.",
+        "en": "As Holly didn't know what Charlie was getting for Christmas, obviously, she couldn't let on what it was."
+      }
+    ]
+  },
+  {
+    "id": 251,
+    "file_name": "Phrasal_verbs_251.mp3",
+    "phrasal_verb": "take on",
+    "base_verb": "take",
+    "particle": "on",
+    "meaning_es": "Asumir una responsabilidad, tarea, trabajo, o desafío. También puede significar enfrentarse a algo o alguien, o contratar a alguien.",
+    "situation": "Trabajo y Negocios",
+    "tags_es": [
+      "asumir",
+      "encargarse",
+      "responsabilidad",
+      "tarea",
+      "trabajo",
+      "desafío",
+      "contratar"
+    ],
+    "intro_note": "Aprende a usar 'take on' para asumir responsabilidades o tareas.",
+    "type": "drill",
+    "drills": [
+      {
+        "order": 1,
+        "es": "¿Puedes hacerte cargo de más responsabilidad?",
+        "en": "Can you take on more responsibility?"
+      },
+      {
+        "order": 2,
+        "es": "Me gustaría hacerme cargo de esa función.",
+        "en": "I'd like to take on that assignment."
+      },
+      {
+        "order": 3,
+        "es": "Ella se hizo cargo de demasiado trabajo.",
+        "en": "She took on too much work."
+      },
+      {
+        "order": 4,
+        "es": "Tienes que hacerte cargo de más clientes.",
+        "en": "You need to take on more clients."
+      },
+      {
+        "order": 5,
+        "es": "No te hagas cargo de más tareas imposibles.",
+        "en": "Don't take on any more impossible tasks."
+      },
+      {
+        "order": 6,
+        "es": "El abogado se hizo cargo de nuestro caso.",
+        "en": "The lawyer took on our case."
+      },
+      {
+        "order": 7,
+        "es": "Él se hará cargo de cualquier trabajo.",
+        "en": "He'll take on any job."
+      },
+      {
+        "order": 8,
+        "es": "No puedo permitirme hacerme cargo de más gastos.",
+        "en": "I can't afford to take on any more expenses."
+      },
+      {
+        "order": 9,
+        "es": "La empresa se hizo cargo de demasiada deuda.",
+        "en": "The firm took on too much debt."
+      },
+      {
+        "order": 10,
+        "es": "Intentan hacerse cargo de proyectos ambiciosos.",
+        "en": "They try to take on ambitious projects."
+      }
+    ]
+  },
+  {
+    "id": 252,
+    "file_name": "Phrasal_verbs_252.mp3",
+    "phrasal_verb": "take on",
+    "base_verb": "take",
+    "particle": "on",
+    "meaning_es": "Asumir una responsabilidad, tarea o trabajo; aceptar; encargarse de.",
+    "situation": "Trabajo y Negocios",
+    "tags_es": [
+      "asumir",
+      "responsabilidad",
+      "tarea",
+      "trabajo",
+      "empleo",
+      "aceptar",
+      "carga de trabajo",
+      "gestión",
+      "negocios"
+    ],
+    "intro_note": "Este pasaje ilustra el uso del phrasal verb 'take on' en el contexto de asumir nuevas responsabilidades y tareas en el trabajo.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Exceso de trabajo.",
+        "en": "Overworked."
+      },
+      {
+        "order": 2,
+        "es": "Cuando el socio de Harry dejó la empresa, nunca imaginó que tendría que asumir tantas tareas nuevas.",
+        "en": "When Harry's partner left the company, he never imagined he would have to take on so many new tasks."
+      },
+      {
+        "order": 3,
+        "es": "Asumió una cuenta de 10 millones de dólares además de encargarse de la nómina.",
+        "en": "He took on a $10 million account on top of taking on payroll."
+      },
+      {
+        "order": 4,
+        "es": "Después de todo, si él no lo asumía, ¿quién lo haría?",
+        "en": "After all, if he didn't take it on, then who would take it on?"
+      },
+      {
+        "order": 5,
+        "es": "También tuvo que asumir la tarea de llevar la contabilidad, así como encargarse de elaborar el presupuesto para el próximo año.",
+        "en": "He also had to take on the task of doing the books, as well as taking on drawing up the budget for the upcoming year."
+      },
+      {
+        "order": 6,
+        "es": "Incluso tuvo que encargarse de lidiar con los limpiadores.",
+        "en": "He even had to take on the job of dealing with the cleaners."
+      },
+      {
+        "order": 7,
+        "es": "Asumir el trabajo extra estaba pasando factura a Harry.",
+        "en": "Taking on the extra work was taking its toll on Harry."
+      },
+      {
+        "order": 8,
+        "es": "Así que asumió la tarea de encontrar un nuevo socio para que se encargara de parte de su carga de trabajo.",
+        "en": "So he took on the task of finding a new partner in order to take on some of his workload."
+      }
+    ]
+  },
+  {
+    "id": 253,
+    "file_name": "Phrasal_verbs_253.mp3",
+    "phrasal_verb": "go off",
+    "base_verb": "go",
+    "particle": "off",
+    "meaning_es": "1. Estallar, explotar (para bombas, fuegos artificiales).\n2. Sonar, activarse (para alarmas, despertadores, timbres, campanas, o un arma de fuego).",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "sonar",
+      "estallar",
+      "explotar",
+      "activar",
+      "alarma",
+      "despertador",
+      "bomba",
+      "ruido"
+    ],
+    "intro_note": "This drill focuses on the phrasal verb 'go off' with two primary meanings: to explode (like a bomb) and to make a sound or activate (like an alarm).",
+    "type": "drill",
+    "drills": [
+      {
+        "order": 1,
+        "es": "La bomba nunca estalló.",
+        "en": "The bomb never went off."
+      },
+      {
+        "order": 2,
+        "es": "Se suponía que iba a estallar a las 12.",
+        "en": "It was supposed to go off at 12."
+      },
+      {
+        "order": 3,
+        "es": "¿Por qué no estalló?",
+        "en": "Why didn't it go off?"
+      },
+      {
+        "order": 4,
+        "es": "Su despertador (de él) sonó a las 6.",
+        "en": "His alarm went off at 6 AM."
+      },
+      {
+        "order": 5,
+        "es": "Su despertador (de ella) no sonó y se quedó dormida.",
+        "en": "Her alarm didn't go off and she overslept."
+      },
+      {
+        "order": 6,
+        "es": "Pongo dos despertadores por si uno no suena.",
+        "en": "I set two alarms in case one doesn't go off."
+      },
+      {
+        "order": 7,
+        "es": "La alarma de su coche (de ellos) no para de sonar.",
+        "en": "Their car alarm keeps going off."
+      },
+      {
+        "order": 8,
+        "es": "Lleva toda la noche sonando.",
+        "en": "It's been going off all night."
+      },
+      {
+        "order": 9,
+        "es": "La alarma de incendios ha sonado dos veces esta semana.",
+        "en": "The fire alarm has gone off twice this week."
+      },
+      {
+        "order": 10,
+        "es": "Suena cuando detecta humo.",
+        "en": "It goes off when it detects smoke."
+      }
+    ]
+  },
+  {
+    "id": 254,
+    "file_name": "Phrasal_verbs_254.mp3",
+    "phrasal_verb": "Story: Early Birds and Alarm Clocks (wake up, go off, turn off)",
+    "base_verb": null,
+    "particle": null,
+    "meaning_es": "Una historia sobre varias personas y cómo se despiertan por la mañana, destacando el uso de los phrasal verbs 'wake up', 'go off' y 'turn off' en el contexto de despertadores y rutinas matutinas.",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "despertarse",
+      "alarma",
+      "sonar",
+      "apagar",
+      "rutina",
+      "mañana",
+      "madrugadores",
+      "go off",
+      "wake up",
+      "turn off"
+    ],
+    "intro_note": "Listen to this English audio file from a Phrasal Verbs audio course.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Madrugadores.",
+        "en": "Early birds."
+      },
+      {
+        "order": 2,
+        "es": "Entre semana, todos los Green se despiertan a la misma hora.",
+        "en": "On weekdays, all the Greens wake up at the same time."
+      },
+      {
+        "order": 3,
+        "es": "Bueno, casi.",
+        "en": "Well, almost."
+      },
+      {
+        "order": 4,
+        "es": "Harry se despierta cuando su despertador suena a las 7.",
+        "en": "Harry wakes up when his alarm clock goes off at 7."
+      },
+      {
+        "order": 5,
+        "es": "Cindy se despierta cuando suena el despertador de Harry, pero preferiría despertarse cuando suena el suyo porque es una radio y no hace un horrible sonido de pitido como el de Harry.",
+        "en": "Cindy wakes up when Harry's alarm clock goes off, but she would prefer to wake up when hers goes off because it's a radio and doesn't make a horrible beeping sound like Harry's."
+      },
+      {
+        "order": 6,
+        "es": "El despertador de Holly suena cinco minutos antes que el de Charlie, para que ella pueda usar el baño antes que él.",
+        "en": "Holly's alarm clock goes off five minutes before Charlie's goes off, so she can use the bathroom before him."
+      },
+      {
+        "order": 7,
+        "es": "A Charlie no le importa cuándo suena su despertador, ya que prefiere dormir.",
+        "en": "Charlie doesn't care when his alarm clock goes off, as he prefers to sleep."
+      },
+      {
+        "order": 8,
+        "es": "De hecho, cuando suena su despertador, lo apaga.",
+        "en": "In fact, when his alarm clock goes off, he turns it off."
+      },
+      {
+        "order": 9,
+        "es": "Por suerte para él, Cindy oye su despertador sonar y lo despierta de nuevo.",
+        "en": "Luckily for him, Cindy hears his alarm clock going off and wakes him up again."
+      }
+    ]
+  },
+  {
+    "id": 255,
+    "file_name": "Phrasal_verbs_255.mp3",
+    "phrasal_verb": "set off",
+    "base_verb": "set",
+    "particle": "off",
+    "meaning_es": "Hacer estallar algo (como fuegos artificiales o una bomba); hacer sonar algo (como una alarma o detector); activar o provocar el funcionamiento de algo.",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "activar",
+      "detonar",
+      "hacer explotar",
+      "hacer sonar",
+      "provocar",
+      "iniciar",
+      "activar alarma",
+      "disparar"
+    ],
+    "intro_note": "To set off.",
+    "type": "drill",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Hicieron estallar unos fuegos artificiales en Nochevieja.",
+        "en": "They set off some fireworks on New Year's Eve."
+      },
+      {
+        "order": 2,
+        "es": "¿Cuántos hicieron estallar?",
+        "en": "How many did they set off?"
+      },
+      {
+        "order": 3,
+        "es": "Él hizo estallar una bomba fétida.",
+        "en": "He set off a stink bomb in class."
+      },
+      {
+        "order": 4,
+        "es": "El ladrón hizo sonar la alarma.",
+        "en": "The burglar set off the alarm."
+      },
+      {
+        "order": 5,
+        "es": "Él la hizo sonar cuando rompió la ventana.",
+        "en": "He set it off when he broke the window."
+      },
+      {
+        "order": 6,
+        "es": "Si fumas aquí, harás sonar la alarma de incendios.",
+        "en": "If you smoke in here, you'll set off the fire alarm."
+      },
+      {
+        "order": 7,
+        "es": "Él se chocó con el coche e hizo sonar la alarma.",
+        "en": "He bumped into the car and set off the alarm."
+      },
+      {
+        "order": 8,
+        "es": "Siempre hago sonar los detectores de metal.",
+        "en": "I always set off metal detectors."
+      },
+      {
+        "order": 9,
+        "es": "Es mi pierna de metal lo que los hace sonar.",
+        "en": "It's my metal leg that sets them off."
+      },
+      {
+        "order": 10,
+        "es": "Ella hizo sonar la alarma cuando salió de la tienda.",
+        "en": "She set off the alarm when she left the shop."
+      }
+    ]
+  },
+  {
+    "id": 256,
+    "file_name": "Phrasal_verbs_256.mp3",
+    "phrasal_verb": "set off (a metal detector/alarm)",
+    "base_verb": "set",
+    "particle": "off",
+    "meaning_es": "Activar o disparar un dispositivo, como un detector de metales, una alarma o un explosivo.",
+    "situation": "Viajes y Transporte",
+    "tags_es": [
+      "activar",
+      "disparar",
+      "detector de metales",
+      "aeropuerto",
+      "seguridad",
+      "bomba",
+      "alarma"
+    ],
+    "intro_note": "Esta historia trata sobre una familia que tiene problemas en el control de seguridad del aeropuerto porque no dejan de activar el detector de metales.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "El detector de metales.",
+        "en": "The metal detector."
+      },
+      {
+        "order": 2,
+        "es": "Los Green casi pierden su vuelo porque todos ellos activaron el detector de metales en el aeropuerto.",
+        "en": "The Greens almost missed their flight because all of them set off the metal detector at the airport."
+      },
+      {
+        "order": 3,
+        "es": "Charlie activó el detector de metales porque olvidó quitarse el cinturón.",
+        "en": "Charlie set off the metal detector because he forgot to take his belt off."
+      },
+      {
+        "order": 4,
+        "es": "Cindy activó el detector de metales porque tenía algunas monedas en su bolsillo.",
+        "en": "Cindy set off the metal detector because she had some change in her pocket."
+      },
+      {
+        "order": 5,
+        "es": "Holly activó el detector de metales porque llevaba su teléfono encima.",
+        "en": "Holly set off the metal detector because she had her phone on her."
+      },
+      {
+        "order": 6,
+        "es": "Harry activó el detector de metales dos veces.",
+        "en": "Harry set off the metal detector twice."
+      },
+      {
+        "order": 7,
+        "es": "La primera vez que lo activó fue porque sus llaves estaban en su bolsillo.",
+        "en": "The first time he set it off was because his keys were in his pocket."
+      },
+      {
+        "order": 8,
+        "es": "Lo activó de nuevo porque su camisa tenía botones de metal.",
+        "en": "He set it off again because his shirt had metal buttons."
+      },
+      {
+        "order": 9,
+        "es": "—Solo déjame pasar —dijo Harry.",
+        "en": "Just let me through,\" said Harry."
+      },
+      {
+        "order": 10,
+        "es": "—¡No voy a activar una bomba!",
+        "en": "I'm not going to set off a bomb!"
+      },
+      {
+        "order": 11,
+        "es": "Cuando el guardia de seguridad escuchó 'bomba' y 'activar', le pidió a Harry que fuera con él.",
+        "en": "When the security guard heard bomb and set off, he asked Harry to go with him."
+      }
+    ]
+  },
+  {
+    "id": 257,
+    "file_name": "Phrasal_verbs_257.mp3",
+    "phrasal_verb": "come off",
+    "base_verb": "come",
+    "particle": "off",
+    "meaning_es": "Significa que un evento, plan o situación sucede o tiene éxito, o que una acción se lleva a cabo de cierta manera.",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "tener éxito",
+      "salir bien",
+      "resultar",
+      "éxito",
+      "plan",
+      "evento",
+      "suceder",
+      "realizar"
+    ],
+    "intro_note": "Usamos 'come off' para hablar de eventos, planes o situaciones que suceden o tienen éxito.",
+    "type": "drill",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Espero que el evento salga bien.",
+        "en": "I hope the event comes off."
+      },
+      {
+        "order": 2,
+        "es": "Si no sale bien, tendremos problemas.",
+        "en": "If it doesn't come off, we'll be in trouble."
+      },
+      {
+        "order": 3,
+        "es": "Su cirugía salió a pedir de boca.",
+        "en": "His surgery came off without a hitch."
+      },
+      {
+        "order": 4,
+        "es": "Sus espectáculos siempre salen mejor que los míos.",
+        "en": "His shows always come off better than mine."
+      },
+      {
+        "order": 5,
+        "es": "Realmente no salió bien.",
+        "en": "It didn't really come off."
+      },
+      {
+        "order": 6,
+        "es": "¿Por qué no salió bien?",
+        "en": "Why didn't it come off?"
+      },
+      {
+        "order": 7,
+        "es": "Habría salido bien si hubieran sido preparados.",
+        "en": "It would have come off if they'd been prepared."
+      },
+      {
+        "order": 8,
+        "es": "Su primer intento de él no salió bien.",
+        "en": "His first attempt didn't come off."
+      },
+      {
+        "order": 9,
+        "es": "Su segundo intento de él salió mejor que el primero.",
+        "en": "His second attempt came off better than the first."
+      },
+      {
+        "order": 10,
+        "es": "El torneo salió bien a pesar del mal tiempo.",
+        "en": "The tournament came off despite the bad weather."
+      }
+    ]
+  },
+  {
+    "id": 258,
+    "file_name": "Phrasal_verbs_258.mp3",
+    "phrasal_verb": "come off",
+    "base_verb": "come",
+    "particle": "off",
+    "meaning_es": "Tener éxito, salir bien, suceder como se planeó, funcionar.",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "éxito",
+      "suceder",
+      "salir bien",
+      "funcionamiento",
+      "obra de teatro",
+      "planificación"
+    ],
+    "intro_note": "Una historia sobre Cindy organizando la obra de teatro escolar y su preocupación de que los diferentes actos 'salgan bien' o 'tengan éxito'.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "La práctica hace la perfección.",
+        "en": "Practice makes perfect."
+      },
+      {
+        "order": 2,
+        "es": "Cada año, Cindy organiza la obra de teatro en la escuela de Holly y Charlie.",
+        "en": "Every year, Cindy organizes the play at Holly and Charlie's school."
+      },
+      {
+        "order": 3,
+        "es": "El año pasado, la obra salió mucho mejor de lo que nadie esperaba.",
+        "en": "Last year, the play came off much better than anyone expected."
+      },
+      {
+        "order": 4,
+        "es": "Aunque no salió tan bien como los años anteriores.",
+        "en": "Although it didn't come off as well as the previous years."
+      },
+      {
+        "order": 5,
+        "es": "Por supuesto, Cindy quería que la obra de este año saliera mejor que nunca.",
+        "en": "Of course, Cindy wanted this year's play to come off better than ever."
+      },
+      {
+        "order": 6,
+        "es": "Ella estaba segura de que el primer acto saldría bien.",
+        "en": "She was confident that the first act would come off."
+      },
+      {
+        "order": 7,
+        "es": "Sin embargo, le preocupaba que el segundo acto no saliera bien, ya que nadie en el segundo acto sabía sus líneas.",
+        "en": "However, she was worried that the second act wouldn't come off since nobody in the second act knew their lines."
+      },
+      {
+        "order": 8,
+        "es": "Sin embargo, si el segundo acto salía bien, entonces el tercer acto también saldría bien.",
+        "en": "Nevertheless, if the second act did come off, then the third act would come off too."
+      },
+      {
+        "order": 9,
+        "es": "Y si el tercer acto salía bien, el acto final seguramente saldría bien.",
+        "en": "And if the third act came off, the final act would surely come off."
+      }
+    ]
+  },
+  {
+    "id": 259,
+    "file_name": "Phrasal_verbs_259.mp3",
+    "phrasal_verb": "to pay off",
+    "base_verb": "pay",
+    "particle": "off",
+    "meaning_es": "significa dar resultado, rendir frutos, ser rentable o valer la pena, especialmente después de un esfuerzo o inversión.",
+    "situation": "Logro y Éxito",
+    "tags_es": [
+      "dar resultado",
+      "rendir frutos",
+      "compensar",
+      "merecer la pena",
+      "tener éxito",
+      "ser rentable",
+      "conseguir algo"
+    ],
+    "intro_note": "Este audio se centra en el phrasal verb 'to pay off' utilizado en el contexto de obtener resultados exitosos o beneficios de un esfuerzo, inversión o acción.",
+    "type": "drill",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Las medidas del gobierno están dando resultados.",
+        "en": "The government's measures are paying off."
+      },
+      {
+        "order": 2,
+        "es": "Sigue intentándolo, tu empeño dará resultado.",
+        "en": "Keep trying, your persistence will pay off."
+      },
+      {
+        "order": 3,
+        "es": "Sus inversiones de él no dieron fruto.",
+        "en": "His investments didn't pay off."
+      },
+      {
+        "order": 4,
+        "es": "Sus tácticas dieron resultado y ganaron la guerra.",
+        "en": "Their tactics paid off and they won the war."
+      },
+      {
+        "order": 5,
+        "es": "¿Crees que eso dará resultado a la larga?",
+        "en": "Do you think that will pay off in the long run?"
+      },
+      {
+        "order": 6,
+        "es": "Su decisión de ella dio resultado al final.",
+        "en": "Her decision paid off in the end."
+      },
+      {
+        "order": 7,
+        "es": "Los cambios están empezando a dar resultado.",
+        "en": "The changes are starting to pay off."
+      },
+      {
+        "order": 8,
+        "es": "Esa estrategia nunca dará resultado.",
+        "en": "That strategy will never pay off."
+      },
+      {
+        "order": 9,
+        "es": "Me alegro de que tus esfuerzos dieran resultado.",
+        "en": "I'm glad your effort paid off."
+      },
+      {
+        "order": 10,
+        "es": "Le dieron una oportunidad y se vio recompensado.",
+        "en": "They gave him a chance and it paid off."
+      }
+    ]
+  },
+  {
+    "id": 260,
+    "file_name": "Phrasal_verbs_260.mp3",
+    "phrasal_verb": "Story: Pay off",
+    "base_verb": "pay",
+    "particle": "off",
+    "meaning_es": "Dar resultado, compensar, valer la pena, tener éxito o beneficio. Puede referirse a un esfuerzo, una inversión, o una acción que trae resultados positivos.",
+    "situation": "Trabajo y Negocios",
+    "tags_es": [
+      "dar resultado",
+      "compensar",
+      "valer la pena",
+      "beneficios",
+      "éxito",
+      "inversión",
+      "estrategia",
+      "ganar"
+    ],
+    "intro_note": "A short story illustrating the phrasal verb 'pay off' in various contexts.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Hace dos meses, Harry encontró un trébol de cuatro hojas y, desde entonces, todas sus decisiones han dado resultado.",
+        "en": "Two months ago, Harry found a four-leafed clover, and since then, all his decisions have paid off."
+      },
+      {
+        "order": 2,
+        "es": "Su nueva estrategia de marketing estaba dando resultado en el trabajo, y su dedicación en el campo de golf también estaba dando resultado.",
+        "en": "His new marketing strategy was paying off at work, and his dedication on the golf course was paying off too."
+      },
+      {
+        "order": 3,
+        "es": "Invirtió dinero en el mercado de valores, y su inversión dio resultado.",
+        "en": "He invested money in the stock market, and his investment paid off."
+      },
+      {
+        "order": 4,
+        "es": "Holly y Charlie estaban contentos de que su inversión diera resultado porque él les dio $100 a cada uno.",
+        "en": "Holly and Charlie were happy that his investment paid off because he gave them each $100."
+      },
+      {
+        "order": 5,
+        "es": "Cindy estaba eufórica de que su inversión diera resultado porque eso significaba que podían terminar las renovaciones de su casa.",
+        "en": "Cindy was ecstatic that his investment paid off because it meant that they could finish the renovations on their house."
+      },
+      {
+        "order": 6,
+        "es": "Incluso Skippy el perro estaba contento de que la inversión de Harry diera resultado, porque obtuvo una cama nueva y una gran bolsa de huesos.",
+        "en": "Even Skippy the dog was glad Harry's investment paid off because he got a new bed and a big bag of bones."
+      },
+      {
+        "order": 7,
+        "es": "Harry no era muy apostador, pero como todos sus riesgos han estado dando resultado últimamente, compró un billete de lotería.",
+        "en": "Harry wasn't much of a gambler, but since all his risks have been paying off lately, he bought a lottery ticket."
+      }
+    ]
+  },
+  {
+    "id": 261,
+    "file_name": "Phrasal_verbs_261.mp3",
+    "phrasal_verb": "to pull off",
+    "base_verb": "pull",
+    "particle": "off",
+    "meaning_es": "Lograr o conseguir algo difícil o inesperado con éxito.",
+    "situation": "Logros y Desafíos",
+    "tags_es": [
+      "lograr",
+      "conseguir",
+      "tener éxito",
+      "realizar",
+      "llevar a cabo",
+      "finalizar",
+      "cumplir",
+      "hacer posible"
+    ],
+    "intro_note": "To pull off means to succeed in doing something difficult or unexpected.",
+    "type": "drill",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Nadie pensaba que podría conseguirlo.",
+        "en": "No one thought I could pull it off."
+      },
+      {
+        "order": 2,
+        "es": "Lograron una victoria sensacional.",
+        "en": "They pulled off a sensational victory."
+      },
+      {
+        "order": 3,
+        "es": "¿Cómo lo consiguieron?",
+        "en": "How did they pull it off?"
+      },
+      {
+        "order": 4,
+        "es": "Necesitamos lograr un milagro para salvar a la empresa.",
+        "en": "We need to pull off a miracle to save the company."
+      },
+      {
+        "order": 5,
+        "es": "¿Crees que podemos conseguir el acuerdo?",
+        "en": "Do you think we can pull off the deal?"
+      },
+      {
+        "order": 6,
+        "es": "El novato logró una sorpresa.",
+        "en": "The rookie pulled off an upset."
+      },
+      {
+        "order": 7,
+        "es": "¿Cómo logró el mago su último truco?",
+        "en": "How did the magician pull off his last trick?"
+      },
+      {
+        "order": 8,
+        "es": "Nunca sacarás adelante un plan así.",
+        "en": "You'll never pull off a scheme like that."
+      },
+      {
+        "order": 9,
+        "es": "Si lo logramos, seremos héroes.",
+        "en": "If we pull it off, we'll be heroes."
+      },
+      {
+        "order": 10,
+        "es": "Él logró la estafa más grande de la historia.",
+        "en": "He pulled off the biggest scam in history."
+      }
+    ]
+  },
+  {
+    "id": 262,
+    "file_name": "Phrasal_verbs_262.mp3",
+    "phrasal_verb": "pull off",
+    "base_verb": "pull",
+    "particle": "off",
+    "meaning_es": "Lograr o conseguir con éxito algo, especialmente algo difícil o inesperado. Ejecutar con éxito.",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "lograr",
+      "conseguir",
+      "ejecutar",
+      "éxito",
+      "hazaña",
+      "deporte",
+      "golf"
+    ],
+    "intro_note": "Una historia sobre Harry y sus impresionantes tiros de golf, utilizando el phrasal verb 'pull off' para describir la ejecución exitosa de acciones difíciles.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Un día precioso para jugar al golf.",
+        "en": "A lovely day for golf."
+      },
+      {
+        "order": 2,
+        "es": "Harry estaba jugando al golf con sus amigos y estaba realizando algunos golpes fantásticos.",
+        "en": "Harry was playing golf with his friends and was pulling off some fantastic shots."
+      },
+      {
+        "order": 3,
+        "es": "Él logró un golpe de salida imposible en el primer hoyo y luego consiguió un putt de 20 yardas para ganar el hoyo.",
+        "en": "He pulled off an impossible drive on the first tee and then pulled off a 20-yard putt to win the hole."
+      },
+      {
+        "order": 4,
+        "es": "Sus amigos nunca lo habían visto realizar tantos golpes geniales y no sabían cómo los estaba consiguiendo.",
+        "en": "His friends had never seen him pull off so many great shots and didn't know how he was pulling them off."
+      },
+      {
+        "order": 5,
+        "es": "En el hoyo 17, Harry ejecutó un golpe desde el búnker que la mayoría de los profesionales no podrían lograr.",
+        "en": "On the 17th hole, Harry pulled off a shot from the bunker that most professionals couldn't pull off."
+      },
+      {
+        "order": 6,
+        "es": "En el hoyo 18, Harry consiguió otro golpe de salida espectacular y luego ejecutó un chip difícil para dejar la bola en el green.",
+        "en": "On the 18th hole, Harry pulled off another spectacular drive and then pulled off a difficult chip to leave the ball on the green."
+      },
+      {
+        "order": 7,
+        "es": "Si lograba el putt final, conseguiría una de las mejores rondas de golf en la historia del campo.",
+        "en": "If he pulled off the final putt, he would pull off one of the best rounds of golf in the history of the course."
+      }
+    ]
+  },
+  {
+    "id": 263,
+    "file_name": "Phrasal_verbs_263.mp3",
+    "phrasal_verb": "to switch off / to turn off",
+    "base_verb": "switch/turn",
+    "particle": "off",
+    "meaning_es": "apagar",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "apagar",
+      "desconectar",
+      "electrónica",
+      "luz",
+      "energía",
+      "dispositivo"
+    ],
+    "intro_note": "Un ejercicio de taladro bilingüe que practica los phrasal verbs 'to switch off' y 'to turn off', ambos significan 'apagar' en español, en varios contextos de la vida diaria.",
+    "type": "drill",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Te acordaste de apagar la tele?",
+        "en": "Did you remember to turn off the TV?"
+      },
+      {
+        "order": 2,
+        "es": "Ella se olvidó de apagar la cafetera.",
+        "en": "She forgot to switch off the coffee machine."
+      },
+      {
+        "order": 3,
+        "es": "Pensaba que apagué el micrófono.",
+        "en": "I thought I turned off the microphone."
+      },
+      {
+        "order": 4,
+        "es": "Apagar las luces es una buena forma de ahorrar energía.",
+        "en": "Switching off lights is a good way to save energy."
+      },
+      {
+        "order": 5,
+        "es": "Apagas tu PC por las noches?",
+        "en": "Do you turn off your computer at night?"
+      },
+      {
+        "order": 6,
+        "es": "No me dejes olvidar apagar el horno.",
+        "en": "Don't let me forget to turn off the oven."
+      },
+      {
+        "order": 7,
+        "es": "Cierra el grifo cuando te estés cepillando los dientes.",
+        "en": "Turn off the tap when you're brushing your teeth."
+      },
+      {
+        "order": 8,
+        "es": "Cerraste el gas antes de salir?",
+        "en": "Did you turn off the gas before you left?"
+      },
+      {
+        "order": 9,
+        "es": "No consigo averiguar cómo apagarlo.",
+        "en": "I can't figure out how to turn it off."
+      },
+      {
+        "order": 10,
+        "es": "Apaga la radio, estoy intentando dormir.",
+        "en": "Switch off the radio. I'm trying to sleep."
+      }
+    ]
+  },
+  {
+    "id": 264,
+    "file_name": "Phrasal_verbs_264.mp3",
+    "phrasal_verb": "Story: Turn off / Switch off",
+    "base_verb": null,
+    "particle": null,
+    "meaning_es": "Apagar o desconectar un aparato o sistema.",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "apagar",
+      "desconectar",
+      "olvidar",
+      "electricidad",
+      "casa",
+      "dispositivos"
+    ],
+    "intro_note": "This story illustrates the phrasal verbs 'turn off' and 'switch off' in the context of remembering to power down appliances before leaving the house.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "¿Estás seguro?",
+        "en": "Are you sure?"
+      },
+      {
+        "order": 2,
+        "es": "Mientras los Green iban de camino a la playa, Cindy de repente tuvo una horrible sensación de que se habían olvidado de apagar algo.",
+        "en": "While the Greens were on their way to the beach, Cindy suddenly had a horrible feeling that they had forgotten to turn something off."
+      },
+      {
+        "order": 3,
+        "es": "¿Apagaste la televisión?",
+        "en": "Did you turn off the TV?"
+      },
+      {
+        "order": 4,
+        "es": "le preguntó a Harry.",
+        "en": "she asked Harry."
+      },
+      {
+        "order": 5,
+        "es": "Claro que la apagué,",
+        "en": "Of course I turned it off,"
+      },
+      {
+        "order": 6,
+        "es": "respondió él.",
+        "en": "he replied."
+      },
+      {
+        "order": 7,
+        "es": "¿Apagaste tu ordenador?",
+        "en": "Did you turn off your computer?"
+      },
+      {
+        "order": 8,
+        "es": "le preguntó a Holly.",
+        "en": "she asked Holly."
+      },
+      {
+        "order": 9,
+        "es": "Siempre lo apago,",
+        "en": "I always turn it off,"
+      },
+      {
+        "order": 10,
+        "es": "dijo ella.",
+        "en": "she said."
+      },
+      {
+        "order": 11,
+        "es": "¿Apagaste tu estéreo?",
+        "en": "Did you switch off your stereo?"
+      },
+      {
+        "order": 12,
+        "es": "le preguntó a Charlie.",
+        "en": "she asked Charlie."
+      },
+      {
+        "order": 13,
+        "es": "No, no lo apagué,",
+        "en": "No, I didn't switch it off,"
+      },
+      {
+        "order": 14,
+        "es": "pero le dije a papá que lo apagara por mí.",
+        "en": "but I told Dad to switch it off for me."
+      },
+      {
+        "order": 15,
+        "es": "Cindy sabía que había apagado todas las luces.",
+        "en": "Cindy knew she turned off all the lights."
+      },
+      {
+        "order": 16,
+        "es": "Y si Harry apagó la televisión y el estéreo,",
+        "en": "And if Harry turned off the TV and the stereo,"
+      },
+      {
+        "order": 17,
+        "es": "y Holly apagó su ordenador,",
+        "en": "and Holly turned off her computer,"
+      },
+      {
+        "order": 18,
+        "es": "¿qué más quedaba por apagar?",
+        "en": "what else was there to turn off?"
+      }
+    ]
+  },
+  {
+    "id": 265,
+    "file_name": "Phrasal_verbs_265.mp3",
+    "phrasal_verb": "cut off",
+    "base_verb": "cut",
+    "particle": "off",
+    "meaning_es": "Cortar, interrumpir o desconectar un suministro, servicio o comunicación (por ejemplo, gas, agua, electricidad, línea telefónica).",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "cortar",
+      "interrumpir",
+      "desconectar",
+      "suministro",
+      "servicio",
+      "línea",
+      "electricidad",
+      "agua",
+      "gas",
+      "teléfono",
+      "facturas"
+    ],
+    "intro_note": "Este ejercicio se centra en el phrasal verb 'cut off' usado para describir la interrupción de servicios como el gas, el agua o la electricidad.",
+    "type": "drill",
+    "drills": [
+      {
+        "order": 1,
+        "es": "La compañía del gas cortó su gas.",
+        "en": "The gas company cut off their gas."
+      },
+      {
+        "order": 2,
+        "es": "¿Por qué lo cortaron?",
+        "en": "Why did they cut it off?"
+      },
+      {
+        "order": 3,
+        "es": "Si no pagas la factura del teléfono, te cortan la línea.",
+        "en": "If you don't pay your phone bill, they cut off your line."
+      },
+      {
+        "order": 4,
+        "es": "El suministro del agua fue cortado después del huracán.",
+        "en": "The water supply was cut off after the hurricane."
+      },
+      {
+        "order": 5,
+        "es": "¿Qué haremos si cortan la luz?",
+        "en": "What will we do if they cut off our electricity?"
+      },
+      {
+        "order": 6,
+        "es": "Te volveré a llamar si se corta la línea.",
+        "en": "I'll call you back if we get cut off."
+      },
+      {
+        "order": 7,
+        "es": "¿Alguna vez te han cortado el gas?",
+        "en": "Has your gas ever been cut off?"
+      },
+      {
+        "order": 8,
+        "es": "Mi línea fue cortada la semana pasada.",
+        "en": "My phone line was cut off last week."
+      },
+      {
+        "order": 9,
+        "es": "Ella no podía ducharse porque le cortaron el agua.",
+        "en": "She couldn't shower because they cut off her water."
+      },
+      {
+        "order": 10,
+        "es": "La luz fue cortada en toda la manzana.",
+        "en": "The electricity was cut off to the whole block."
+      }
+    ]
+  },
+  {
+    "id": 266,
+    "file_name": "Phrasal_verbs_266.mp3",
+    "phrasal_verb": "Story: Unpaid Bills and Cut-Off Services",
+    "base_verb": null,
+    "particle": null,
+    "meaning_es": "Esta historia ilustra el uso del phrasal verb 'cut off' (cortar, suspender) en el contexto de servicios públicos y comunicaciones, así como las consecuencias de no pagar las facturas. También se ve 'mix-up' (confusión, lío).",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "facturas impagadas",
+      "corte de servicios",
+      "cortar",
+      "suspender",
+      "sin luz",
+      "sin agua",
+      "sin teléfono",
+      "problemas bancarios",
+      "confusión",
+      "vida diaria"
+    ],
+    "intro_note": "Una historia sobre las desafortunadas consecuencias de una confusión bancaria, que lleva al corte de múltiples servicios esenciales para una familia.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Hubo una gran confusión en el banco el mes pasado, y como resultado, ninguna de las facturas de los Green fue pagada.",
+        "en": "There was a big mix-up at the bank last month, and as a result, none of the Greens' bills got paid."
+      },
+      {
+        "order": 2,
+        "es": "Primero les cortaron el agua, así que los Green tuvieron que usar la ducha de su vecino, ya que a ellos no les habían cortado el agua.",
+        "en": "The water was cut off first, so the Greens had to use their neighbor's shower, as their water hadn't been cut off."
+      },
+      {
+        "order": 3,
+        "es": "Luego, les cortaron la línea telefónica, lo cual no fue un problema hasta que también les cortaron los teléfonos móviles.",
+        "en": "Then, their phone line was cut off, which wasn't a problem until their mobile phones were cut off too."
+      },
+      {
+        "order": 4,
+        "es": "Cindy sabía que pronto les cortarían el gas, así que empezó a cocinar el almuerzo antes de que pudieran cortarlo.",
+        "en": "Cindy knew that they would cut off the gas soon, so she started to cook lunch before they could cut it off."
+      },
+      {
+        "order": 5,
+        "es": "Desafortunadamente, lo cortaron justo cuando Cindy estaba metiendo el pavo en el horno.",
+        "en": "Unfortunately, they cut it off just as Cindy was putting the turkey in the oven."
+      },
+      {
+        "order": 6,
+        "es": "Lo sé, cocinaré el pavo en el microondas, pensó Cindy.",
+        "en": "I know, I'll cook the turkey in the microwave, Cindy thought."
+      },
+      {
+        "order": 7,
+        "es": "Aún no han cortado la electricidad, pero justo en ese momento, también cortaron la luz.",
+        "en": "They haven't cut off the power yet, but just then, the electricity was cut off too."
+      }
+    ]
+  },
+  {
+    "id": 267,
+    "file_name": "Phrasal_verbs_267.mp3",
+    "phrasal_verb": "block off",
+    "base_verb": "block",
+    "particle": "off",
+    "meaning_es": "Cortar el paso, bloquear, cerrar el acceso a un lugar o vía.",
+    "situation": "Seguridad y Emergencias",
+    "tags_es": [
+      "bloquear",
+      "cerrar",
+      "cortar el paso",
+      "impedir el acceso",
+      "calle",
+      "emergencia",
+      "protesta",
+      "desvío"
+    ],
+    "intro_note": "Aprende a usar 'block off' para describir la acción de cerrar o impedir el acceso a un lugar, como una calle o una entrada.",
+    "type": "drill",
+    "drills": [
+      {
+        "order": 1,
+        "es": "¿Por qué fue cortada la calle?",
+        "en": "Why was the street blocked off?"
+      },
+      {
+        "order": 2,
+        "es": "¿Cuántas calles han cortado?",
+        "en": "How many streets have they blocked off?"
+      },
+      {
+        "order": 3,
+        "es": "La policía las cortó.",
+        "en": "The police blocked them off."
+      },
+      {
+        "order": 4,
+        "es": "Las cortaron debido al desfile.",
+        "en": "They blocked them off because of the parade."
+      },
+      {
+        "order": 5,
+        "es": "¿Cuánto tiempo estarán cortadas?",
+        "en": "How long will they be blocked off for?"
+      },
+      {
+        "order": 6,
+        "es": "Estarán cortadas hasta nuevo aviso.",
+        "en": "They'll be blocked off until further notice."
+      },
+      {
+        "order": 7,
+        "es": "Los bomberos bloquearon la entrada.",
+        "en": "The firemen blocked off the entrance."
+      },
+      {
+        "order": 8,
+        "es": "Los manifestantes cortaron la calle.",
+        "en": "The demonstrators blocked off the street."
+      },
+      {
+        "order": 9,
+        "es": "Los estudiantes bloquearon la plaza principal.",
+        "en": "The students blocked off the main square."
+      },
+      {
+        "order": 10,
+        "es": "La playa fue cortada después del derrame de petróleo.",
+        "en": "The beach was blocked off after the oil spill."
+      }
+    ]
+  },
+  {
+    "id": 268,
+    "file_name": "Phrasal_verbs_268.mp3",
+    "phrasal_verb": "block off",
+    "base_verb": "block",
+    "particle": "off",
+    "meaning_es": "bloquear, cerrar el paso, acordonar (especialmente una calle o área para impedir el tráfico o el acceso)",
+    "situation": "Movimiento y Lugares",
+    "tags_es": [
+      "bloquear",
+      "cerrar",
+      "calle",
+      "tráfico",
+      "protesta",
+      "desvío",
+      "camino",
+      "acceso",
+      "obstáculos"
+    ],
+    "intro_note": "A short story about Harry trying to get home, encountering blocked streets.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "El laberinto.",
+        "en": "The maze."
+      },
+      {
+        "order": 2,
+        "es": "Harry no pudo llegar a casa porque la Calle Amapola estaba bloqueada por manifestantes.",
+        "en": "Harry couldn't get home because Poppy Street was blocked off by protesters."
+      },
+      {
+        "order": 3,
+        "es": "Era la segunda vez este mes que la habían bloqueado.",
+        "en": "It was the second time this month that they had blocked it off."
+      },
+      {
+        "order": 4,
+        "es": "Y Harry estaba empezando a pensar que la estaban bloqueando solo para molestarlo.",
+        "en": "And Harry was beginning to think they were blocking it off just to annoy him."
+      },
+      {
+        "order": 5,
+        "es": "Dio media vuelta e intentó tomar la Calle Orquídea.",
+        "en": "He turned around and tried to take Orchid Street."
+      },
+      {
+        "order": 6,
+        "es": "Pero la Calle Orquídea también estaba bloqueada.",
+        "en": "But Orchid Street was blocked off too."
+      },
+      {
+        "order": 7,
+        "es": "Harry no podía creer que el Ayuntamiento hubiera bloqueado la Calle Orquídea un miércoles.",
+        "en": "Harry couldn't believe that the City Council had blocked off Orchid Street on a Wednesday."
+      },
+      {
+        "order": 8,
+        "es": "Y le preguntó a un policía por qué la habían bloqueado.",
+        "en": "And asked a policeman why they had blocked it off."
+      },
+      {
+        "order": 9,
+        "es": "El policía le dijo: 'El Ayuntamiento bloquea la calle todos los años para el desfile'.",
+        "en": "The policeman told him, 'The City Council blocked off the street every year for the parade'."
+      },
+      {
+        "order": 10,
+        "es": "¿Cuántas otras calles han bloqueado?', preguntó Harry.",
+        "en": "'How many other streets have they blocked off?' asked Harry."
+      },
+      {
+        "order": 11,
+        "es": "'Han bloqueado todas las calles principales del barrio', respondió el policía.",
+        "en": "'They've blocked off all the main streets in the neighborhood,' replied the policeman."
+      }
+    ]
+  },
+  {
+    "id": 269,
+    "file_name": "Phrasal_verbs_269.mp3",
+    "phrasal_verb": "close off",
+    "base_verb": "close",
+    "particle": "off",
+    "meaning_es": "impedir el acceso, bloquear el paso, cortar el acceso",
+    "situation": "Lugares y Restricciones",
+    "tags_es": [
+      "cerrar",
+      "bloquear",
+      "impedir",
+      "restringir",
+      "acceso",
+      "camino",
+      "carretera",
+      "entrada",
+      "pista",
+      "seguridad"
+    ],
+    "intro_note": "Drill on the phrasal verb 'to close off' meaning to block or restrict access to a place.",
+    "type": "drill",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Es verdad que han cortado la autopista?",
+        "en": "Is it true they've closed off the motorway?"
+      },
+      {
+        "order": 2,
+        "es": "Solo han impedido el acceso al carril derecho.",
+        "en": "They only closed off the right lane."
+      },
+      {
+        "order": 3,
+        "es": "No han impedido el acceso completamente, verdad?",
+        "en": "They haven't closed it off completely, have they?"
+      },
+      {
+        "order": 4,
+        "es": "Vamos a tener que impedir el acceso a la tercera planta.",
+        "en": "We're going to have to close off the third floor."
+      },
+      {
+        "order": 5,
+        "es": "Impedir acceso a las escaleras.",
+        "en": "Close off the stairs."
+      },
+      {
+        "order": 6,
+        "es": "Por qué tiene el acceso impedido la entrada?",
+        "en": "Why is the entrance closed off?"
+      },
+      {
+        "order": 7,
+        "es": "Un derrumbamiento impidió acceso a la carretera.",
+        "en": "A landslide closed off the road."
+      },
+      {
+        "order": 8,
+        "es": "Van a impedir acceso a la frontera.",
+        "en": "They are going to close off the border."
+      },
+      {
+        "order": 9,
+        "es": "Impidieron acceso a la pista de esquí por falta de nieve.",
+        "en": "They closed off the ski run due to lack of snow."
+      },
+      {
+        "order": 10,
+        "es": "Impidieron el acceso después de una explosión.",
+        "en": "They closed it off after an explosion."
+      }
+    ]
+  },
+  {
+    "id": 270,
+    "file_name": "Phrasal_verbs_270.mp3",
+    "phrasal_verb": "close off",
+    "base_verb": "close",
+    "particle": "off",
+    "meaning_es": "Bloquear o restringir el acceso a un lugar o área.",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "cerrar",
+      "bloquear",
+      "restricción",
+      "tráfico",
+      "reparaciones",
+      "inaccesible"
+    ],
+    "intro_note": "A story about Harry's frustrating commute where everything seems to be closed off.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "El tráfico era terrible, lo que significaba que Harry iba a llegar tarde al trabajo.",
+        "en": "The traffic was terrible, which meant Harry was going to be late for work."
+      },
+      {
+        "order": 2,
+        "es": "Escuchó en la radio que los obreros habían cerrado el carril izquierdo por reparaciones, pero estaba seguro de que también habían cerrado el carril derecho.",
+        "en": "He heard on the radio that workmen had closed off the left lane for repairs, but he was sure that they had closed off the right lane too."
+      },
+      {
+        "order": 3,
+        "es": "Tan pronto como Harry entró en el carril central, vio una señal que decía que también estaba cerrado.",
+        "en": "As soon as Harry got in the middle lane, he saw a sign saying that it was closed off as well."
+      },
+      {
+        "order": 4,
+        "es": "Genial, pensó Harry, han cerrado todos los carriles.",
+        "en": "Great, thought Harry, they've closed off all the lanes."
+      },
+      {
+        "order": 5,
+        "es": "Cuando finalmente llegó a su oficina, se enteró de que el ascensor estaba siendo reparado, razón por la cual el equipo de mantenimiento lo había cerrado.",
+        "en": "When he finally got to his office, he found out that the lift was being repaired, which is why the maintenance crew had closed it off."
+      },
+      {
+        "order": 6,
+        "es": "Harry intentó subir las escaleras, pero estaban cerradas porque alguien había derramado café.",
+        "en": "Harry tried to go up the stairs, but they were closed off because someone had spilled coffee."
+      },
+      {
+        "order": 7,
+        "es": "Harry no sabía por qué no cerraban todo el edificio si iban a cerrar el ascensor y cerrar las escaleras.",
+        "en": "Harry didn't know why they didn't just close off the whole building if they were going to close off the lift and close off the stairs."
+      }
+    ]
+  },
+  {
+    "id": 271,
+    "file_name": "Phrasal_verbs_271.mp3",
+    "phrasal_verb": "cut off",
+    "base_verb": "cut",
+    "particle": "off",
+    "meaning_es": "Aislar, separar o impedir el acceso a algo o alguien.",
+    "situation": "Movimiento y Lugares",
+    "tags_es": [
+      "aislar",
+      "separar",
+      "interrumpir",
+      "bloquear acceso",
+      "incomunicar",
+      "excluir"
+    ],
+    "intro_note": "Ejercicios de taladro para practicar el phrasal verb 'cut off' en el sentido de aislar o separar, ya sea personas o lugares, o interrumpir una conexión.",
+    "type": "drill",
+    "drills": [
+      {
+        "order": 1,
+        "es": "La tormenta aisló la aldea.",
+        "en": "The storm cut the village off."
+      },
+      {
+        "order": 2,
+        "es": "El río se desbordó y cortó la carretera.",
+        "en": "The river overflowed and cut off the road."
+      },
+      {
+        "order": 3,
+        "es": "Un deslizamiento de barro aisló el pueblo.",
+        "en": "A mudslide cut off the town."
+      },
+      {
+        "order": 4,
+        "es": "La ventisca les aisló de su campamento.",
+        "en": "A blizzard cut them off from their camp."
+      },
+      {
+        "order": 5,
+        "es": "El país entero ha sido aislado.",
+        "en": "The whole country has been cut off."
+      },
+      {
+        "order": 6,
+        "es": "El muro de Berlín aisló el este del oeste.",
+        "en": "The Berlin Wall cut off the East from the West."
+      },
+      {
+        "order": 7,
+        "es": "Muchas familias fueron aisladas las unas de las otras.",
+        "en": "A lot of families were cut off from each other."
+      },
+      {
+        "order": 8,
+        "es": "Mucha gente fue aislada de sus hogares.",
+        "en": "Many people were cut off from their homes."
+      },
+      {
+        "order": 9,
+        "es": "Él fue exiliado y aislado de su gente.",
+        "en": "He was exiled and cut off from his people."
+      },
+      {
+        "order": 10,
+        "es": "El puente se derrumbó y aisló la isla.",
+        "en": "The bridge collapsed and cut the island off."
+      }
+    ]
+  },
+  {
+    "id": 272,
+    "file_name": "Phrasal_verbs_272.mp3",
+    "phrasal_verb": "cut off",
+    "base_verb": "cut",
+    "particle": "off",
+    "meaning_es": "Aislar, incomunicar, bloquear el acceso o el paso de algo o alguien.",
+    "situation": "Desastres Naturales",
+    "tags_es": [
+      "desastre natural",
+      "aislar",
+      "incomunicar",
+      "bloquear",
+      "cortar el acceso",
+      "catástrofe",
+      "tsunami",
+      "incendio",
+      "huracán",
+      "ventisca",
+      "deslizamiento de tierra"
+    ],
+    "intro_note": "Una narración sobre los efectos de varios desastres naturales, enfocándose en cómo 'cut off' se usa para describir el aislamiento y la interrupción de acceso.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Cindy no puede creer la cantidad de desastres naturales que están ocurriendo en todo el mundo.",
+        "en": "Cindy can't believe the number of natural disasters taking place all over the world."
+      },
+      {
+        "order": 2,
+        "es": "Varias ciudades en Taiwán quedaron incomunicadas por un tsunami, y miles de personas quedaron aisladas como resultado.",
+        "en": "Several cities in Taiwan were cut off by a tsunami, and thousands of people were cut off as a result."
+      },
+      {
+        "order": 3,
+        "es": "En India, las fuertes lluvias causaron deslizamientos de tierra que incomunicaron a cientos de aldeas y bloquearon las carreteras principales.",
+        "en": "In India, heavy rains caused landslides which cut off hundreds of villages and cut off the main roads."
+      },
+      {
+        "order": 4,
+        "es": "En California, los incendios forestales aislaron a varios pueblos, además de dejar atrapados a varios bomberos.",
+        "en": "In California, forest fires cut several towns off, as well as cutting off several firemen."
+      },
+      {
+        "order": 5,
+        "es": "Florida sufrió un huracán de categoría 3, que incomunicó completamente los pueblos costeros.",
+        "en": "Florida suffered a category 3 hurricane, which completely cut off coastal towns."
+      },
+      {
+        "order": 6,
+        "es": "Los rescatistas intentaban llegar a los pueblos, pero la mayoría de las carreteras estaban bloqueadas por árboles caídos.",
+        "en": "Rescuers were trying to reach the towns, but most of the roads were cut off by fallen trees."
+      },
+      {
+        "order": 7,
+        "es": "Y en Inglaterra, una enorme ventisca aisló pueblos y aldeas, e incluso incomunicó a los agricultores de su ganado.",
+        "en": "And in England, an enormous blizzard cut off towns and villages, and even cut farmers off from their livestock."
+      }
+    ]
+  },
+  {
+    "id": 273,
+    "file_name": "Phrasal_verbs_273.mp3",
+    "phrasal_verb": "come off",
+    "base_verb": "come",
+    "particle": "off",
+    "meaning_es": "Desprenderse, despegarse, caerse de una superficie o de otro objeto.",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "desprenderse",
+      "caerse",
+      "soltarse",
+      "separarse",
+      "despegarse",
+      "objetos",
+      "ropa",
+      "partes"
+    ],
+    "intro_note": "To come off",
+    "type": "drill",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Odio cuando se caen los botones.",
+        "en": "I hate it when buttons come off."
+      },
+      {
+        "order": 2,
+        "es": "Mi póster favorito se está cayendo.",
+        "en": "My favorite poster is coming off."
+      },
+      {
+        "order": 3,
+        "es": "La suela de mi zapato se cayó.",
+        "en": "The sole of my shoe came off."
+      },
+      {
+        "order": 4,
+        "es": "Él devolvió la chaqueta porque se salió la cremallera.",
+        "en": "He returned the jacket because the zipper came off."
+      },
+      {
+        "order": 5,
+        "es": "La tecla H de mi teclado se cayó.",
+        "en": "The H key on my keyboard came off."
+      },
+      {
+        "order": 6,
+        "es": "Se le salió el zapato cuando estaba corriendo.",
+        "en": "His shoe came off while he was running."
+      },
+      {
+        "order": 7,
+        "es": "Esta pegatina no se despega.",
+        "en": "This sticker won't come off."
+      },
+      {
+        "order": 8,
+        "es": "Se le cayó la uña, así que se fue al hospital.",
+        "en": "His fingernail came off, so he went to the hospital."
+      },
+      {
+        "order": 9,
+        "es": "Esperemos que la pata de la mesa no se caiga.",
+        "en": "Let's hope the table leg doesn't come off."
+      },
+      {
+        "order": 10,
+        "es": "Esa camisa es una imitación, el logo se está cayendo.",
+        "en": "That shirt is a fake, the logo's coming off."
+      }
+    ]
+  },
+  {
+    "id": 274,
+    "file_name": "Phrasal_verbs_274.mp3",
+    "phrasal_verb": "come off",
+    "base_verb": "come",
+    "particle": "off",
+    "meaning_es": "Desprenderse, despegarse, caerse (de algo). Se usa cuando una parte de algo se separa o se suelta del todo.",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "desprenderse",
+      "separarse",
+      "soltarse",
+      "caerse",
+      "ropa",
+      "objetos",
+      "deterioro"
+    ],
+    "intro_note": "Una historia corta que ilustra el uso del phrasal verb 'come off' en diferentes contextos.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "De compras.",
+        "en": "Shopping."
+      },
+      {
+        "order": 2,
+        "es": "Cuando llueve, diluvia.",
+        "en": "When it rains, it pours."
+      },
+      {
+        "order": 3,
+        "es": "Y cuando las cosas se desprenden, se desprenden todas a la vez.",
+        "en": "And when things come off, they come off all at once."
+      },
+      {
+        "order": 4,
+        "es": "Holly necesitaba unos jeans nuevos porque uno de los bolsillos se estaba desprendiendo.",
+        "en": "Holly needed a new pair of jeans because one of the pockets was coming off."
+      },
+      {
+        "order": 5,
+        "es": "Cindy necesitaba una blusa nueva porque dos de los botones se le cayeron.",
+        "en": "Cindy needed a new blouse because two of the buttons came off."
+      },
+      {
+        "order": 6,
+        "es": "¿Cómo se desprendieron?",
+        "en": "How did they come off?"
+      },
+      {
+        "order": 7,
+        "es": "Quizás se desprendieron en la lavadora, respondió Cindy.",
+        "en": "Perhaps they came off in the washing machine, Cindy replied."
+      },
+      {
+        "order": 8,
+        "es": "De hecho, necesitaban comprar una lavadora nueva ya que la puerta se salió la última vez que se abrió.",
+        "en": "In fact, they needed to buy a new washing machine as the door came off the last time it was opened."
+      },
+      {
+        "order": 9,
+        "es": "Charlie necesitaba un par de zapatos nuevos porque la suela del derecho se despegó, y la suela del izquierdo estaba a punto de desprenderse.",
+        "en": "Charlie needed a new pair of shoes because the sole of the right one came off, and the left sole was about to come off."
+      },
+      {
+        "order": 10,
+        "es": "Incluso necesitaron comprar un control remoto nuevo después de que los botones de volumen se desprendieran cuando se cayó del sofá.",
+        "en": "They even needed to buy a new remote control after the volume buttons came off when it fell off the sofa."
+      }
+    ]
+  },
+  {
+    "id": 275,
+    "file_name": "Phrasal_verbs_275.mp3",
+    "phrasal_verb": "fall off",
+    "base_verb": "fall",
+    "particle": "off",
+    "meaning_es": "Caerse de una superficie o de algo donde se estaba posado o adherido.",
+    "situation": "Movimiento y Lugares",
+    "tags_es": [
+      "caer",
+      "desprenderse",
+      "soltar",
+      "perder el equilibrio",
+      "separarse"
+    ],
+    "intro_note": "Práctica del phrasal verb 'fall off' que significa 'caerse de' o 'desprenderse de'.",
+    "type": "drill",
+    "drills": [
+      {
+        "order": 1,
+        "es": "La pequeña se cayó de su bici.",
+        "en": "The little girl fell off her bike."
+      },
+      {
+        "order": 2,
+        "es": "El jinete se cayó de su caballo.",
+        "en": "The jockey fell off his horse."
+      },
+      {
+        "order": 3,
+        "es": "Si te caes, vuelve a subirte.",
+        "en": "If you fall off, get back on."
+      },
+      {
+        "order": 4,
+        "es": "Su pendiente de ella se le cayó en la piscina.",
+        "en": "Her earring fell off in the swimming pool."
+      },
+      {
+        "order": 5,
+        "es": "Se cayó esta manzana del árbol o la cogiste tú?",
+        "en": "Did this apple fall off the tree or did you pick it?"
+      },
+      {
+        "order": 6,
+        "es": "Todos los pétalos se están cayendo de la flor.",
+        "en": "All the petals are falling off the flower."
+      },
+      {
+        "order": 7,
+        "es": "En otoño, las hojas se caen de los árboles.",
+        "en": "In fall, leaves fall off the trees."
+      },
+      {
+        "order": 8,
+        "es": "El pájaro se cayó de la rama.",
+        "en": "The bird fell off the branch."
+      },
+      {
+        "order": 9,
+        "es": "¿Ese hombre acaba de caerse del tejado?",
+        "en": "Did that man just fall off the roof?"
+      },
+      {
+        "order": 10,
+        "es": "La hélice se cayó del avión.",
+        "en": "The propeller fell off the plane."
+      }
+    ]
+  },
+  {
+    "id": 276,
+    "file_name": "Phrasal_verbs_276.mp3",
+    "phrasal_verb": "fall off",
+    "base_verb": "fall",
+    "particle": "off",
+    "meaning_es": "Caerse de algo o de alguna superficie; desprenderse de algo.",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "caerse",
+      "desprenderse",
+      "accidente",
+      "perder el equilibrio",
+      "objeto",
+      "superficie"
+    ],
+    "intro_note": "This story uses the phrasal verb 'fall off' in various contexts, referring to falling from a surface or an object detaching.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "¡Qué torpe!",
+        "en": "How clumsy!"
+      },
+      {
+        "order": 2,
+        "es": "Cuando Charlie llegó a casa con la rodilla cortada, Cindy le preguntó qué había pasado.",
+        "en": "When Charlie came home with a cut knee, Cindy asked him what happened."
+      },
+      {
+        "order": 3,
+        "es": "Me caí, dijo Charlie.",
+        "en": "I fell off, said Charlie."
+      },
+      {
+        "order": 4,
+        "es": "¿De qué te caíste?, preguntó Cindy.",
+        "en": "What did you fall off of? asked Cindy."
+      },
+      {
+        "order": 5,
+        "es": "A lo que Charlie respondió: Me caí de mi patineta.",
+        "en": "To which Charlie replied, I fell off my skateboard."
+      },
+      {
+        "order": 6,
+        "es": "Cindy fue a buscar el botiquín de primeros auxilios,",
+        "en": "Cindy went to get the first aid kit,"
+      },
+      {
+        "order": 7,
+        "es": "pero cuando regresó, vio a Holly entrando con un chichón en la cabeza.",
+        "en": "but when she came back, she saw Holly coming in with a bump on her head."
+      },
+      {
+        "order": 8,
+        "es": "¿De qué te caíste?, preguntó Cindy.",
+        "en": "What did you fall off of? asked Cindy."
+      },
+      {
+        "order": 9,
+        "es": "A lo que Holly respondió: Me caí de mi bicicleta.",
+        "en": "To which Holly replied, I fell off my bike."
+      },
+      {
+        "order": 10,
+        "es": "Justo entonces, Harry entró cojeando porque se había caído de la escalera.",
+        "en": "Just then, Harry came in limping because he fell off the ladder."
+      },
+      {
+        "order": 11,
+        "es": "¿Cómo te caíste de la escalera?, preguntó Cindy.",
+        "en": "How did you fall off the ladder? asked Cindy."
+      },
+      {
+        "order": 12,
+        "es": "Me caí tratando de cambiar una bombilla, dijo Harry.",
+        "en": "I fell off it trying to change a light bulb, said Harry."
+      },
+      {
+        "order": 13,
+        "es": "Holly no quería una venda en la cabeza porque siempre se caían.",
+        "en": "Holly didn't want a bandage on her head because they always fell off."
+      },
+      {
+        "order": 14,
+        "es": "Harry no quería una venda en el tobillo porque no quería que nadie supiera que se había caído de la escalera,",
+        "en": "Harry didn't want a bandage on his ankle because he didn't want anyone to know he fell off the ladder,"
+      },
+      {
+        "order": 15,
+        "es": "y Charlie solo quería que su corte sanara para poder ver cómo se caía su costra.",
+        "en": "and Charlie just wanted his cut to heal so he could see his scab fall off."
+      }
+    ]
+  },
+  {
+    "id": 277,
+    "file_name": "Phrasal_verbs_277.mp3",
+    "phrasal_verb": "to take off",
+    "base_verb": "take",
+    "particle": "off",
+    "meaning_es": "Quitarse (ropa, accesorios, calzado), remover, desvestirse de una prenda.",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "quitarse",
+      "remover",
+      "ropa",
+      "accesorios",
+      "desvestirse",
+      "calzado"
+    ],
+    "intro_note": "Drill on the phrasal verb 'to take off' meaning to remove clothing or accessories.",
+    "type": "drill",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Por qué te quitaste los zapatos?",
+        "en": "Why did you take off your shoes?"
+      },
+      {
+        "order": 2,
+        "es": "Me los quité porque estaban cubiertos de barro.",
+        "en": "I took them off because they were muddy."
+      },
+      {
+        "order": 3,
+        "es": "Él se quitó la corbata y se remangó.",
+        "en": "He took off his tie and rolled up his sleeves."
+      },
+      {
+        "order": 4,
+        "es": "Él nunca se quita las gafas, incluso en la ducha.",
+        "en": "He never takes his glasses off, even in the shower."
+      },
+      {
+        "order": 5,
+        "es": "Por qué no te quitas el abrigo?",
+        "en": "Why don't you take off your coat?"
+      },
+      {
+        "order": 6,
+        "es": "Ella no podía quitarse las botas sola.",
+        "en": "She couldn't take her boots off by herself."
+      },
+      {
+        "order": 7,
+        "es": "Cuándo vas a quitarte las vendas?",
+        "en": "When are you going to take the bandages off?"
+      },
+      {
+        "order": 8,
+        "es": "Se le cayó vino en los pantalones, así que se los quitó.",
+        "en": "He spilled wine on his trousers, so he took them off."
+      },
+      {
+        "order": 9,
+        "es": "Tus calcetines apestan, quítatelos.",
+        "en": "Your socks smell. Take them off!"
+      },
+      {
+        "order": 10,
+        "es": "Es un anillo hermoso. Nunca me lo quitaré.",
+        "en": "It's a beautiful ring. I'll never take it off."
+      }
+    ]
+  },
+  {
+    "id": 278,
+    "file_name": "Phrasal_verbs_278.mp3",
+    "phrasal_verb": "Story: Clutter and taking off clothes",
+    "base_verb": null,
+    "particle": null,
+    "meaning_es": "Una historia sobre el desorden en una casa debido a los objetos que los miembros de la familia se quitan (take off) y dejan por todas partes, y cómo esto frustra a uno de ellos.",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "take off",
+      "quitarse",
+      "ropa",
+      "desorden",
+      "familia",
+      "hogar",
+      "irritación"
+    ],
+    "intro_note": "A short story illustrating the phrasal verb 'take off' in context, referring to removing clothes or items.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Desorden. La casa de los Green siempre está desordenada por todas las cosas que se quitan cuando llegan a casa.",
+        "en": "Clutter. The Green's house is always cluttered because of all the things they take off when they come home."
+      },
+      {
+        "order": 2,
+        "es": "Los zapatos no son el problema, ya que Cindy hace que todos se los quiten antes de entrar.",
+        "en": "Shoes aren't the problem, since Cindy makes everyone take them off before coming in."
+      },
+      {
+        "order": 3,
+        "es": "Sin embargo, cuando Harry llega a casa, se quita la chaqueta y la tira en el sofá.",
+        "en": "However, when Harry gets home, he takes off his jacket and throws it on the sofa."
+      },
+      {
+        "order": 4,
+        "es": "Y luego se quita la corbata y la cuelga en el picaporte de la puerta.",
+        "en": "And then he takes off his tie and hangs it on the door handle."
+      },
+      {
+        "order": 5,
+        "es": "Después de que Charlie se quita su mochila y la deja en la mesa, se quita el suéter y lo deja en la encimera de la cocina.",
+        "en": "After Charlie takes his backpack off and leaves it on the table, he takes his sweater off and leaves it on the kitchen counter."
+      },
+      {
+        "order": 6,
+        "es": "Holly va a su habitación para quitarse el abrigo y los calcetines, los cuales, después de quitárselos, los deja en el suelo.",
+        "en": "Holly goes to her room to take her coat off and take off her socks, which, after taking them off, she leaves on the floor."
+      },
+      {
+        "order": 7,
+        "es": "Cindy se está cansando de recoger todas las cosas que su familia se quita y cree que sería una buena idea hacer que se quiten todo antes de entrar.",
+        "en": "Cindy is getting tired of picking up all the things her family take off and thinks it would be a good idea to make them take everything off before coming in."
+      }
+    ]
+  },
+  {
+    "id": 279,
+    "file_name": "Phrasal_verbs_279.mp3",
+    "phrasal_verb": "rip off",
+    "base_verb": "rip",
+    "particle": "off",
+    "meaning_es": "Arrancar, desprender o quitar algo de forma abrupta o con fuerza. También puede significar estafar, pero en este contexto se usa el primer significado.",
+    "situation": "Acciones Físicas",
+    "tags_es": [
+      "arrancar",
+      "desprender",
+      "quitar con fuerza",
+      "rasgar",
+      "separar",
+      "desgarrar"
+    ],
+    "intro_note": "Ejemplos del phrasal verb 'to rip off' con el significado de arrancar o desprender algo de una superficie o de una persona/objeto.",
+    "type": "drill",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Arráncalo.",
+        "en": "Rip it off."
+      },
+      {
+        "order": 2,
+        "es": "Él arrancó el papel de regalo.",
+        "en": "He ripped the wrapping paper off."
+      },
+      {
+        "order": 3,
+        "es": "¿Quién arrancó el póster?",
+        "en": "Who ripped off the poster?"
+      },
+      {
+        "order": 4,
+        "es": "Él intentó arrancarme la cabeza.",
+        "en": "He tried to rip my head off."
+      },
+      {
+        "order": 5,
+        "es": "Yo que tú, arrancaría ese papel de pared horrible.",
+        "en": "If I were you, I'd rip off that horrible wallpaper."
+      },
+      {
+        "order": 6,
+        "es": "Su camisa estaba en llamas, así que se la arrancó.",
+        "en": "His shirt was on fire, so he ripped it off."
+      },
+      {
+        "order": 7,
+        "es": "El lavadero de coches me arrancó la antena de la radio.",
+        "en": "The car wash ripped off my radio antenna."
+      },
+      {
+        "order": 8,
+        "es": "El vendaval arrancó las velas del barco.",
+        "en": "The gale ripped the ship's sails off."
+      },
+      {
+        "order": 9,
+        "es": "Una explosión arrancó el tejado.",
+        "en": "An explosion ripped the roof off."
+      },
+      {
+        "order": 10,
+        "es": "Un perro le arrancó un zapato y se fue corriendo.",
+        "en": "A dog ripped his shoe off and ran away."
+      }
+    ]
+  },
+  {
+    "id": 280,
+    "file_name": "Phrasal_verbs_280.mp3",
+    "phrasal_verb": "Story: The Storm (rip off)",
+    "base_verb": "rip",
+    "particle": "off",
+    "meaning_es": "Arrancar o desprender algo de forma violenta o brusca de una superficie o de otro objeto.",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "tormenta",
+      "casa",
+      "daños",
+      "desprender",
+      "arrancar",
+      "separar",
+      "phrasal verb"
+    ],
+    "intro_note": "A short story illustrating the phrasal verb 'rip off' in the context of a storm causing damage.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Los Green estaban en su casa viendo cómo el viento arrancaba las hojas de las ramas, e incluso arrancaba algunas ramas de los árboles.",
+        "en": "The Greens were in their house watching the wind rip the leaves off the branches, and even rip a few branches off the trees."
+      },
+      {
+        "order": 2,
+        "es": "El meteorólogo dijo que la tormenta podría arrancar algunas tejas, pero no dijo que arrancaría ramas, dijo Cindy.",
+        "en": "The weatherman said that the storm could rip a few tiles off, but he didn't say that it would rip branches off, said Cindy."
+      },
+      {
+        "order": 3,
+        "es": "Continuaron observando cómo la tormenta arrancaba la cubierta de su piscina y las persianas de su casa.",
+        "en": "They continued watching as the storm ripped the cover off their pool and ripped the shutters off their house."
+      },
+      {
+        "order": 4,
+        "es": "Espero que no arranque la antena parabólica del tejado, dijo Harry.",
+        "en": "I hope it doesn't rip the satellite dish off the roof, said Harry."
+      },
+      {
+        "order": 5,
+        "es": "Espero que no arranque el tejado de la casa, dijo Holly.",
+        "en": "I hope it doesn't rip the roof off the house, said Holly."
+      },
+      {
+        "order": 6,
+        "es": "Al final, la tormenta no arrancó el tejado de la casa de los Green, pero sí arrancó el tejado de su cobertizo.",
+        "en": "In the end, the storm didn't rip the Greens' roof off, but it did rip the roof off their shed."
+      }
+    ]
+  },
+  {
+    "id": 281,
+    "file_name": "Phrasal_verbs_281.mp3",
+    "phrasal_verb": "pull off",
+    "base_verb": "pull",
+    "particle": "off",
+    "meaning_es": "Retirar, quitar, arrancar algo de una superficie o de donde está unido/adjunto.",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "quitar",
+      "arrancar",
+      "retirar",
+      "desprender",
+      "sacar"
+    ],
+    "intro_note": "Usamos 'pull off' para referirnos a quitar o arrancar algo de una superficie o de donde está unido.",
+    "type": "drill",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Saqué el pomo.",
+        "en": "Oops, I pulled the door handle off."
+      },
+      {
+        "order": 2,
+        "es": "Cuando él se levantó, arrancó el mantel.",
+        "en": "When he got up, he pulled off the tablecloth."
+      },
+      {
+        "order": 3,
+        "es": "Ella le pidió que le quitara los zapatos.",
+        "en": "She asked him to pull her shoes off."
+      },
+      {
+        "order": 4,
+        "es": "¿Quién arrancó los pétalos de las flores?",
+        "en": "Who pulled all the petals off the flowers?"
+      },
+      {
+        "order": 5,
+        "es": "A que no te atreves a quitarle el peluquín a ese hombre.",
+        "en": "I dare you to pull off that man's wig."
+      },
+      {
+        "order": 6,
+        "es": "No quites las etiquetas, por si lo quieres devolver.",
+        "en": "Don't pull off the tags in case you want to return it."
+      },
+      {
+        "order": 7,
+        "es": "Quita las hojas muertas de esa planta.",
+        "en": "Pull the dead leaves off that plant."
+      },
+      {
+        "order": 8,
+        "es": "Si no las quitas, las nuevas no crecerán.",
+        "en": "If you don't pull them off, new ones won't grow."
+      },
+      {
+        "order": 9,
+        "es": "¿Me puedes ayudar a quitar estas sábanas de la cama?",
+        "en": "Can you help me pull these sheets off the bed?"
+      },
+      {
+        "order": 10,
+        "es": "No parabas de quitarme las mantas anoche.",
+        "en": "You kept pulling the blankets off me last night."
+      }
+    ]
+  },
+  {
+    "id": 282,
+    "file_name": "Phrasal_verbs_282.mp3",
+    "phrasal_verb": "pull off",
+    "base_verb": "pull",
+    "particle": "off",
+    "meaning_es": "Quitar, retirar (especialmente una manta, edredón, etc.)",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "quitar",
+      "retirar",
+      "manta",
+      "edredón",
+      "dormir",
+      "cama",
+      "niños",
+      "familia"
+    ],
+    "intro_note": "Un relato sobre cómo una familia lidia con la costumbre de quitar el edredón por la noche, destacando el uso del phrasal verb 'pull off'.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "El edredón.",
+        "en": "The duvet."
+      },
+      {
+        "order": 2,
+        "es": "Cuando Charlie y Holly eran más jóvenes, solían quitar el edredón de sus padres para despertarlos.",
+        "en": "When Charlie and Holly were younger, they used to pull off their parents' duvet to wake them up."
+      },
+      {
+        "order": 3,
+        "es": "Pero ahora que sus hijos son mayores, Harry y Cindy tienen que quitar los edredones de Charlie y Holly para despertarlos a ellos.",
+        "en": "But now that their children are older, Harry and Cindy have to pull Charlie and Holly's duvets off to wake them up."
+      },
+      {
+        "order": 4,
+        "es": "Una noche fría, Cindy se despertó muerta de frío.",
+        "en": "One cold night, Cindy woke up freezing cold."
+      },
+      {
+        "order": 5,
+        "es": "Ella pensó que Holly o Charlie le habían quitado el edredón,",
+        "en": "She thought that Holly or Charlie had pulled the duvet off,"
+      },
+      {
+        "order": 6,
+        "es": "pero cuando vio que Harry tenía todo el edredón, supo que había sido él quien se lo había quitado.",
+        "en": "but when she saw Harry had all the duvet, she knew that it was him who had pulled it off."
+      },
+      {
+        "order": 7,
+        "es": "La noche siguiente, Harry volvió a quitar el edredón,",
+        "en": "The next night, Harry pulled the duvet off again,"
+      },
+      {
+        "order": 8,
+        "es": "y esa fue la gota que colmó el vaso.",
+        "en": "and that was the last straw."
+      },
+      {
+        "order": 9,
+        "es": "'Estoy harta de que me quites el edredón todas las noches,' dijo Cindy.",
+        "en": "'I'm tired of you pulling the duvet off me every night,' Cindy said."
+      },
+      {
+        "order": 10,
+        "es": "'Lo siento,' dijo Harry.",
+        "en": "'I'm sorry,' said Harry."
+      },
+      {
+        "order": 11,
+        "es": "'No lo quito a propósito.'",
+        "en": "'I don't pull it off on purpose.'"
+      },
+      {
+        "order": 12,
+        "es": "El siguiente fin de semana, Cindy compró dos edredones individuales para que Harry no pudiera quitarle el suyo.",
+        "en": "The following weekend, Cindy bought two single duvets so Harry couldn't pull hers off."
+      }
+    ]
+  },
+  {
+    "id": 283,
+    "file_name": "Phrasal_verbs_283.mp3",
+    "phrasal_verb": "take off",
+    "base_verb": "take",
+    "particle": "off",
+    "meaning_es": "Despegar (para aeronaves); marcharse, irse (para personas).",
+    "situation": "Viajes y Transporte",
+    "tags_es": [
+      "despegar",
+      "marcharse",
+      "irse",
+      "partir",
+      "salir",
+      "vuelos",
+      "aviación",
+      "abandonar",
+      "transporte",
+      "vida cotidiana"
+    ],
+    "intro_note": "Practice different uses of 'take off', including for aircraft leaving the ground and people leaving a place.",
+    "type": "drill",
+    "drills": [
+      {
+        "order": 1,
+        "es": "A qué hora despega tu avión?",
+        "en": "What time does your plane take off?"
+      },
+      {
+        "order": 2,
+        "es": "Se supone que despega a las dos.",
+        "en": "It's supposed to take off at two."
+      },
+      {
+        "order": 3,
+        "es": "El helicóptero no podía despegar.",
+        "en": "The helicopter couldn't take off."
+      },
+      {
+        "order": 4,
+        "es": "Odio los despegues y aterrizajes.",
+        "en": "I hate take-offs and landings."
+      },
+      {
+        "order": 5,
+        "es": "Fue un despegue cómodo?",
+        "en": "Was it a comfortable take-off?"
+      },
+      {
+        "order": 6,
+        "es": "Me voy, te veo mañana.",
+        "en": "I'm taking off. I'll see you tomorrow."
+      },
+      {
+        "order": 7,
+        "es": "No te vayas todavía.",
+        "en": "Don't take off yet."
+      },
+      {
+        "order": 8,
+        "es": "Debo irme o el avión despegará sin mí.",
+        "en": "I must take off or my plane will take off without me."
+      },
+      {
+        "order": 9,
+        "es": "Después de que el avión despegara, se dirigió hacia el este.",
+        "en": "After the plane took off, it headed east."
+      },
+      {
+        "order": 10,
+        "es": "El avión pequeño era demasiado pesado para despegar.",
+        "en": "The little plane was too heavy to take off."
+      }
+    ]
+  },
+  {
+    "id": 284,
+    "file_name": "Phrasal_verbs_284.mp3",
+    "phrasal_verb": "take off",
+    "base_verb": "take",
+    "particle": "off",
+    "meaning_es": "Despegar (para un avión, iniciar el vuelo)",
+    "situation": "Viajes y Transporte",
+    "tags_es": [
+      "despegar",
+      "avión",
+      "vuelo",
+      "aeropuerto",
+      "iniciar vuelo",
+      "salir"
+    ],
+    "intro_note": "Una narrativa sobre dos personas que disfrutan viendo los aviones despegar, pero no les gusta volar por sí mismos debido a las restricciones durante el despegue.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Despegue autorizado.",
+        "en": "Clear for take-off."
+      },
+      {
+        "order": 2,
+        "es": "A Charlie y Holly les encantaba ir al aeropuerto a ver despegar los aviones.",
+        "en": "Charlie and Holly used to love going to the airport to watch the planes take off."
+      },
+      {
+        "order": 3,
+        "es": "Deben haber visto despegar a cientos de aviones.",
+        "en": "They must have watched hundreds of planes take off."
+      },
+      {
+        "order": 4,
+        "es": "Sin embargo, ambos odian volar ellos mismos porque cuando el avión despega, hace mucho ruido.",
+        "en": "However, both of them hate to fly themselves because when the plane takes off, it makes a lot of noise."
+      },
+      {
+        "order": 5,
+        "es": "Charlie intenta escuchar música durante el despegue.",
+        "en": "Charlie tries to listen to music during take-off."
+      },
+      {
+        "order": 6,
+        "es": "Pero la azafata siempre le dice que durante el despegue, no se puede tener ningún dispositivo eléctrico encendido.",
+        "en": "But the air stewardess always tells him that during take-off, you can't have any electrical devices switched on."
+      },
+      {
+        "order": 7,
+        "es": "Holly intenta dormir durante el despegue.",
+        "en": "Holly tries to sleep during take-off."
+      },
+      {
+        "order": 8,
+        "es": "Pero la azafata siempre le dice que durante el despegue, no se puede reclinar el asiento.",
+        "en": "But the air stewardess always tells her that during take-off, you can't have your seat down."
+      },
+      {
+        "order": 9,
+        "es": "Dado que Charlie no puede escuchar música mientras el avión despega, y Holly no puede dormir mientras despega, ambos cruzan los dedos durante el despegue.",
+        "en": "Since Charlie can't listen to music while the plane is taking off, and Holly can't sleep while it's taking off, both of them cross their fingers during take-off."
+      }
+    ]
+  },
+  {
+    "id": 285,
+    "file_name": "Phrasal_verbs_285.mp3",
+    "phrasal_verb": "run off",
+    "base_verb": "run",
+    "particle": "off",
+    "meaning_es": "irse corriendo, escapar, huir, fugarse con, eloparse",
+    "situation": "Acciones y Eventos",
+    "tags_es": [
+      "escapar",
+      "huir",
+      "fugarse",
+      "irse corriendo",
+      "eloparse",
+      "robar y escapar"
+    ],
+    "intro_note": "A bilingual drill focusing on the phrasal verb 'run off', meaning to leave quickly, escape, or elope.",
+    "type": "drill",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Coge ese perro antes de que se escape.",
+        "en": "Catch that dog before it runs off."
+      },
+      {
+        "order": 2,
+        "es": "Un carterista se fue corriendo con su cartera.",
+        "en": "A pickpocket ran off with his wallet."
+      },
+      {
+        "order": 3,
+        "es": "Escapémonos juntos.",
+        "en": "Let's run off together."
+      },
+      {
+        "order": 4,
+        "es": "El niño se escapó cuando su madre no estaba mirando.",
+        "en": "The boy ran off when his mother wasn't looking."
+      },
+      {
+        "order": 5,
+        "es": "Los ladrones escaparon con millones de dólares.",
+        "en": "The robbers ran off with millions of dollars."
+      },
+      {
+        "order": 6,
+        "es": "Se fueron corriendo cuando oyeron las sirenas.",
+        "en": "They ran off when they heard the sirens."
+      },
+      {
+        "order": 7,
+        "es": "Era una estafa, se escaparon con todos mis ahorros.",
+        "en": "It was a scam. They ran off with my life savings."
+      },
+      {
+        "order": 8,
+        "es": "El oso se fue corriendo dentro del bosque.",
+        "en": "The bear ran off into the woods."
+      },
+      {
+        "order": 9,
+        "es": "Se rumorea que ella se escapó con el marido de alguien.",
+        "en": "Rumor has it, she ran off with somebody's husband."
+      },
+      {
+        "order": 10,
+        "es": "Se enamoraron y se escaparon juntos.",
+        "en": "They fell in love and ran off together."
+      }
+    ]
+  },
+  {
+    "id": 286,
+    "file_name": "Phrasal_verbs_286.mp3",
+    "phrasal_verb": "run off",
+    "base_verb": "run",
+    "particle": "off",
+    "meaning_es": "escaparse, huir, irse corriendo",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "escaparse",
+      "huir",
+      "irse corriendo",
+      "mascotas",
+      "animales",
+      "niños",
+      "perderse",
+      "alejarse"
+    ],
+    "intro_note": "This story illustrates the phrasal verb 'run off' in various contexts related to pets and children escaping or running away.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Mascotas a la fuga.",
+        "en": "Pets on the run."
+      },
+      {
+        "order": 2,
+        "es": "Al perro de los Green, Skippy, le gusta escaparse cuando lo sacan a pasear.",
+        "en": "The Green's dog, Skippy, likes to run off when they take him for walks."
+      },
+      {
+        "order": 3,
+        "es": "Cuando ve una ardilla en el parque, a menudo sale corriendo para intentar atraparla.",
+        "en": "When he sees a squirrel in the park, he often runs off to try to catch it."
+      },
+      {
+        "order": 4,
+        "es": "Sin embargo, cuando Skippy se escapa, siempre regresa tarde o temprano, por lo que los Green nunca se preocupan cuando se va corriendo.",
+        "en": "Nevertheless, when Skippy runs off, he always comes back sooner or later, which is why the Greens never worry when he runs off."
+      },
+      {
+        "order": 5,
+        "es": "Una vez, se escapó porque el gato de los Green, el señor Jones, se escapó cuando Harry dejó la puerta abierta por accidente.",
+        "en": "Once, he ran off because the Green's cat, Mr. Jones, ran off when Harry accidentally left the door open."
+      },
+      {
+        "order": 6,
+        "es": "El señor Jones nunca se había escapado antes, pero vio un ratón y salió corriendo para intentar atraparlo.",
+        "en": "Mr. Jones had never run off before, but he saw a mouse and ran off to try to catch it."
+      },
+      {
+        "order": 7,
+        "es": "\"Quizás se escaparon juntos para un fin de semana romántico\", dijo Harry en tono de broma.",
+        "en": "Perhaps they ran off together for a romantic weekend, said Harry jokingly."
+      },
+      {
+        "order": 8,
+        "es": "\"No es broma que nuestras dos mascotas se hayan escapado\", dijo Cindy.",
+        "en": "It's no joke that both our pets have run off, said Cindy."
+      },
+      {
+        "order": 9,
+        "es": "\"Será mejor que los encuentres antes de que nuestros hijos se escapen para intentar encontrarlos.\"",
+        "en": "You had better find them before our children run off to try to find them."
+      }
+    ]
+  },
+  {
+    "id": 287,
+    "file_name": "Phrasal_verbs_287.mp3",
+    "phrasal_verb": "to set off",
+    "base_verb": "set",
+    "particle": "off",
+    "meaning_es": "Salir, partir, ponerse en marcha (para un viaje o aventura)",
+    "situation": "Viajes y Transporte",
+    "tags_es": [
+      "salir",
+      "partir",
+      "empezar un viaje",
+      "ponerse en camino",
+      "marcharse",
+      "comenzar"
+    ],
+    "intro_note": "to set off",
+    "type": "drill",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Hicieron las maletas y salieron hacia las ruinas.",
+        "en": "They packed their bags and set off for the ruins."
+      },
+      {
+        "order": 2,
+        "es": "Salieron sin un guía.",
+        "en": "They set off without a guide."
+      },
+      {
+        "order": 3,
+        "es": "A qué hora salieron?",
+        "en": "What time did they set off?"
+      },
+      {
+        "order": 4,
+        "es": "Si no salimos ahora, nunca llegaremos.",
+        "en": "If we don't set off now, we'll never get there."
+      },
+      {
+        "order": 5,
+        "es": "Su coche se averió, así que salieron a pie.",
+        "en": "Their car broke down, so they set off on foot."
+      },
+      {
+        "order": 6,
+        "es": "Me apetece salir de aventura.",
+        "en": "I feel like setting off on an adventure."
+      },
+      {
+        "order": 7,
+        "es": "Salieron para el norte, pero no fueron vistos nunca más.",
+        "en": "They set off north, but were never seen again."
+      },
+      {
+        "order": 8,
+        "es": "El convoy salió en marzo y llegó en junio.",
+        "en": "The convoy set off in March and arrived in June."
+      },
+      {
+        "order": 9,
+        "es": "En qué dirección salió él?",
+        "en": "Which direction did he set off in?"
+      },
+      {
+        "order": 10,
+        "es": "Él salió después de que ella saliera, pero él llegó primero.",
+        "en": "He set off after she set off, but he arrived first."
+      }
+    ]
+  },
+  {
+    "id": 288,
+    "file_name": "Phrasal_verbs_288.mp3",
+    "phrasal_verb": "set off",
+    "base_verb": "set",
+    "particle": "off",
+    "meaning_es": "Emprender un viaje, ponerse en marcha, salir, partir.",
+    "situation": "Viajes y Transporte",
+    "tags_es": [
+      "viajar",
+      "salir",
+      "empezar un viaje",
+      "comenzar un viaje",
+      "partir"
+    ],
+    "intro_note": "Este pasaje narra una historia utilizando repetidamente el phrasal verb 'set off' en el contexto de iniciar un viaje.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Los Green se estaban preparando para salir de vacaciones, y querían salir antes de que hubiera demasiado tráfico.",
+        "en": "The Greens were getting ready to set off on holiday, and they wanted to set off before there was too much traffic."
+      },
+      {
+        "order": 2,
+        "es": "La última vez que salieron de vacaciones, salieron demasiado tarde y se quedaron atrapados en un atasco.",
+        "en": "The last time they set off on holiday, they set off too late and got stuck in a traffic jam."
+      },
+      {
+        "order": 3,
+        "es": "Así que esta vez, Harry quería asegurarse de que salieran antes que los demás.",
+        "en": "So this time, Harry wanted to make sure they set off before everyone else."
+      },
+      {
+        "order": 4,
+        "es": "Harry y Charlie iban a salir por la mañana, en el coche de Harry.",
+        "en": "Harry and Charlie were going to set off in the morning, in Harry's car."
+      },
+      {
+        "order": 5,
+        "es": "Y Cindy y Holly iban a salir por la tarde en el coche de Cindy.",
+        "en": "And Cindy and Holly were going to set off in the afternoon in Cindy's car."
+      },
+      {
+        "order": 6,
+        "es": "Saldrían juntos en el mismo coche, pero Cindy tenía una cita con el dentista a las 2 en punto, así que no podía salir por la mañana.",
+        "en": "They would set off together in the same car, but Cindy had a dentist's appointment at 2 o'clock, so she couldn't set off in the morning."
+      },
+      {
+        "order": 7,
+        "es": "No les importaba salir en coches diferentes, porque Harry y Cindy siempre discuten cuando están juntos en el coche.",
+        "en": "They didn't mind setting off in different cars, because Harry and Cindy always argue when they are in the car together."
+      }
+    ]
+  },
+  {
+    "id": 289,
+    "file_name": "Phrasal_verbs_289.mp3",
+    "phrasal_verb": "drive off",
+    "base_verb": "drive",
+    "particle": "off",
+    "meaning_es": "Marcharse o irse en un vehículo (coche, moto, etc.).",
+    "situation": "Viajes y Transporte",
+    "tags_es": [
+      "irse en coche",
+      "marcharse en coche",
+      "salir en coche",
+      "partir en coche",
+      "irse en vehículo",
+      "ride off",
+      "marchar"
+    ],
+    "intro_note": "Drill for the phrasal verb 'drive off', meaning to leave in a vehicle. Also includes one example of 'ride off'.",
+    "type": "drill",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Él salió en coche sin despedirse.",
+        "en": "He drove off without saying goodbye."
+      },
+      {
+        "order": 2,
+        "es": "¿Alguna vez has salido en coche con la puerta abierta?",
+        "en": "Have you ever driven off with a door open?"
+      },
+      {
+        "order": 3,
+        "es": "Salí en coche con la boca del surtidor en el tanque.",
+        "en": "I drove off with the petrol nozzle in the tank."
+      },
+      {
+        "order": 4,
+        "es": "Pensaban que estaba saliendo en coche sin pagar.",
+        "en": "They thought I was driving off without paying."
+      },
+      {
+        "order": 5,
+        "es": "Alguien se acaba de ir en tu coche.",
+        "en": "Someone just drove off in your car."
+      },
+      {
+        "order": 6,
+        "es": "Salieron en coche a alta velocidad.",
+        "en": "They drove off at high speed."
+      },
+      {
+        "order": 7,
+        "es": "Un poli salió en coche detrás de ellos.",
+        "en": "A cop drove off after them."
+      },
+      {
+        "order": 8,
+        "es": "Ella montó en su ciclomotor y se fue.",
+        "en": "She got on her moped and rode off."
+      },
+      {
+        "order": 9,
+        "es": "¿Era Kyle a quien vi saliendo en un coche deportivo?",
+        "en": "Was that Kyle I saw driving off in a sports car?"
+      },
+      {
+        "order": 10,
+        "es": "Acompañaron al VIP al coche y se fueron.",
+        "en": "They escorted the VIP to the car and drove off."
+      }
+    ]
+  },
+  {
+    "id": 290,
+    "file_name": "Phrasal_verbs_290.mp3",
+    "phrasal_verb": "drive off",
+    "base_verb": "drive",
+    "particle": "off",
+    "meaning_es": "Marcharse en un vehículo, arrancar (un coche) para irse.",
+    "situation": "Movimiento y Lugares",
+    "tags_es": [
+      "marcharse en coche",
+      "arrancar coche",
+      "irse en vehículo",
+      "parque temático",
+      "autos de choque",
+      "partir en coche"
+    ],
+    "intro_note": "This story is about a family enjoying a ride at a theme park, using the phrasal verb 'drive off' in various contexts.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Los autos de choque.",
+        "en": "The bumper cars."
+      },
+      {
+        "order": 2,
+        "es": "Los autos de choque eran el paseo favorito de los Green en el parque temático.",
+        "en": "The bumper cars were the Green's favorite ride at the theme park."
+      },
+      {
+        "order": 3,
+        "es": "Harry se marchó primero para alejarse de Cindy.",
+        "en": "Harry drove off first to get away from Cindy."
+      },
+      {
+        "order": 4,
+        "es": "Sin embargo, Cindy no se alejó lo suficientemente rápido y fue golpeada por detrás por Holly, quien se marchó para encontrar a Charlie.",
+        "en": "However, Cindy didn't drive off fast enough and she was hit from behind by Holly, who drove off to find Charlie."
+      },
+      {
+        "order": 5,
+        "es": "Harry estaba viendo a Holly marcharse en su coche, por eso no vio a Charlie detrás de él.",
+        "en": "Harry was watching Holly drive off in her car, which is why he didn't see Charlie behind him."
+      },
+      {
+        "order": 6,
+        "es": "Charlie golpeó a Harry y se marchó tan rápido como pudo.",
+        "en": "Charlie hit Harry and drove off as quickly as he could."
+      },
+      {
+        "order": 7,
+        "es": "No necesitaba marcharse tan rápido porque el coche de Harry estaba atascado y no podía arrancar.",
+        "en": "He didn't need to drive off so quickly because Harry's car was stuck and he couldn't drive off."
+      },
+      {
+        "order": 8,
+        "es": "Charlie pensó que era divertido que su papá no pudiera arrancar, pero no le pareció divertido cuando Holly lo golpeó de frente y se marchó riendo.",
+        "en": "Charlie thought it was funny that his dad couldn't drive off, but he didn't find it funny when Holly hit him head-on and drove off laughing."
+      },
+      {
+        "order": 9,
+        "es": "El coche de Charlie se averió, así que no pudo arrancar, y para empeorar las cosas, vio a Harry finalmente arrancando hacia él con un brillo malvado en sus ojos.",
+        "en": "Charlie's car broke down, so he couldn't drive off, and to make things worse, he saw Harry finally driving off towards him with an evil glint in his eyes."
+      }
+    ]
+  },
+  {
+    "id": 291,
+    "file_name": "Phrasal_verbs_291.mp3",
+    "phrasal_verb": "call off",
+    "base_verb": "call",
+    "particle": "off",
+    "meaning_es": "Cancelar algo que estaba planeado (un evento, una reunión, un viaje, etc.).",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "cancelar",
+      "anular",
+      "suspender",
+      "posponer",
+      "evento",
+      "cita",
+      "reunión",
+      "viaje",
+      "boda",
+      "lanzamiento",
+      "búsqueda"
+    ],
+    "intro_note": "Aprende a usar 'call off' para hablar de cancelar planes o eventos.",
+    "type": "drill",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Tuvo que cancelar su viaje.",
+        "en": "He had to call his trip off."
+      },
+      {
+        "order": 2,
+        "es": "¿Por qué lo canceló?",
+        "en": "Why did he call it off?"
+      },
+      {
+        "order": 3,
+        "es": "¿Has oído que cancelaron el concierto?",
+        "en": "Did you hear they called off the concert?"
+      },
+      {
+        "order": 4,
+        "es": "Lo cancelaron porque el cantante estaba enfermo.",
+        "en": "They called it off because the singer was ill."
+      },
+      {
+        "order": 5,
+        "es": "El evento ha sido cancelado.",
+        "en": "The event has been called off."
+      },
+      {
+        "order": 6,
+        "es": "Si no encontramos local, tendremos que cancelarlo.",
+        "en": "If we don't find a venue, we'll have to call it off."
+      },
+      {
+        "order": 7,
+        "es": "El torneo fue cancelado debido a la nieve.",
+        "en": "The tournament was called off due to the snow."
+      },
+      {
+        "order": 8,
+        "es": "NASA canceló el lanzamiento.",
+        "en": "NASA called off the launch."
+      },
+      {
+        "order": 9,
+        "es": "El equipo de rescate canceló la búsqueda.",
+        "en": "The rescue team called off the search."
+      },
+      {
+        "order": 10,
+        "es": "Ella canceló su boda en el último momento.",
+        "en": "She called off her wedding at the last minute."
+      }
+    ]
+  },
+  {
+    "id": 292,
+    "file_name": "Phrasal_verbs_292.mp3",
+    "phrasal_verb": "call off",
+    "base_verb": "call",
+    "particle": "off",
+    "meaning_es": "Cancelar, suspender un evento, plan o reunión.",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "cancelar",
+      "suspender",
+      "enfermedad",
+      "reunión",
+      "cita",
+      "evento",
+      "plan",
+      "posponer"
+    ],
+    "intro_note": "Esta historia ilustra el uso del phrasal verb 'call off' en el contexto de tener que cancelar planes o eventos debido a una enfermedad.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "En casa, en la cama.",
+        "en": "Home in bed."
+      },
+      {
+        "order": 2,
+        "es": "Había un virus desagradable circulando y todos los Green estaban en casa enfermos.",
+        "en": "There was a nasty bug going around and the Greens were all at home sick."
+      },
+      {
+        "order": 3,
+        "es": "Harry nunca cancelaba nada, pero estaba tan enfermo que tuvo que cancelar una reunión importante.",
+        "en": "Harry never called anything off, but he was so sick that he had to call off an important meeting."
+      },
+      {
+        "order": 4,
+        "es": "Cindy odia cancelar cosas, pero su tos era tan fuerte que tuvo que cancelar su clase semanal de piano.",
+        "en": "Cindy hates to call things off, but her cough was so bad that she had to call off her weekly piano lesson."
+      },
+      {
+        "order": 5,
+        "es": "Charlie no quería cancelar su excursión con los Boy Scouts, pero tenía mucha fiebre, así que Cindy le hizo cancelarla.",
+        "en": "Charlie didn't want to call off his excursion with the Boy Scouts, but he had a high fever, so Cindy made him call it off."
+      },
+      {
+        "order": 6,
+        "es": "Holly estaba tan indispuesta que se vio obligada a cancelar un ensayo para su obra de teatro escolar.",
+        "en": "Holly was so under the weather that she was forced to call off a rehearsal for her school play."
+      },
+      {
+        "order": 7,
+        "es": "Resultó que la reunión de Harry se habría cancelado incluso si él no la hubiera cancelado, porque todos los que iban a asistir también estaban enfermos.",
+        "en": "As it turned out, Harry's meeting would have been called off even if he hadn't called it off because everyone who was going to attend was sick too."
+      },
+      {
+        "order": 8,
+        "es": "Y el profesor de piano de Cindy se alegró de que ella cancelara la clase porque, de lo contrario, él la habría cancelado.",
+        "en": "And Cindy's piano teacher was glad she called the lesson off because if not, he would have called it off."
+      }
+    ]
+  },
+  {
+    "id": 293,
+    "file_name": "Phrasal_verbs_293.mp3",
+    "phrasal_verb": "to put off",
+    "base_verb": "put",
+    "particle": "off",
+    "meaning_es": "Aplazar, posponer, retrasar una acción o evento hasta un momento posterior.",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "aplazar",
+      "posponer",
+      "retrasar",
+      "postergar",
+      "demorar",
+      "decisiones",
+      "planificación"
+    ],
+    "intro_note": "Aprende a usar el phrasal verb 'to put off' que significa aplazar o posponer.",
+    "type": "drill",
+    "drills": [
+      {
+        "order": 1,
+        "es": "¿Cuánto tiempo vas a aplazarlo?",
+        "en": "How long are you going to put it off?"
+      },
+      {
+        "order": 2,
+        "es": "Siempre retrasas decisiones hasta el último minuto.",
+        "en": "You always put off decisions until the last minute."
+      },
+      {
+        "order": 3,
+        "es": "Es demasiado tarde, lo has retrasado mucho.",
+        "en": "It's too late. You've put it off too long."
+      },
+      {
+        "order": 4,
+        "es": "Podemos aplazar la reunión hasta la semana que viene.",
+        "en": "We can put the meeting off until next week."
+      },
+      {
+        "order": 5,
+        "es": "Retrasemos el tomar una decisión por ahora.",
+        "en": "Let's put off making a decision for now."
+      },
+      {
+        "order": 6,
+        "es": "¿Por qué sigues retrasando llamarla?",
+        "en": "Why do you keep putting off calling her?"
+      },
+      {
+        "order": 7,
+        "es": "Retrasaron hacer las maletas hasta hoy.",
+        "en": "They put off packing until today."
+      },
+      {
+        "order": 8,
+        "es": "¿Puede el gobierno realmente aplazar las elecciones?",
+        "en": "Can the government really put the election off?"
+      },
+      {
+        "order": 9,
+        "es": "Él no puede retrasar la cirugía más.",
+        "en": "He can't put off the surgery any longer."
+      },
+      {
+        "order": 10,
+        "es": "Siempre aplaza hoy lo que puedas hacer mañana.",
+        "en": "Always put off today what you can do tomorrow."
+      }
+    ]
+  },
+  {
+    "id": 294,
+    "file_name": "Phrasal_verbs_294.mp3",
+    "phrasal_verb": "put off",
+    "base_verb": "put",
+    "particle": "off",
+    "meaning_es": "posponer, aplazar, retrasar",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "posponer",
+      "aplazar",
+      "retrasar",
+      "dentista",
+      "salud",
+      "procrastinar",
+      "cita"
+    ],
+    "intro_note": "Una historia sobre Harry y su tendencia a posponer las cosas, especialmente las visitas al dentista.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Harry estaba en el dentista porque le dolía una muela.",
+        "en": "Harry was at the dentist's because he had a toothache."
+      },
+      {
+        "order": 2,
+        "es": "Posponía pedir cita todo lo posible, porque siempre pospone las cosas desagradables.",
+        "en": "He put off making an appointment for as long as possible, because he always puts off unpleasant things."
+      },
+      {
+        "order": 3,
+        "es": "Cuando Harry le dijo al dentista cuál era el problema, el dentista le preguntó por qué había pospuesto la visita por tanto tiempo.",
+        "en": "When Harry told the dentist what the problem was, the dentist asked him why he put off coming in for so long."
+      },
+      {
+        "order": 4,
+        "es": "Después de examinar su muela, el dentista le dijo a Harry que si no hubiera pospuesto la cita, podría haber salvado la muela.",
+        "en": "After examining his tooth, the dentist told Harry that if he hadn't put off making an appointment, he could have saved the tooth."
+      },
+      {
+        "order": 5,
+        "es": "Pero como la pospuso, ahora tendrían que extraérsela.",
+        "en": "But since he put it off, he would now have to have it taken out."
+      },
+      {
+        "order": 6,
+        "es": "Por supuesto, Harry quería posponer el procedimiento porque sabía que le iba a doler mucho.",
+        "en": "Of course, Harry wanted to put the procedure off because he knew it was going to hurt a lot."
+      },
+      {
+        "order": 7,
+        "es": "El dentista le dijo que cuanto más lo pospusiera, peor se pondría.",
+        "en": "The dentist told him that the longer he put it off, the worse it would get."
+      },
+      {
+        "order": 8,
+        "es": "Al final, Harry decidió que no pospondría más el procedimiento.",
+        "en": "In the end, Harry decided that he wouldn't put off the procedure anymore."
+      },
+      {
+        "order": 9,
+        "es": "Y además, nunca más pospondría otra cita con el dentista.",
+        "en": "And furthermore, he would never put off another dental appointment again."
+      }
+    ]
+  },
+  {
+    "id": 295,
+    "file_name": "Phrasal_verbs_295.mp3",
+    "phrasal_verb": "wear off",
+    "base_verb": "wear",
+    "particle": "off",
+    "meaning_es": "Disminuir, desvanecerse, desaparecer gradualmente (un efecto, una sensación, o por el uso/fricción).",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "disiparse",
+      "desvanecerse",
+      "perder efecto",
+      "desgastarse",
+      "efectos",
+      "dolor",
+      "medicamento",
+      "tiempo",
+      "uso"
+    ],
+    "intro_note": "Phrasal verb 'wear off' illustrated with various examples about effects diminishing or things getting worn out.",
+    "type": "drill",
+    "drills": [
+      {
+        "order": 1,
+        "es": "El efecto del medicamento se pasa tras 4 horas.",
+        "en": "The medication wears off after 4 hours."
+      },
+      {
+        "order": 2,
+        "es": "El dolor se está pasando.",
+        "en": "The pain is wearing off."
+      },
+      {
+        "order": 3,
+        "es": "Cuando el efecto de la aspirina se pase, tómate dos más.",
+        "en": "When the aspirin wears off, take two more."
+      },
+      {
+        "order": 4,
+        "es": "El entusiasmo se pasó después de un rato.",
+        "en": "The excitement wore off after a while."
+      },
+      {
+        "order": 5,
+        "es": "El efecto del gas hilarante tardó 2 horas en pasarse.",
+        "en": "It took 2 hours for the laughing gas to wear off."
+      },
+      {
+        "order": 6,
+        "es": "No puedes comer hasta que la anestesia se pase.",
+        "en": "You can't eat until the anesthetic wears off."
+      },
+      {
+        "order": 7,
+        "es": "¿Cuánto tiempo hasta que se pase?",
+        "en": "How long before it wears off?"
+      },
+      {
+        "order": 8,
+        "es": "La capa de oro de mi reloj se está desgastando.",
+        "en": "The gold is wearing off my watch."
+      },
+      {
+        "order": 9,
+        "es": "Algunas de las letras de mi teclado se desvanecieron.",
+        "en": "Some of the letters wore off of my keyboard."
+      },
+      {
+        "order": 10,
+        "es": "Los efectos de la cafeína se pasan después de una hora.",
+        "en": "The effects of caffeine wear off after an hour."
+      }
+    ]
+  },
+  {
+    "id": 296,
+    "file_name": "Phrasal_verbs_296.mp3",
+    "phrasal_verb": "wear off",
+    "base_verb": "wear",
+    "particle": "off",
+    "meaning_es": "Disiparse, desaparecer el efecto (de un medicamento, anestesia, etc.)",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "disiparse",
+      "desaparecer",
+      "efecto",
+      "anestesia",
+      "medicamento",
+      "pasar"
+    ],
+    "intro_note": "A story about Harry's dental visit and his concern about the laughing gas wearing off.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "El gas de la risa.",
+        "en": "The laughing gas."
+      },
+      {
+        "order": 2,
+        "es": "Harry no estaba deseando que le sacaran el diente porque le preocupaba que el gas de la risa se disipara demasiado pronto.",
+        "en": "Harry wasn't looking forward to having his tooth taken out because he was worried the laughing gas would wear off too soon."
+      },
+      {
+        "order": 3,
+        "es": "¿Cuánto tiempo tarda en disiparse el gas normalmente?, le preguntó al dentista.",
+        "en": "How long before the gas usually wears off, he asked the dentist."
+      },
+      {
+        "order": 4,
+        "es": "A veces se disipa después de dos o tres horas.",
+        "en": "Sometimes it wears off after two or three hours."
+      },
+      {
+        "order": 5,
+        "es": "Pero a veces se disipa después de cinco o seis horas, respondió el dentista.",
+        "en": "But sometimes it wears off after five or six hours, replied the dentist."
+      },
+      {
+        "order": 6,
+        "es": "Harry le dijo al dentista que le diera una dosis doble para que tardara mucho tiempo en disiparse.",
+        "en": "Harry told the dentist to give him a double dose so that it would take a long time to wear off."
+      },
+      {
+        "order": 7,
+        "es": "Y el dentista lo hizo.",
+        "en": "And the dentist did."
+      },
+      {
+        "order": 8,
+        "es": "Después, Cindy llevó a Harry a casa porque él no podía conducir hasta que los efectos del gas desaparecieran.",
+        "en": "Afterwards, Cindy drove Harry home because he couldn't drive until the effects of the gas wore off."
+      },
+      {
+        "order": 9,
+        "es": "Pero Harry tendría que esperar mucho tiempo para que se disipara.",
+        "en": "But Harry would have to wait a long time for it to wear off."
+      },
+      {
+        "order": 10,
+        "es": "De hecho, 10 horas después, cuando los efectos no mostraban signos de disiparse, Harry empezó a desear que se diera prisa y se disipara, para poder dejar de babear por todas partes.",
+        "en": "In fact, 10 hours later, when the effects showed no sign of wearing off, Harry began to wish it would hurry up and wear off, so he could stop drooling all over himself."
+      }
+    ]
+  },
+  {
+    "id": 297,
+    "file_name": "Phrasal_verbs_297.mp3",
+    "phrasal_verb": "cool off",
+    "base_verb": "cool",
+    "particle": "off",
+    "meaning_es": "Enfriar(se), refrescar(se), calmar(se) (literal y figurado)",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "enfriar",
+      "refrescar",
+      "calmar",
+      "bajar temperatura",
+      "temperatura",
+      "refrigerar",
+      "tranquilizar",
+      "calmarse",
+      "relajarse"
+    ],
+    "intro_note": "Ejercicios de repetición bilingüe para practicar el phrasal verb 'cool off' en diferentes contextos, tanto literal (enfriar objetos o personas) como figurado (calmarse).",
+    "type": "drill",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Sopla el café para que se enfríe.",
+        "en": "Blow on your coffee to cool it off."
+      },
+      {
+        "order": 2,
+        "es": "Él se duchó para refrescarse.",
+        "en": "He took a cold shower to cool himself off."
+      },
+      {
+        "order": 3,
+        "es": "Desenrosca la bombilla cuando se enfríe.",
+        "en": "Unscrew the light bulb when it cools off."
+      },
+      {
+        "order": 4,
+        "es": "Tardará un poco en enfriarse.",
+        "en": "It'll take a while to cool off."
+      },
+      {
+        "order": 5,
+        "es": "Voy al sótano para refrescarme.",
+        "en": "I'm going to the basement to cool off."
+      },
+      {
+        "order": 6,
+        "es": "El ventilador está enfriando el procesador.",
+        "en": "Is the fan cooling the processor off?"
+      },
+      {
+        "order": 7,
+        "es": "Cálmate antes de que digas algo de lo que te arrepientas.",
+        "en": "Cool off before you say something you regret."
+      },
+      {
+        "order": 8,
+        "es": "Estoy calmado, no necesito calmarme.",
+        "en": "I'm calm, I don't need to cool off."
+      },
+      {
+        "order": 9,
+        "es": "Fueron al lago para refrescarse.",
+        "en": "They went to the lake to cool off."
+      },
+      {
+        "order": 10,
+        "es": "No toquéis el horno hasta que se enfríe.",
+        "en": "Don't touch the oven until it cools off."
+      }
+    ]
+  },
+  {
+    "id": 298,
+    "file_name": "Phrasal_verbs_298.mp3",
+    "phrasal_verb": "cool off",
+    "base_verb": "cool",
+    "particle": "off",
+    "meaning_es": "Enfriarse, refrescarse (especialmente para bajar la temperatura corporal o de un objeto, o para calmarse después de una situación intensa).",
+    "situation": "Clima y Ambiente",
+    "tags_es": [
+      "refrescarse",
+      "enfriarse",
+      "bajar temperatura",
+      "calmarse",
+      "verano",
+      "calor"
+    ],
+    "intro_note": "Una historia corta sobre un día caluroso de verano y cómo la familia Green intenta 'cool off' (refrescarse/enfriarse).",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Ola de calor.",
+        "en": "Heatwave."
+      },
+      {
+        "order": 2,
+        "es": "Era un día abrasador de verano, y los Green iban a la piscina para intentar refrescarse.",
+        "en": "It was a scorching summer's day, and the Greens were going to the pool to try and cool off."
+      },
+      {
+        "order": 3,
+        "es": "Hacía demasiado calor para estar cómodos en el coche, así que se detuvieron a comprar helados para ayudarles a refrescarse.",
+        "en": "It was too hot to be comfortable in the car, so they stopped to buy ice creams to help them cool off."
+      },
+      {
+        "order": 4,
+        "es": "Los helados refrescaron un poco a los Green, pero el aire en el coche no se estaba enfriando, así que Holly abrió la ventana para ayudar a enfriarlo.",
+        "en": "The ice creams cooled the Greens off a bit, but the air in the car wasn't cooling off, so Holly opened the window to help cool it off."
+      },
+      {
+        "order": 5,
+        "es": "Incluso después de que todas las ventanas estuvieran abiertas, el coche no se enfrió, así que Harry, a regañadientes, encendió el aire acondicionado, lo que sí los refrescó a todos, pero también hizo que el motor se recalentara.",
+        "en": "Even after all the windows were open, the car didn't cool off, so Harry reluctantly turned on the air conditioning, which did cool everyone off, but also made the engine overheat."
+      },
+      {
+        "order": 6,
+        "es": "Todos estaban ansiosos por refrescarse en la piscina, pero pasaría un tiempo antes de que el motor se enfriara, y quizás para entonces, el día ya se habría enfriado de todos modos.",
+        "en": "Everyone was anxious to cool off at the pool, but it would take a while before the engine cooled off, and perhaps by that time, the day would have cooled down anyway."
+      }
+    ]
+  },
+  {
+    "id": 299,
+    "file_name": "Phrasal_verbs_299.mp3",
+    "phrasal_verb": "drop off",
+    "base_verb": "drop",
+    "particle": "off",
+    "meaning_es": "disminuir, bajar, caer (en cantidad, intensidad, calidad)",
+    "situation": "Economía y Negocios",
+    "tags_es": [
+      "disminuir",
+      "bajar",
+      "caer",
+      "descender",
+      "reducirse",
+      "menguar",
+      "ventas",
+      "asistencia",
+      "niveles",
+      "rendimiento",
+      "precios",
+      "desempleo",
+      "donaciones",
+      "suscriptores"
+    ],
+    "intro_note": "Este ejercicio se centra en el phrasal verb 'drop off' en el contexto de disminuir o bajar en cantidad, intensidad o calidad.",
+    "type": "drill",
+    "drills": [
+      {
+        "order": 1,
+        "es": "To drop off.",
+        "en": "To drop off."
+      },
+      {
+        "order": 2,
+        "es": "La recesión está haciendo que las ventas bajen.",
+        "en": "The recession is causing sales to drop off."
+      },
+      {
+        "order": 3,
+        "es": "El nivel de agua por fin bajó.",
+        "en": "The water level finally dropped off."
+      },
+      {
+        "order": 4,
+        "es": "La asistencia al curso ha caído últimamente.",
+        "en": "The course attendance has dropped off lately."
+      },
+      {
+        "order": 5,
+        "es": "La venta de entradas cayó después de una semana.",
+        "en": "Ticket sales dropped off after a week."
+      },
+      {
+        "order": 6,
+        "es": "El repentino aumento fue seguido por una caída aguda.",
+        "en": "The sudden surge was followed by a sharp drop-off."
+      },
+      {
+        "order": 7,
+        "es": "El gráfico demuestra que el desempleo está bajando.",
+        "en": "The graph shows unemployment is dropping off."
+      },
+      {
+        "order": 8,
+        "es": "El precio de viviendas no da muestra de bajar todavía.",
+        "en": "House prices show no sign of dropping off yet."
+      },
+      {
+        "order": 9,
+        "es": "El número de suscriptores nuevos ha caído.",
+        "en": "The number of new subscribers has dropped off."
+      },
+      {
+        "order": 10,
+        "es": "Las donaciones han bajado sustancialmente.",
+        "en": "Donations have dropped off substantially."
+      },
+      {
+        "order": 11,
+        "es": "Su rendimiento de él ha bajado mucho.",
+        "en": "His performance has really dropped off."
+      }
+    ]
+  },
+  {
+    "id": 300,
+    "file_name": "Phrasal_verbs_300.mp3",
+    "phrasal_verb": "drop off",
+    "base_verb": "drop",
+    "particle": "off",
+    "meaning_es": "Disminuir en cantidad, número, nivel o valor; caer, bajar. Puede referirse a ventas, empleos, precios, etc.",
+    "situation": "Economía y Finanzas",
+    "tags_es": [
+      "disminuir",
+      "caer",
+      "bajar",
+      "recesión",
+      "empleo",
+      "ventas",
+      "precios",
+      "hipotecas"
+    ],
+    "intro_note": "Narrativa que ilustra el uso del phrasal verb 'drop off' en el contexto de una recesión económica y sus efectos.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Tiempos difíciles.",
+        "en": "Tough times."
+      },
+      {
+        "order": 2,
+        "es": "La recesión estaba haciendo que muchas cosas disminuyeran.",
+        "en": "The recession was causing a lot of things to drop off."
+      },
+      {
+        "order": 3,
+        "es": "Los nuevos empleos habían disminuido casi un 10%, lo que probablemente se debía a que las ventas de la mayoría de las empresas estaban cayendo.",
+        "en": "New jobs had dropped off by almost 10%, which was probably because most companies' sales were dropping off."
+      },
+      {
+        "order": 4,
+        "es": "Una cosa que no estaba disminuyendo era la tasa de desempleo.",
+        "en": "One thing that wasn't dropping off was the unemployment rate."
+      },
+      {
+        "order": 5,
+        "es": "Aunque la mayoría de la gente esperaba que empezara a bajar pronto.",
+        "en": "Although most people hoped it would start to drop off soon."
+      },
+      {
+        "order": 6,
+        "es": "Los Green tuvieron suerte.",
+        "en": "The Greens were lucky."
+      },
+      {
+        "order": 7,
+        "es": "Tanto Harry como Cindy tenían trabajo.",
+        "en": "Both Harry and Cindy had jobs."
+      },
+      {
+        "order": 8,
+        "es": "Y mientras otras empresas experimentaban caídas en las ventas, las ventas de la empresa de Harry estaban aumentando.",
+        "en": "And while other companies were experiencing drop-offs in sales, Harry's company's sales were increasing."
+      },
+      {
+        "order": 9,
+        "es": "El número de hipotecas que los bancos estaban otorgando estaba disminuyendo, lo que también estaba haciendo que los precios de las propiedades bajaran.",
+        "en": "The number of mortgages being given by the banks was dropping off, which was causing property prices to drop off too."
+      },
+      {
+        "order": 10,
+        "es": "Si los precios de las casas siguen bajando y las ventas de mi empresa no empiezan a disminuir, podríamos pensar en comprar una casa nueva, dijo Harry.",
+        "en": "If house prices keep dropping off and my company sales don't stop to drop off, we could think about buying a new house, said Harry."
+      }
+    ]
+  },
+  {
+    "id": 301,
+    "file_name": "Phrasal_verbs_301.mp3",
+    "phrasal_verb": "go off",
+    "base_verb": "go",
+    "particle": "off",
+    "meaning_es": "Estropearse (comida), pasarse (comida/leche)",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "comida",
+      "estropear",
+      "caducado",
+      "moho",
+      "alimentos"
+    ],
+    "intro_note": "Significa que la comida o la bebida se ha estropeado, ya no es apta para el consumo.",
+    "type": "drill",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Los plátanos que compré se han estropeado.",
+        "en": "The bananas I bought have gone off."
+      },
+      {
+        "order": 2,
+        "es": "Más vale que compruebes si la leche se ha pasado.",
+        "en": "You'd better check if the milk has gone off."
+      },
+      {
+        "order": 3,
+        "es": "Se pasó hace semanas juzgando por el olor.",
+        "en": "It went off weeks ago judging by the smell."
+      },
+      {
+        "order": 4,
+        "es": "Todo en su nevera se estropeó cuando estaba fuera.",
+        "en": "Everything in his fridge went off when he was away."
+      },
+      {
+        "order": 5,
+        "es": "Se ha caducado, pero aún no se ha estropeado.",
+        "en": "It's past its sell by date, but it hasn't gone off yet."
+      },
+      {
+        "order": 6,
+        "es": "¿Cómo sabes si la comida se ha estropeado?",
+        "en": "How can you tell if food has gone off?"
+      },
+      {
+        "order": 7,
+        "es": "Si tiene moho, entonces probablemente se ha pasado.",
+        "en": "If it's moldy, then it's probably gone off."
+      },
+      {
+        "order": 8,
+        "es": "La mayonesa se ha estropeado, tírala.",
+        "en": "The mayonnaise has gone off, throw it away."
+      },
+      {
+        "order": 9,
+        "es": "¿Se puede estropear el agua?",
+        "en": "Can water go off?"
+      },
+      {
+        "order": 10,
+        "es": "Ella congela todo para que nada se estropee.",
+        "en": "She freezes everything so nothing goes off."
+      }
+    ]
+  },
+  {
+    "id": 302,
+    "file_name": "Phrasal_verbs_302.mp3",
+    "phrasal_verb": "go off",
+    "base_verb": "go",
+    "particle": "off",
+    "meaning_es": "(comida) echarse a perder, caducar",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "comida",
+      "caducidad",
+      "deterioro",
+      "alimentos",
+      "leche",
+      "refrigerador"
+    ],
+    "intro_note": "Esta historia ilustra el uso del phrasal verb 'go off' cuando se refiere a la comida que se echa a perder o caduca.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "No llores por la leche derramada.",
+        "en": "Don't cry over spilt milk."
+      },
+      {
+        "order": 2,
+        "es": "Los Green nunca compran leche fresca porque siempre se echa a perder antes de que puedan terminarla.",
+        "en": "The Greens never buy fresh milk because it always goes off before they can finish it."
+      },
+      {
+        "order": 3,
+        "es": "De hecho, Cindy solo compra alimentos que tardan mucho en echarse a perder, por eso los Green nunca revisan si la comida en el refrigerador se ha echado a perder.",
+        "en": "In fact, Cindy only buys food that takes a long time to go off, which is why the Greens never check to see if the food in the fridge has gone off."
+      },
+      {
+        "order": 4,
+        "es": "Sin embargo, un día Harry tomó un sorbo de su café y supo que la leche que le había puesto se había echado a perder.",
+        "en": "However, one day Harry took a sip of his coffee and knew that the milk he put in it had gone off."
+      },
+      {
+        "order": 5,
+        "es": "¿Cómo se echó a perder esta leche?, dijo escupiendo su café.",
+        "en": "How did this milk go off? he said spitting out his coffee."
+      },
+      {
+        "order": 6,
+        "es": "Nuestra leche nunca se echa a perder.",
+        "en": "Our milk never goes off."
+      },
+      {
+        "order": 7,
+        "es": "Cindy no podía creer que la leche se hubiera echado a perder, así que miró la fecha de caducidad.",
+        "en": "Cindy couldn't believe that the milk had gone off, so she looked at the sell by date."
+      },
+      {
+        "order": 8,
+        "es": "No puedo creerlo, exclamó.",
+        "en": "I can't believe it, she cried."
+      },
+      {
+        "order": 9,
+        "es": "Esta leche caducó hace dos semanas.",
+        "en": "This milk went off two weeks ago."
+      },
+      {
+        "order": 10,
+        "es": "Cindy sabía que solo había comprado la leche una semana atrás, lo que significaba que se había echado a perder antes de que la trajera a casa.",
+        "en": "Cindy knew that she only bought the milk a week ago, which meant that it had gone off before she brought it home."
+      },
+      {
+        "order": 11,
+        "es": "Por supuesto, tuvo que revisar el resto de la compra para asegurarse de que nada más se hubiera echado a perder.",
+        "en": "Of course, she had to check the rest of the shopping to make sure nothing else had gone off."
+      }
+    ]
+  },
+  {
+    "id": 303,
+    "file_name": "Phrasal_verbs_303.mp3",
+    "phrasal_verb": "drop off",
+    "base_verb": "drop",
+    "particle": "off",
+    "meaning_es": "Dejar a alguien o algo en un lugar; entregar algo.",
+    "situation": "Viajes y Transporte",
+    "tags_es": [
+      "dejar",
+      "entregar",
+      "llevar",
+      "depositar",
+      "soltar"
+    ],
+    "intro_note": "Este audio se centra en el phrasal verb 'drop off' y sus diferentes usos para 'dejar' o 'entregar' a personas o cosas en un lugar.",
+    "type": "drill",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Mi hermano me deja en la estación todos los días.",
+        "en": "My brother drops me off at the station every day."
+      },
+      {
+        "order": 2,
+        "es": "Te puedo llevar a casa de camino a la mía.",
+        "en": "I can drop you off on my way home."
+      },
+      {
+        "order": 3,
+        "es": "Me puedes dejar en la próxima esquina, por favor?",
+        "en": "Could you drop me off at the next corner, please?"
+      },
+      {
+        "order": 4,
+        "es": "Su amiga la dejó delante de su casa.",
+        "en": "Her friend dropped her off in front of her house."
+      },
+      {
+        "order": 5,
+        "es": "Se fue a casa primero para dejar su maletín.",
+        "en": "He went home first to drop off his briefcase."
+      },
+      {
+        "order": 6,
+        "es": "Quién la llevó a la fiesta?",
+        "en": "Who dropped her off at the party?"
+      },
+      {
+        "order": 7,
+        "es": "Alguien ha entregado este paquete para ti.",
+        "en": "Someone dropped this package off for you."
+      },
+      {
+        "order": 8,
+        "es": "Viste quien lo entregó?",
+        "en": "Did you see who dropped it off?"
+      },
+      {
+        "order": 9,
+        "es": "Fueron llevados en una limusina.",
+        "en": "They were dropped off in a limousine."
+      },
+      {
+        "order": 10,
+        "es": "Entregaste la documentación?",
+        "en": "Did you drop off the documentation?"
+      }
+    ]
+  },
+  {
+    "id": 304,
+    "file_name": "Phrasal_verbs_304.mp3",
+    "phrasal_verb": "drop off",
+    "base_verb": "drop",
+    "particle": "off",
+    "meaning_es": "Dejar a alguien en un lugar (con un vehículo), dejar caer (en un contexto de dejar a alguien)",
+    "situation": "Viajes y Transporte",
+    "tags_es": [
+      "dejar en coche",
+      "transporte escolar",
+      "llevar a la escuela",
+      "entrega",
+      "dejar a los niños",
+      "ir a la escuela"
+    ],
+    "intro_note": "Este pasaje narra las rutinas de transporte escolar de Holly y Charlie, destacando el uso del phrasal verb 'drop off'.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Es hora de ir a la escuela.",
+        "en": "Time for school."
+      },
+      {
+        "order": 2,
+        "es": "La mayoría de los días, el autobús escolar lleva a Holly y Charlie a la escuela, dejándolos en el estacionamiento.",
+        "en": "Most days, the school bus takes Holly and Charlie to school, dropping them off in the parking lot."
+      },
+      {
+        "order": 3,
+        "es": "Pero en las raras ocasiones en que pierden el autobús, sus padres los dejan en la escuela.",
+        "en": "But on the rare occasions that they miss the bus, their parents drop them off at the school."
+      },
+      {
+        "order": 4,
+        "es": "Cuando Cindy lleva a Charlie a la escuela, ella lo deja frente a la escuela donde todos los demás padres dejan a sus hijos.",
+        "en": "When Cindy takes Charlie to school, she drops him off in front of the school where all the other parents drop their children off."
+      },
+      {
+        "order": 5,
+        "es": "Harry deja a Holly porque su escuela está cerca de su oficina.",
+        "en": "Harry drops Holly off because her school is close to his office."
+      },
+      {
+        "order": 6,
+        "es": "Pero él no la deja frente a la escuela porque ella dice que es vergonzoso cuando él la deja allí.",
+        "en": "But he doesn't drop her off in front of the school because she says it's embarrassing when he drops her off there."
+      },
+      {
+        "order": 7,
+        "es": "Por eso, él la deja a unas pocas cuadras de la escuela y ella camina el resto del camino con sus amigas, quienes piden a sus padres que las dejen en el mismo lugar.",
+        "en": "That's why he drops her off a few blocks away from the school and she walks the rest of the way with her friends, who ask their parents to drop them off in the same location."
+      }
+    ]
+  },
+  {
+    "id": 305,
+    "file_name": "Phrasal_verbs_305.mp3",
+    "phrasal_verb": "give off",
+    "base_verb": "give",
+    "particle": "off",
+    "meaning_es": "Emitir, despedir, desprender (sustancias, olores, luz, calor, vapor, etc.)",
+    "situation": "Descripción",
+    "tags_es": [
+      "emitir",
+      "despedir",
+      "desprender",
+      "producir",
+      "generar",
+      "olor",
+      "humo",
+      "luz",
+      "calor",
+      "vapor",
+      "fragancia",
+      "contaminación"
+    ],
+    "intro_note": null,
+    "type": "drill",
+    "drills": [
+      {
+        "order": 1,
+        "es": "El fuego despidió mucho humo.",
+        "en": "The fire gave off a lot of smoke."
+      },
+      {
+        "order": 2,
+        "es": "Está despidiendo un olor extraño.",
+        "en": "It's giving off a strange smell."
+      },
+      {
+        "order": 3,
+        "es": "Una vela no da mucha luz.",
+        "en": "A candle doesn't give off much light."
+      },
+      {
+        "order": 4,
+        "es": "Si asustas a una mofeta, despide un olor horrible.",
+        "en": "If you scare a skunk, it gives off a horrible smell."
+      },
+      {
+        "order": 5,
+        "es": "¿Se supone que la olla exprés tiene que despedir vapor?",
+        "en": "Is the pressure cooker supposed to give off steam?"
+      },
+      {
+        "order": 6,
+        "es": "¿Qué está despidiendo ese olor?",
+        "en": "What's giving off that smell?"
+      },
+      {
+        "order": 7,
+        "es": "Algunas velas desprenden un agradable aroma.",
+        "en": "Some candles give off a nice aroma when they burn."
+      },
+      {
+        "order": 8,
+        "es": "Esa fábrica está emitiendo demasiada contaminación.",
+        "en": "That factory is giving off too much pollution."
+      },
+      {
+        "order": 9,
+        "es": "Algunos animales emiten una fragancia.",
+        "en": "Some animals give off a scent."
+      },
+      {
+        "order": 10,
+        "es": "Estos radiadores emiten mucho calor.",
+        "en": "These radiators give off a lot of heat."
+      }
+    ]
+  },
+  {
+    "id": 306,
+    "file_name": "Phrasal_verbs_306.mp3",
+    "phrasal_verb": "give off",
+    "base_verb": "give",
+    "particle": "off",
+    "meaning_es": "Emitir, desprender, exhalar (un olor, luz, calor, etc.)",
+    "situation": "Vida Cotidiana",
+    "tags_es": [
+      "olor",
+      "hedor",
+      "emitir",
+      "desprender",
+      "exhalar",
+      "casa",
+      "misterio",
+      "ambiente"
+    ],
+    "intro_note": "Una historia sobre una familia que busca desesperadamente la fuente de un olor horrible en su casa.",
+    "type": "story",
+    "drills": [
+      {
+        "order": 1,
+        "es": "Un hedor.",
+        "en": "A stench."
+      },
+      {
+        "order": 2,
+        "es": "Algo en la casa de los Green estaba desprendiendo un olor horrible, pero nadie sabía qué lo estaba desprendiendo.",
+        "en": "Something in the Greens' house was giving off a horrible smell, but nobody knew what was giving it off."
+      },
+      {
+        "order": 3,
+        "es": "Cindy pensó que un par de zapatos viejos podría estar desprendiendo el olor, así que olió cada par en la casa, y aunque todos desprendían un mal olor, ninguno de ellos desprendía el extraño olor que había en la casa.",
+        "en": "Cindy thought an old pair of shoes might be giving off the smell, so she smelled every pair in the house, and although they all gave off a bad smell, none of them gave off the strange odor that was in the house."
+      },
+      {
+        "order": 4,
+        "es": "Harry pensó que un roedor muerto podría estar desprendiendo el olor, así que bajó al sótano.",
+        "en": "Harry thought a dead rodent might be giving off the smell, so he went down to the basement."
+      },
+      {
+        "order": 5,
+        "es": "Encontró muchas cajas viejas desprendiendo un olor a humedad, pero ninguna de ellas desprendía el olor misterioso.",
+        "en": "He found lots of old boxes giving off a musty smell, but none of them were giving off the mysterious smell."
+      },
+      {
+        "order": 6,
+        "es": "Después de unos días, los Green estaban tan desesperados por encontrar qué estaba desprendiendo un hedor tan horrible, que si no podían averiguar qué lo desprendía, pensaron que tendrían que mudarse de casa.",
+        "en": "After a few days, the Greens were getting so desperate to find what was giving off such a horrible stench, that if they couldn't find out what was giving it off, they thought they might have to move house."
+      }
+    ]
+  }
+];

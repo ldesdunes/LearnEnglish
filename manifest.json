@@ -1,0 +1,16 @@
+{
+  "name": "Phrasal Verbs Coach",
+  "short_name": "Phrasals",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "description": "306 Phrasal Verbs con audio y drills de shadowing",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
