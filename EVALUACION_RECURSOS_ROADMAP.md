@@ -53,17 +53,17 @@ Ordenado matemáticamente por **ROI = Impacto en Fluidez / Esfuerzo de Implement
 | **1** | **4.4** | **Detección de Vicios Fonéticos Hispanos en Tutor de Voz** | Claude/GPT | ⭐⭐⭐⭐⭐ | Muy Bajo | Erradica los 4 fallos que impiden a un nativo entenderte (prótesis 'e', vocales laxas, consonantes finales, acento en partícula). | `[x] Sprint 1` |
 | **2** | **4.1** | **Comandos de Voz Estandarizados (Shadowing / Roleplay / Partícula)** | Claude/GPT | ⭐⭐⭐⭐⭐ | Muy Bajo | Control total de tus 2h de estudio por voz (*"Modo Shadowing"*, *"Modo Roleplay"*, *"Explícame la Partícula"*, *"Examen Rápido"*). | `[x] Sprint 1` |
 | **3** | **4.3** | **"Clínica de Errores" al Cierre de Sesión de Voz** | Claude/GPT | ⭐⭐⭐⭐⭐ | Muy Bajo | Fluidez continua en el roleplay; machaca los 2 fallos clave en los últimos 3 min con repetición rápida en bucle. | `[x] Sprint 1` |
-| **4** | **1.3** | **Contraste de Registro: Phrasal Verb vs. Verbo Formal Latino** | PWA / Datos | ⭐⭐⭐⭐⭐ | Bajo | Tu mayor atajo léxico: conecta palabras formales que ya sabes con el phrasal verb (*postpone ➔ put off*). | `[ ] Sprint 2` |
-| **5** | **2.4** | **Resaltado Visual de *Connected Speech* (`‿`) en Frases** | PWA | ⭐⭐⭐⭐⭐ | Bajo | Destapa tu oído para la TV y elimina la dicción entrecortada (*Turn‿off*, *Ge**t**‿**o**ut*). | `[ ] Sprint 2` |
-| **6** | **2.2** | **Bucle Frase a Frase (Audio Loop por Oración)** | PWA | ⭐⭐⭐⭐ | Bajo-Medio | Repite una sola frase en bucle continuo hasta que salga con fluidez y entonación perfecta. | `[ ] Sprint 2` |
-| **7** | **2.3** | **Modo Cloze / Test Rápido de Partícula (1 seg)** | PWA | ⭐⭐⭐⭐ | Bajo | Elimina la duda de selección de partícula (*up, off, in, out*) que provoca los silencios al hablar. | `[ ] Sprint 3` |
-| **8** | **2.1** | **Metodología de Shadowing en 3 Pasadas** | PWA | ⭐⭐⭐⭐ | Bajo | Estructura la práctica: *1. Entender bilingüe ➔ 2. Escuchar ritmo ➔ 3. Shadowing ciego con blur*. | `[ ] Sprint 3` |
-| **9** | **4.2** | **Generador de Micro-Lecturas e Historias i+1** | Claude/GPT | ⭐⭐⭐⭐ | Muy Bajo | Pone tus verbos en 🔴 Focus dentro de diálogos cotidianos para leer en voz alta. | `[ ] Sprint 3` |
-| **10** | **1.1** | **Fonética IPA en Tarjetas (Verbo + Partícula)** | Datos / PWA | ⭐⭐⭐ | Bajo | Referencia visual para resolver dudas exactas de pronunciación (UK / US). | `[ ] Sprint 3` |
-| **11** | **3.1** | **Repaso Espaciado Ligero FSRS/SM-2 en PWA** | PWA | ⭐⭐⭐⭐ | Medio | Cola diaria inteligente: *"Tus 10 verbos para repasar hoy"*. Evita olvidar lo practicado. | `[ ] Sprint 3` |
-| **12** | **1.2** | **Mapeo CEFR (A1-C1) y Filtro A2** | Datos / PWA | ⭐⭐⭐ | Bajo | Clasifica los 153 verbos alineados con los módulos A2-1, A2-2 de Conquer English. | `[ ] Sprint 4` |
-| **13** | **1.4** | **Citas y Contextos Reales de Películas/Series** | PWA / IA | ⭐⭐⭐ | Medio | Ejemplos auténticos de *Friends* y *The Office* para reforzar memoria contextual. | `[ ] Sprint 4` |
-| **14** | **3.2** | **Historial de Racha 🔥 y Estadísticas Orales** | PWA | ⭐⭐ | Bajo | Gamificación visual para mantener la constancia diaria del intensivo. | `[ ] Sprint 4` |
+| **4** | **1.3** | **Contraste de Registro: Phrasal Verb vs. Verbo Formal Latino** | PWA / Datos | ⭐⭐⭐⭐⭐ | Bajo | Tu mayor atajo léxico: conecta palabras formales que ya sabes con el phrasal verb (*postpone ➔ put off*). | `[x] Sprint 2` |
+| **5** | **2.4** | **Resaltado Visual de *Connected Speech* (`‿`) en Frases** | PWA | ⭐⭐⭐⭐⭐ | Bajo | Destapa tu oído para la TV y elimina la dicción entrecortada (*Turn‿off*, *Ge**t**‿**o**ut*). | `[x] Sprint 2` |
+| **6** | **2.2** | **Bucle Frase a Frase (Audio Loop por Oración)** | PWA | ⭐⭐⭐⭐ | Bajo-Medio | Repite una sola frase en bucle continuo hasta que salga con fluidez y entonación perfecta. | `[x] Sprint 2` |
+| **7** | **2.3** | **Modo Cloze / Test Rápido de Partícula (1 seg)** | PWA | ⭐⭐⭐⭐ | Bajo | Elimina la duda de selección de partícula (*up, off, in, out*) que provoca los silencios al hablar. | `[x] Sprint 3` |
+| **8** | **2.1** | **Metodología de Shadowing en 3 Pasadas** | PWA | ⭐⭐⭐⭐ | Bajo | Estructura la práctica: *1. Entender bilingüe ➔ 2. Escuchar ritmo ➔ 3. Shadowing ciego con blur*. | `[x] Sprint 3` |
+| **9** | **4.2** | **Generador de Micro-Lecturas e Historias i+1** | Claude/GPT | ⭐⭐⭐⭐ | Muy Bajo | Pone tus verbos en 🔴 Focus dentro de diálogos cotidianos para leer en voz alta. | `[x] Sprint 3` |
+| **10** | **1.1** | **Fonética IPA en Tarjetas (Verbo + Partícula)** | Datos / PWA | ⭐⭐⭐ | Bajo | Referencia visual para resolver dudas exactas de pronunciación (UK / US). | `[x] Sprint 3` |
+| **11** | **3.1** | **Repaso Espaciado Ligero FSRS/SM-2 en PWA** | PWA | ⭐⭐⭐⭐ | Medio | Cola diaria inteligente: *"Tus 10 verbos para repasar hoy"*. Evita olvidar lo practicado. | `[x] Sprint 3` |
+| **12** | **1.2** | **Mapeo CEFR (A1-C1) y Filtro A2** | Datos / PWA | ⭐⭐⭐ | Bajo | Clasifica los 153 verbos alineados con los módulos A2-1, A2-2 de Conquer English. | `[x] Sprint 4 (curado a mano)` |
+| **13** | **1.4** | **Citas y Contextos Reales de Películas/Series** | PWA / IA | ⭐⭐⭐ | Medio | Ejemplos auténticos de *Friends* y *The Office* para reforzar memoria contextual. | `[-] Omitida: sin fuente real` |
+| **14** | **3.2** | **Historial de Racha 🔥 y Estadísticas Orales** | PWA | ⭐⭐ | Bajo | Gamificación visual para mantener la constancia diaria del intensivo. | `[x] Sprint 4` |
 | **15** | **11** | **Motor Local Acústico Wav2Vec2 (`OpenPronounce`)** | Servidor | ⭐⭐⭐ | Alto | Evaluación acústica avanzada; pospuesto por coste de infraestructura. | `[-] En reserva` |
 | **16** | **2.5** | **Detector de Chunks con Trie en Historias** | PWA | ⭐⭐ | Medio | Identificación léxica adicional; prescindible frente a las anteriores. | `[-] En reserva` |
 
@@ -191,23 +191,23 @@ Ordenado matemáticamente por **ROI = Impacto en Fluidez / Esfuerzo de Implement
 - [x] **Rank 2 (ID 4.1):** Añadir en `ai-prompt.md` los comandos de voz estandarizados (*"Modo Shadowing"*, *"Modo Roleplay"*, *"Explícame la Partícula"*, *"Examen Rápido"*, *"Clínica de Errores"*).
 - [x] **Rank 3 (ID 4.3):** Implementar el protocolo de "Clínica de Errores" en los últimos 3-5 minutos de cada sesión en `ai-prompt.md`.
 
-### 🛠️ Sprint 2: El Puente Léxico y la Fonética en la PWA (Siguientes 24-48h)
+### 🛠️ Sprint 2: El Puente Léxico y la Fonética en la PWA — ✅ Completado
 > **Foco:** Impacto visual y auditivo en cada drill de la PWA.
-- [ ] **Rank 4 (ID 1.3):** Añadir a los 153 verbos el **equivalente formal latino** extraído de `WithEnglishWeCan` y mostrarlo en la tarjeta de la PWA.
-- [ ] **Rank 5 (ID 2.4):** Implementar el formateo visual de ***Connected Speech* (`‿`)** en las frases en inglés de `index.html`.
-- [ ] **Rank 6 (ID 2.2):** Añadir el botón de **Bucle Continuo de Frase** en el modal de drills.
+- [x] **Rank 4 (ID 1.3):** Equivalente formal latino curado a mano (el cruce automático con `WithEnglishWeCan` daba sinónimos del sentido equivocado) mostrado en tarjeta, modal y búsqueda.
+- [x] **Rank 5 (ID 2.4):** Formateo visual de ***Connected Speech* (`‿`)** con toggle ON/OFF y exclusión de límites de frase.
+- [x] **Rank 6 (ID 2.2):** Botón de **Bucle Continuo de Frase**, con detención automática al activar otro bucle.
 
-### 🎯 Sprint 3: Automatización de Reflejos y Retención (Días 3-5)
-- [ ] **Rank 7 (ID 2.3):** Minijuego "Modo Cloze de Partícula" en `index.html`.
-- [ ] **Rank 8 (ID 2.1):** Selector del método "Shadowing en 3 Pasadas" en el reproductor.
-- [ ] **Rank 9 (ID 4.2):** Plantilla de generador de micro-historias i+1.
-- [ ] **Rank 10 (ID 1.1):** Transcripción IPA británica/americana integrada en datos y tarjetas.
-- [ ] **Rank 11 (ID 3.1):** Cola de Repaso Espaciado FSRS/SM-2 en la PWA (*"Pendientes para hoy"*).
+### 🎯 Sprint 3: Automatización de Reflejos y Retención — ✅ Completado
+- [x] **Rank 7 (ID 2.3):** Minijuego "Modo Cloze de Partícula" en `index.html`, anclado a `base_verb`+partícula.
+- [x] **Rank 8 (ID 2.1):** Barra de fases "Shadowing en 3 Pasadas" reutilizando blur/Connected Speech existentes.
+- [x] **Rank 9 (ID 4.2):** Generador de prompt de historia i+1 a partir de los verbos en 🔴 Focus.
+- [x] **Rank 10 (ID 1.1):** Transcripción IPA UK/US integrada (dataset `open-dict-data/ipa-dict` vendorizado).
+- [x] **Rank 11 (ID 3.1):** SRS ligero (`srs.js`) que solo programa *cuándo* repasar; el rating escribe a través de `cardStatuses` para no crear un segundo sistema de progreso.
 
-### 🎬 Sprint 4: Enriquecimiento Curricular y Gamificación (Siguiente fase)
-- [ ] **Rank 12 (ID 1.2):** Niveles CEFR (A1-C1) y filtro A2.
-- [ ] **Rank 13 (ID 1.4):** Citas auténticas de películas/series.
-- [ ] **Rank 14 (ID 3.2):** Registro de racha 🔥 y estadísticas de práctica oral.
+### 🎬 Sprint 4: Enriquecimiento Curricular y Gamificación
+- [x] **Rank 12 (ID 1.2):** Niveles CEFR (A1-C1) y filtro A2 — **curados a mano**, el dataset previsto no cubría ningún phrasal verb del curso.
+- [-] **Rank 13 (ID 1.4):** Citas auténticas de películas/series — **omitida**: el dataset previsto no tenía ninguna atribución real a series/películas.
+- [x] **Rank 14 (ID 3.2):** Racha 🔥 y mapa de calor de dominio de los 153 verbos.
 
 ---
 

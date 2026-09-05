@@ -489,6 +489,28 @@
       margin-bottom: 8px;
     }
 
+    .stats-heatmap {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(14px, 1fr));
+      gap: 3px;
+    }
+
+    .heatmap-cell {
+      aspect-ratio: 1;
+      border-radius: 3px;
+      cursor: pointer;
+      background: var(--card-border);
+    }
+
+    .heatmap-legend-dot {
+      display: inline-block;
+      width: 9px;
+      height: 9px;
+      border-radius: 2px;
+      margin-right: 4px;
+      vertical-align: middle;
+    }
+
     .ipa-badge {
       font-family: 'Courier New', monospace;
       font-size: 0.78rem;
@@ -1250,6 +1272,9 @@
         <button class="btn-top btn-sync" id="btnSyncStatus" onclick="openSyncModal()" title="Sincronización transparente con Google Drive / Sheets">
           <span id="syncIcon">☁️</span> <span id="syncText">Drive</span>
         </button>
+        <button class="btn-top btn-sync" onclick="openStatsModal()" title="Racha de práctica y mapa de dominio">
+          🔥 <span id="streakBtnLabel">0</span>
+        </button>
         <button class="btn-top btn-primary" onclick="playRandom()">🎲 Azar</button>
       </div>
     </div>
@@ -1289,6 +1314,11 @@
         <div class="filter-chip" onclick="setFilter('Cotidiana', this)">Vida Cotidiana</div>
         <div class="filter-chip" onclick="setFilter('Relaciones', this)">Relaciones</div>
         <div class="filter-chip" onclick="setFilter('Viajes', this)">Viajes</div>
+        <div class="filter-chip" onclick="setFilter('CEFR_A1', this)">A1</div>
+        <div class="filter-chip" onclick="setFilter('CEFR_A2', this)">A2 (Conquer)</div>
+        <div class="filter-chip" onclick="setFilter('CEFR_B1', this)">B1</div>
+        <div class="filter-chip" onclick="setFilter('CEFR_B2', this)">B2</div>
+        <div class="filter-chip" onclick="setFilter('CEFR_C1', this)">C1</div>
       </div>
     </div>
   </header>
@@ -1546,6 +1576,27 @@
     </div>
   </div>
 
+  <div class="modal" id="statsModal" onclick="closeStatsModalOnBackdrop(event)">
+    <div class="modal-content" style="max-width: 640px;">
+      <button class="modal-close" onclick="closeStatsModal()">✕</button>
+      <span class="badge-type drill">📊 Racha y Estadísticas</span>
+
+      <div class="quiz-card" style="margin-top: 12px;">
+        <div id="streakDisplay" style="font-size: 2rem; font-weight: 800;">🔥 0 días</div>
+        <div style="font-size: 0.8rem; color: var(--text-muted); margin-top: 4px;">Días consecutivos con práctica oral. Se reinicia si pasan más de 48h sin actividad.</div>
+      </div>
+
+      <h4 style="font-size: 0.9rem; color: var(--text-muted); margin: 16px 0 8px 0;">MAPA DE DOMINIO (153 VERBOS)</h4>
+      <div id="statsHeatmap" class="stats-heatmap"></div>
+      <div style="display:flex; gap:14px; margin-top:10px; font-size:0.75rem; color: var(--text-muted); flex-wrap:wrap;">
+        <span><span class="heatmap-legend-dot" style="background: var(--status-focus-border);"></span> Focus</span>
+        <span><span class="heatmap-legend-dot" style="background: var(--status-progress-border);"></span> Progreso</span>
+        <span><span class="heatmap-legend-dot" style="background: var(--status-mastered-border);"></span> Dominado</span>
+        <span><span class="heatmap-legend-dot" style="background: var(--card-border);"></span> Sin marcar</span>
+      </div>
+    </div>
+  </div>
+
   <!-- Persistent Bottom Player -->
   <footer class="player-bar">
     <div class="player-info">
@@ -1596,6 +1647,7 @@
 
     function init() {
       updateStatusCounts();
+      updateStreakBadge();
       updateSyncUI();
       renderCards(filteredData);
       if ('serviceWorker' in navigator) {
@@ -1688,6 +1740,8 @@
           matchesFilter = cardStatuses[item.id] === 'mastered';
         } else if (filter === 'SRS_DUE') {
           matchesFilter = srsIsDueToday(item.id);
+        } else if (filter.startsWith('CEFR_')) {
+          matchesFilter = item.cefr_level === filter.replace('CEFR_', '');
         } else if (filter === 'TYPE_DRILL') {
           matchesFilter = item.type === 'drill';
         } else if (filter === 'TYPE_STORY') {
@@ -2097,11 +2151,86 @@ ${drillLines}`;
 
     function markDrillPhrasePlayed(index) {
       if (!activeModalItem || !activeModalItem.drills) return;
+      recordPracticeToday();
       playedDrillIndices.add(index);
       if (playedDrillIndices.size >= activeModalItem.drills.length) {
         const ratingRow = document.getElementById('modalSrsRating');
         if (ratingRow) ratingRow.style.display = 'flex';
       }
+    }
+
+    // Historial de Racha y Estadísticas de Práctica Oral (Sprint 4.3)
+    const PRACTICE_LOG_KEY = 'phrasal_practice_days';
+
+    function getPracticeDays() {
+      try { return JSON.parse(localStorage.getItem(PRACTICE_LOG_KEY) || '[]'); } catch (e) { return []; }
+    }
+
+    function recordPracticeToday() {
+      const days = new Set(getPracticeDays());
+      const today = new Date().toISOString().slice(0, 10);
+      if (!days.has(today)) {
+        days.add(today);
+        localStorage.setItem(PRACTICE_LOG_KEY, JSON.stringify([...days]));
+      }
+      updateStreakBadge();
+    }
+
+    // La racha se reinicia si pasan más de 48h desde el último día practicado.
+    function computeStreak() {
+      const days = new Set(getPracticeDays());
+      if (!days.size) return 0;
+      const sorted = [...days].sort();
+      // Parseado en UTC ('Z') a propósito: getPracticeDays() ya guarda fechas en UTC
+      // (toISOString().slice(0,10)), así que todo el cálculo debe quedarse en UTC para
+      // no desalinear el día por el desfase de zona horaria local.
+      const lastDay = new Date(sorted[sorted.length - 1] + 'T00:00:00Z');
+      const hoursSinceLast = (Date.now() - lastDay.getTime()) / 3600000;
+      if (hoursSinceLast > 48) return 0;
+
+      let streak = 0;
+      const cursor = new Date(lastDay);
+      while (days.has(cursor.toISOString().slice(0, 10))) {
+        streak++;
+        cursor.setUTCDate(cursor.getUTCDate() - 1);
+      }
+      return streak;
+    }
+
+    function updateStreakBadge() {
+      const streak = computeStreak();
+      const label = document.getElementById('streakBtnLabel');
+      if (label) label.textContent = streak;
+      const display = document.getElementById('streakDisplay');
+      if (display) display.textContent = `🔥 ${streak} día${streak === 1 ? '' : 's'}`;
+    }
+
+    function openStatsModal() {
+      updateStreakBadge();
+      renderStatsHeatmap();
+      document.getElementById('statsModal').classList.add('active');
+    }
+
+    function closeStatsModal() {
+      document.getElementById('statsModal').classList.remove('active');
+    }
+
+    function closeStatsModalOnBackdrop(e) {
+      if (e.target.id === 'statsModal') closeStatsModal();
+    }
+
+    function renderStatsHeatmap() {
+      const container = document.getElementById('statsHeatmap');
+      const drills = currentData.filter(x => x.type === 'drill');
+      const statusColor = {
+        focus: 'var(--status-focus-border)',
+        in_progress: 'var(--status-progress-border)',
+        mastered: 'var(--status-mastered-border)',
+      };
+      container.innerHTML = drills.map(item => {
+        const color = statusColor[cardStatuses[item.id]] || 'var(--card-border)';
+        return `<div class="heatmap-cell" style="background:${color};" title="#${item.id} ${item.phrasal_verb}" onclick="closeStatsModal(); openDetails(${item.id});"></div>`;
+      }).join('');
     }
 
     function rateSrsAndAdvance(rating) {
@@ -2184,6 +2313,7 @@ ${drillLines}`;
 
     function recordDrillPhrase(index) {
       stopPhraseLoop();
+      recordPracticeToday();
       const SpeechRec = window.SpeechRecognition || window.webkitSpeechRecognition;
       const micBtn = document.getElementById(`mic-btn-${index}`);
       const feedbackEl = document.getElementById(`drill-feedback-${index}`);

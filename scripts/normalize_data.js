@@ -108,6 +108,9 @@ function generateKnowledgeText(items, outPath) {
     if (item.ipa) {
       lines.push(`- Pronunciación IPA: UK ${item.ipa.uk} | US ${item.ipa.us}`);
     }
+    if (item.cefr_level) {
+      lines.push(`- Nivel CEFR: ${item.cefr_level}`);
+    }
     lines.push(`- Situación de uso: ${item.situation || 'General'}`);
     if (item.tags_es && item.tags_es.length) {
       lines.push(`- Conceptos clave (ES): ${item.tags_es.join(', ')}`);

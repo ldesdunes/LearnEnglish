@@ -2,6 +2,15 @@
 
 Este documento desglosa cada funcionalidad pendiente del roadmap en **tareas atómicas, autónomas y bien definidas**. Cada tarea especifica los archivos afectados, la lógica técnica exacta, el diseño visual/interactivo y los criterios objetivos de verificación.
 
+## ✅ Estado de Ejecución
+
+- **Sprint 2 (S2.1, S2.2, S2.3):** Implementado y verificado en navegador.
+- **Sprint 3 (S3.1 a S3.5):** Implementado y verificado en navegador.
+- **Sprint 4:**
+  - **S4.1 (CEFR):** Implementado, pero con una desviación importante del plan — ver nota en la tarea.
+  - **S4.2 (Citas de series):** **Omitido a petición del usuario.** El dataset previsto no tenía ninguna atribución real a series/películas (frases de ejemplo genéricas) y solo cubría 4/155 verbos; incluirlo habría significado fabricar citas falsas.
+  - **S4.3 (Racha y heatmap):** Implementado y verificado en navegador (se corrigió un bug real de zona horaria en el cálculo de racha durante la verificación).
+
 ---
 
 ## 🧭 Principios de Implementación del Proyecto
@@ -321,27 +330,27 @@ Por eso la SRS se divide en dos capas con responsabilidades distintas:
 
 ---
 
-## Tarea S4.1 (Rank 12 / ID 1.2) — Mapeo de Niveles CEFR (A1-C1) y Filtro A2
+## Tarea S4.1 (Rank 12 / ID 1.2) — Mapeo de Niveles CEFR (A1-C1) y Filtro A2 ✅ (con desviación)
 - **Archivos:** `scripts/enrich_cefr.js`, `phrasal_verbs_data.json`, `index.html`.
-- **Detalle:** Vendorizar el dataset `Talhakasikci/cefr-vocabulary-dataset` una sola vez en `scripts/vendor/` (no fetch en cada ejecución). Cruzar los 153 verbos con él. Etiquetar cada verbo con su nivel oficial (A1, A2, B1, B2, C1) — si algún verbo no aparece en el dataset, completar manualmente esa entrada en vez de dejarla sin nivel. Añadir selector desplegable en filtros: *"Filtrar por nivel: A2 (Conquer)"*.
-- **Verificación:** El usuario puede pulsar "A2" y ver exactamente los ~45 verbos correspondientes a su nivel actual de clases en vivo.
+- **⚠️ Desviación real vs. plan:** `Talhakasikci/cefr-vocabulary-dataset` es vocabulario general de una sola palabra — de los 155 verbos únicos del curso, **0 aparecen como entrada** (comprobado exhaustivamente). El cruce automático era inviable. Con el visto bueno del usuario, los 155 niveles se **curaron a mano** en `scripts/enrich_cefr.js` por frecuencia/idiomaticidad general en ELT — **no están verificados contra el temario real de Conquer English** (los ficheros A2-1/A2-2/A2-3 no están en este repositorio). El dataset original se descartó y se eliminó de `scripts/vendor/`.
+- **Detalle:** Etiquetar cada verbo con su nivel (A1-C1) en `phrasal_verbs_data.json` → `cefr_level`, propagar a `phrasal_verbs_knowledge.txt`, y añadir 5 chips de filtro (A1...C1, con "A2 (Conquer)" resaltado) en `index.html`.
+- **Verificación:** ✅ El usuario puede pulsar el chip "A2 (Conquer)" y ver los verbos etiquetados como A2 por el criterio curado a mano (no por el temario real de Conquer).
 
 ---
 
-## Tarea S4.2 (Rank 13 / ID 1.4) — Citas y Contextos Reales de Películas/Series
-- **Archivos:** `scripts/enrich_media_quotes.js`, `phrasal_verbs_data.json`, `index.html`.
-- **Detalle:** Vendorizar el dataset `Vlad-Vasinev/real-english-idioms` una sola vez en `scripts/vendor/` (no fetch en cada ejecución). Extraer citas e insertarlas en una pestaña *"🎬 En la pantalla"* en el modal de detalle (ej. escena de *Friends* o *The Office* donde un personaje usa ese phrasal verb exacto). No todos los 153 verbos tendrán cita disponible — eso es esperado, no un fallo del script.
-- **Verificación:** En los verbos con cita disponible, aparece una tarjeta estilizada con la cita y el nombre de la serie/personaje.
+## Tarea S4.2 (Rank 13 / ID 1.4) — Citas y Contextos Reales de Películas/Series ⛔ OMITIDA
+- **Motivo de la omisión (decisión del usuario):** `Vlad-Vasinev/real-english-idioms` es un glosario de modismos con frases de ejemplo genéricas — **no contiene ninguna atribución real a serie/película/personaje** (a pesar del nombre del repo) y solo cubre 4/155 verbos del curso (`catch up`, `shut down`, `carry on`, `pay off`). Implementar esta tarea tal como estaba escrita habría requerido fabricar citas de series que nunca existieron. Se consultó al usuario y se decidió omitir la tarea en vez de inventar contenido.
+- **Si se retoma en el futuro:** requeriría que el usuario aporte citas reales verificadas, o localizar un dataset distinto que sí tenga atribución auténtica a phrasal verbs concretos.
 
 ---
 
-## Tarea S4.3 (Rank 14 / ID 3.2) — Historial de Racha 🔥 y Estadísticas de Práctica Oral
+## Tarea S4.3 (Rank 14 / ID 3.2) — Historial de Racha 🔥 y Estadísticas de Práctica Oral ✅
 - **Archivos:** `index.html` (modal de estadísticas).
 - **Detalle:**
   - Registrar timestamp de cada día con al menos 1 práctica oral completada.
   - Contador de racha: *"🔥 5 días consecutivos practicando"*.
   - Gráfico visual tipo matriz (heatmap) de los 153 verbos con sus estados de dominio y repetición.
-- **Verificación:** La racha se incrementa al practicar hoy y se reinicia si pasa más de 48 horas sin actividad.
+- **Verificación:** ✅ La racha se incrementa al practicar hoy y se reinicia si pasa más de 48 horas sin actividad. Se detectó y corrigió durante la verificación un bug real: `computeStreak()` mezclaba fechas locales y UTC (`new Date(str + 'T00:00:00')` se parsea en hora local, pero `toISOString()` es UTC), lo que en zonas horarias con desfase (ej. UTC+2) hacía que la racha diera siempre 0. Corregido forzando UTC en todo el cálculo (`T00:00:00Z` + `setUTCDate`/`getUTCDate`).
 
 ---
 

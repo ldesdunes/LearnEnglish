@@ -78,7 +78,8 @@
     "ipa": {
       "uk": "/ɡˈəʊ ˈʌp/",
       "us": "/ˈɡoʊ ˈəp/"
-    }
+    },
+    "cefr_level": "A2"
   },
   {
     "id": 2,
@@ -149,7 +150,8 @@
     "ipa": {
       "uk": "/ɡˈəʊ ˈʌp/",
       "us": "/ˈɡoʊ ˈəp/"
-    }
+    },
+    "cefr_level": "A2"
   },
   {
     "id": 3,
@@ -233,7 +235,8 @@
     "ipa": {
       "uk": "/pˈɪk ˈʌp/",
       "us": "/ˈpɪk ˈəp/"
-    }
+    },
+    "cefr_level": "A2"
   },
   {
     "id": 4,
@@ -308,7 +311,8 @@
     "ipa": {
       "uk": "/pˈɪk ˈʌp/",
       "us": "/ˈpɪk ˈəp/"
-    }
+    },
+    "cefr_level": "A2"
   },
   {
     "id": 5,
@@ -388,7 +392,8 @@
     "ipa": {
       "uk": "/klˈaɪm ˈʌp/",
       "us": "/ˈkɫaɪm ˈəp/"
-    }
+    },
+    "cefr_level": "A2"
   },
   {
     "id": 6,
@@ -461,7 +466,8 @@
     "ipa": {
       "uk": "/klˈaɪm ˈʌp/",
       "us": "/ˈkɫaɪm ˈəp/"
-    }
+    },
+    "cefr_level": "A2"
   },
   {
     "id": 7,
@@ -544,7 +550,8 @@
     "ipa": {
       "uk": "/blˈəʊ ˈʌp/",
       "us": "/ˈbɫoʊ ˈəp/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 8,
@@ -607,7 +614,8 @@
     "ipa": {
       "uk": "/blˈəʊ ˈʌp/",
       "us": "/ˈbɫoʊ ˈəp/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 9,
@@ -690,7 +698,8 @@
     "ipa": {
       "uk": "/fˈɪl ˈʌp/",
       "us": "/ˈfɪɫ ˈəp/"
-    }
+    },
+    "cefr_level": "A2"
   },
   {
     "id": 10,
@@ -741,7 +750,8 @@
     "ipa": {
       "uk": "/fˈɪl ˈʌp/",
       "us": "/ˈfɪɫ ˈəp/"
-    }
+    },
+    "cefr_level": "A2"
   },
   {
     "id": 11,
@@ -817,7 +827,8 @@
     "ipa": {
       "uk": "/spˈiːk ˈʌp/",
       "us": "/ˈspik ˈəp/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 12,
@@ -871,7 +882,8 @@
     "ipa": {
       "uk": "/spˈiːk ˈʌp/",
       "us": "/ˈspik ˈəp/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 13,
@@ -950,7 +962,8 @@
     "ipa": {
       "uk": "/spˈiːd ˈʌp/",
       "us": "/ˈspid ˈəp/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 14,
@@ -1007,7 +1020,8 @@
     "ipa": {
       "uk": "/spˈiːd ˈʌp/",
       "us": "/ˈspid ˈəp/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 15,
@@ -1088,7 +1102,8 @@
     "ipa": {
       "uk": "/tˈɜːn ˈʌp/",
       "us": "/ˈtɝn ˈəp/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 16,
@@ -1171,7 +1186,8 @@
     "ipa": {
       "uk": "/tˈɜːn ˈʌp/",
       "us": "/ˈtɝn ˈəp/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 17,
@@ -1251,7 +1267,8 @@
     "ipa": {
       "uk": "/bɹˈeɪk ˈʌp/",
       "us": "/ˈbɹeɪk ˈəp/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 18,
@@ -1317,7 +1334,8 @@
     "ipa": {
       "uk": "/bɹˈeɪk ˈʌp/",
       "us": "/ˈbɹeɪk ˈəp/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 19,
@@ -1398,7 +1416,8 @@
     "ipa": {
       "uk": "/ˈɛnd ˈʌp/",
       "us": "/ˈɛnd ˈəp/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 20,
@@ -1466,7 +1485,8 @@
     "ipa": {
       "uk": "/ˈɛnd ˈʌp/",
       "us": "/ˈɛnd ˈəp/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 21,
@@ -1548,7 +1568,8 @@
     "ipa": {
       "uk": "/ɡˈɪv ˈʌp/",
       "us": "/ˈɡɪv ˈəp/"
-    }
+    },
+    "cefr_level": "A2"
   },
   {
     "id": 22,
@@ -1610,7 +1631,8 @@
     "ipa": {
       "uk": "/ɡˈɪv ˈʌp/",
       "us": "/ˈɡɪv ˈəp/"
-    }
+    },
+    "cefr_level": "A2"
   },
   {
     "id": 23,
@@ -1693,7 +1715,8 @@
     "ipa": {
       "uk": "/hˈæŋ ˈʌp/",
       "us": "/ˈhæŋ ˈəp/"
-    }
+    },
+    "cefr_level": "A2"
   },
   {
     "id": 24,
@@ -1762,7 +1785,8 @@
     "ipa": {
       "uk": "/hˈæŋ ˈʌp/",
       "us": "/ˈhæŋ ˈəp/"
-    }
+    },
+    "cefr_level": "A2"
   },
   {
     "id": 25,
@@ -1845,7 +1869,8 @@
     "formal_synonyms": [
       "consume",
       "exhaust"
-    ]
+    ],
+    "cefr_level": "B1"
   },
   {
     "id": 26,
@@ -1909,7 +1934,8 @@
     "formal_synonyms": [
       "consume",
       "exhaust"
-    ]
+    ],
+    "cefr_level": "B1"
   },
   {
     "id": 27,
@@ -1988,7 +2014,8 @@
     "ipa": {
       "uk": "/wˈeɪk ˈʌp/",
       "us": "/ˈweɪk ˈəp/"
-    }
+    },
+    "cefr_level": "A1"
   },
   {
     "id": 28,
@@ -2058,7 +2085,8 @@
     "ipa": {
       "uk": "/wˈeɪk ˈʌp/",
       "us": "/ˈweɪk ˈəp/"
-    }
+    },
+    "cefr_level": "A1"
   },
   {
     "id": 29,
@@ -2134,7 +2162,8 @@
     "ipa": {
       "uk": "/wˈeɪt ˈʌp/",
       "us": "/ˈweɪt ˈəp/"
-    }
+    },
+    "cefr_level": "B2"
   },
   {
     "id": 30,
@@ -2197,7 +2226,8 @@
     "ipa": {
       "uk": "/wˈeɪt ˈʌp/",
       "us": "/ˈweɪt ˈəp/"
-    }
+    },
+    "cefr_level": "B2"
   },
   {
     "id": 31,
@@ -2273,7 +2303,8 @@
     "ipa": {
       "uk": "/stˈeɪ ˈʌp/",
       "us": "/ˈsteɪ ˈəp/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 32,
@@ -2330,7 +2361,8 @@
     "ipa": {
       "uk": "/stˈeɪ ˈʌp/",
       "us": "/ˈsteɪ ˈəp/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 33,
@@ -2409,7 +2441,8 @@
     "ipa": {
       "uk": "/ɡˈɛt ˈʌp/",
       "us": "/ˈɡɛt ˈəp/"
-    }
+    },
+    "cefr_level": "A1"
   },
   {
     "id": 34,
@@ -2538,7 +2571,8 @@
     "ipa": {
       "uk": "/ɡˈɛt ˈʌp/",
       "us": "/ˈɡɛt ˈəp/"
-    }
+    },
+    "cefr_level": "A1"
   },
   {
     "id": 35,
@@ -2617,7 +2651,8 @@
     "ipa": {
       "uk": "/kˈætʃ ˈʌp/",
       "us": "/ˈkætʃ ˈəp/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 36,
@@ -2674,7 +2709,8 @@
     "ipa": {
       "uk": "/kˈætʃ ˈʌp/",
       "us": "/ˈkætʃ ˈəp/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 37,
@@ -2759,7 +2795,8 @@
     "ipa": {
       "uk": "/kˈʌm ˈʌp/",
       "us": "/ˈkəm ˈəp/"
-    }
+    },
+    "cefr_level": "A2"
   },
   {
     "id": 38,
@@ -2830,7 +2867,8 @@
     "ipa": {
       "uk": "/kˈʌm ˈʌp/",
       "us": "/ˈkəm ˈəp/"
-    }
+    },
+    "cefr_level": "A2"
   },
   {
     "id": 39,
@@ -2909,7 +2947,8 @@
     "ipa": {
       "uk": "/ɡˈəʊ ˈʌp/",
       "us": "/ˈɡoʊ ˈəp/"
-    }
+    },
+    "cefr_level": "A2"
   },
   {
     "id": 40,
@@ -2959,7 +2998,8 @@
     "track_type_label": "📖 Historia en Contexto",
     "formal_synonyms": [
       "approach"
-    ]
+    ],
+    "cefr_level": "A2"
   },
   {
     "id": 41,
@@ -3041,7 +3081,8 @@
     "ipa": {
       "uk": "/mˈeɪk ˈʌp/",
       "us": "/ˈmeɪk ˈəp/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 42,
@@ -3102,7 +3143,8 @@
     "ipa": {
       "uk": "/mˈeɪk ˈʌp/",
       "us": "/ˈmeɪk ˈəp/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 43,
@@ -3186,7 +3228,8 @@
     "ipa": {
       "uk": "/dɹˈɔː ˈʌp/",
       "us": "/ˈdɹɔ ˈəp/"
-    }
+    },
+    "cefr_level": "B2"
   },
   {
     "id": 44,
@@ -3246,7 +3289,8 @@
     "ipa": {
       "uk": "/dɹˈɔː ˈʌp/",
       "us": "/ˈdɹɔ ˈəp/"
-    }
+    },
+    "cefr_level": "B2"
   },
   {
     "id": 45,
@@ -3325,7 +3369,8 @@
     "formal_synonyms": [
       "devise",
       "propose"
-    ]
+    ],
+    "cefr_level": "B1"
   },
   {
     "id": 46,
@@ -3436,7 +3481,8 @@
     "formal_synonyms": [
       "devise",
       "propose"
-    ]
+    ],
+    "cefr_level": "B1"
   },
   {
     "id": 47,
@@ -3517,7 +3563,8 @@
     "ipa": {
       "uk": "/tˈeɪk ˈʌp/",
       "us": "/ˈteɪk ˈəp/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 48,
@@ -3582,7 +3629,8 @@
     "ipa": {
       "uk": "/tˈeɪk ˈʌp/",
       "us": "/ˈteɪk ˈəp/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 49,
@@ -3667,7 +3715,8 @@
     "ipa": {
       "uk": "/sˈɛt ˈʌp/",
       "us": "/ˈsɛt ˈəp/"
-    }
+    },
+    "cefr_level": "A2"
   },
   {
     "id": 50,
@@ -3750,7 +3799,8 @@
     "ipa": {
       "uk": "/sˈɛt ˈʌp/",
       "us": "/ˈsɛt ˈəp/"
-    }
+    },
+    "cefr_level": "A2"
   },
   {
     "id": 51,
@@ -3834,7 +3884,8 @@
     "ipa": {
       "uk": "/stˈɑːt ˈʌp/",
       "us": "/ˈstɑɹt ˈəp/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 52,
@@ -3894,7 +3945,8 @@
     "ipa": {
       "uk": "/stˈɑːt ˈʌp/",
       "us": "/ˈstɑɹt ˈəp/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 53,
@@ -3976,7 +4028,8 @@
     "ipa": {
       "uk": "/sˈaɪn ˈʌp/",
       "us": "/ˈsaɪn ˈəp/"
-    }
+    },
+    "cefr_level": "A2"
   },
   {
     "id": 54,
@@ -4034,7 +4087,8 @@
     "ipa": {
       "uk": "/sˈaɪn ˈʌp/",
       "us": "/ˈsaɪn ˈəp/"
-    }
+    },
+    "cefr_level": "A2"
   },
   {
     "id": 55,
@@ -4113,7 +4167,8 @@
     "ipa": {
       "uk": "/bˈæk ˈʌp/",
       "us": "/ˈbæk ˈəp/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 56,
@@ -4172,7 +4227,8 @@
     "ipa": {
       "uk": "/bˈæk ˈʌp/",
       "us": "/ˈbæk ˈəp/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 57,
@@ -4250,7 +4306,8 @@
     "ipa": {
       "uk": "/dɹˈɛs ˈʌp/",
       "us": "/ˈdɹɛs ˈəp/"
-    }
+    },
+    "cefr_level": "A2"
   },
   {
     "id": 58,
@@ -4299,7 +4356,8 @@
     "ipa": {
       "uk": "/dɹˈɛs ˈʌp/",
       "us": "/ˈdɹɛs ˈəp/"
-    }
+    },
+    "cefr_level": "A2"
   },
   {
     "id": 59,
@@ -4380,7 +4438,8 @@
     "ipa": {
       "uk": "/lˈʊk ˈʌp/",
       "us": "/ˈɫʊk ˈəp/"
-    }
+    },
+    "cefr_level": "A2"
   },
   {
     "id": 60,
@@ -4435,7 +4494,8 @@
     "ipa": {
       "uk": "/lˈʊk ˈʌp/",
       "us": "/ˈɫʊk ˈəp/"
-    }
+    },
+    "cefr_level": "A2"
   },
   {
     "id": 61,
@@ -4515,7 +4575,8 @@
     "ipa": {
       "uk": "/mˈeɪk ˈʌp/",
       "us": "/ˈmeɪk ˈəp/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 62,
@@ -4576,7 +4637,8 @@
     "ipa": {
       "uk": "/mˈeɪk ˈʌp/",
       "us": "/ˈmeɪk ˈəp/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 63,
@@ -4660,7 +4722,8 @@
     "ipa": {
       "uk": "/ɡˈəʊ dˈaʊn/",
       "us": "/ˈɡoʊ ˈdaʊn/"
-    }
+    },
+    "cefr_level": "A1"
   },
   {
     "id": 64,
@@ -4722,7 +4785,8 @@
     "ipa": {
       "uk": "/ɡˈəʊ dˈaʊn/",
       "us": "/ˈɡoʊ ˈdaʊn/"
-    }
+    },
+    "cefr_level": "A1"
   },
   {
     "id": 65,
@@ -4797,7 +4861,8 @@
     "track_type_label": "🎯 Práctica Guiada",
     "formal_synonyms": [
       "deposit"
-    ]
+    ],
+    "cefr_level": "A2"
   },
   {
     "id": 66,
@@ -4873,7 +4938,8 @@
     "story_title": "Story: In a hurry",
     "formal_synonyms": [
       "deposit"
-    ]
+    ],
+    "cefr_level": "A2"
   },
   {
     "id": 67,
@@ -4952,7 +5018,8 @@
     "ipa": {
       "uk": "/sˈɪt dˈaʊn/",
       "us": "/ˈsɪt ˈdaʊn/"
-    }
+    },
+    "cefr_level": "A1"
   },
   {
     "id": 68,
@@ -5027,7 +5094,8 @@
     "ipa": {
       "uk": "/sˈɪt dˈaʊn/",
       "us": "/ˈsɪt ˈdaʊn/"
-    }
+    },
+    "cefr_level": "A1"
   },
   {
     "id": 69,
@@ -5108,7 +5176,8 @@
     "ipa": {
       "uk": "/lˈaɪ dˈaʊn/",
       "us": "/ˈɫaɪ ˈdaʊn/"
-    }
+    },
+    "cefr_level": "A1"
   },
   {
     "id": 70,
@@ -5166,7 +5235,8 @@
     "ipa": {
       "uk": "/lˈaɪ dˈaʊn/",
       "us": "/ˈɫaɪ ˈdaʊn/"
-    }
+    },
+    "cefr_level": "A1"
   },
   {
     "id": 71,
@@ -5248,7 +5318,8 @@
     "ipa": {
       "uk": "/slˈəʊ dˈaʊn/",
       "us": "/ˈsɫoʊ ˈdaʊn/"
-    }
+    },
+    "cefr_level": "A2"
   },
   {
     "id": 72,
@@ -5305,7 +5376,8 @@
     "ipa": {
       "uk": "/slˈəʊ dˈaʊn/",
       "us": "/ˈsɫoʊ ˈdaʊn/"
-    }
+    },
+    "cefr_level": "A2"
   },
   {
     "id": 73,
@@ -5388,7 +5460,8 @@
     "ipa": {
       "uk": "/kˈɑːm dˈaʊn/",
       "us": "/ˈkɑɫm ˈdaʊn/"
-    }
+    },
+    "cefr_level": "A2"
   },
   {
     "id": 74,
@@ -5450,7 +5523,8 @@
     "ipa": {
       "uk": "/kˈɑːm dˈaʊn/",
       "us": "/ˈkɑɫm ˈdaʊn/"
-    }
+    },
+    "cefr_level": "A2"
   },
   {
     "id": 75,
@@ -5530,7 +5604,8 @@
     "ipa": {
       "uk": "/tˈɜːn dˈaʊn/",
       "us": "/ˈtɝn ˈdaʊn/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 76,
@@ -5591,7 +5666,8 @@
     "ipa": {
       "uk": "/tˈɜːn dˈaʊn/",
       "us": "/ˈtɝn ˈdaʊn/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 77,
@@ -5671,7 +5747,8 @@
     "ipa": {
       "uk": "/kˈɒpi dˈaʊn/",
       "us": "/ˈkɑpi ˈdaʊn/"
-    }
+    },
+    "cefr_level": "A2"
   },
   {
     "id": 78,
@@ -5727,7 +5804,8 @@
     "ipa": {
       "uk": "/kˈɒpi dˈaʊn/",
       "us": "/ˈkɑpi ˈdaʊn/"
-    }
+    },
+    "cefr_level": "A2"
   },
   {
     "id": 79,
@@ -5807,7 +5885,8 @@
     "ipa": {
       "uk": "/nˈəʊt dˈaʊn/",
       "us": "/ˈnoʊt ˈdaʊn/"
-    }
+    },
+    "cefr_level": "A2"
   },
   {
     "id": 80,
@@ -5862,7 +5941,8 @@
     "ipa": {
       "uk": "/nˈəʊt dˈaʊn/",
       "us": "/ˈnoʊt ˈdaʊn/"
-    }
+    },
+    "cefr_level": "A2"
   },
   {
     "id": 81,
@@ -5943,7 +6023,8 @@
     "ipa": {
       "uk": "/ɹˈaɪt dˈaʊn/",
       "us": "/ˈɹaɪt ˈdaʊn/"
-    }
+    },
+    "cefr_level": "A1"
   },
   {
     "id": 82,
@@ -6004,7 +6085,8 @@
     "ipa": {
       "uk": "/ɹˈaɪt dˈaʊn/",
       "us": "/ˈɹaɪt ˈdaʊn/"
-    }
+    },
+    "cefr_level": "A1"
   },
   {
     "id": 83,
@@ -6087,7 +6169,8 @@
     "ipa": {
       "uk": "/bɹˈeɪk dˈaʊn/",
       "us": "/ˈbɹeɪk ˈdaʊn/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 84,
@@ -6152,7 +6235,8 @@
     "ipa": {
       "uk": "/bɹˈeɪk dˈaʊn/",
       "us": "/ˈbɹeɪk ˈdaʊn/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 85,
@@ -6230,7 +6314,8 @@
     "ipa": {
       "uk": "/lˈɛt dˈaʊn/",
       "us": "/ˈɫɛt ˈdaʊn/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 86,
@@ -6279,7 +6364,8 @@
     "ipa": {
       "uk": "/lˈɛt dˈaʊn/",
       "us": "/ˈɫɛt ˈdaʊn/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 87,
@@ -6362,7 +6448,8 @@
     "ipa": {
       "uk": "/bɹˈeɪk dˈaʊn/",
       "us": "/ˈbɹeɪk ˈdaʊn/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 88,
@@ -6431,7 +6518,8 @@
     "ipa": {
       "uk": "/bɹˈeɪk dˈaʊn/",
       "us": "/ˈbɹeɪk ˈdaʊn/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 89,
@@ -6512,7 +6600,8 @@
     "ipa": {
       "uk": "/ʃˈʌt dˈaʊn/",
       "us": "/ˈʃət ˈdaʊn/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 90,
@@ -6580,7 +6669,8 @@
     "ipa": {
       "uk": "/ʃˈʌt dˈaʊn/",
       "us": "/ˈʃət ˈdaʊn/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 91,
@@ -6662,7 +6752,8 @@
     "ipa": {
       "uk": "/tˈɜːn dˈaʊn/",
       "us": "/ˈtɝn ˈdaʊn/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 92,
@@ -6723,7 +6814,8 @@
     "ipa": {
       "uk": "/tˈɜːn dˈaʊn/",
       "us": "/ˈtɝn ˈdaʊn/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 93,
@@ -6801,7 +6893,8 @@
     "ipa": {
       "uk": "/kˈʌm ˈɪn/",
       "us": "/ˈkəm ˈɪn/"
-    }
+    },
+    "cefr_level": "A1"
   },
   {
     "id": 94,
@@ -6860,7 +6953,8 @@
     "ipa": {
       "uk": "/kˈʌm ˈɪn/",
       "us": "/ˈkəm ˈɪn/"
-    }
+    },
+    "cefr_level": "A2"
   },
   {
     "id": 95,
@@ -6940,7 +7034,8 @@
     "ipa": {
       "uk": "/ɡˈɛt ˈɪn/",
       "us": "/ˈɡɛt ˈɪn/"
-    }
+    },
+    "cefr_level": "A2"
   },
   {
     "id": 96,
@@ -7018,7 +7113,8 @@
     "ipa": {
       "uk": "/ɡˈɛt ˈɪntʊ/",
       "us": "/ˈɡɛt ˈɪntu/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 97,
@@ -7097,7 +7193,8 @@
     "ipa": {
       "uk": "/ɹˈʌn ˈɪn/",
       "us": "/ˈɹən ˈɪn/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 98,
@@ -7145,7 +7242,8 @@
     "ipa": {
       "uk": "/ɹˈʌn ɐɹˈaʊnd/",
       "us": "/ˈɹən ɝˈaʊn/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 99,
@@ -7224,7 +7322,8 @@
     "ipa": {
       "uk": "/wˈɔːk ˈɪn/",
       "us": "/ˈwɑk ˈɪn/"
-    }
+    },
+    "cefr_level": "A2"
   },
   {
     "id": 100,
@@ -7291,7 +7390,8 @@
     "ipa": {
       "uk": "/wˈɔːk ˈɪn/",
       "us": "/ˈwɑk ˈɪn/"
-    }
+    },
+    "cefr_level": "A2"
   },
   {
     "id": 101,
@@ -7370,7 +7470,8 @@
     "ipa": {
       "uk": "/bɹˈeɪk ˈɪn/",
       "us": "/ˈbɹeɪk ˈɪn/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 102,
@@ -7422,7 +7523,8 @@
     "ipa": {
       "uk": "/bɹˈeɪk ˈɪn/",
       "us": "/ˈbɹeɪk ˈɪn/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 103,
@@ -7501,7 +7603,8 @@
     "ipa": {
       "uk": "/tˈeɪk ˈɪn/",
       "us": "/ˈteɪk ˈɪn/"
-    }
+    },
+    "cefr_level": "B2"
   },
   {
     "id": 104,
@@ -7562,7 +7665,8 @@
     "ipa": {
       "uk": "/tˈeɪk ˈɪn/",
       "us": "/ˈteɪk ˈɪn/"
-    }
+    },
+    "cefr_level": "B2"
   },
   {
     "id": 105,
@@ -7644,7 +7748,8 @@
     "ipa": {
       "uk": "/sˈɪŋk ˈɪn/",
       "us": "/ˈsɪŋk ˈɪn/"
-    }
+    },
+    "cefr_level": "B2"
   },
   {
     "id": 106,
@@ -7707,7 +7812,8 @@
     "ipa": {
       "uk": "/sˈɪŋk ˈɪn/",
       "us": "/ˈsɪŋk ˈɪn/"
-    }
+    },
+    "cefr_level": "B2"
   },
   {
     "id": 107,
@@ -7788,7 +7894,8 @@
     "ipa": {
       "uk": "/fˈɪl ˈɪn/",
       "us": "/ˈfɪɫ ˈɪn/"
-    }
+    },
+    "cefr_level": "A2"
   },
   {
     "id": 108,
@@ -7842,7 +7949,8 @@
     "track_type_label": "📖 Historia en Contexto",
     "formal_synonyms": [
       "substitute"
-    ]
+    ],
+    "cefr_level": "B1"
   },
   {
     "id": 109,
@@ -7921,7 +8029,8 @@
     "ipa": {
       "uk": "/stˈænd ˈɪn/",
       "us": "/ˈstænd ˈɪn/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 110,
@@ -7984,7 +8093,8 @@
     "track_type_label": "📖 Historia en Contexto",
     "formal_synonyms": [
       "substitute"
-    ]
+    ],
+    "cefr_level": "B1"
   },
   {
     "id": 111,
@@ -8068,7 +8178,8 @@
     "ipa": {
       "uk": "/hˈænd ˈɪn/",
       "us": "/ˈhænd ˈɪn/"
-    }
+    },
+    "cefr_level": "A2"
   },
   {
     "id": 112,
@@ -8117,7 +8228,8 @@
     "ipa": {
       "uk": "/hˈænd ˈɪn/",
       "us": "/ˈhænd ˈɪn/"
-    }
+    },
+    "cefr_level": "A2"
   },
   {
     "id": 113,
@@ -8197,7 +8309,8 @@
     "ipa": {
       "uk": "/sˈɛnd ˈɪn/",
       "us": "/ˈsɛnd ˈɪn/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 114,
@@ -8255,7 +8368,8 @@
     "ipa": {
       "uk": "/sˈɛnd ˈɪn/",
       "us": "/ˈsɛnd ˈɪn/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 115,
@@ -8335,7 +8449,8 @@
     "ipa": {
       "uk": "/pˈɒp ˈɪn/",
       "us": "/ˈpɑp ˈɪn/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 116,
@@ -8390,7 +8505,8 @@
     "ipa": {
       "uk": "/pˈɒp ˈɪn/",
       "us": "/ˈpɑp ˈɪn/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 117,
@@ -8469,7 +8585,8 @@
     "ipa": {
       "uk": "/dɹˈɒp ˈɪn/",
       "us": "/ˈdɹɑp ˈɪn/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 118,
@@ -8522,7 +8639,8 @@
     "track_type_label": "📖 Historia en Contexto",
     "formal_synonyms": [
       "visit"
-    ]
+    ],
+    "cefr_level": "B1"
   },
   {
     "id": 119,
@@ -8596,7 +8714,8 @@
     "track_type_label": "🎯 Práctica Guiada",
     "formal_synonyms": [
       "insert"
-    ]
+    ],
+    "cefr_level": "A2"
   },
   {
     "id": 120,
@@ -8659,7 +8778,8 @@
     "track_type_label": "📖 Historia en Contexto",
     "formal_synonyms": [
       "insert"
-    ]
+    ],
+    "cefr_level": "A2"
   },
   {
     "id": 121,
@@ -8740,7 +8860,8 @@
     "ipa": {
       "uk": "/pˈɒp ˈɪn/",
       "us": "/ˈpɑp ˈɪn/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 122,
@@ -8812,7 +8933,8 @@
     "ipa": {
       "uk": "/pˈɒp ˈɪn/",
       "us": "/ˈpɑp ˈɪn/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 123,
@@ -8897,7 +9019,8 @@
     "ipa": {
       "uk": "/stˈʌf ˈɪn/",
       "us": "/ˈstəf ˈɪn/"
-    }
+    },
+    "cefr_level": "B2"
   },
   {
     "id": 124,
@@ -8965,7 +9088,8 @@
     "ipa": {
       "uk": "/stˈʌf ˈɪn/",
       "us": "/ˈstəf ˈɪn/"
-    }
+    },
+    "cefr_level": "B2"
   },
   {
     "id": 125,
@@ -9051,7 +9175,8 @@
     "ipa": {
       "uk": "/plˈʌɡ ˈɪn/",
       "us": "/ˈpɫəɡ ˈɪn/"
-    }
+    },
+    "cefr_level": "A2"
   },
   {
     "id": 126,
@@ -9126,7 +9251,8 @@
     "ipa": {
       "uk": "/plˈʌɡ ˈɪn/",
       "us": "/ˈpɫəɡ ˈɪn/"
-    }
+    },
+    "cefr_level": "A2"
   },
   {
     "id": 127,
@@ -9202,7 +9328,8 @@
     "ipa": {
       "uk": "/pˈʊʃ ˈɪn/",
       "us": "/ˈpʊʃ ˈɪn/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 128,
@@ -9265,7 +9392,8 @@
     "ipa": {
       "uk": "/pˈʊʃ ˈɪn/",
       "us": "/ˈpʊʃ ˈɪn/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 129,
@@ -9345,7 +9473,8 @@
     "ipa": {
       "uk": "/bˈʌt ˈɪn/",
       "us": "/ˈbət ˈɪn/"
-    }
+    },
+    "cefr_level": "B2"
   },
   {
     "id": 130,
@@ -9405,7 +9534,8 @@
     "ipa": {
       "uk": "/bˈʌt ˈɪn/",
       "us": "/ˈbət ˈɪn/"
-    }
+    },
+    "cefr_level": "B2"
   },
   {
     "id": 131,
@@ -9486,7 +9616,8 @@
     "ipa": {
       "uk": "/bˈʌmp ˈɪntʊ/",
       "us": "/ˈbəmp ˈɪntu/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 132,
@@ -9548,7 +9679,8 @@
     "ipa": {
       "uk": "/bˈʌmp ˈɪntʊ/",
       "us": "/ˈbəmp ˈɪntu/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 133,
@@ -9644,7 +9776,8 @@
     "ipa": {
       "uk": "/tˈɜːn ˈɪntʊ/",
       "us": "/ˈtɝn ˈɪntu/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 134,
@@ -9699,7 +9832,8 @@
     "ipa": {
       "uk": "/tˈɜːn ˈɪntʊ/",
       "us": "/ˈtɝn ˈɪntu/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 135,
@@ -9780,7 +9914,8 @@
     "ipa": {
       "uk": "/lˈʊk ˈɪntʊ/",
       "us": "/ˈɫʊk ˈɪntu/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 136,
@@ -9844,7 +9979,8 @@
     "ipa": {
       "uk": "/lˈʊk ˈɪntʊ/",
       "us": "/ˈɫʊk ˈɪntu/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 137,
@@ -9924,7 +10060,8 @@
     "ipa": {
       "uk": "/mˈuːv ˈɪn/",
       "us": "/ˈmuv ˈɪn/"
-    }
+    },
+    "cefr_level": "A2"
   },
   {
     "id": 138,
@@ -9977,7 +10114,8 @@
       }
     ],
     "pair_id": 137,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "cefr_level": "A2"
   },
   {
     "id": 139,
@@ -10062,7 +10200,8 @@
     "ipa": {
       "uk": "/bɹˈɪŋ ˈɪn/",
       "us": "/ˈbɹɪŋ ˈɪn/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 140,
@@ -10119,7 +10258,8 @@
     "ipa": {
       "uk": "/bɹˈɪŋ ˈɪn/",
       "us": "/ˈbɹɪŋ ˈɪn/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 141,
@@ -10202,7 +10342,8 @@
       }
     ],
     "pair_id": 142,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "cefr_level": "A2"
   },
   {
     "id": 142,
@@ -10257,7 +10398,8 @@
     "ipa": {
       "uk": "/fˈɪl ˈɪn/",
       "us": "/ˈfɪɫ ˈɪn/"
-    }
+    },
+    "cefr_level": "A2"
   },
   {
     "id": 143,
@@ -10339,7 +10481,8 @@
     "ipa": {
       "uk": "/tʃˈɛk ˈɪn/",
       "us": "/ˈtʃɛk ˈɪn/"
-    }
+    },
+    "cefr_level": "A2"
   },
   {
     "id": 144,
@@ -10395,7 +10538,8 @@
     "ipa": {
       "uk": "/tʃˈɛk ˈɪn/",
       "us": "/ˈtʃɛk ˈɪn/"
-    }
+    },
+    "cefr_level": "A2"
   },
   {
     "id": 145,
@@ -10475,7 +10619,8 @@
     "ipa": {
       "uk": "/hˈænd ˈaʊt/",
       "us": "/ˈhænd ˈaʊt/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 146,
@@ -10532,7 +10677,8 @@
     "ipa": {
       "uk": "/hˈænd ˈaʊt/",
       "us": "/ˈhænd ˈaʊt/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 147,
@@ -10617,7 +10763,8 @@
     "ipa": {
       "uk": "/ɡˈɪv ˈaʊt/",
       "us": "/ˈɡɪv ˈaʊt/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 148,
@@ -10684,7 +10831,8 @@
     "ipa": {
       "uk": "/ɡˈɪv ˈaʊt/",
       "us": "/ˈɡɪv ˈaʊt/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 149,
@@ -10764,7 +10912,8 @@
     "ipa": {
       "uk": "/sˈɛnd ˈaʊt/",
       "us": "/ˈsɛnd ˈaʊt/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 150,
@@ -10823,7 +10972,8 @@
     "ipa": {
       "uk": "/sˈɛnd ˈaʊt/",
       "us": "/ˈsɛnd ˈaʊt/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 151,
@@ -10902,7 +11052,8 @@
       }
     ],
     "pair_id": 152,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "cefr_level": "A2"
   },
   {
     "id": 152,
@@ -10951,7 +11102,8 @@
     ],
     "pair_id": 151,
     "track_type_label": "📖 Historia en Contexto",
-    "story_title": "Story: Go out / Come out (leaving a place)"
+    "story_title": "Story: Go out / Come out (leaving a place)",
+    "cefr_level": "A2"
   },
   {
     "id": 153,
@@ -11031,7 +11183,8 @@
     "ipa": {
       "uk": "/ɡˈɛt ˈaʊt/",
       "us": "/ˈɡɛt ˈaʊt/"
-    }
+    },
+    "cefr_level": "A2"
   },
   {
     "id": 154,
@@ -11091,7 +11244,8 @@
     "ipa": {
       "uk": "/ɡˈɛt ˈaʊt/",
       "us": "/ˈɡɛt ˈaʊt/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 155,
@@ -11169,7 +11323,8 @@
       }
     ],
     "pair_id": 156,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "cefr_level": "B1"
   },
   {
     "id": 156,
@@ -11230,7 +11385,8 @@
     ],
     "pair_id": 155,
     "track_type_label": "📖 Historia en Contexto",
-    "story_title": "Story: A Thief at the Mall (run out of, knock out)"
+    "story_title": "Story: A Thief at the Mall (run out of, knock out)",
+    "cefr_level": "B1"
   },
   {
     "id": 157,
@@ -11310,7 +11466,8 @@
     "ipa": {
       "uk": "/wˈɔːk ˈaʊt/",
       "us": "/ˈwɑk ˈaʊt/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 158,
@@ -11381,7 +11538,8 @@
     "ipa": {
       "uk": "/wˈɔːk ˈaʊt/",
       "us": "/ˈwɑk ˈaʊt/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 159,
@@ -11466,7 +11624,8 @@
     "ipa": {
       "uk": "/ɡˈəʊ ˈaʊt/",
       "us": "/ˈɡoʊ ˈaʊt/"
-    }
+    },
+    "cefr_level": "A1"
   },
   {
     "id": 160,
@@ -11547,7 +11706,8 @@
     "ipa": {
       "uk": "/ɡˈəʊ ˈaʊt/",
       "us": "/ˈɡoʊ ˈaʊt/"
-    }
+    },
+    "cefr_level": "A1"
   },
   {
     "id": 161,
@@ -11624,7 +11784,8 @@
     "track_type_label": "🎯 Práctica Guiada",
     "formal_synonyms": [
       "extinguish"
-    ]
+    ],
+    "cefr_level": "A2"
   },
   {
     "id": 162,
@@ -11692,7 +11853,8 @@
     "track_type_label": "📖 Historia en Contexto",
     "formal_synonyms": [
       "extinguish"
-    ]
+    ],
+    "cefr_level": "A2"
   },
   {
     "id": 163,
@@ -11776,7 +11938,8 @@
     "ipa": {
       "uk": "/bɹˈɪŋ ˈaʊt/",
       "us": "/ˈbɹɪŋ ˈaʊt/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 164,
@@ -11840,7 +12003,8 @@
     "ipa": {
       "uk": "/bɹˈɪŋ ˈaʊt/",
       "us": "/ˈbɹɪŋ ˈaʊt/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 165,
@@ -11923,7 +12087,8 @@
     "ipa": {
       "uk": "/kˈʌm ˈaʊt/",
       "us": "/ˈkəm ˈaʊt/"
-    }
+    },
+    "cefr_level": "A2"
   },
   {
     "id": 166,
@@ -11986,7 +12151,8 @@
     "ipa": {
       "uk": "/kˈʌm ˈaʊt/",
       "us": "/ˈkəm ˈaʊt/"
-    }
+    },
+    "cefr_level": "A2"
   },
   {
     "id": 167,
@@ -12074,7 +12240,8 @@
     "ipa": {
       "uk": "/bˈæk ˈaʊt/",
       "us": "/ˈbæk ˈaʊt/"
-    }
+    },
+    "cefr_level": "B2"
   },
   {
     "id": 168,
@@ -12136,7 +12303,8 @@
     "ipa": {
       "uk": "/bˈæk ˈaʊt/",
       "us": "/ˈbæk ˈaʊt/"
-    }
+    },
+    "cefr_level": "B2"
   },
   {
     "id": 169,
@@ -12227,7 +12395,8 @@
     "ipa": {
       "uk": "/dɹˈɒp ˈaʊt/",
       "us": "/ˈdɹɑp ˈaʊt/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 170,
@@ -12293,7 +12462,8 @@
     "ipa": {
       "uk": "/dɹˈɒp ˈaʊt/",
       "us": "/ˈdɹɑp ˈaʊt/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 171,
@@ -12378,7 +12548,8 @@
     "ipa": {
       "uk": "/pˈʊl ˈaʊt/",
       "us": "/ˈpʊɫ ˈaʊt/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 172,
@@ -12436,7 +12607,8 @@
     "ipa": {
       "uk": "/pˈʊl ˈaʊt/",
       "us": "/ˈpʊɫ ˈaʊt/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 173,
@@ -12515,7 +12687,8 @@
     "ipa": {
       "uk": "/kˈaʊnt ˈaʊt/",
       "us": "/ˈkaʊnt ˈaʊt/"
-    }
+    },
+    "cefr_level": "B2"
   },
   {
     "id": 174,
@@ -12582,7 +12755,8 @@
       }
     ],
     "pair_id": 173,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "cefr_level": "B2"
   },
   {
     "id": 175,
@@ -12670,7 +12844,8 @@
     "ipa": {
       "uk": "/ɹˈuːl ˈaʊt/",
       "us": "/ˈɹuɫ ˈaʊt/"
-    }
+    },
+    "cefr_level": "B2"
   },
   {
     "id": 176,
@@ -12731,7 +12906,8 @@
     "ipa": {
       "uk": "/ɹˈuːl ˈaʊt/",
       "us": "/ˈɹuɫ ˈaʊt/"
-    }
+    },
+    "cefr_level": "B2"
   },
   {
     "id": 177,
@@ -12810,7 +12986,8 @@
     "ipa": {
       "uk": "/kˈɪk ˈaʊt/",
       "us": "/ˈkɪk ˈaʊt/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 178,
@@ -12876,7 +13053,8 @@
     "ipa": {
       "uk": "/kˈɪk ˈaʊt/",
       "us": "/ˈkɪk ˈaʊt/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 179,
@@ -12960,7 +13138,8 @@
     "ipa": {
       "uk": "/dɹˈaɪv ˈaʊt/",
       "us": "/ˈdɹaɪv ˈaʊt/"
-    }
+    },
+    "cefr_level": "B2"
   },
   {
     "id": 180,
@@ -13042,7 +13221,8 @@
     "ipa": {
       "uk": "/dɹˈaɪv ˈaʊt/",
       "us": "/ˈdɹaɪv ˈaʊt/"
-    }
+    },
+    "cefr_level": "B2"
   },
   {
     "id": 181,
@@ -13123,7 +13303,8 @@
     "ipa": {
       "uk": "/ˈaɪən ˈaʊt/",
       "us": "/ˈaɪɝn ˈaʊt/"
-    }
+    },
+    "cefr_level": "C1"
   },
   {
     "id": 182,
@@ -13186,7 +13367,8 @@
     "ipa": {
       "uk": "/ˈaɪən ˈaʊt/",
       "us": "/ˈaɪɝn ˈaʊt/"
-    }
+    },
+    "cefr_level": "C1"
   },
   {
     "id": 183,
@@ -13270,7 +13452,8 @@
     "ipa": {
       "uk": "/sˈɔːt ˈaʊt/",
       "us": "/ˈsɔɹt ˈaʊt/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 184,
@@ -13346,7 +13529,8 @@
     "ipa": {
       "uk": "/sˈɔːt ˈaʊt/",
       "us": "/ˈsɔɹt ˈaʊt/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 185,
@@ -13428,7 +13612,8 @@
     "ipa": {
       "uk": "/fˈɪɡɐ ˈaʊt/",
       "us": "/ˈfɪɡjɝ ˈaʊt/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 186,
@@ -13484,7 +13669,8 @@
     "ipa": {
       "uk": "/fˈɪɡɐ ˈaʊt/",
       "us": "/ˈfɪɡjɝ ˈaʊt/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 187,
@@ -13564,7 +13750,8 @@
     "ipa": {
       "uk": "/pˈʊl ˈaʊt/",
       "us": "/ˈpʊɫ ˈaʊt/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 188,
@@ -13656,7 +13843,8 @@
     "ipa": {
       "uk": "/pˈʊl ˈaʊt/",
       "us": "/ˈpʊɫ ˈaʊt/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 189,
@@ -13739,7 +13927,8 @@
     "ipa": {
       "uk": "/tˈeɪk ˈaʊt/",
       "us": "/ˈteɪk ˈaʊt/"
-    }
+    },
+    "cefr_level": "A2"
   },
   {
     "id": 190,
@@ -13810,7 +13999,8 @@
     "ipa": {
       "uk": "/tˈeɪk ˈaʊt/",
       "us": "/ˈteɪk ˈaʊt/"
-    }
+    },
+    "cefr_level": "A2"
   },
   {
     "id": 191,
@@ -13893,7 +14083,8 @@
     "ipa": {
       "uk": "/ɡˈɛt ˈaʊt/",
       "us": "/ˈɡɛt ˈaʊt/"
-    }
+    },
+    "cefr_level": "A2"
   },
   {
     "id": 192,
@@ -13961,7 +14152,8 @@
     "ipa": {
       "uk": "/ɡˈɛt ˈaʊt/",
       "us": "/ˈɡɛt ˈaʊt/"
-    }
+    },
+    "cefr_level": "A2"
   },
   {
     "id": 193,
@@ -14045,7 +14237,8 @@
     "ipa": {
       "uk": "/fˈaɪnd ˈaʊt/",
       "us": "/ˈfaɪnd ˈaʊt/"
-    }
+    },
+    "cefr_level": "A2"
   },
   {
     "id": 194,
@@ -14106,7 +14299,8 @@
     "ipa": {
       "uk": "/fˈaɪnd ˈaʊt/",
       "us": "/ˈfaɪnd ˈaʊt/"
-    }
+    },
+    "cefr_level": "A2"
   },
   {
     "id": 195,
@@ -14194,7 +14388,8 @@
     "ipa": {
       "uk": "/ɹˈʌn ˈaʊt/",
       "us": "/ˈɹən ˈaʊt/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 196,
@@ -14291,7 +14486,8 @@
     "track_type_label": "📖 Historia en Contexto",
     "formal_synonyms": [
       "exhaust"
-    ]
+    ],
+    "cefr_level": "B1"
   },
   {
     "id": 197,
@@ -14376,7 +14572,8 @@
     "ipa": {
       "uk": "/tˈɜːn ˈaʊt/",
       "us": "/ˈtɝn ˈaʊt/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 198,
@@ -14429,7 +14626,8 @@
     "ipa": {
       "uk": "/tˈɜːn ˈaʊt/",
       "us": "/ˈtɝn ˈaʊt/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 199,
@@ -14509,7 +14707,8 @@
     "ipa": {
       "uk": "/lˈiːv ˈaʊt/",
       "us": "/ˈɫiv ˈaʊt/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 200,
@@ -14571,7 +14770,8 @@
     "ipa": {
       "uk": "/lˈiːv ˈaʊt/",
       "us": "/ˈɫiv ˈaʊt/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 201,
@@ -14655,7 +14855,8 @@
     "track_type_label": "🎯 Práctica Guiada",
     "formal_synonyms": [
       "exhaust"
-    ]
+    ],
+    "cefr_level": "B2"
   },
   {
     "id": 202,
@@ -14715,7 +14916,8 @@
     "track_type_label": "📖 Historia en Contexto",
     "formal_synonyms": [
       "exhaust"
-    ]
+    ],
+    "cefr_level": "B2"
   },
   {
     "id": 203,
@@ -14801,7 +15003,8 @@
     "ipa": {
       "uk": "/fˈɔːl ˈaʊt/",
       "us": "/ˈfɑɫ ˈaʊt/"
-    }
+    },
+    "cefr_level": "B2"
   },
   {
     "id": 204,
@@ -14858,7 +15061,8 @@
     "ipa": {
       "uk": "/fˈɔːl ˈaʊt/",
       "us": "/ˈfɑɫ ˈaʊt/"
-    }
+    },
+    "cefr_level": "B2"
   },
   {
     "id": 205,
@@ -14943,7 +15147,8 @@
     "ipa": {
       "uk": "/tˈɜːn ˈɒn/",
       "us": "/ˈtɝn ˈɑn/"
-    }
+    },
+    "cefr_level": "A1"
   },
   {
     "id": 206,
@@ -15023,7 +15228,8 @@
     "ipa": {
       "uk": "/tˈɜːn ˈɒn/",
       "us": "/ˈtɝn ˈɑn/"
-    }
+    },
+    "cefr_level": "A1"
   },
   {
     "id": 207,
@@ -15101,7 +15307,8 @@
     "ipa": {
       "uk": "/lˈiːv ˈɒn/",
       "us": "/ˈɫiv ˈɑn/"
-    }
+    },
+    "cefr_level": "A2"
   },
   {
     "id": 208,
@@ -15176,7 +15383,8 @@
     "ipa": {
       "uk": "/lˈiːv ˈɒn/",
       "us": "/ˈɫiv ˈɑn/"
-    }
+    },
+    "cefr_level": "A2"
   },
   {
     "id": 209,
@@ -15256,7 +15464,8 @@
     "track_type_label": "🎯 Práctica Guiada",
     "formal_synonyms": [
       "activate"
-    ]
+    ],
+    "cefr_level": "A1"
   },
   {
     "id": 210,
@@ -15332,7 +15541,8 @@
     "story_title": "Story: Put on",
     "formal_synonyms": [
       "activate"
-    ]
+    ],
+    "cefr_level": "A1"
   },
   {
     "id": 211,
@@ -15413,7 +15623,8 @@
     "ipa": {
       "uk": "/ɡˈɛt ˈɒn/",
       "us": "/ˈɡɛt ˈɑn/"
-    }
+    },
+    "cefr_level": "A2"
   },
   {
     "id": 212,
@@ -15494,7 +15705,8 @@
     "ipa": {
       "uk": "/ɡˈɛt ˈɒn/",
       "us": "/ˈɡɛt ˈɑn/"
-    }
+    },
+    "cefr_level": "A2"
   },
   {
     "id": 213,
@@ -15576,7 +15788,8 @@
     "track_type_label": "🎯 Práctica Guiada",
     "formal_synonyms": [
       "board"
-    ]
+    ],
+    "cefr_level": "A2"
   },
   {
     "id": 214,
@@ -15656,7 +15869,8 @@
     "story_title": "Story: The Cat and the Dog",
     "formal_synonyms": [
       "board"
-    ]
+    ],
+    "cefr_level": "A2"
   },
   {
     "id": 215,
@@ -15736,7 +15950,8 @@
     "ipa": {
       "uk": "/klˈaɪm ˈɒn/",
       "us": "/ˈkɫaɪm ˈɑn/"
-    }
+    },
+    "cefr_level": "A2"
   },
   {
     "id": 216,
@@ -15823,7 +16038,8 @@
     "ipa": {
       "uk": "/klˈaɪm ˈɒn/",
       "us": "/ˈkɫaɪm ˈɑn/"
-    }
+    },
+    "cefr_level": "A2"
   },
   {
     "id": 217,
@@ -15903,7 +16119,8 @@
     "ipa": {
       "uk": "/hˈæŋ ˈɒn/",
       "us": "/ˈhæŋ ˈɑn/"
-    }
+    },
+    "cefr_level": "A2"
   },
   {
     "id": 218,
@@ -15999,7 +16216,8 @@
     "ipa": {
       "uk": "/hˈəʊld ˈɒn/",
       "us": "/ˈhoʊɫd ˈɑn/"
-    }
+    },
+    "cefr_level": "A2"
   },
   {
     "id": 219,
@@ -16080,7 +16298,8 @@
     "ipa": {
       "uk": "/stˈeɪ ˈɒn/",
       "us": "/ˈsteɪ ˈɑn/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 220,
@@ -16150,7 +16369,8 @@
     "ipa": {
       "uk": "/stˈeɪ ˈɒn/",
       "us": "/ˈsteɪ ˈɑn/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 221,
@@ -16232,7 +16452,8 @@
     "ipa": {
       "uk": "/ˈæd ˈɒn/",
       "us": "/ˈæd ˈɑn/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 222,
@@ -16309,7 +16530,8 @@
     "ipa": {
       "uk": "/ˈæd ˈɒn/",
       "us": "/ˈæd ˈɑn/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 223,
@@ -16389,7 +16611,8 @@
     "track_type_label": "🎯 Práctica Guiada",
     "formal_synonyms": [
       "activate"
-    ]
+    ],
+    "cefr_level": "A1"
   },
   {
     "id": 224,
@@ -16485,7 +16708,8 @@
     "story_title": "Story: The Shopping List",
     "formal_synonyms": [
       "activate"
-    ]
+    ],
+    "cefr_level": "A1"
   },
   {
     "id": 225,
@@ -16566,7 +16790,8 @@
     "ipa": {
       "uk": "/stˈɪk ˈɒn/",
       "us": "/ˈstɪk ˈɑn/"
-    }
+    },
+    "cefr_level": "A2"
   },
   {
     "id": 226,
@@ -16626,7 +16851,8 @@
     "ipa": {
       "uk": "/stˈɪk ˈɒn/",
       "us": "/ˈstɪk ˈɑn/"
-    }
+    },
+    "cefr_level": "A2"
   },
   {
     "id": 227,
@@ -16707,7 +16933,8 @@
     "ipa": {
       "uk": "/kˈæɹi ˈɒn/",
       "us": "/ˈkæɹi ˈɑn/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 228,
@@ -16767,7 +16994,8 @@
     "ipa": {
       "uk": "/kˈæɹi ˈɒn/",
       "us": "/ˈkæɹi ˈɑn/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 229,
@@ -16846,7 +17074,8 @@
     "ipa": {
       "uk": "/kˈiːp ˈɒn/",
       "us": "/ˈkip ˈɑn/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 230,
@@ -16907,7 +17136,8 @@
     "ipa": {
       "uk": "/kˈiːp ˈɒn/",
       "us": "/ˈkip ˈɑn/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 231,
@@ -16989,7 +17219,8 @@
     "ipa": {
       "uk": "/ɡˈəʊ ˈɒn/",
       "us": "/ˈɡoʊ ˈɑn/"
-    }
+    },
+    "cefr_level": "A2"
   },
   {
     "id": 232,
@@ -17065,7 +17296,8 @@
     "ipa": {
       "uk": "/ɡˈəʊ ˈɒn/",
       "us": "/ˈɡoʊ ˈɑn/"
-    }
+    },
+    "cefr_level": "A2"
   },
   {
     "id": 233,
@@ -17142,7 +17374,8 @@
     "track_type_label": "🎯 Práctica Guiada",
     "formal_synonyms": [
       "access"
-    ]
+    ],
+    "cefr_level": "A2"
   },
   {
     "id": 234,
@@ -17217,7 +17450,8 @@
     "ipa": {
       "uk": "/lˈɒɡ ˈɒn/",
       "us": "/ˈɫɔɡ ˈɑn/"
-    }
+    },
+    "cefr_level": "A2"
   },
   {
     "id": 235,
@@ -17298,7 +17532,8 @@
     "ipa": {
       "uk": "/klˈɒk ˈɒn/",
       "us": "/ˈkɫɑk ˈɑn/"
-    }
+    },
+    "cefr_level": "B2"
   },
   {
     "id": 236,
@@ -17363,7 +17598,8 @@
     "ipa": {
       "uk": "/klˈɒk ˈɒn/",
       "us": "/ˈkɫɑk ˈɑn/"
-    }
+    },
+    "cefr_level": "B2"
   },
   {
     "id": 237,
@@ -17438,7 +17674,8 @@
     "track_type_label": "🎯 Práctica Guiada",
     "formal_synonyms": [
       "activate"
-    ]
+    ],
+    "cefr_level": "A1"
   },
   {
     "id": 238,
@@ -17519,7 +17756,8 @@
     "track_type_label": "📖 Historia en Contexto",
     "formal_synonyms": [
       "activate"
-    ]
+    ],
+    "cefr_level": "A1"
   },
   {
     "id": 239,
@@ -17596,7 +17834,8 @@
     "ipa": {
       "uk": "/tɹˈaɪ ˈɒn/",
       "us": "/ˈtɹaɪ ˈɑn/"
-    }
+    },
+    "cefr_level": "A2"
   },
   {
     "id": 240,
@@ -17674,7 +17913,8 @@
     "ipa": {
       "uk": "/tɹˈaɪ ˈɒn/",
       "us": "/ˈtɹaɪ ˈɑn/"
-    }
+    },
+    "cefr_level": "A2"
   },
   {
     "id": 241,
@@ -17748,7 +17988,8 @@
       }
     ],
     "pair_id": 242,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "cefr_level": "B1"
   },
   {
     "id": 242,
@@ -17838,7 +18079,8 @@
       }
     ],
     "pair_id": 241,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "cefr_level": "B1"
   },
   {
     "id": 243,
@@ -17918,7 +18160,8 @@
     "ipa": {
       "uk": "/ɐɡɹˈiː ˈɒn/",
       "us": "/əˈɡɹi ˈɑn/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 244,
@@ -17984,7 +18227,8 @@
     "ipa": {
       "uk": "/ɐɡɹˈiː ˈɒn/",
       "us": "/əˈɡɹi ˈɑn/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 245,
@@ -18061,7 +18305,8 @@
     "ipa": {
       "uk": "/kˈætʃ ˈɒn/",
       "us": "/ˈkætʃ ˈɑn/"
-    }
+    },
+    "cefr_level": "B2"
   },
   {
     "id": 246,
@@ -18128,7 +18373,8 @@
     "ipa": {
       "uk": "/kˈætʃ ˈɒn/",
       "us": "/ˈkætʃ ˈɑn/"
-    }
+    },
+    "cefr_level": "B2"
   },
   {
     "id": 247,
@@ -18200,7 +18446,8 @@
       }
     ],
     "pair_id": 248,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "cefr_level": "B1"
   },
   {
     "id": 248,
@@ -18276,7 +18523,8 @@
     "ipa": {
       "uk": "/ɡˈɛt ˈɒn/",
       "us": "/ˈɡɛt ˈɑn/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 249,
@@ -18359,7 +18607,8 @@
     "ipa": {
       "uk": "/lˈɛt ˈɒn/",
       "us": "/ˈɫɛt ˈɑn/"
-    }
+    },
+    "cefr_level": "C1"
   },
   {
     "id": 250,
@@ -18435,7 +18684,8 @@
     "ipa": {
       "uk": "/lˈɛt ˈɒn/",
       "us": "/ˈɫɛt ˈɑn/"
-    }
+    },
+    "cefr_level": "C1"
   },
   {
     "id": 251,
@@ -18516,7 +18766,8 @@
     "ipa": {
       "uk": "/tˈeɪk ˈɒn/",
       "us": "/ˈteɪk ˈɑn/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 252,
@@ -18589,7 +18840,8 @@
     "ipa": {
       "uk": "/tˈeɪk ˈɒn/",
       "us": "/ˈteɪk ˈɑn/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 253,
@@ -18672,7 +18924,8 @@
     "ipa": {
       "uk": "/ɡˈəʊ ˈɒf/",
       "us": "/ˈɡoʊ ˈɔf/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 254,
@@ -18753,7 +19006,8 @@
     "ipa": {
       "uk": "/ɡˈəʊ ˈɒf/",
       "us": "/ˈɡoʊ ˈɔf/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 255,
@@ -18836,7 +19090,8 @@
     "ipa": {
       "uk": "/sˈɛt ˈɒf/",
       "us": "/ˈsɛt ˈɔf/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 256,
@@ -18923,7 +19178,8 @@
     "ipa": {
       "uk": "/sˈɛt ˈɒf/",
       "us": "/ˈsɛt ˈɔf/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 257,
@@ -19005,7 +19261,8 @@
     "ipa": {
       "uk": "/kˈʌm ˈɒf/",
       "us": "/ˈkəm ˈɔf/"
-    }
+    },
+    "cefr_level": "B2"
   },
   {
     "id": 258,
@@ -19080,7 +19337,8 @@
     "ipa": {
       "uk": "/kˈʌm ˈɒf/",
       "us": "/ˈkəm ˈɔf/"
-    }
+    },
+    "cefr_level": "B2"
   },
   {
     "id": 259,
@@ -19161,7 +19419,8 @@
     "ipa": {
       "uk": "/pˈeɪ ˈɒf/",
       "us": "/ˈpeɪ ˈɔf/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 260,
@@ -19229,7 +19488,8 @@
     "ipa": {
       "uk": "/pˈeɪ ˈɒf/",
       "us": "/ˈpeɪ ˈɔf/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 261,
@@ -19311,7 +19571,8 @@
     "ipa": {
       "uk": "/pˈʊl ˈɒf/",
       "us": "/ˈpʊɫ ˈɔf/"
-    }
+    },
+    "cefr_level": "B2"
   },
   {
     "id": 262,
@@ -19377,7 +19638,8 @@
     "ipa": {
       "uk": "/pˈʊl ˈɒf/",
       "us": "/ˈpʊɫ ˈɔf/"
-    }
+    },
+    "cefr_level": "B2"
   },
   {
     "id": 263,
@@ -19453,7 +19715,8 @@
     "track_type_label": "🎯 Práctica Guiada",
     "formal_synonyms": [
       "deactivate"
-    ]
+    ],
+    "cefr_level": "A1"
   },
   {
     "id": 264,
@@ -19570,7 +19833,8 @@
     "story_title": "Story: Turn off / Switch off",
     "formal_synonyms": [
       "deactivate"
-    ]
+    ],
+    "cefr_level": "A1"
   },
   {
     "id": 265,
@@ -19656,7 +19920,8 @@
     "ipa": {
       "uk": "/kˈʌt ˈɒf/",
       "us": "/ˈkət ˈɔf/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 266,
@@ -19727,7 +19992,8 @@
     "ipa": {
       "uk": "/kˈʌt ˈɒf/",
       "us": "/ˈkət ˈɔf/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 267,
@@ -19809,7 +20075,8 @@
     "ipa": {
       "uk": "/blˈɒk ˈɒf/",
       "us": "/ˈbɫɑk ˈɔf/"
-    }
+    },
+    "cefr_level": "B2"
   },
   {
     "id": 268,
@@ -19897,7 +20164,8 @@
     "ipa": {
       "uk": "/blˈɒk ˈɒf/",
       "us": "/ˈbɫɑk ˈɔf/"
-    }
+    },
+    "cefr_level": "B2"
   },
   {
     "id": 269,
@@ -19977,7 +20245,8 @@
     "track_type_label": "🎯 Práctica Guiada",
     "formal_synonyms": [
       "obstruct"
-    ]
+    ],
+    "cefr_level": "B2"
   },
   {
     "id": 270,
@@ -20038,7 +20307,8 @@
     "track_type_label": "📖 Historia en Contexto",
     "formal_synonyms": [
       "obstruct"
-    ]
+    ],
+    "cefr_level": "B2"
   },
   {
     "id": 271,
@@ -20119,7 +20389,8 @@
     "ipa": {
       "uk": "/kˈʌt ˈɒf/",
       "us": "/ˈkət ˈɔf/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 272,
@@ -20190,7 +20461,8 @@
     "ipa": {
       "uk": "/kˈʌt ˈɒf/",
       "us": "/ˈkət ˈɔf/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 273,
@@ -20272,7 +20544,8 @@
     "ipa": {
       "uk": "/kˈʌm ˈɒf/",
       "us": "/ˈkəm ˈɔf/"
-    }
+    },
+    "cefr_level": "B2"
   },
   {
     "id": 274,
@@ -20353,7 +20626,8 @@
     "ipa": {
       "uk": "/kˈʌm ˈɒf/",
       "us": "/ˈkəm ˈɔf/"
-    }
+    },
+    "cefr_level": "B2"
   },
   {
     "id": 275,
@@ -20429,7 +20703,8 @@
     "ipa": {
       "uk": "/fˈɔːl ˈɒf/",
       "us": "/ˈfɑɫ ˈɔf/"
-    }
+    },
+    "cefr_level": "A2"
   },
   {
     "id": 276,
@@ -20531,7 +20806,8 @@
     "ipa": {
       "uk": "/fˈɔːl ˈɒf/",
       "us": "/ˈfɑɫ ˈɔf/"
-    }
+    },
+    "cefr_level": "A2"
   },
   {
     "id": 277,
@@ -20611,7 +20887,8 @@
     "ipa": {
       "uk": "/tˈeɪk ˈɒf/",
       "us": "/ˈteɪk ˈɔf/"
-    }
+    },
+    "cefr_level": "A2"
   },
   {
     "id": 278,
@@ -20678,7 +20955,8 @@
     "ipa": {
       "uk": "/tˈeɪk ˈɒf/",
       "us": "/ˈteɪk ˈɔf/"
-    }
+    },
+    "cefr_level": "A2"
   },
   {
     "id": 279,
@@ -20758,7 +21036,8 @@
     "ipa": {
       "uk": "/ɹˈɪp ˈɒf/",
       "us": "/ˈɹɪp ˈɔf/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 280,
@@ -20820,7 +21099,8 @@
     "ipa": {
       "uk": "/ɹˈɪp ˈɒf/",
       "us": "/ˈɹɪp ˈɔf/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 281,
@@ -20899,7 +21179,8 @@
     "ipa": {
       "uk": "/pˈʊl ˈɒf/",
       "us": "/ˈpʊɫ ˈɔf/"
-    }
+    },
+    "cefr_level": "B2"
   },
   {
     "id": 282,
@@ -20991,7 +21272,8 @@
     "ipa": {
       "uk": "/pˈʊl ˈɒf/",
       "us": "/ˈpʊɫ ˈɔf/"
-    }
+    },
+    "cefr_level": "B2"
   },
   {
     "id": 283,
@@ -21075,7 +21357,8 @@
     "ipa": {
       "uk": "/tˈeɪk ˈɒf/",
       "us": "/ˈteɪk ˈɔf/"
-    }
+    },
+    "cefr_level": "A2"
   },
   {
     "id": 284,
@@ -21150,7 +21433,8 @@
     "ipa": {
       "uk": "/tˈeɪk ˈɒf/",
       "us": "/ˈteɪk ˈɔf/"
-    }
+    },
+    "cefr_level": "A2"
   },
   {
     "id": 285,
@@ -21230,7 +21514,8 @@
     "ipa": {
       "uk": "/ɹˈʌn ˈɒf/",
       "us": "/ˈɹən ˈɔf/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 286,
@@ -21307,7 +21592,8 @@
     "ipa": {
       "uk": "/ɹˈʌn ˈɒf/",
       "us": "/ˈɹən ˈɔf/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 287,
@@ -21388,7 +21674,8 @@
     "ipa": {
       "uk": "/sˈɛt ˈɒf/",
       "us": "/ˈsɛt ˈɔf/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 288,
@@ -21453,7 +21740,8 @@
     "ipa": {
       "uk": "/sˈɛt ˈɒf/",
       "us": "/ˈsɛt ˈɔf/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 289,
@@ -21534,7 +21822,8 @@
     "ipa": {
       "uk": "/dɹˈaɪv ˈɒf/",
       "us": "/ˈdɹaɪv ˈɔf/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 290,
@@ -21609,7 +21898,8 @@
     "ipa": {
       "uk": "/dɹˈaɪv ˈɒf/",
       "us": "/ˈdɹaɪv ˈɔf/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 291,
@@ -21694,7 +21984,8 @@
     "ipa": {
       "uk": "/kˈɔːl ˈɒf/",
       "us": "/ˈkɔɫ ˈɔf/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 292,
@@ -21766,7 +22057,8 @@
     "ipa": {
       "uk": "/kˈɔːl ˈɒf/",
       "us": "/ˈkɔɫ ˈɔf/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 293,
@@ -21844,7 +22136,8 @@
     "formal_synonyms": [
       "postpone",
       "delay"
-    ]
+    ],
+    "cefr_level": "B1"
   },
   {
     "id": 294,
@@ -21917,7 +22210,8 @@
     "formal_synonyms": [
       "postpone",
       "delay"
-    ]
+    ],
+    "cefr_level": "B1"
   },
   {
     "id": 295,
@@ -21996,7 +22290,8 @@
     "track_type_label": "🎯 Práctica Guiada",
     "formal_synonyms": [
       "dissipate"
-    ]
+    ],
+    "cefr_level": "B2"
   },
   {
     "id": 296,
@@ -22072,7 +22367,8 @@
     "track_type_label": "📖 Historia en Contexto",
     "formal_synonyms": [
       "dissipate"
-    ]
+    ],
+    "cefr_level": "B2"
   },
   {
     "id": 297,
@@ -22155,7 +22451,8 @@
     "ipa": {
       "uk": "/kˈuːl ˈɒf/",
       "us": "/ˈkuɫ ˈɔf/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 298,
@@ -22215,7 +22512,8 @@
     "ipa": {
       "uk": "/kˈuːl ˈɒf/",
       "us": "/ˈkuɫ ˈɔf/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 299,
@@ -22309,7 +22607,8 @@
     "ipa": {
       "uk": "/dɹˈɒp ˈɒf/",
       "us": "/ˈdɹɑp ˈɔf/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 300,
@@ -22392,7 +22691,8 @@
     "ipa": {
       "uk": "/dɹˈɒp ˈɒf/",
       "us": "/ˈdɹɑp ˈɔf/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 301,
@@ -22472,7 +22772,8 @@
     "ipa": {
       "uk": "/ɡˈəʊ ˈɒf/",
       "us": "/ˈɡoʊ ˈɔf/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 302,
@@ -22558,7 +22859,8 @@
     "ipa": {
       "uk": "/ɡˈəʊ ˈɒf/",
       "us": "/ˈɡoʊ ˈɔf/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 303,
@@ -22638,7 +22940,8 @@
     "ipa": {
       "uk": "/dɹˈɒp ˈɒf/",
       "us": "/ˈdɹɑp ˈɔf/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 304,
@@ -22704,7 +23007,8 @@
     "ipa": {
       "uk": "/dɹˈɒp ˈɒf/",
       "us": "/ˈdɹɑp ˈɔf/"
-    }
+    },
+    "cefr_level": "B1"
   },
   {
     "id": 305,
@@ -22790,7 +23094,8 @@
     "ipa": {
       "uk": "/ɡˈɪv ˈɒf/",
       "us": "/ˈɡɪv ˈɔf/"
-    }
+    },
+    "cefr_level": "B2"
   },
   {
     "id": 306,
@@ -22852,6 +23157,7 @@
     "ipa": {
       "uk": "/ɡˈɪv ˈɒf/",
       "us": "/ˈɡɪv ˈɔf/"
-    }
+    },
+    "cefr_level": "B2"
   }
 ]
