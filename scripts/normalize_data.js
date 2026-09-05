@@ -102,6 +102,9 @@ function generateKnowledgeText(items, outPath) {
     if (item.story_title) lines.push(`- Título: ${item.story_title}`);
     if (item.base_verb) lines.push(`- Verbo base: ${item.base_verb} | Partícula: ${item.particle || ''}`);
     lines.push(`- Significado: ${item.meaning_es || ''}`);
+    if (item.formal_synonyms && item.formal_synonyms.length) {
+      lines.push(`- Equivalentes formales latinos: ${item.formal_synonyms.join(', ')}`);
+    }
     lines.push(`- Situación de uso: ${item.situation || 'General'}`);
     if (item.tags_es && item.tags_es.length) {
       lines.push(`- Conceptos clave (ES): ${item.tags_es.join(', ')}`);

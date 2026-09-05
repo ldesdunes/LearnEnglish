@@ -71,7 +71,10 @@
     ],
     "type": "drill",
     "pair_id": 2,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "ascend"
+    ]
   },
   {
     "id": 2,
@@ -135,7 +138,10 @@
     ],
     "type": "story",
     "pair_id": 1,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "formal_synonyms": [
+      "ascend"
+    ]
   },
   {
     "id": 3,
@@ -212,7 +218,10 @@
     ],
     "type": "drill",
     "pair_id": 4,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "collect"
+    ]
   },
   {
     "id": 4,
@@ -280,7 +289,10 @@
     ],
     "type": "story",
     "pair_id": 3,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "formal_synonyms": [
+      "collect"
+    ]
   },
   {
     "id": 5,
@@ -353,7 +365,10 @@
     ],
     "type": "drill",
     "pair_id": 6,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "ascend"
+    ]
   },
   {
     "id": 6,
@@ -419,7 +434,10 @@
       }
     ],
     "pair_id": 5,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "formal_synonyms": [
+      "ascend"
+    ]
   },
   {
     "id": 7,
@@ -494,7 +512,11 @@
     ],
     "type": "drill",
     "pair_id": 8,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "inflate",
+      "enlarge"
+    ]
   },
   {
     "id": 8,
@@ -549,7 +571,11 @@
       }
     ],
     "pair_id": 7,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "formal_synonyms": [
+      "inflate",
+      "enlarge"
+    ]
   },
   {
     "id": 9,
@@ -625,7 +651,10 @@
     ],
     "type": "drill",
     "pair_id": 10,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "replenish"
+    ]
   },
   {
     "id": 10,
@@ -669,7 +698,10 @@
     ],
     "type": "story",
     "pair_id": 9,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "formal_synonyms": [
+      "replenish"
+    ]
   },
   {
     "id": 11,
@@ -863,7 +895,10 @@
     ],
     "type": "drill",
     "pair_id": 14,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "accelerate"
+    ]
   },
   {
     "id": 14,
@@ -913,7 +948,10 @@
     ],
     "pair_id": 13,
     "track_type_label": "📖 Historia en Contexto",
-    "story_title": "Story: Speed Up"
+    "story_title": "Story: Speed Up",
+    "formal_synonyms": [
+      "accelerate"
+    ]
   },
   {
     "id": 15,
@@ -987,7 +1025,10 @@
     ],
     "type": "drill",
     "pair_id": 16,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "increase"
+    ]
   },
   {
     "id": 16,
@@ -1063,7 +1104,10 @@
     ],
     "type": "story",
     "pair_id": 15,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "formal_synonyms": [
+      "increase"
+    ]
   },
   {
     "id": 17,
@@ -1136,7 +1180,10 @@
     ],
     "type": "drill",
     "pair_id": 18,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "separate"
+    ]
   },
   {
     "id": 18,
@@ -1195,7 +1242,10 @@
       }
     ],
     "pair_id": 17,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "formal_synonyms": [
+      "separate"
+    ]
   },
   {
     "id": 19,
@@ -1269,7 +1319,10 @@
     ],
     "type": "drill",
     "pair_id": 20,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "conclude"
+    ]
   },
   {
     "id": 20,
@@ -1330,7 +1383,10 @@
     ],
     "pair_id": 19,
     "track_type_label": "📖 Historia en Contexto",
-    "story_title": "Story: Hitchhiking and Ending Up"
+    "story_title": "Story: Hitchhiking and Ending Up",
+    "formal_synonyms": [
+      "conclude"
+    ]
   },
   {
     "id": 21,
@@ -1404,7 +1460,11 @@
     ],
     "type": "drill",
     "pair_id": 22,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "abandon",
+      "surrender"
+    ]
   },
   {
     "id": 22,
@@ -1458,7 +1518,11 @@
       }
     ],
     "pair_id": 21,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "formal_synonyms": [
+      "abandon",
+      "surrender"
+    ]
   },
   {
     "id": 23,
@@ -1534,7 +1598,10 @@
     ],
     "type": "drill",
     "pair_id": 24,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "terminate"
+    ]
   },
   {
     "id": 24,
@@ -1596,7 +1663,10 @@
       }
     ],
     "pair_id": 23,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "formal_synonyms": [
+      "terminate"
+    ]
   },
   {
     "id": 25,
@@ -1675,7 +1745,11 @@
     ],
     "type": "drill",
     "pair_id": 26,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "consume",
+      "exhaust"
+    ]
   },
   {
     "id": 26,
@@ -1735,7 +1809,11 @@
       }
     ],
     "pair_id": 25,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "formal_synonyms": [
+      "consume",
+      "exhaust"
+    ]
   },
   {
     "id": 27,
@@ -1807,7 +1885,10 @@
     ],
     "type": "drill",
     "pair_id": 28,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "awaken"
+    ]
   },
   {
     "id": 28,
@@ -1870,7 +1951,10 @@
       }
     ],
     "pair_id": 27,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "formal_synonyms": [
+      "awaken"
+    ]
   },
   {
     "id": 29,
@@ -2198,7 +2282,10 @@
     ],
     "type": "drill",
     "pair_id": 34,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "rise"
+    ]
   },
   {
     "id": 34,
@@ -2320,7 +2407,10 @@
     ],
     "type": "story",
     "pair_id": 33,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "formal_synonyms": [
+      "rise"
+    ]
   },
   {
     "id": 35,
@@ -2392,7 +2482,10 @@
     ],
     "type": "drill",
     "pair_id": 36,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "reach"
+    ]
   },
   {
     "id": 36,
@@ -2442,7 +2535,10 @@
       }
     ],
     "pair_id": 35,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "formal_synonyms": [
+      "reach"
+    ]
   },
   {
     "id": 37,
@@ -2520,7 +2616,10 @@
     ],
     "type": "drill",
     "pair_id": 38,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "arise"
+    ]
   },
   {
     "id": 38,
@@ -2584,7 +2683,10 @@
     ],
     "pair_id": 37,
     "track_type_label": "📖 Historia en Contexto",
-    "story_title": "Story: The short arm of the law"
+    "story_title": "Story: The short arm of the law",
+    "formal_synonyms": [
+      "arise"
+    ]
   },
   {
     "id": 39,
@@ -2656,7 +2758,10 @@
     ],
     "type": "drill",
     "pair_id": 40,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "ascend"
+    ]
   },
   {
     "id": 40,
@@ -2703,7 +2808,10 @@
       }
     ],
     "pair_id": 39,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "formal_synonyms": [
+      "approach"
+    ]
   },
   {
     "id": 41,
@@ -2777,7 +2885,11 @@
     ],
     "type": "drill",
     "pair_id": 42,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "invent",
+      "fabricate"
+    ]
   },
   {
     "id": 42,
@@ -2830,7 +2942,11 @@
     ],
     "pair_id": 41,
     "track_type_label": "📖 Historia en Contexto",
-    "story_title": "Story: Peter's Stage Fright (make up, sign up)"
+    "story_title": "Story: Peter's Stage Fright (make up, sign up)",
+    "formal_synonyms": [
+      "invent",
+      "fabricate"
+    ]
   },
   {
     "id": 43,
@@ -2906,7 +3022,11 @@
     ],
     "type": "drill",
     "pair_id": 44,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "draft",
+      "prepare"
+    ]
   },
   {
     "id": 44,
@@ -2958,7 +3078,11 @@
     ],
     "type": "story",
     "pair_id": 43,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "formal_synonyms": [
+      "draft",
+      "prepare"
+    ]
   },
   {
     "id": 45,
@@ -3033,7 +3157,11 @@
     ],
     "type": "drill",
     "pair_id": 46,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "devise",
+      "propose"
+    ]
   },
   {
     "id": 46,
@@ -3140,7 +3268,11 @@
     ],
     "type": "story",
     "pair_id": 45,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "formal_synonyms": [
+      "devise",
+      "propose"
+    ]
   },
   {
     "id": 47,
@@ -3214,7 +3346,10 @@
     ],
     "type": "drill",
     "pair_id": 48,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "commence"
+    ]
   },
   {
     "id": 48,
@@ -3272,7 +3407,10 @@
       }
     ],
     "pair_id": 47,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "formal_synonyms": [
+      "commence"
+    ]
   },
   {
     "id": 49,
@@ -3349,7 +3487,11 @@
     ],
     "type": "drill",
     "pair_id": 50,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "establish",
+      "install"
+    ]
   },
   {
     "id": 50,
@@ -3424,7 +3566,11 @@
     ],
     "type": "story",
     "pair_id": 49,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "formal_synonyms": [
+      "establish",
+      "install"
+    ]
   },
   {
     "id": 51,
@@ -3501,7 +3647,10 @@
     ],
     "type": "drill",
     "pair_id": 52,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "initiate"
+    ]
   },
   {
     "id": 52,
@@ -3554,7 +3703,10 @@
       }
     ],
     "pair_id": 51,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "formal_synonyms": [
+      "initiate"
+    ]
   },
   {
     "id": 53,
@@ -3628,7 +3780,11 @@
     ],
     "type": "drill",
     "pair_id": 54,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "enroll",
+      "register"
+    ]
   },
   {
     "id": 54,
@@ -3678,7 +3834,11 @@
     ],
     "pair_id": 53,
     "track_type_label": "📖 Historia en Contexto",
-    "story_title": "Story: Signing Up"
+    "story_title": "Story: Signing Up",
+    "formal_synonyms": [
+      "enroll",
+      "register"
+    ]
   },
   {
     "id": 55,
@@ -3750,7 +3910,10 @@
     ],
     "type": "drill",
     "pair_id": 56,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "support"
+    ]
   },
   {
     "id": 56,
@@ -3802,7 +3965,10 @@
       }
     ],
     "pair_id": 55,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "formal_synonyms": [
+      "support"
+    ]
   },
   {
     "id": 57,
@@ -3995,7 +4161,10 @@
     ],
     "type": "drill",
     "pair_id": 60,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "consult"
+    ]
   },
   {
     "id": 60,
@@ -4043,7 +4212,10 @@
       }
     ],
     "pair_id": 59,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "formal_synonyms": [
+      "consult"
+    ]
   },
   {
     "id": 61,
@@ -4115,7 +4287,11 @@
     ],
     "type": "drill",
     "pair_id": 62,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "invent",
+      "fabricate"
+    ]
   },
   {
     "id": 62,
@@ -4168,7 +4344,11 @@
       }
     ],
     "pair_id": 61,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "formal_synonyms": [
+      "invent",
+      "fabricate"
+    ]
   },
   {
     "id": 63,
@@ -4245,7 +4425,10 @@
     ],
     "type": "drill",
     "pair_id": 64,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "descend"
+    ]
   },
   {
     "id": 64,
@@ -4300,7 +4483,10 @@
       }
     ],
     "pair_id": 63,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "formal_synonyms": [
+      "descend"
+    ]
   },
   {
     "id": 65,
@@ -4372,7 +4558,10 @@
     ],
     "type": "drill",
     "pair_id": 66,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "deposit"
+    ]
   },
   {
     "id": 66,
@@ -4445,7 +4634,10 @@
     ],
     "pair_id": 65,
     "track_type_label": "📖 Historia en Contexto",
-    "story_title": "Story: In a hurry"
+    "story_title": "Story: In a hurry",
+    "formal_synonyms": [
+      "deposit"
+    ]
   },
   {
     "id": 67,
@@ -4797,7 +4989,10 @@
     ],
     "type": "drill",
     "pair_id": 72,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "decelerate"
+    ]
   },
   {
     "id": 72,
@@ -4847,7 +5042,10 @@
       }
     ],
     "pair_id": 71,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "formal_synonyms": [
+      "decelerate"
+    ]
   },
   {
     "id": 73,
@@ -4923,7 +5121,10 @@
     ],
     "type": "drill",
     "pair_id": 74,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "relax"
+    ]
   },
   {
     "id": 74,
@@ -4978,7 +5179,10 @@
       }
     ],
     "pair_id": 73,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "formal_synonyms": [
+      "relax"
+    ]
   },
   {
     "id": 75,
@@ -5050,7 +5254,11 @@
     ],
     "type": "drill",
     "pair_id": 76,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "decrease",
+      "reject"
+    ]
   },
   {
     "id": 76,
@@ -5103,7 +5311,11 @@
       }
     ],
     "pair_id": 75,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "formal_synonyms": [
+      "decrease",
+      "reject"
+    ]
   },
   {
     "id": 77,
@@ -5176,7 +5388,10 @@
     ],
     "type": "drill",
     "pair_id": 78,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "transcribe"
+    ]
   },
   {
     "id": 78,
@@ -5225,7 +5440,10 @@
       }
     ],
     "pair_id": 77,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "formal_synonyms": [
+      "transcribe"
+    ]
   },
   {
     "id": 79,
@@ -5298,7 +5516,10 @@
     ],
     "type": "drill",
     "pair_id": 80,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "record"
+    ]
   },
   {
     "id": 80,
@@ -5346,7 +5567,10 @@
     ],
     "type": "story",
     "pair_id": 79,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "formal_synonyms": [
+      "record"
+    ]
   },
   {
     "id": 81,
@@ -5420,7 +5644,10 @@
     ],
     "type": "drill",
     "pair_id": 82,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "record"
+    ]
   },
   {
     "id": 82,
@@ -5474,7 +5701,10 @@
     ],
     "pair_id": 81,
     "track_type_label": "📖 Historia en Contexto",
-    "story_title": "Story: Peter and his Post-it notes"
+    "story_title": "Story: Peter and his Post-it notes",
+    "formal_synonyms": [
+      "record"
+    ]
   },
   {
     "id": 83,
@@ -5549,7 +5779,11 @@
     ],
     "type": "drill",
     "pair_id": 84,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "malfunction",
+      "collapse"
+    ]
   },
   {
     "id": 84,
@@ -5606,7 +5840,11 @@
     ],
     "type": "story",
     "pair_id": 83,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "formal_synonyms": [
+      "malfunction",
+      "collapse"
+    ]
   },
   {
     "id": 85,
@@ -5677,7 +5915,10 @@
     ],
     "type": "drill",
     "pair_id": 86,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "disappoint"
+    ]
   },
   {
     "id": 86,
@@ -5719,7 +5960,10 @@
       }
     ],
     "pair_id": 85,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "formal_synonyms": [
+      "disappoint"
+    ]
   },
   {
     "id": 87,
@@ -5794,7 +6038,11 @@
     ],
     "type": "drill",
     "pair_id": 88,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "malfunction",
+      "collapse"
+    ]
   },
   {
     "id": 88,
@@ -5855,7 +6103,11 @@
       }
     ],
     "pair_id": 87,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "formal_synonyms": [
+      "malfunction",
+      "collapse"
+    ]
   },
   {
     "id": 89,
@@ -5929,7 +6181,10 @@
     ],
     "type": "drill",
     "pair_id": 90,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "terminate"
+    ]
   },
   {
     "id": 90,
@@ -5990,7 +6245,10 @@
     ],
     "type": "story",
     "pair_id": 89,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "formal_synonyms": [
+      "terminate"
+    ]
   },
   {
     "id": 91,
@@ -6064,7 +6322,11 @@
     ],
     "type": "drill",
     "pair_id": 92,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "decrease",
+      "reject"
+    ]
   },
   {
     "id": 92,
@@ -6117,7 +6379,11 @@
       }
     ],
     "pair_id": 91,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "formal_synonyms": [
+      "decrease",
+      "reject"
+    ]
   },
   {
     "id": 93,
@@ -6188,7 +6454,10 @@
     ],
     "type": "drill",
     "pair_id": 94,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "enter"
+    ]
   },
   {
     "id": 94,
@@ -6316,7 +6585,10 @@
     ],
     "type": "drill",
     "pair_id": 96,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "enter"
+    ]
   },
   {
     "id": 96,
@@ -6387,7 +6659,10 @@
     ],
     "type": "story",
     "pair_id": 95,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "formal_synonyms": [
+      "enter"
+    ]
   },
   {
     "id": 97,
@@ -6459,7 +6734,10 @@
     ],
     "type": "drill",
     "pair_id": 98,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "enter"
+    ]
   },
   {
     "id": 98,
@@ -6575,7 +6853,10 @@
     ],
     "type": "drill",
     "pair_id": 100,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "enter"
+    ]
   },
   {
     "id": 100,
@@ -6635,7 +6916,10 @@
     ],
     "pair_id": 99,
     "track_type_label": "📖 Historia en Contexto",
-    "story_title": "Story: A man walks into a bar"
+    "story_title": "Story: A man walks into a bar",
+    "formal_synonyms": [
+      "enter"
+    ]
   },
   {
     "id": 101,
@@ -6707,7 +6991,10 @@
     ],
     "type": "drill",
     "pair_id": 102,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "intrude"
+    ]
   },
   {
     "id": 102,
@@ -6752,7 +7039,10 @@
     ],
     "type": "story",
     "pair_id": 101,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "formal_synonyms": [
+      "intrude"
+    ]
   },
   {
     "id": 103,
@@ -6824,7 +7114,10 @@
     ],
     "type": "drill",
     "pair_id": 104,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "comprehend"
+    ]
   },
   {
     "id": 104,
@@ -6878,7 +7171,10 @@
     ],
     "type": "story",
     "pair_id": 103,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "formal_synonyms": [
+      "comprehend"
+    ]
   },
   {
     "id": 105,
@@ -6953,7 +7249,10 @@
     ],
     "type": "drill",
     "pair_id": 106,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "assimilate"
+    ]
   },
   {
     "id": 106,
@@ -7009,7 +7308,10 @@
       }
     ],
     "pair_id": 105,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "formal_synonyms": [
+      "assimilate"
+    ]
   },
   {
     "id": 107,
@@ -7083,7 +7385,10 @@
     ],
     "type": "drill",
     "pair_id": 108,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "substitute"
+    ]
   },
   {
     "id": 108,
@@ -7134,7 +7439,10 @@
       }
     ],
     "pair_id": 107,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "formal_synonyms": [
+      "substitute"
+    ]
   },
   {
     "id": 109,
@@ -7206,7 +7514,10 @@
     ],
     "type": "drill",
     "pair_id": 110,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "substitute"
+    ]
   },
   {
     "id": 110,
@@ -7266,7 +7577,10 @@
       }
     ],
     "pair_id": 109,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "formal_synonyms": [
+      "substitute"
+    ]
   },
   {
     "id": 111,
@@ -7343,7 +7657,10 @@
     ],
     "type": "drill",
     "pair_id": 112,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "submit"
+    ]
   },
   {
     "id": 112,
@@ -7461,7 +7778,10 @@
       }
     ],
     "pair_id": 114,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "submit"
+    ]
   },
   {
     "id": 114,
@@ -7512,7 +7832,10 @@
     ],
     "pair_id": 113,
     "track_type_label": "📖 Historia en Contexto",
-    "story_title": "Story: Hiring and Job Applications (send in, set up, deal with, narrow down)"
+    "story_title": "Story: Hiring and Job Applications (send in, set up, deal with, narrow down)",
+    "formal_synonyms": [
+      "submit"
+    ]
   },
   {
     "id": 115,
@@ -7585,7 +7908,10 @@
       }
     ],
     "pair_id": 116,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "visit"
+    ]
   },
   {
     "id": 116,
@@ -7633,7 +7959,10 @@
       }
     ],
     "pair_id": 115,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "formal_synonyms": [
+      "visit"
+    ]
   },
   {
     "id": 117,
@@ -7705,7 +8034,10 @@
       }
     ],
     "pair_id": 118,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "visit"
+    ]
   },
   {
     "id": 118,
@@ -7755,7 +8087,10 @@
       }
     ],
     "pair_id": 117,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "formal_synonyms": [
+      "visit"
+    ]
   },
   {
     "id": 119,
@@ -7826,7 +8161,10 @@
       }
     ],
     "pair_id": 120,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "insert"
+    ]
   },
   {
     "id": 120,
@@ -7886,7 +8224,10 @@
       }
     ],
     "pair_id": 119,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "formal_synonyms": [
+      "insert"
+    ]
   },
   {
     "id": 121,
@@ -7960,7 +8301,10 @@
       }
     ],
     "pair_id": 122,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "visit"
+    ]
   },
   {
     "id": 122,
@@ -8025,7 +8369,10 @@
       }
     ],
     "pair_id": 121,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "formal_synonyms": [
+      "visit"
+    ]
   },
   {
     "id": 123,
@@ -8103,7 +8450,10 @@
       }
     ],
     "pair_id": 124,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "insert"
+    ]
   },
   {
     "id": 124,
@@ -8164,7 +8514,10 @@
       }
     ],
     "pair_id": 123,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "formal_synonyms": [
+      "insert"
+    ]
   },
   {
     "id": 125,
@@ -8243,7 +8596,10 @@
       }
     ],
     "pair_id": 126,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "connect"
+    ]
   },
   {
     "id": 126,
@@ -8311,7 +8667,10 @@
       }
     ],
     "pair_id": 125,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "formal_synonyms": [
+      "connect"
+    ]
   },
   {
     "id": 127,
@@ -8515,7 +8874,10 @@
       }
     ],
     "pair_id": 130,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "interrupt"
+    ]
   },
   {
     "id": 130,
@@ -8568,7 +8930,10 @@
       }
     ],
     "pair_id": 129,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "formal_synonyms": [
+      "interrupt"
+    ]
   },
   {
     "id": 131,
@@ -8642,7 +9007,10 @@
       }
     ],
     "pair_id": 132,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "encounter"
+    ]
   },
   {
     "id": 132,
@@ -8697,7 +9065,10 @@
       }
     ],
     "pair_id": 131,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "formal_synonyms": [
+      "encounter"
+    ]
   },
   {
     "id": 133,
@@ -8785,7 +9156,11 @@
       }
     ],
     "pair_id": 134,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "transform",
+      "convert"
+    ]
   },
   {
     "id": 134,
@@ -8832,7 +9207,11 @@
       }
     ],
     "pair_id": 133,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "formal_synonyms": [
+      "transform",
+      "convert"
+    ]
   },
   {
     "id": 135,
@@ -8906,7 +9285,10 @@
       }
     ],
     "pair_id": 136,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "investigate"
+    ]
   },
   {
     "id": 136,
@@ -8963,7 +9345,10 @@
       }
     ],
     "pair_id": 135,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "formal_synonyms": [
+      "investigate"
+    ]
   },
   {
     "id": 137,
@@ -9036,7 +9421,10 @@
       }
     ],
     "pair_id": 138,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "relocate"
+    ]
   },
   {
     "id": 138,
@@ -9167,7 +9555,10 @@
       }
     ],
     "pair_id": 140,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "introduce"
+    ]
   },
   {
     "id": 140,
@@ -9217,7 +9608,10 @@
       }
     ],
     "pair_id": 139,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "formal_synonyms": [
+      "introduce"
+    ]
   },
   {
     "id": 141,
@@ -9348,7 +9742,10 @@
       }
     ],
     "pair_id": 141,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "formal_synonyms": [
+      "substitute"
+    ]
   },
   {
     "id": 143,
@@ -9423,7 +9820,10 @@
       }
     ],
     "pair_id": 144,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "register"
+    ]
   },
   {
     "id": 144,
@@ -9472,7 +9872,10 @@
       }
     ],
     "pair_id": 143,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "formal_synonyms": [
+      "register"
+    ]
   },
   {
     "id": 145,
@@ -9545,7 +9948,10 @@
       }
     ],
     "pair_id": 146,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "distribute"
+    ]
   },
   {
     "id": 146,
@@ -9595,7 +10001,10 @@
       }
     ],
     "pair_id": 145,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "formal_synonyms": [
+      "distribute"
+    ]
   },
   {
     "id": 147,
@@ -9673,7 +10082,10 @@
       }
     ],
     "pair_id": 148,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "distribute"
+    ]
   },
   {
     "id": 148,
@@ -9733,7 +10145,10 @@
       }
     ],
     "pair_id": 147,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "formal_synonyms": [
+      "distribute"
+    ]
   },
   {
     "id": 149,
@@ -9806,7 +10221,10 @@
       }
     ],
     "pair_id": 150,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "distribute"
+    ]
   },
   {
     "id": 150,
@@ -9858,7 +10276,10 @@
       }
     ],
     "pair_id": 149,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "formal_synonyms": [
+      "distribute"
+    ]
   },
   {
     "id": 151,
@@ -10059,7 +10480,10 @@
       }
     ],
     "pair_id": 154,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "escape"
+    ]
   },
   {
     "id": 154,
@@ -10326,7 +10750,11 @@
       }
     ],
     "pair_id": 158,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "depart",
+      "abandon"
+    ]
   },
   {
     "id": 158,
@@ -10389,7 +10817,11 @@
     ],
     "pair_id": 157,
     "track_type_label": "📖 Historia en Contexto",
-    "story_title": "Story: The comedian walks out"
+    "story_title": "Story: The comedian walks out",
+    "formal_synonyms": [
+      "depart",
+      "abandon"
+    ]
   },
   {
     "id": 159,
@@ -10467,7 +10899,10 @@
       }
     ],
     "pair_id": 160,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "extinguish"
+    ]
   },
   {
     "id": 160,
@@ -10541,7 +10976,10 @@
     ],
     "pair_id": 159,
     "track_type_label": "📖 Historia en Contexto",
-    "story_title": "Story: In the Dark"
+    "story_title": "Story: In the Dark",
+    "formal_synonyms": [
+      "extinguish"
+    ]
   },
   {
     "id": 161,
@@ -10615,7 +11053,10 @@
       }
     ],
     "pair_id": 162,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "extinguish"
+    ]
   },
   {
     "id": 162,
@@ -10680,7 +11121,10 @@
       }
     ],
     "pair_id": 161,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "formal_synonyms": [
+      "extinguish"
+    ]
   },
   {
     "id": 163,
@@ -10756,7 +11200,11 @@
       }
     ],
     "pair_id": 164,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "release",
+      "publish"
+    ]
   },
   {
     "id": 164,
@@ -10812,7 +11260,11 @@
       }
     ],
     "pair_id": 163,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "formal_synonyms": [
+      "release",
+      "publish"
+    ]
   },
   {
     "id": 165,
@@ -10887,7 +11339,11 @@
       }
     ],
     "pair_id": 166,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "emerge",
+      "release"
+    ]
   },
   {
     "id": 166,
@@ -10942,7 +11398,11 @@
       }
     ],
     "pair_id": 165,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "formal_synonyms": [
+      "emerge",
+      "release"
+    ]
   },
   {
     "id": 167,
@@ -11023,7 +11483,10 @@
       }
     ],
     "pair_id": 168,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "withdraw"
+    ]
   },
   {
     "id": 168,
@@ -11078,7 +11541,10 @@
       }
     ],
     "pair_id": 167,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "formal_synonyms": [
+      "withdraw"
+    ]
   },
   {
     "id": 169,
@@ -11162,7 +11628,10 @@
       }
     ],
     "pair_id": 170,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "withdraw"
+    ]
   },
   {
     "id": 170,
@@ -11221,7 +11690,10 @@
       }
     ],
     "pair_id": 169,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "formal_synonyms": [
+      "withdraw"
+    ]
   },
   {
     "id": 171,
@@ -11299,7 +11771,10 @@
       }
     ],
     "pair_id": 172,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "withdraw"
+    ]
   },
   {
     "id": 172,
@@ -11350,7 +11825,10 @@
       }
     ],
     "pair_id": 171,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "formal_synonyms": [
+      "withdraw"
+    ]
   },
   {
     "id": 173,
@@ -11422,7 +11900,10 @@
       }
     ],
     "pair_id": 174,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "exclude"
+    ]
   },
   {
     "id": 174,
@@ -11569,7 +12050,11 @@
       }
     ],
     "pair_id": 176,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "eliminate",
+      "exclude"
+    ]
   },
   {
     "id": 176,
@@ -11622,7 +12107,11 @@
       }
     ],
     "pair_id": 175,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "formal_synonyms": [
+      "eliminate",
+      "exclude"
+    ]
   },
   {
     "id": 177,
@@ -11694,7 +12183,10 @@
       }
     ],
     "pair_id": 178,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "expel"
+    ]
   },
   {
     "id": 178,
@@ -11753,7 +12245,10 @@
       }
     ],
     "pair_id": 177,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "formal_synonyms": [
+      "expel"
+    ]
   },
   {
     "id": 179,
@@ -11830,7 +12325,10 @@
       }
     ],
     "pair_id": 180,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "expel"
+    ]
   },
   {
     "id": 180,
@@ -11905,7 +12403,10 @@
       }
     ],
     "pair_id": 179,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "formal_synonyms": [
+      "expel"
+    ]
   },
   {
     "id": 181,
@@ -11979,7 +12480,10 @@
       }
     ],
     "pair_id": 182,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "resolve"
+    ]
   },
   {
     "id": 182,
@@ -12035,7 +12539,10 @@
       }
     ],
     "pair_id": 181,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "formal_synonyms": [
+      "resolve"
+    ]
   },
   {
     "id": 183,
@@ -12111,7 +12618,11 @@
       }
     ],
     "pair_id": 184,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "resolve",
+      "organize"
+    ]
   },
   {
     "id": 184,
@@ -12179,7 +12690,11 @@
     ],
     "pair_id": 183,
     "track_type_label": "📖 Historia en Contexto",
-    "story_title": "Story: A vicious circle (sort out)"
+    "story_title": "Story: A vicious circle (sort out)",
+    "formal_synonyms": [
+      "resolve",
+      "organize"
+    ]
   },
   {
     "id": 185,
@@ -12253,7 +12768,11 @@
       }
     ],
     "pair_id": 186,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "determine",
+      "decipher"
+    ]
   },
   {
     "id": 186,
@@ -12301,7 +12820,11 @@
     ],
     "pair_id": 185,
     "track_type_label": "📖 Historia en Contexto",
-    "story_title": "Story: Rubik's Cube"
+    "story_title": "Story: Rubik's Cube",
+    "formal_synonyms": [
+      "determine",
+      "decipher"
+    ]
   },
   {
     "id": 187,
@@ -12374,7 +12897,10 @@
       }
     ],
     "pair_id": 188,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "withdraw"
+    ]
   },
   {
     "id": 188,
@@ -12459,7 +12985,10 @@
       }
     ],
     "pair_id": 187,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "formal_synonyms": [
+      "withdraw"
+    ]
   },
   {
     "id": 189,
@@ -12534,7 +13063,11 @@
       }
     ],
     "pair_id": 190,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "extract",
+      "remove"
+    ]
   },
   {
     "id": 190,
@@ -12597,7 +13130,11 @@
     ],
     "pair_id": 189,
     "track_type_label": "📖 Historia en Contexto",
-    "story_title": "Story: The Dentist (Multiple Phrasal Verbs)"
+    "story_title": "Story: The Dentist (Multiple Phrasal Verbs)",
+    "formal_synonyms": [
+      "extract",
+      "remove"
+    ]
   },
   {
     "id": 191,
@@ -12673,7 +13210,10 @@
       }
     ],
     "pair_id": 192,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "escape"
+    ]
   },
   {
     "id": 192,
@@ -12734,7 +13274,10 @@
     ],
     "pair_id": 191,
     "track_type_label": "📖 Historia en Contexto",
-    "story_title": "Story: The red wine stain"
+    "story_title": "Story: The red wine stain",
+    "formal_synonyms": [
+      "escape"
+    ]
   },
   {
     "id": 193,
@@ -12811,7 +13354,10 @@
       }
     ],
     "pair_id": 194,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "discover"
+    ]
   },
   {
     "id": 194,
@@ -12865,7 +13411,10 @@
       }
     ],
     "pair_id": 193,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "formal_synonyms": [
+      "discover"
+    ]
   },
   {
     "id": 195,
@@ -12945,7 +13494,11 @@
       }
     ],
     "pair_id": 196,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "expire",
+      "deplete"
+    ]
   },
   {
     "id": 196,
@@ -13039,7 +13592,10 @@
       }
     ],
     "pair_id": 195,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "formal_synonyms": [
+      "exhaust"
+    ]
   },
   {
     "id": 197,
@@ -13117,7 +13673,10 @@
       }
     ],
     "pair_id": 198,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "result"
+    ]
   },
   {
     "id": 198,
@@ -13163,7 +13722,10 @@
       }
     ],
     "pair_id": 197,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "formal_synonyms": [
+      "result"
+    ]
   },
   {
     "id": 199,
@@ -13236,7 +13798,10 @@
       }
     ],
     "pair_id": 200,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "omit"
+    ]
   },
   {
     "id": 200,
@@ -13291,7 +13856,10 @@
       }
     ],
     "pair_id": 199,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "formal_synonyms": [
+      "omit"
+    ]
   },
   {
     "id": 201,
@@ -13372,7 +13940,10 @@
       }
     ],
     "pair_id": 202,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "exhaust"
+    ]
   },
   {
     "id": 202,
@@ -13429,7 +14000,10 @@
       }
     ],
     "pair_id": 201,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "formal_synonyms": [
+      "exhaust"
+    ]
   },
   {
     "id": 203,
@@ -13508,7 +14082,10 @@
       }
     ],
     "pair_id": 204,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "dispute"
+    ]
   },
   {
     "id": 204,
@@ -13639,7 +14216,10 @@
       }
     ],
     "pair_id": 206,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "activate"
+    ]
   },
   {
     "id": 206,
@@ -13712,7 +14292,10 @@
     ],
     "pair_id": 205,
     "track_type_label": "📖 Historia en Contexto",
-    "story_title": "Story: The Greens and their electricity consumption"
+    "story_title": "Story: The Greens and their electricity consumption",
+    "formal_synonyms": [
+      "activate"
+    ]
   },
   {
     "id": 207,
@@ -13934,7 +14517,10 @@
       }
     ],
     "pair_id": 210,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "activate"
+    ]
   },
   {
     "id": 210,
@@ -14007,7 +14593,10 @@
     ],
     "pair_id": 209,
     "track_type_label": "📖 Historia en Contexto",
-    "story_title": "Story: Put on"
+    "story_title": "Story: Put on",
+    "formal_synonyms": [
+      "activate"
+    ]
   },
   {
     "id": 211,
@@ -14081,7 +14670,10 @@
       }
     ],
     "pair_id": 212,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "board"
+    ]
   },
   {
     "id": 212,
@@ -14155,7 +14747,10 @@
       }
     ],
     "pair_id": 211,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "formal_synonyms": [
+      "board"
+    ]
   },
   {
     "id": 213,
@@ -14234,7 +14829,10 @@
       }
     ],
     "pair_id": 214,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "board"
+    ]
   },
   {
     "id": 214,
@@ -14311,7 +14909,10 @@
     ],
     "pair_id": 213,
     "track_type_label": "📖 Historia en Contexto",
-    "story_title": "Story: The Cat and the Dog"
+    "story_title": "Story: The Cat and the Dog",
+    "formal_synonyms": [
+      "board"
+    ]
   },
   {
     "id": 215,
@@ -14384,7 +14985,10 @@
       }
     ],
     "pair_id": 216,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "mount"
+    ]
   },
   {
     "id": 216,
@@ -14464,7 +15068,10 @@
     ],
     "pair_id": 215,
     "track_type_label": "📖 Historia en Contexto",
-    "story_title": "Story: Where did we park? (climb on, get off, walk around)"
+    "story_title": "Story: Where did we park? (climb on, get off, walk around)",
+    "formal_synonyms": [
+      "mount"
+    ]
   },
   {
     "id": 217,
@@ -14537,7 +15144,10 @@
       }
     ],
     "pair_id": 218,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "persist"
+    ]
   },
   {
     "id": 218,
@@ -14626,7 +15236,10 @@
       }
     ],
     "pair_id": 217,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "formal_synonyms": [
+      "persist"
+    ]
   },
   {
     "id": 219,
@@ -14700,7 +15313,10 @@
       }
     ],
     "pair_id": 220,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "remain"
+    ]
   },
   {
     "id": 220,
@@ -14763,7 +15379,10 @@
       }
     ],
     "pair_id": 219,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "formal_synonyms": [
+      "remain"
+    ]
   },
   {
     "id": 221,
@@ -14838,7 +15457,10 @@
       }
     ],
     "pair_id": 222,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "append"
+    ]
   },
   {
     "id": 222,
@@ -14908,7 +15530,10 @@
       }
     ],
     "pair_id": 221,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "formal_synonyms": [
+      "append"
+    ]
   },
   {
     "id": 223,
@@ -14985,7 +15610,10 @@
       }
     ],
     "pair_id": 224,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "activate"
+    ]
   },
   {
     "id": 224,
@@ -15078,7 +15706,10 @@
     ],
     "pair_id": 223,
     "track_type_label": "📖 Historia en Contexto",
-    "story_title": "Story: The Shopping List"
+    "story_title": "Story: The Shopping List",
+    "formal_synonyms": [
+      "activate"
+    ]
   },
   {
     "id": 225,
@@ -15152,7 +15783,10 @@
       }
     ],
     "pair_id": 226,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "adhere"
+    ]
   },
   {
     "id": 226,
@@ -15205,7 +15839,10 @@
       }
     ],
     "pair_id": 225,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "formal_synonyms": [
+      "adhere"
+    ]
   },
   {
     "id": 227,
@@ -15278,7 +15915,11 @@
       }
     ],
     "pair_id": 228,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "continue",
+      "persist"
+    ]
   },
   {
     "id": 228,
@@ -15330,7 +15971,11 @@
       }
     ],
     "pair_id": 227,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "formal_synonyms": [
+      "continue",
+      "persist"
+    ]
   },
   {
     "id": 229,
@@ -15402,7 +16047,10 @@
       }
     ],
     "pair_id": 230,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "continue"
+    ]
   },
   {
     "id": 230,
@@ -15456,7 +16104,10 @@
       }
     ],
     "pair_id": 229,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "formal_synonyms": [
+      "continue"
+    ]
   },
   {
     "id": 231,
@@ -15531,7 +16182,10 @@
       }
     ],
     "pair_id": 232,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "continue"
+    ]
   },
   {
     "id": 232,
@@ -15600,7 +16254,10 @@
       }
     ],
     "pair_id": 231,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "formal_synonyms": [
+      "continue"
+    ]
   },
   {
     "id": 233,
@@ -15674,7 +16331,10 @@
       }
     ],
     "pair_id": 234,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "access"
+    ]
   },
   {
     "id": 234,
@@ -15742,7 +16402,10 @@
       }
     ],
     "pair_id": 233,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "formal_synonyms": [
+      "access"
+    ]
   },
   {
     "id": 235,
@@ -15816,7 +16479,10 @@
       }
     ],
     "pair_id": 236,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "register"
+    ]
   },
   {
     "id": 236,
@@ -15874,7 +16540,10 @@
       }
     ],
     "pair_id": 235,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "formal_synonyms": [
+      "register"
+    ]
   },
   {
     "id": 237,
@@ -15946,7 +16615,10 @@
       }
     ],
     "pair_id": 238,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "activate"
+    ]
   },
   {
     "id": 238,
@@ -16024,7 +16696,10 @@
       }
     ],
     "pair_id": 237,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "formal_synonyms": [
+      "activate"
+    ]
   },
   {
     "id": 239,
@@ -16408,7 +17083,10 @@
       }
     ],
     "pair_id": 244,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "concur"
+    ]
   },
   {
     "id": 244,
@@ -16467,7 +17145,10 @@
       }
     ],
     "pair_id": 243,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "formal_synonyms": [
+      "concur"
+    ]
   },
   {
     "id": 245,
@@ -16822,7 +17503,11 @@
       }
     ],
     "pair_id": 250,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "reveal",
+      "disclose"
+    ]
   },
   {
     "id": 250,
@@ -16890,7 +17575,11 @@
       }
     ],
     "pair_id": 249,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "formal_synonyms": [
+      "reveal",
+      "disclose"
+    ]
   },
   {
     "id": 251,
@@ -16964,7 +17653,10 @@
       }
     ],
     "pair_id": 252,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "assume"
+    ]
   },
   {
     "id": 252,
@@ -17030,7 +17722,10 @@
       }
     ],
     "pair_id": 251,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "formal_synonyms": [
+      "assume"
+    ]
   },
   {
     "id": 253,
@@ -17105,7 +17800,11 @@
       }
     ],
     "pair_id": 254,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "detonate",
+      "activate"
+    ]
   },
   {
     "id": 254,
@@ -17178,7 +17877,11 @@
     ],
     "pair_id": 253,
     "track_type_label": "📖 Historia en Contexto",
-    "story_title": "Story: Early Birds and Alarm Clocks (wake up, go off, turn off)"
+    "story_title": "Story: Early Birds and Alarm Clocks (wake up, go off, turn off)",
+    "formal_synonyms": [
+      "detonate",
+      "activate"
+    ]
   },
   {
     "id": 255,
@@ -17253,7 +17956,11 @@
       }
     ],
     "pair_id": 256,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "trigger",
+      "detonate"
+    ]
   },
   {
     "id": 256,
@@ -17332,7 +18039,11 @@
       }
     ],
     "pair_id": 255,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "formal_synonyms": [
+      "trigger",
+      "detonate"
+    ]
   },
   {
     "id": 257,
@@ -17407,7 +18118,10 @@
       }
     ],
     "pair_id": 258,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "succeed"
+    ]
   },
   {
     "id": 258,
@@ -17475,7 +18189,10 @@
       }
     ],
     "pair_id": 257,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "formal_synonyms": [
+      "succeed"
+    ]
   },
   {
     "id": 259,
@@ -17549,7 +18266,10 @@
       }
     ],
     "pair_id": 260,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "succeed"
+    ]
   },
   {
     "id": 260,
@@ -17610,7 +18330,10 @@
     ],
     "pair_id": 259,
     "track_type_label": "📖 Historia en Contexto",
-    "story_title": "Story: Pay off"
+    "story_title": "Story: Pay off",
+    "formal_synonyms": [
+      "succeed"
+    ]
   },
   {
     "id": 261,
@@ -17685,7 +18408,10 @@
       }
     ],
     "pair_id": 262,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "achieve"
+    ]
   },
   {
     "id": 262,
@@ -17744,7 +18470,10 @@
       }
     ],
     "pair_id": 261,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "formal_synonyms": [
+      "achieve"
+    ]
   },
   {
     "id": 263,
@@ -17817,7 +18546,10 @@
       }
     ],
     "pair_id": 264,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "deactivate"
+    ]
   },
   {
     "id": 264,
@@ -17931,7 +18663,10 @@
     ],
     "pair_id": 263,
     "track_type_label": "📖 Historia en Contexto",
-    "story_title": "Story: Turn off / Switch off"
+    "story_title": "Story: Turn off / Switch off",
+    "formal_synonyms": [
+      "deactivate"
+    ]
   },
   {
     "id": 265,
@@ -18009,7 +18744,11 @@
       }
     ],
     "pair_id": 266,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "disconnect",
+      "interrupt"
+    ]
   },
   {
     "id": 266,
@@ -18072,7 +18811,11 @@
     ],
     "pair_id": 265,
     "track_type_label": "📖 Historia en Contexto",
-    "story_title": "Story: Unpaid Bills and Cut-Off Services"
+    "story_title": "Story: Unpaid Bills and Cut-Off Services",
+    "formal_synonyms": [
+      "disconnect",
+      "interrupt"
+    ]
   },
   {
     "id": 267,
@@ -18147,7 +18890,10 @@
       }
     ],
     "pair_id": 268,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "obstruct"
+    ]
   },
   {
     "id": 268,
@@ -18228,7 +18974,10 @@
       }
     ],
     "pair_id": 267,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "formal_synonyms": [
+      "obstruct"
+    ]
   },
   {
     "id": 269,
@@ -18305,7 +19054,10 @@
       }
     ],
     "pair_id": 270,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "obstruct"
+    ]
   },
   {
     "id": 270,
@@ -18363,7 +19115,10 @@
       }
     ],
     "pair_id": 269,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "formal_synonyms": [
+      "obstruct"
+    ]
   },
   {
     "id": 271,
@@ -18436,7 +19191,11 @@
       }
     ],
     "pair_id": 272,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "disconnect",
+      "interrupt"
+    ]
   },
   {
     "id": 272,
@@ -18499,7 +19258,11 @@
       }
     ],
     "pair_id": 271,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "formal_synonyms": [
+      "disconnect",
+      "interrupt"
+    ]
   },
   {
     "id": 273,
@@ -18574,7 +19337,10 @@
       }
     ],
     "pair_id": 274,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "succeed"
+    ]
   },
   {
     "id": 274,
@@ -18648,7 +19414,10 @@
       }
     ],
     "pair_id": 273,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "formal_synonyms": [
+      "succeed"
+    ]
   },
   {
     "id": 275,
@@ -18891,7 +19660,10 @@
       }
     ],
     "pair_id": 278,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "remove"
+    ]
   },
   {
     "id": 278,
@@ -18951,7 +19723,10 @@
     ],
     "pair_id": 277,
     "track_type_label": "📖 Historia en Contexto",
-    "story_title": "Story: Clutter and taking off clothes"
+    "story_title": "Story: Clutter and taking off clothes",
+    "formal_synonyms": [
+      "remove"
+    ]
   },
   {
     "id": 279,
@@ -19024,7 +19799,10 @@
       }
     ],
     "pair_id": 280,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "extract"
+    ]
   },
   {
     "id": 280,
@@ -19079,7 +19857,10 @@
     ],
     "pair_id": 279,
     "track_type_label": "📖 Historia en Contexto",
-    "story_title": "Story: The Storm (rip off)"
+    "story_title": "Story: The Storm (rip off)",
+    "formal_synonyms": [
+      "extract"
+    ]
   },
   {
     "id": 281,
@@ -19151,7 +19932,10 @@
       }
     ],
     "pair_id": 282,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "achieve"
+    ]
   },
   {
     "id": 282,
@@ -19236,7 +20020,10 @@
       }
     ],
     "pair_id": 281,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "formal_synonyms": [
+      "achieve"
+    ]
   },
   {
     "id": 283,
@@ -19313,7 +20100,10 @@
       }
     ],
     "pair_id": 284,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "remove"
+    ]
   },
   {
     "id": 284,
@@ -19381,7 +20171,10 @@
       }
     ],
     "pair_id": 283,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "formal_synonyms": [
+      "remove"
+    ]
   },
   {
     "id": 285,
@@ -19454,7 +20247,10 @@
       }
     ],
     "pair_id": 286,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "flee"
+    ]
   },
   {
     "id": 286,
@@ -19524,7 +20320,10 @@
       }
     ],
     "pair_id": 285,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "formal_synonyms": [
+      "flee"
+    ]
   },
   {
     "id": 287,
@@ -19597,7 +20396,11 @@
       }
     ],
     "pair_id": 288,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "trigger",
+      "detonate"
+    ]
   },
   {
     "id": 288,
@@ -19654,7 +20457,11 @@
       }
     ],
     "pair_id": 287,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "formal_synonyms": [
+      "trigger",
+      "detonate"
+    ]
   },
   {
     "id": 289,
@@ -19728,7 +20535,10 @@
       }
     ],
     "pair_id": 290,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "depart"
+    ]
   },
   {
     "id": 290,
@@ -19796,7 +20606,10 @@
       }
     ],
     "pair_id": 289,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "formal_synonyms": [
+      "depart"
+    ]
   },
   {
     "id": 291,
@@ -19874,7 +20687,10 @@
       }
     ],
     "pair_id": 292,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "cancel"
+    ]
   },
   {
     "id": 292,
@@ -19939,7 +20755,10 @@
       }
     ],
     "pair_id": 291,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "formal_synonyms": [
+      "cancel"
+    ]
   },
   {
     "id": 293,
@@ -20013,7 +20832,11 @@
       }
     ],
     "pair_id": 294,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "postpone",
+      "delay"
+    ]
   },
   {
     "id": 294,
@@ -20082,7 +20905,11 @@
       }
     ],
     "pair_id": 293,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "formal_synonyms": [
+      "postpone",
+      "delay"
+    ]
   },
   {
     "id": 295,
@@ -20158,7 +20985,10 @@
       }
     ],
     "pair_id": 296,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "dissipate"
+    ]
   },
   {
     "id": 296,
@@ -20231,7 +21061,10 @@
       }
     ],
     "pair_id": 295,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "formal_synonyms": [
+      "dissipate"
+    ]
   },
   {
     "id": 297,
@@ -20307,7 +21140,10 @@
       }
     ],
     "pair_id": 298,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "calm"
+    ]
   },
   {
     "id": 298,
@@ -20360,7 +21196,10 @@
       }
     ],
     "pair_id": 297,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "formal_synonyms": [
+      "calm"
+    ]
   },
   {
     "id": 299,
@@ -20446,7 +21285,11 @@
       }
     ],
     "pair_id": 300,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "decrease",
+      "decline"
+    ]
   },
   {
     "id": 300,
@@ -20521,7 +21364,11 @@
       }
     ],
     "pair_id": 299,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "formal_synonyms": [
+      "decrease",
+      "decline"
+    ]
   },
   {
     "id": 301,
@@ -20593,7 +21440,11 @@
       }
     ],
     "pair_id": 302,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "detonate",
+      "activate"
+    ]
   },
   {
     "id": 302,
@@ -20671,7 +21522,11 @@
       }
     ],
     "pair_id": 301,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "formal_synonyms": [
+      "detonate",
+      "activate"
+    ]
   },
   {
     "id": 303,
@@ -20743,7 +21598,11 @@
       }
     ],
     "pair_id": 304,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "decrease",
+      "decline"
+    ]
   },
   {
     "id": 304,
@@ -20801,7 +21660,11 @@
       }
     ],
     "pair_id": 303,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "formal_synonyms": [
+      "decrease",
+      "decline"
+    ]
   },
   {
     "id": 305,
@@ -20880,7 +21743,10 @@
       }
     ],
     "pair_id": 306,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "formal_synonyms": [
+      "emit"
+    ]
   },
   {
     "id": 306,
@@ -20935,6 +21801,9 @@
       }
     ],
     "pair_id": 305,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "formal_synonyms": [
+      "emit"
+    ]
   }
 ]

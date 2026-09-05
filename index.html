@@ -489,6 +489,25 @@
       margin-bottom: 8px;
     }
 
+    .formal-bridge {
+      display: inline-block;
+      font-size: 0.78rem;
+      font-style: italic;
+      color: var(--accent-2);
+      background: rgba(255, 255, 255, 0.05);
+      border: 1px solid var(--card-border);
+      border-radius: 6px;
+      padding: 3px 8px;
+      margin-bottom: 8px;
+    }
+
+    .formal-bridge .bridge-label {
+      font-style: normal;
+      font-weight: 600;
+      opacity: 0.8;
+      margin-right: 4px;
+    }
+
     .card-drills-preview {
       font-size: 0.8rem;
       color: var(--text-muted);
@@ -645,6 +664,20 @@
     .drill-en.blurred {
       filter: blur(5px);
       user-select: none;
+    }
+
+    .speech-tie {
+      color: var(--accent-2);
+      font-weight: 700;
+      margin: 0 -1px;
+      font-size: 0.9em;
+      user-select: none;
+    }
+
+    .btn-drill-act.btn-loop-phrase.active {
+      border-color: var(--accent);
+      box-shadow: 0 0 0 1px var(--accent);
+      color: var(--accent);
     }
 
     .drill-actions {
@@ -1178,7 +1211,8 @@
         <h2 id="modalVerb" style="margin: 4px 0;">go up</h2>
         <p id="modalMeaning" style="color: var(--text-secondary); font-size: 0.95rem;"></p>
         <p id="modalSituation" style="color: var(--accent); font-size: 0.8rem; margin-top: 4px;"></p>
-        
+        <p id="modalFormalBridge" class="formal-bridge" style="display:none;"></p>
+
         <div class="card-status-bar" style="margin-top: 10px;">
           <span class="status-title">Tu Dominio:</span>
           <div class="status-pills">
@@ -1211,7 +1245,10 @@
 
       <div style="display: flex; justify-content: space-between; align-items: center; margin: 16px 0 8px 0;">
         <h4 style="font-size: 0.9rem; color: var(--text-muted);" id="modalDrillsTitle">FRASES DE ENTRENAMIENTO</h4>
-        <button onclick="toggleBlurAll()" style="background: none; border: none; color: var(--accent); font-size: 0.8rem; cursor: pointer;">👁️ Ocultar/Mostrar Inglés</button>
+        <div style="display:flex; gap:12px;">
+          <button id="btnConnectedSpeechToggle" onclick="toggleConnectedSpeech()" style="background: none; border: none; color: var(--accent); font-size: 0.8rem; cursor: pointer;">🔗 Enlaces: ON</button>
+          <button onclick="toggleBlurAll()" style="background: none; border: none; color: var(--accent); font-size: 0.8rem; cursor: pointer;">👁️ Ocultar/Mostrar Inglés</button>
+        </div>
       </div>
 
       <div id="modalDrillsList"></div>
@@ -1450,6 +1487,7 @@
               <span class="card-category">${item.situation ? item.situation.split(' ')[0] : 'General'}</span>
             </div>
             <div class="card-meaning">${item.meaning_es}</div>
+            ${item.formal_synonyms && item.formal_synonyms.length ? `<div class="formal-bridge"><span class="bridge-label">Formal latino:</span> <span class="bridge-words">${item.formal_synonyms.join(', ')}</span></div>` : ''}
 
             <div class="card-drills-preview">
               <span>🗣️ ${drillsCount} frases de ${isDrill ? 'shadowing guiado' : 'lectura en contexto'}</span>
@@ -1488,6 +1526,7 @@
           item.meaning_es?.toLowerCase().includes(query) ||
           item.id.toString() === query ||
           item.tags_es?.some(t => t.toLowerCase().includes(query)) ||
+          item.formal_synonyms?.some(s => s.toLowerCase().includes(query)) ||
           item.drills?.some(d => d.es?.toLowerCase().includes(query) || d.en?.toLowerCase().includes(query));
 
         let matchesFilter = true;
@@ -1531,6 +1570,7 @@
 
     function playIndex(index) {
       if (index < 0 || index >= filteredData.length) return;
+      stopPhraseLoop();
       currentIndex = index;
       const item = filteredData[currentIndex];
 
@@ -1616,12 +1656,72 @@
     }
 
     // Modal
+    // Connected Speech (Sprint 2.2): ligaduras visuales entre palabras enlazadas al hablar
+    let connectedSpeechEnabled = localStorage.getItem('phrasal_connected_speech') !== 'off';
+    const CONSONANT_END = /[bcdfgklmnprstvz]$/i;
+    const VOWEL_START = /^[aeiou]/i;
+
+    function formatConnectedSpeech(text) {
+      if (!text) return '';
+      // No enlazar entre frases: se trocea por puntuación de cierre y esos separadores se devuelven intactos.
+      return text.split(/([.!?;:]+\s*)/).map(chunk => {
+        if (/^[.!?;:]/.test(chunk)) return chunk;
+        const words = chunk.split(' ');
+        const out = [];
+        for (let i = 0; i < words.length; i++) {
+          const w = words[i];
+          out.push(w);
+          const next = words[i + 1];
+          const hasTrailingPunct = /[,]$/.test(w);
+          if (w && next && !hasTrailingPunct && CONSONANT_END.test(w) && VOWEL_START.test(next)) {
+            out.push('<span class="speech-tie">‿</span>');
+          } else if (i < words.length - 1) {
+            out.push(' ');
+          }
+        }
+        return out.join('');
+      }).join('');
+    }
+
+    function renderModalDrillsList(item) {
+      const drillsContainer = document.getElementById('modalDrillsList');
+      drillsContainer.innerHTML = (item.drills || []).map((d, i) => `
+        <div class="drill-item" id="drill-item-${i}">
+          <div class="drill-es">${i + 1}. ${d.es}</div>
+          <div class="drill-en ${blurEnglish ? 'blurred' : ''}" id="drill-en-${i}" onclick="this.classList.toggle('blurred')">
+            ${connectedSpeechEnabled ? formatConnectedSpeech(d.en) : d.en}
+          </div>
+          <div class="drill-actions">
+            <button class="btn-drill-act" onclick="speakDrillPhrase(${i})">
+              🔊 Escuchar
+            </button>
+            <button class="btn-drill-act btn-loop-phrase" id="loop-btn-${i}" onclick="togglePhraseLoop(${i})" title="Repetir esta frase en bucle">
+              🔁
+            </button>
+            <button class="btn-drill-act btn-mic" id="mic-btn-${i}" onclick="recordDrillPhrase(${i})">
+              🎙️ Pronunciar
+            </button>
+            <span class="drill-feedback" id="drill-feedback-${i}"></span>
+          </div>
+        </div>
+      `).join('');
+    }
+
+    function toggleConnectedSpeech() {
+      connectedSpeechEnabled = !connectedSpeechEnabled;
+      localStorage.setItem('phrasal_connected_speech', connectedSpeechEnabled ? 'on' : 'off');
+      const btn = document.getElementById('btnConnectedSpeechToggle');
+      if (btn) btn.textContent = connectedSpeechEnabled ? '🔗 Enlaces: ON' : '🔗 Enlaces: OFF';
+      if (activeModalItem) renderModalDrillsList(activeModalItem);
+    }
+
     function openDetails(id, event) {
       if (event) event.stopPropagation();
       const item = currentData.find(x => x.id === id);
       if (!item) return;
       activeModalItem = item;
       stopHandsFreeShadowing();
+      stopPhraseLoop();
 
       const isDrill = item.type === 'drill';
       const typeBadge = document.getElementById('modalTypeBadge');
@@ -1633,6 +1733,14 @@
       document.getElementById('modalMeaning').textContent = item.meaning_es;
       document.getElementById('modalSituation').textContent = `Categoría: ${item.situation || 'General'}`;
 
+      const formalBridgeEl = document.getElementById('modalFormalBridge');
+      if (item.formal_synonyms && item.formal_synonyms.length) {
+        formalBridgeEl.innerHTML = `👔 Formal: ${item.formal_synonyms.join(', ')} | 🗣️ Cotidiano: ${item.phrasal_verb}`;
+        formalBridgeEl.style.display = 'block';
+      } else {
+        formalBridgeEl.style.display = 'none';
+      }
+
       const btnPair = document.getElementById('btnModalPair');
       if (item.pair_id) {
         btnPair.style.display = 'flex';
@@ -1641,24 +1749,10 @@
         btnPair.style.display = 'none';
       }
 
-      const drillsContainer = document.getElementById('modalDrillsList');
-      drillsContainer.innerHTML = (item.drills || []).map((d, i) => `
-        <div class="drill-item" id="drill-item-${i}">
-          <div class="drill-es">${i + 1}. ${d.es}</div>
-          <div class="drill-en ${blurEnglish ? 'blurred' : ''}" id="drill-en-${i}" onclick="this.classList.toggle('blurred')">
-            ${d.en}
-          </div>
-          <div class="drill-actions">
-            <button class="btn-drill-act" onclick="speakDrillPhrase(${i})">
-              🔊 Escuchar
-            </button>
-            <button class="btn-drill-act btn-mic" id="mic-btn-${i}" onclick="recordDrillPhrase(${i})">
-              🎙️ Pronunciar
-            </button>
-            <span class="drill-feedback" id="drill-feedback-${i}"></span>
-          </div>
-        </div>
-      `).join('');
+      const connectedSpeechBtn = document.getElementById('btnConnectedSpeechToggle');
+      if (connectedSpeechBtn) connectedSpeechBtn.textContent = connectedSpeechEnabled ? '🔗 Enlaces: ON' : '🔗 Enlaces: OFF';
+
+      renderModalDrillsList(item);
 
       updateModalStatusPills();
       document.getElementById('drillModal').classList.add('active');
@@ -1673,6 +1767,7 @@
 
     function closeModal() {
       stopHandsFreeShadowing();
+      stopPhraseLoop();
       if (window.speechSynthesis) window.speechSynthesis.cancel();
       if (activeRecognition) {
         try { activeRecognition.stop(); } catch(e){}
@@ -1740,9 +1835,49 @@ ${drillLines}`;
       window.speechSynthesis.speak(utter);
     }
 
-    function speakDrillPhrase(index) {
+    function speakDrillPhrase(index, onEnd) {
       if (!activeModalItem || !activeModalItem.drills || !activeModalItem.drills[index]) return;
-      speakText(activeModalItem.drills[index].en);
+      speakText(activeModalItem.drills[index].en, onEnd);
+    }
+
+    // Bucle Frase a Frase (Sprint 2.3)
+    let loopingPhraseIndex = null;
+    let isPhraseLooping = false;
+    let phraseLoopTimer = null;
+    const PHRASE_LOOP_PAUSE_MS = 1500;
+
+    function stopPhraseLoop() {
+      isPhraseLooping = false;
+      if (phraseLoopTimer) {
+        clearTimeout(phraseLoopTimer);
+        phraseLoopTimer = null;
+      }
+      if (loopingPhraseIndex !== null) {
+        const prevBtn = document.getElementById(`loop-btn-${loopingPhraseIndex}`);
+        if (prevBtn) prevBtn.classList.remove('active');
+      }
+      loopingPhraseIndex = null;
+    }
+
+    function togglePhraseLoop(index) {
+      const wasLoopingSameIndex = loopingPhraseIndex === index && isPhraseLooping;
+      // Detiene cualquier bucle previo (de esta u otra frase) antes de arrancar uno nuevo, para no solapar audios.
+      stopPhraseLoop();
+      if (wasLoopingSameIndex) return;
+
+      loopingPhraseIndex = index;
+      isPhraseLooping = true;
+      const btn = document.getElementById(`loop-btn-${index}`);
+      if (btn) btn.classList.add('active');
+
+      const playOnce = () => {
+        if (!isPhraseLooping || loopingPhraseIndex !== index) return;
+        speakDrillPhrase(index, () => {
+          if (!isPhraseLooping || loopingPhraseIndex !== index) return;
+          phraseLoopTimer = setTimeout(playOnce, PHRASE_LOOP_PAUSE_MS);
+        });
+      };
+      playOnce();
     }
 
     // Pronunciation Recognition & Comparison
@@ -1768,6 +1903,7 @@ ${drillLines}`;
     }
 
     function recordDrillPhrase(index) {
+      stopPhraseLoop();
       const SpeechRec = window.SpeechRecognition || window.webkitSpeechRecognition;
       const micBtn = document.getElementById(`mic-btn-${index}`);
       const feedbackEl = document.getElementById(`drill-feedback-${index}`);
@@ -1951,7 +2087,7 @@ ${drillLines}`;
       document.getElementById('focusCounter').textContent = `Frase ${focusPhraseIdx + 1} de ${activeModalItem.drills.length}`;
       document.getElementById('focusPhraseEs').textContent = drill.es;
       const enEl = document.getElementById('focusPhraseEn');
-      enEl.textContent = drill.en;
+      enEl.innerHTML = connectedSpeechEnabled ? formatConnectedSpeech(drill.en) : drill.en;
       enEl.classList.remove('revealed');
       document.getElementById('focusFeedback').innerHTML = '';
       const micBtn = document.getElementById('focusMicBtn');
