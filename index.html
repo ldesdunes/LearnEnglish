@@ -489,6 +489,13 @@
       margin-bottom: 8px;
     }
 
+    .ipa-badge {
+      font-family: 'Courier New', monospace;
+      font-size: 0.78rem;
+      color: var(--text-muted);
+      opacity: 0.85;
+    }
+
     .formal-bridge {
       display: inline-block;
       font-size: 0.78rem;
@@ -664,6 +671,11 @@
     .drill-en.blurred {
       filter: blur(5px);
       user-select: none;
+    }
+
+    #modalDrillsList.phase-2 .drill-es,
+    #modalDrillsList.phase-3 .drill-es {
+      display: none;
     }
 
     .speech-tie {
@@ -1030,6 +1042,89 @@
       cursor: pointer;
     }
 
+    .btn-generate-story {
+      display: block;
+      width: 100%;
+      background: var(--card-bg);
+      border: 1px dashed var(--accent-2);
+      color: var(--accent-2);
+      font-size: 0.82rem;
+      font-weight: 600;
+      padding: 8px 12px;
+      border-radius: 8px;
+      cursor: pointer;
+      margin-top: 10px;
+    }
+
+    .phase-bar {
+      display: flex;
+      gap: 6px;
+      align-items: center;
+      margin-top: 12px;
+      flex-wrap: wrap;
+    }
+
+    .phase-pill {
+      background: var(--card-bg);
+      border: 1px solid var(--card-border);
+      color: var(--text-muted);
+      font-size: 0.78rem;
+      font-weight: 600;
+      padding: 6px 10px;
+      border-radius: 999px;
+      cursor: pointer;
+    }
+
+    .phase-pill.active {
+      background: var(--accent);
+      border-color: var(--accent);
+      color: var(--bg);
+    }
+
+    .phase-next-btn {
+      background: none;
+      border: none;
+      color: var(--accent);
+      font-size: 0.78rem;
+      cursor: pointer;
+      margin-left: auto;
+    }
+
+    .cloze-options {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 10px;
+      margin-top: 10px;
+    }
+
+    .btn-cloze-option {
+      background: var(--card-bg);
+      border: 1px solid var(--card-border);
+      color: var(--text);
+      font-size: 1rem;
+      font-weight: 600;
+      padding: 14px 10px;
+      border-radius: 8px;
+      cursor: pointer;
+      transition: all 0.15s;
+    }
+
+    .btn-cloze-option:disabled {
+      cursor: default;
+    }
+
+    .btn-cloze-option.correct {
+      background: var(--status-mastered-bg);
+      border-color: var(--status-mastered-border);
+      color: var(--status-mastered-text);
+    }
+
+    .btn-cloze-option.incorrect {
+      background: var(--status-focus-bg);
+      border-color: var(--status-focus-border);
+      color: var(--status-focus-text);
+    }
+
     .modal-btn-row {
       display: flex;
       gap: 10px;
@@ -1151,6 +1246,7 @@
       </div>
       <div class="top-actions">
         <button class="btn-top btn-quiz" onclick="openQuizModal()" title="Entrenador de velocidad y latencia de respuesta">⚡ Quiz</button>
+        <button class="btn-top btn-quiz" onclick="openClozeModal()" title="Reflejo instantáneo de selección de partícula">🧩 Test Partículas</button>
         <button class="btn-top btn-sync" id="btnSyncStatus" onclick="openSyncModal()" title="Sincronización transparente con Google Drive / Sheets">
           <span id="syncIcon">☁️</span> <span id="syncText">Drive</span>
         </button>
@@ -1169,7 +1265,12 @@
       <div class="filter-chip seg seg-focus" id="chipFilterFocus" onclick="setFilter('STATUS_FOCUS', this)">🔴 Focus (0)</div>
       <div class="filter-chip seg seg-progress" id="chipFilterProgress" onclick="setFilter('STATUS_PROGRESS', this)">🟡 Progreso (0)</div>
       <div class="filter-chip seg seg-mastered" id="chipFilterMastered" onclick="setFilter('STATUS_MASTERED', this)">🟢 Dominados (0)</div>
+      <div class="filter-chip seg" id="chipFilterDue" onclick="setFilter('SRS_DUE', this)">📅 Repasar Hoy (<span id="dueCount">0</span>)</div>
     </div>
+
+    <button class="btn-generate-story" onclick="generateFocusStoryPrompt()" title="Genera un prompt para Claude/ChatGPT con un diálogo que use tus verbos en Focus">
+      📝 Generar Historia i+1 con mis Focus
+    </button>
 
     <div class="more-filters-row">
       <span class="more-label">Más filtros</span>
@@ -1209,6 +1310,7 @@
           <span class="badge-type" id="modalTypeBadge">🎯 Práctica Guiada</span>
         </div>
         <h2 id="modalVerb" style="margin: 4px 0;">go up</h2>
+        <p id="modalIpa" class="ipa-badge" style="display:none;"></p>
         <p id="modalMeaning" style="color: var(--text-secondary); font-size: 0.95rem;"></p>
         <p id="modalSituation" style="color: var(--accent); font-size: 0.8rem; margin-top: 4px;"></p>
         <p id="modalFormalBridge" class="formal-bridge" style="display:none;"></p>
@@ -1243,6 +1345,13 @@
         </div>
       </div>
 
+      <div class="phase-bar" id="modalPhaseBar">
+        <button class="phase-pill active" id="phasePill1" onclick="setModalPhase(1)">1. Comprender</button>
+        <button class="phase-pill" id="phasePill2" onclick="setModalPhase(2)">2. Escuchar</button>
+        <button class="phase-pill" id="phasePill3" onclick="setModalPhase(3)">3. Shadowing</button>
+        <button class="phase-next-btn" onclick="nextModalPhase()">Siguiente Fase ➡️</button>
+      </div>
+
       <div style="display: flex; justify-content: space-between; align-items: center; margin: 16px 0 8px 0;">
         <h4 style="font-size: 0.9rem; color: var(--text-muted);" id="modalDrillsTitle">FRASES DE ENTRENAMIENTO</h4>
         <div style="display:flex; gap:12px;">
@@ -1252,6 +1361,14 @@
       </div>
 
       <div id="modalDrillsList"></div>
+
+      <div id="modalSrsRating" class="quiz-actions" style="display:none; gap: 8px; margin-top: 14px;">
+        <span style="width:100%; font-size:0.8rem; color: var(--text-muted); text-align:center;">¿Cómo de fluido saliste con este verbo? (repaso programado)</span>
+        <button class="btn-modal-action" style="background: var(--status-focus-bg); color: var(--status-focus-text);" onclick="rateSrsAndAdvance(1)">🔴 Otra vez (1d)</button>
+        <button class="btn-modal-action" style="background: var(--status-focus-bg); color: var(--status-focus-text);" onclick="rateSrsAndAdvance(2)">🟡 Difícil (2d)</button>
+        <button class="btn-modal-action" style="background: var(--status-progress-bg); color: var(--status-progress-text);" onclick="rateSrsAndAdvance(3)">🟢 Bien (4d)</button>
+        <button class="btn-modal-action" style="background: var(--status-mastered-bg); color: var(--status-mastered-text);" onclick="rateSrsAndAdvance(4)">⭐ Fácil (7d)</button>
+      </div>
 
       <div class="modal-btn-row">
         <button class="btn-modal-action btn-copy-prompt" onclick="copyPromptForAI()">
@@ -1400,6 +1517,35 @@
     </div>
   </div>
 
+  <div class="modal" id="clozeModal" onclick="closeClozeModalOnBackdrop(event)">
+    <div class="modal-content" style="max-width: 560px;">
+      <button class="modal-close" onclick="closeClozeModal()">✕</button>
+      <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
+        <span class="badge-type drill">🧩 Test Rápido de Partícula</span>
+        <span style="font-size: 0.85rem; color: var(--status-progress-text); font-weight: 700;" id="clozeProgress">Pregunta 1 de 10</span>
+      </div>
+
+      <div class="quiz-card">
+        <div class="quiz-timer-container">
+          <div class="quiz-timer-bar" id="clozeTimerBar"></div>
+        </div>
+        <div class="quiz-es-prompt" id="clozeEsPrompt">...</div>
+        <div class="quiz-en-solution" style="border-top:none; padding-top:0; margin-top:0;">
+          <div class="quiz-en-text" id="clozeEnText" style="font-size:1.05rem;">...</div>
+        </div>
+        <div class="cloze-options" id="clozeOptions"></div>
+        <div class="quiz-timer-label" id="clozeFeedback">&nbsp;</div>
+      </div>
+
+      <div id="clozeSummary" class="quiz-card" style="display:none;">
+        <div class="quiz-es-prompt" id="clozeSummaryText">...</div>
+        <div class="modal-btn-row" style="justify-content:center;">
+          <button class="btn-modal-action" style="background: var(--accent); color: var(--bg);" onclick="startClozeSession()">🔁 Repetir Ronda</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
   <!-- Persistent Bottom Player -->
   <footer class="player-bar">
     <div class="player-info">
@@ -1418,6 +1564,7 @@
   </footer>
 
   <script src="data.js"></script>
+  <script src="srs.js"></script>
   <script>
     let currentData = window.PHRASAL_DATA || [];
     let filteredData = [...currentData];
@@ -1479,6 +1626,7 @@
               <div class="card-id-verb">
                 <span class="card-id">#${item.id}</span>
                 <span class="card-verb">${item.phrasal_verb}</span>
+                ${item.ipa ? `<span class="ipa-badge" title="US: ${item.ipa.us}">${item.ipa.uk}</span>` : ''}
                 <span class="badge-type ${typeClass}">${typeLabel}</span>
                 <button class="status-chip ${statusMeta.cls}" id="status-chip-${item.id}" onclick="cycleCardStatus(${item.id}, event)" title="Toca para cambiar tu nivel de dominio">
                   <span class="dot"></span>${statusMeta.label}
@@ -1538,6 +1686,8 @@
           matchesFilter = cardStatuses[item.id] === 'in_progress';
         } else if (filter === 'STATUS_MASTERED') {
           matchesFilter = cardStatuses[item.id] === 'mastered';
+        } else if (filter === 'SRS_DUE') {
+          matchesFilter = srsIsDueToday(item.id);
         } else if (filter === 'TYPE_DRILL') {
           matchesFilter = item.type === 'drill';
         } else if (filter === 'TYPE_STORY') {
@@ -1722,6 +1872,10 @@
       activeModalItem = item;
       stopHandsFreeShadowing();
       stopPhraseLoop();
+      resetModalPhase();
+      playedDrillIndices = new Set();
+      const ratingRow = document.getElementById('modalSrsRating');
+      if (ratingRow) ratingRow.style.display = 'none';
 
       const isDrill = item.type === 'drill';
       const typeBadge = document.getElementById('modalTypeBadge');
@@ -1730,6 +1884,14 @@
 
       document.getElementById('modalId').textContent = `#${item.id}`;
       document.getElementById('modalVerb').textContent = item.phrasal_verb;
+
+      const ipaEl = document.getElementById('modalIpa');
+      if (item.ipa) {
+        ipaEl.innerHTML = `<span title="Reino Unido (RP)">🇬🇧 ${item.ipa.uk}</span> &nbsp; <span title="Estados Unidos">🇺🇸 ${item.ipa.us}</span>`;
+        ipaEl.style.display = 'block';
+      } else {
+        ipaEl.style.display = 'none';
+      }
       document.getElementById('modalMeaning').textContent = item.meaning_es;
       document.getElementById('modalSituation').textContent = `Categoría: ${item.situation || 'General'}`;
 
@@ -1788,6 +1950,65 @@
       });
     }
 
+    // Metodología de Shadowing en 3 Pasadas (Sprint 3.2): Comprender -> Escuchar -> Shadowing ciego
+    let modalPhase = 1;
+    let phasePrevBlur = null; // estado de blur manual del usuario, restaurado al salir de la Fase 3
+    let phasePrevConnected = null; // estado de Enlaces del usuario, restaurado al salir de la Fase 2/3
+
+    function resetModalPhase() {
+      modalPhase = 1;
+      phasePrevBlur = null;
+      phasePrevConnected = null;
+      for (let p = 1; p <= 3; p++) {
+        const pill = document.getElementById(`phasePill${p}`);
+        if (pill) pill.classList.toggle('active', p === 1);
+      }
+      const container = document.getElementById('modalDrillsList');
+      if (container) container.classList.remove('phase-2', 'phase-3');
+    }
+
+    function getPhaseRate() {
+      return modalPhase === 2 ? 0.9 : 1.0;
+    }
+
+    function setModalPhase(phase) {
+      modalPhase = phase;
+      for (let p = 1; p <= 3; p++) {
+        const pill = document.getElementById(`phasePill${p}`);
+        if (pill) pill.classList.toggle('active', p === phase);
+      }
+
+      const container = document.getElementById('modalDrillsList');
+      if (container) {
+        container.classList.toggle('phase-2', phase === 2);
+        container.classList.toggle('phase-3', phase === 3);
+      }
+
+      // Fase 2 y 3 activan Connected Speech aunque el usuario lo tuviera en OFF (no se persiste el cambio).
+      if (phase >= 2) {
+        if (phasePrevConnected === null) phasePrevConnected = connectedSpeechEnabled;
+        connectedSpeechEnabled = true;
+      } else if (phasePrevConnected !== null) {
+        connectedSpeechEnabled = phasePrevConnected;
+        phasePrevConnected = null;
+      }
+
+      // Fase 3 fuerza el desenfoque total, reutilizando `.blurred`/`blurEnglish` en vez de un blur paralelo.
+      if (phase === 3) {
+        if (phasePrevBlur === null) phasePrevBlur = blurEnglish;
+        blurEnglish = true;
+      } else if (phasePrevBlur !== null) {
+        blurEnglish = phasePrevBlur;
+        phasePrevBlur = null;
+      }
+
+      if (activeModalItem) renderModalDrillsList(activeModalItem);
+    }
+
+    function nextModalPhase() {
+      setModalPhase(modalPhase >= 3 ? 1 : modalPhase + 1);
+    }
+
     function copyPromptForAI() {
       if (!activeModalItem) return;
       const item = activeModalItem;
@@ -1806,6 +2027,35 @@ ${drillLines}`;
       });
     }
 
+    // Generador de Micro-Lecturas e Historias i+1 (Sprint 3.3)
+    function generateFocusStoryPrompt() {
+      let pool = currentData.filter(x => cardStatuses[x.id] === 'focus');
+      if (!pool.length) pool = currentData.filter(x => cardStatuses[x.id] === 'in_progress');
+      if (!pool.length) {
+        alert('Aún no tienes verbos marcados en 🔴 Focus ni en 🟡 Progreso. Marca algunos primero desde una tarjeta.');
+        return;
+      }
+
+      const uniqueVerbs = [];
+      const seen = new Set();
+      for (const item of pool) {
+        const key = item.phrasal_verb.toLowerCase();
+        if (seen.has(key)) continue;
+        seen.add(key);
+        uniqueVerbs.push(item);
+        if (uniqueVerbs.length >= 3) break;
+      }
+
+      const verbList = uniqueVerbs.map(v => `${v.phrasal_verb} (${v.meaning_es})`).join(', ');
+      const promptText = `Actúa como mi tutor de inglés. Escribe un diálogo cotidiano de nivel A2/B1 de 10 líneas ambientado en el trabajo o un viaje que incluya de forma obligatoria y natural estos phrasal verbs: ${verbList}. Resalta cada phrasal verb en negrita y añade su equivalente formal entre corchetes. Al terminar de leerlo, lánzamelo frase a frase para hacer shadowing oral.`;
+
+      navigator.clipboard.writeText(promptText).then(() => {
+        alert('✅ Prompt de Historia i+1 copiado al portapapeles. Pégalo en ChatGPT o Claude.');
+      }).catch(() => {
+        window.prompt('Copia este texto manualmente:', promptText);
+      });
+    }
+
     // Speech Synthesis (Audio Nativo por Frase)
     let englishVoice = null;
     function loadVoices() {
@@ -1820,7 +2070,7 @@ ${drillLines}`;
       window.speechSynthesis.onvoiceschanged = loadVoices;
     }
 
-    function speakText(text, onEnd) {
+    function speakText(text, onEnd, rateOverride) {
       if (!('speechSynthesis' in window)) {
         if (onEnd) onEnd();
         return;
@@ -1829,7 +2079,7 @@ ${drillLines}`;
       const utter = new SpeechSynthesisUtterance(text);
       if (englishVoice) utter.voice = englishVoice;
       utter.lang = 'en-US';
-      utter.rate = playbackSpeed;
+      utter.rate = rateOverride || playbackSpeed;
       utter.onend = () => { if (onEnd) onEnd(); };
       utter.onerror = () => { if (onEnd) onEnd(); };
       window.speechSynthesis.speak(utter);
@@ -1837,7 +2087,37 @@ ${drillLines}`;
 
     function speakDrillPhrase(index, onEnd) {
       if (!activeModalItem || !activeModalItem.drills || !activeModalItem.drills[index]) return;
-      speakText(activeModalItem.drills[index].en, onEnd);
+      markDrillPhrasePlayed(index);
+      speakText(activeModalItem.drills[index].en, onEnd, getPhaseRate());
+    }
+
+    // Repaso Espaciado (Sprint 3.5): "drill completado" = todas sus frases reproducidas
+    // al menos una vez en la sesión actual (por 🔊 Escuchar o por el bucle de la 2.3).
+    let playedDrillIndices = new Set();
+
+    function markDrillPhrasePlayed(index) {
+      if (!activeModalItem || !activeModalItem.drills) return;
+      playedDrillIndices.add(index);
+      if (playedDrillIndices.size >= activeModalItem.drills.length) {
+        const ratingRow = document.getElementById('modalSrsRating');
+        if (ratingRow) ratingRow.style.display = 'flex';
+      }
+    }
+
+    function rateSrsAndAdvance(rating) {
+      if (!activeModalItem) return;
+      const { newStatus } = srsRateItem(activeModalItem.id, rating);
+      if (newStatus) applyCardStatus(activeModalItem.id, newStatus);
+
+      const ratingRow = document.getElementById('modalSrsRating');
+      if (ratingRow) ratingRow.style.display = 'none';
+
+      const duePool = filteredData.filter(x => x.id !== activeModalItem.id && srsIsDueToday(x.id));
+      if (duePool.length) {
+        openDetails(duePool[0].id);
+      } else {
+        closeModal();
+      }
     }
 
     // Bucle Frase a Frase (Sprint 2.3)
@@ -2232,6 +2512,154 @@ ${drillLines}`;
       loadNextQuizQuestion();
     }
 
+    // Modo Cloze: Test Rápido de Partícula (Sprint 3.1)
+    const CLOZE_PARTICLES = ['up', 'down', 'in', 'out', 'off', 'on', 'away', 'back', 'over'];
+    const CLOZE_ROUND_SIZE = 10;
+    const CLOZE_TIME_MS = 2000;
+    const CLOZE_FAST_THRESHOLD_S = 1.5;
+    let clozeQuestions = [];
+    let clozeIndex = 0;
+    let clozeCorrectCount = 0;
+    let clozeResponseTimes = [];
+    let clozeQuestionStart = 0;
+    let clozeTimerId = null;
+    let clozeAnswered = false;
+
+    function escapeRegExp(s) {
+      return s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+    }
+
+    function shuffleInPlace(arr) {
+      for (let i = arr.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [arr[i], arr[j]] = [arr[j], arr[i]];
+      }
+      return arr;
+    }
+
+    // Ancla la búsqueda a "base_verb + partícula" (no un `\bup\b` global) para no ocultar
+    // una ocurrencia de la partícula que no sea la del phrasal verb objetivo.
+    function buildClozeQuestion() {
+      const candidates = currentData.filter(x => x.base_verb && x.particle && x.drills && x.drills.length);
+      if (!candidates.length) return null;
+      for (let attempt = 0; attempt < 30; attempt++) {
+        const item = candidates[Math.floor(Math.random() * candidates.length)];
+        const particle = item.particle.toLowerCase();
+        if (!CLOZE_PARTICLES.includes(particle)) continue;
+        const drill = item.drills[Math.floor(Math.random() * item.drills.length)];
+        const re = new RegExp('\\b(' + escapeRegExp(item.base_verb) + ')(\\s+)(' + escapeRegExp(particle) + ')\\b', 'i');
+        const match = drill.en.match(re);
+        if (!match) continue;
+
+        const enBlanked = drill.en.slice(0, match.index) + match[1] + match[2] + '[ ____ ]' + drill.en.slice(match.index + match[0].length);
+        const distractors = shuffleInPlace(CLOZE_PARTICLES.filter(p => p !== particle)).slice(0, 3);
+        const options = shuffleInPlace([particle, ...distractors]);
+
+        return { item, particle, esPrompt: drill.es, enBlanked, enFull: drill.en, options };
+      }
+      return null;
+    }
+
+    function startClozeSession() {
+      clozeQuestions = [];
+      for (let i = 0; i < CLOZE_ROUND_SIZE; i++) {
+        const q = buildClozeQuestion();
+        if (q) clozeQuestions.push(q);
+      }
+      clozeIndex = 0;
+      clozeCorrectCount = 0;
+      clozeResponseTimes = [];
+      document.getElementById('clozeSummary').style.display = 'none';
+      document.querySelector('#clozeModal .quiz-card').style.display = 'block';
+      renderClozeQuestion();
+    }
+
+    function openClozeModal() {
+      document.getElementById('clozeModal').classList.add('active');
+      startClozeSession();
+    }
+
+    function closeClozeModal() {
+      if (clozeTimerId) clearTimeout(clozeTimerId);
+      if (window.speechSynthesis) window.speechSynthesis.cancel();
+      document.getElementById('clozeModal').classList.remove('active');
+    }
+
+    function closeClozeModalOnBackdrop(e) {
+      if (e.target.id === 'clozeModal') closeClozeModal();
+    }
+
+    function renderClozeQuestion() {
+      if (clozeTimerId) clearTimeout(clozeTimerId);
+      if (clozeIndex >= clozeQuestions.length) {
+        finishClozeSession();
+        return;
+      }
+      clozeAnswered = false;
+      const q = clozeQuestions[clozeIndex];
+      document.getElementById('clozeProgress').textContent = `Pregunta ${clozeIndex + 1} de ${clozeQuestions.length}`;
+      document.getElementById('clozeEsPrompt').textContent = q.esPrompt;
+      document.getElementById('clozeEnText').textContent = q.enBlanked;
+      document.getElementById('clozeFeedback').innerHTML = '&nbsp;';
+
+      const optsContainer = document.getElementById('clozeOptions');
+      optsContainer.innerHTML = q.options.map(opt => `<button class="btn-cloze-option" onclick="answerCloze('${opt}')">${opt}</button>`).join('');
+
+      const timerBar = document.getElementById('clozeTimerBar');
+      timerBar.style.transition = 'none';
+      timerBar.style.width = '100%';
+      void timerBar.offsetWidth; // forzar reflow
+      timerBar.style.transition = `width ${CLOZE_TIME_MS}ms linear`;
+      timerBar.style.width = '0%';
+
+      clozeQuestionStart = performance.now();
+      clozeTimerId = setTimeout(() => answerCloze(null), CLOZE_TIME_MS);
+    }
+
+    function answerCloze(chosen) {
+      if (clozeAnswered) return;
+      clozeAnswered = true;
+      if (clozeTimerId) { clearTimeout(clozeTimerId); clozeTimerId = null; }
+
+      const elapsedS = (performance.now() - clozeQuestionStart) / 1000;
+      const q = clozeQuestions[clozeIndex];
+      const isCorrect = chosen === q.particle;
+
+      document.querySelectorAll('.btn-cloze-option').forEach(btn => {
+        btn.disabled = true;
+        if (btn.textContent === q.particle) btn.classList.add('correct');
+        else if (btn.textContent === chosen) btn.classList.add('incorrect');
+      });
+
+      let advanceDelay = 1400;
+      if (isCorrect) {
+        clozeCorrectCount++;
+        clozeResponseTimes.push(elapsedS);
+        document.getElementById('clozeFeedback').textContent = elapsedS < CLOZE_FAST_THRESHOLD_S
+          ? `✅ +100 pts (${elapsedS.toFixed(1)}s)`
+          : `✅ Correcto (${elapsedS.toFixed(1)}s)`;
+        advanceDelay = 250;
+      } else {
+        document.getElementById('clozeEnText').textContent = q.enFull;
+        speakText(q.particle);
+        document.getElementById('clozeFeedback').textContent = chosen ? `❌ Era "${q.particle}"` : `⏰ ¡Tiempo! Era "${q.particle}"`;
+      }
+
+      clozeTimerId = setTimeout(() => {
+        clozeIndex++;
+        renderClozeQuestion();
+      }, advanceDelay);
+    }
+
+    function finishClozeSession() {
+      document.querySelector('#clozeModal .quiz-card').style.display = 'none';
+      const avg = clozeResponseTimes.length
+        ? (clozeResponseTimes.reduce((a, b) => a + b, 0) / clozeResponseTimes.length).toFixed(1)
+        : '-';
+      document.getElementById('clozeSummaryText').textContent = `${clozeCorrectCount}/${clozeQuestions.length} acertadas. Tiempo medio: ${avg}s`;
+      document.getElementById('clozeSummary').style.display = 'block';
+    }
+
     // Status Management
     function statusChipMeta(status) {
       if (status === 'focus') return { cls: 'status-focus', label: 'Focus' };
@@ -2255,7 +2683,7 @@ ${drillLines}`;
         updateModalStatusPills();
       }
 
-      if (['STATUS_FOCUS', 'STATUS_PROGRESS', 'STATUS_MASTERED'].includes(currentFilter)) {
+      if (['STATUS_FOCUS', 'STATUS_PROGRESS', 'STATUS_MASTERED', 'SRS_DUE'].includes(currentFilter)) {
         applyFilters(searchInput.value.toLowerCase().trim(), currentFilter);
       }
 
@@ -2318,6 +2746,11 @@ ${drillLines}`;
       if (chipFocus) chipFocus.textContent = `🔴 Focus (${focus})`;
       if (chipProgress) chipProgress.textContent = `🟡 Progreso (${progress})`;
       if (chipMastered) chipMastered.textContent = `🟢 Dominados (${mastered})`;
+
+      const dueCountEl = document.getElementById('dueCount');
+      if (dueCountEl && typeof currentData !== 'undefined') {
+        dueCountEl.textContent = srsDueCount(currentData.map(x => x.id));
+      }
 
       const statFocus = document.getElementById('statCountFocus');
       const statProgress = document.getElementById('statCountProgress');

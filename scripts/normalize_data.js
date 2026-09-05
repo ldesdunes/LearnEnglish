@@ -105,6 +105,9 @@ function generateKnowledgeText(items, outPath) {
     if (item.formal_synonyms && item.formal_synonyms.length) {
       lines.push(`- Equivalentes formales latinos: ${item.formal_synonyms.join(', ')}`);
     }
+    if (item.ipa) {
+      lines.push(`- Pronunciación IPA: UK ${item.ipa.uk} | US ${item.ipa.us}`);
+    }
     lines.push(`- Situación de uso: ${item.situation || 'General'}`);
     if (item.tags_es && item.tags_es.length) {
       lines.push(`- Conceptos clave (ES): ${item.tags_es.join(', ')}`);

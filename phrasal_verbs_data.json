@@ -74,7 +74,11 @@
     "track_type_label": "🎯 Práctica Guiada",
     "formal_synonyms": [
       "ascend"
-    ]
+    ],
+    "ipa": {
+      "uk": "/ɡˈəʊ ˈʌp/",
+      "us": "/ˈɡoʊ ˈəp/"
+    }
   },
   {
     "id": 2,
@@ -141,7 +145,11 @@
     "track_type_label": "📖 Historia en Contexto",
     "formal_synonyms": [
       "ascend"
-    ]
+    ],
+    "ipa": {
+      "uk": "/ɡˈəʊ ˈʌp/",
+      "us": "/ˈɡoʊ ˈəp/"
+    }
   },
   {
     "id": 3,
@@ -221,7 +229,11 @@
     "track_type_label": "🎯 Práctica Guiada",
     "formal_synonyms": [
       "collect"
-    ]
+    ],
+    "ipa": {
+      "uk": "/pˈɪk ˈʌp/",
+      "us": "/ˈpɪk ˈəp/"
+    }
   },
   {
     "id": 4,
@@ -292,7 +304,11 @@
     "track_type_label": "📖 Historia en Contexto",
     "formal_synonyms": [
       "collect"
-    ]
+    ],
+    "ipa": {
+      "uk": "/pˈɪk ˈʌp/",
+      "us": "/ˈpɪk ˈəp/"
+    }
   },
   {
     "id": 5,
@@ -368,7 +384,11 @@
     "track_type_label": "🎯 Práctica Guiada",
     "formal_synonyms": [
       "ascend"
-    ]
+    ],
+    "ipa": {
+      "uk": "/klˈaɪm ˈʌp/",
+      "us": "/ˈkɫaɪm ˈəp/"
+    }
   },
   {
     "id": 6,
@@ -437,7 +457,11 @@
     "track_type_label": "📖 Historia en Contexto",
     "formal_synonyms": [
       "ascend"
-    ]
+    ],
+    "ipa": {
+      "uk": "/klˈaɪm ˈʌp/",
+      "us": "/ˈkɫaɪm ˈəp/"
+    }
   },
   {
     "id": 7,
@@ -516,7 +540,11 @@
     "formal_synonyms": [
       "inflate",
       "enlarge"
-    ]
+    ],
+    "ipa": {
+      "uk": "/blˈəʊ ˈʌp/",
+      "us": "/ˈbɫoʊ ˈəp/"
+    }
   },
   {
     "id": 8,
@@ -575,7 +603,11 @@
     "formal_synonyms": [
       "inflate",
       "enlarge"
-    ]
+    ],
+    "ipa": {
+      "uk": "/blˈəʊ ˈʌp/",
+      "us": "/ˈbɫoʊ ˈəp/"
+    }
   },
   {
     "id": 9,
@@ -654,7 +686,11 @@
     "track_type_label": "🎯 Práctica Guiada",
     "formal_synonyms": [
       "replenish"
-    ]
+    ],
+    "ipa": {
+      "uk": "/fˈɪl ˈʌp/",
+      "us": "/ˈfɪɫ ˈəp/"
+    }
   },
   {
     "id": 10,
@@ -701,7 +737,11 @@
     "track_type_label": "📖 Historia en Contexto",
     "formal_synonyms": [
       "replenish"
-    ]
+    ],
+    "ipa": {
+      "uk": "/fˈɪl ˈʌp/",
+      "us": "/ˈfɪɫ ˈəp/"
+    }
   },
   {
     "id": 11,
@@ -773,7 +813,11 @@
     ],
     "type": "drill",
     "pair_id": 12,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "ipa": {
+      "uk": "/spˈiːk ˈʌp/",
+      "us": "/ˈspik ˈəp/"
+    }
   },
   {
     "id": 12,
@@ -823,7 +867,11 @@
     ],
     "pair_id": 11,
     "track_type_label": "📖 Historia en Contexto",
-    "story_title": "Story: Speak up"
+    "story_title": "Story: Speak up",
+    "ipa": {
+      "uk": "/spˈiːk ˈʌp/",
+      "us": "/ˈspik ˈəp/"
+    }
   },
   {
     "id": 13,
@@ -898,7 +946,11 @@
     "track_type_label": "🎯 Práctica Guiada",
     "formal_synonyms": [
       "accelerate"
-    ]
+    ],
+    "ipa": {
+      "uk": "/spˈiːd ˈʌp/",
+      "us": "/ˈspid ˈəp/"
+    }
   },
   {
     "id": 14,
@@ -951,7 +1003,11 @@
     "story_title": "Story: Speed Up",
     "formal_synonyms": [
       "accelerate"
-    ]
+    ],
+    "ipa": {
+      "uk": "/spˈiːd ˈʌp/",
+      "us": "/ˈspid ˈəp/"
+    }
   },
   {
     "id": 15,
@@ -1028,7 +1084,11 @@
     "track_type_label": "🎯 Práctica Guiada",
     "formal_synonyms": [
       "increase"
-    ]
+    ],
+    "ipa": {
+      "uk": "/tˈɜːn ˈʌp/",
+      "us": "/ˈtɝn ˈəp/"
+    }
   },
   {
     "id": 16,
@@ -1107,7 +1167,11 @@
     "track_type_label": "📖 Historia en Contexto",
     "formal_synonyms": [
       "increase"
-    ]
+    ],
+    "ipa": {
+      "uk": "/tˈɜːn ˈʌp/",
+      "us": "/ˈtɝn ˈəp/"
+    }
   },
   {
     "id": 17,
@@ -1183,7 +1247,11 @@
     "track_type_label": "🎯 Práctica Guiada",
     "formal_synonyms": [
       "separate"
-    ]
+    ],
+    "ipa": {
+      "uk": "/bɹˈeɪk ˈʌp/",
+      "us": "/ˈbɹeɪk ˈəp/"
+    }
   },
   {
     "id": 18,
@@ -1245,7 +1313,11 @@
     "track_type_label": "📖 Historia en Contexto",
     "formal_synonyms": [
       "separate"
-    ]
+    ],
+    "ipa": {
+      "uk": "/bɹˈeɪk ˈʌp/",
+      "us": "/ˈbɹeɪk ˈəp/"
+    }
   },
   {
     "id": 19,
@@ -1322,7 +1394,11 @@
     "track_type_label": "🎯 Práctica Guiada",
     "formal_synonyms": [
       "conclude"
-    ]
+    ],
+    "ipa": {
+      "uk": "/ˈɛnd ˈʌp/",
+      "us": "/ˈɛnd ˈəp/"
+    }
   },
   {
     "id": 20,
@@ -1386,7 +1462,11 @@
     "story_title": "Story: Hitchhiking and Ending Up",
     "formal_synonyms": [
       "conclude"
-    ]
+    ],
+    "ipa": {
+      "uk": "/ˈɛnd ˈʌp/",
+      "us": "/ˈɛnd ˈəp/"
+    }
   },
   {
     "id": 21,
@@ -1464,7 +1544,11 @@
     "formal_synonyms": [
       "abandon",
       "surrender"
-    ]
+    ],
+    "ipa": {
+      "uk": "/ɡˈɪv ˈʌp/",
+      "us": "/ˈɡɪv ˈəp/"
+    }
   },
   {
     "id": 22,
@@ -1522,7 +1606,11 @@
     "formal_synonyms": [
       "abandon",
       "surrender"
-    ]
+    ],
+    "ipa": {
+      "uk": "/ɡˈɪv ˈʌp/",
+      "us": "/ˈɡɪv ˈəp/"
+    }
   },
   {
     "id": 23,
@@ -1601,7 +1689,11 @@
     "track_type_label": "🎯 Práctica Guiada",
     "formal_synonyms": [
       "terminate"
-    ]
+    ],
+    "ipa": {
+      "uk": "/hˈæŋ ˈʌp/",
+      "us": "/ˈhæŋ ˈəp/"
+    }
   },
   {
     "id": 24,
@@ -1666,7 +1758,11 @@
     "track_type_label": "📖 Historia en Contexto",
     "formal_synonyms": [
       "terminate"
-    ]
+    ],
+    "ipa": {
+      "uk": "/hˈæŋ ˈʌp/",
+      "us": "/ˈhæŋ ˈəp/"
+    }
   },
   {
     "id": 25,
@@ -1888,7 +1984,11 @@
     "track_type_label": "🎯 Práctica Guiada",
     "formal_synonyms": [
       "awaken"
-    ]
+    ],
+    "ipa": {
+      "uk": "/wˈeɪk ˈʌp/",
+      "us": "/ˈweɪk ˈəp/"
+    }
   },
   {
     "id": 28,
@@ -1954,7 +2054,11 @@
     "track_type_label": "📖 Historia en Contexto",
     "formal_synonyms": [
       "awaken"
-    ]
+    ],
+    "ipa": {
+      "uk": "/wˈeɪk ˈʌp/",
+      "us": "/ˈweɪk ˈəp/"
+    }
   },
   {
     "id": 29,
@@ -2026,7 +2130,11 @@
     ],
     "type": "drill",
     "pair_id": 30,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "ipa": {
+      "uk": "/wˈeɪt ˈʌp/",
+      "us": "/ˈweɪt ˈəp/"
+    }
   },
   {
     "id": 30,
@@ -2085,7 +2193,11 @@
       }
     ],
     "pair_id": 29,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "ipa": {
+      "uk": "/wˈeɪt ˈʌp/",
+      "us": "/ˈweɪt ˈəp/"
+    }
   },
   {
     "id": 31,
@@ -2157,7 +2269,11 @@
     ],
     "type": "drill",
     "pair_id": 32,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "ipa": {
+      "uk": "/stˈeɪ ˈʌp/",
+      "us": "/ˈsteɪ ˈəp/"
+    }
   },
   {
     "id": 32,
@@ -2210,7 +2326,11 @@
       }
     ],
     "pair_id": 31,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "ipa": {
+      "uk": "/stˈeɪ ˈʌp/",
+      "us": "/ˈsteɪ ˈəp/"
+    }
   },
   {
     "id": 33,
@@ -2285,7 +2405,11 @@
     "track_type_label": "🎯 Práctica Guiada",
     "formal_synonyms": [
       "rise"
-    ]
+    ],
+    "ipa": {
+      "uk": "/ɡˈɛt ˈʌp/",
+      "us": "/ˈɡɛt ˈəp/"
+    }
   },
   {
     "id": 34,
@@ -2410,7 +2534,11 @@
     "track_type_label": "📖 Historia en Contexto",
     "formal_synonyms": [
       "rise"
-    ]
+    ],
+    "ipa": {
+      "uk": "/ɡˈɛt ˈʌp/",
+      "us": "/ˈɡɛt ˈəp/"
+    }
   },
   {
     "id": 35,
@@ -2485,7 +2613,11 @@
     "track_type_label": "🎯 Práctica Guiada",
     "formal_synonyms": [
       "reach"
-    ]
+    ],
+    "ipa": {
+      "uk": "/kˈætʃ ˈʌp/",
+      "us": "/ˈkætʃ ˈəp/"
+    }
   },
   {
     "id": 36,
@@ -2538,7 +2670,11 @@
     "track_type_label": "📖 Historia en Contexto",
     "formal_synonyms": [
       "reach"
-    ]
+    ],
+    "ipa": {
+      "uk": "/kˈætʃ ˈʌp/",
+      "us": "/ˈkætʃ ˈəp/"
+    }
   },
   {
     "id": 37,
@@ -2619,7 +2755,11 @@
     "track_type_label": "🎯 Práctica Guiada",
     "formal_synonyms": [
       "arise"
-    ]
+    ],
+    "ipa": {
+      "uk": "/kˈʌm ˈʌp/",
+      "us": "/ˈkəm ˈəp/"
+    }
   },
   {
     "id": 38,
@@ -2686,7 +2826,11 @@
     "story_title": "Story: The short arm of the law",
     "formal_synonyms": [
       "arise"
-    ]
+    ],
+    "ipa": {
+      "uk": "/kˈʌm ˈʌp/",
+      "us": "/ˈkəm ˈəp/"
+    }
   },
   {
     "id": 39,
@@ -2761,7 +2905,11 @@
     "track_type_label": "🎯 Práctica Guiada",
     "formal_synonyms": [
       "ascend"
-    ]
+    ],
+    "ipa": {
+      "uk": "/ɡˈəʊ ˈʌp/",
+      "us": "/ˈɡoʊ ˈəp/"
+    }
   },
   {
     "id": 40,
@@ -2889,7 +3037,11 @@
     "formal_synonyms": [
       "invent",
       "fabricate"
-    ]
+    ],
+    "ipa": {
+      "uk": "/mˈeɪk ˈʌp/",
+      "us": "/ˈmeɪk ˈəp/"
+    }
   },
   {
     "id": 42,
@@ -2946,7 +3098,11 @@
     "formal_synonyms": [
       "invent",
       "fabricate"
-    ]
+    ],
+    "ipa": {
+      "uk": "/mˈeɪk ˈʌp/",
+      "us": "/ˈmeɪk ˈəp/"
+    }
   },
   {
     "id": 43,
@@ -3026,7 +3182,11 @@
     "formal_synonyms": [
       "draft",
       "prepare"
-    ]
+    ],
+    "ipa": {
+      "uk": "/dɹˈɔː ˈʌp/",
+      "us": "/ˈdɹɔ ˈəp/"
+    }
   },
   {
     "id": 44,
@@ -3082,7 +3242,11 @@
     "formal_synonyms": [
       "draft",
       "prepare"
-    ]
+    ],
+    "ipa": {
+      "uk": "/dɹˈɔː ˈʌp/",
+      "us": "/ˈdɹɔ ˈəp/"
+    }
   },
   {
     "id": 45,
@@ -3349,7 +3513,11 @@
     "track_type_label": "🎯 Práctica Guiada",
     "formal_synonyms": [
       "commence"
-    ]
+    ],
+    "ipa": {
+      "uk": "/tˈeɪk ˈʌp/",
+      "us": "/ˈteɪk ˈəp/"
+    }
   },
   {
     "id": 48,
@@ -3410,7 +3578,11 @@
     "track_type_label": "📖 Historia en Contexto",
     "formal_synonyms": [
       "commence"
-    ]
+    ],
+    "ipa": {
+      "uk": "/tˈeɪk ˈʌp/",
+      "us": "/ˈteɪk ˈəp/"
+    }
   },
   {
     "id": 49,
@@ -3491,7 +3663,11 @@
     "formal_synonyms": [
       "establish",
       "install"
-    ]
+    ],
+    "ipa": {
+      "uk": "/sˈɛt ˈʌp/",
+      "us": "/ˈsɛt ˈəp/"
+    }
   },
   {
     "id": 50,
@@ -3570,7 +3746,11 @@
     "formal_synonyms": [
       "establish",
       "install"
-    ]
+    ],
+    "ipa": {
+      "uk": "/sˈɛt ˈʌp/",
+      "us": "/ˈsɛt ˈəp/"
+    }
   },
   {
     "id": 51,
@@ -3650,7 +3830,11 @@
     "track_type_label": "🎯 Práctica Guiada",
     "formal_synonyms": [
       "initiate"
-    ]
+    ],
+    "ipa": {
+      "uk": "/stˈɑːt ˈʌp/",
+      "us": "/ˈstɑɹt ˈəp/"
+    }
   },
   {
     "id": 52,
@@ -3706,7 +3890,11 @@
     "track_type_label": "📖 Historia en Contexto",
     "formal_synonyms": [
       "initiate"
-    ]
+    ],
+    "ipa": {
+      "uk": "/stˈɑːt ˈʌp/",
+      "us": "/ˈstɑɹt ˈəp/"
+    }
   },
   {
     "id": 53,
@@ -3784,7 +3972,11 @@
     "formal_synonyms": [
       "enroll",
       "register"
-    ]
+    ],
+    "ipa": {
+      "uk": "/sˈaɪn ˈʌp/",
+      "us": "/ˈsaɪn ˈəp/"
+    }
   },
   {
     "id": 54,
@@ -3838,7 +4030,11 @@
     "formal_synonyms": [
       "enroll",
       "register"
-    ]
+    ],
+    "ipa": {
+      "uk": "/sˈaɪn ˈʌp/",
+      "us": "/ˈsaɪn ˈəp/"
+    }
   },
   {
     "id": 55,
@@ -3913,7 +4109,11 @@
     "track_type_label": "🎯 Práctica Guiada",
     "formal_synonyms": [
       "support"
-    ]
+    ],
+    "ipa": {
+      "uk": "/bˈæk ˈʌp/",
+      "us": "/ˈbæk ˈəp/"
+    }
   },
   {
     "id": 56,
@@ -3968,7 +4168,11 @@
     "track_type_label": "📖 Historia en Contexto",
     "formal_synonyms": [
       "support"
-    ]
+    ],
+    "ipa": {
+      "uk": "/bˈæk ˈʌp/",
+      "us": "/ˈbæk ˈəp/"
+    }
   },
   {
     "id": 57,
@@ -4042,7 +4246,11 @@
     ],
     "type": "drill",
     "pair_id": 58,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "ipa": {
+      "uk": "/dɹˈɛs ˈʌp/",
+      "us": "/ˈdɹɛs ˈəp/"
+    }
   },
   {
     "id": 58,
@@ -4087,7 +4295,11 @@
     ],
     "type": "story",
     "pair_id": 57,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "ipa": {
+      "uk": "/dɹˈɛs ˈʌp/",
+      "us": "/ˈdɹɛs ˈəp/"
+    }
   },
   {
     "id": 59,
@@ -4164,7 +4376,11 @@
     "track_type_label": "🎯 Práctica Guiada",
     "formal_synonyms": [
       "consult"
-    ]
+    ],
+    "ipa": {
+      "uk": "/lˈʊk ˈʌp/",
+      "us": "/ˈɫʊk ˈəp/"
+    }
   },
   {
     "id": 60,
@@ -4215,7 +4431,11 @@
     "track_type_label": "📖 Historia en Contexto",
     "formal_synonyms": [
       "consult"
-    ]
+    ],
+    "ipa": {
+      "uk": "/lˈʊk ˈʌp/",
+      "us": "/ˈɫʊk ˈəp/"
+    }
   },
   {
     "id": 61,
@@ -4291,7 +4511,11 @@
     "formal_synonyms": [
       "invent",
       "fabricate"
-    ]
+    ],
+    "ipa": {
+      "uk": "/mˈeɪk ˈʌp/",
+      "us": "/ˈmeɪk ˈəp/"
+    }
   },
   {
     "id": 62,
@@ -4348,7 +4572,11 @@
     "formal_synonyms": [
       "invent",
       "fabricate"
-    ]
+    ],
+    "ipa": {
+      "uk": "/mˈeɪk ˈʌp/",
+      "us": "/ˈmeɪk ˈəp/"
+    }
   },
   {
     "id": 63,
@@ -4428,7 +4656,11 @@
     "track_type_label": "🎯 Práctica Guiada",
     "formal_synonyms": [
       "descend"
-    ]
+    ],
+    "ipa": {
+      "uk": "/ɡˈəʊ dˈaʊn/",
+      "us": "/ˈɡoʊ ˈdaʊn/"
+    }
   },
   {
     "id": 64,
@@ -4486,7 +4718,11 @@
     "track_type_label": "📖 Historia en Contexto",
     "formal_synonyms": [
       "descend"
-    ]
+    ],
+    "ipa": {
+      "uk": "/ɡˈəʊ dˈaʊn/",
+      "us": "/ˈɡoʊ ˈdaʊn/"
+    }
   },
   {
     "id": 65,
@@ -4712,7 +4948,11 @@
     ],
     "type": "drill",
     "pair_id": 68,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "ipa": {
+      "uk": "/sˈɪt dˈaʊn/",
+      "us": "/ˈsɪt ˈdaʊn/"
+    }
   },
   {
     "id": 68,
@@ -4783,7 +5023,11 @@
     ],
     "type": "story",
     "pair_id": 67,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "ipa": {
+      "uk": "/sˈɪt dˈaʊn/",
+      "us": "/ˈsɪt ˈdaʊn/"
+    }
   },
   {
     "id": 69,
@@ -4860,7 +5104,11 @@
     ],
     "type": "drill",
     "pair_id": 70,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "ipa": {
+      "uk": "/lˈaɪ dˈaʊn/",
+      "us": "/ˈɫaɪ ˈdaʊn/"
+    }
   },
   {
     "id": 70,
@@ -4914,7 +5162,11 @@
       }
     ],
     "pair_id": 69,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "ipa": {
+      "uk": "/lˈaɪ dˈaʊn/",
+      "us": "/ˈɫaɪ ˈdaʊn/"
+    }
   },
   {
     "id": 71,
@@ -4992,7 +5244,11 @@
     "track_type_label": "🎯 Práctica Guiada",
     "formal_synonyms": [
       "decelerate"
-    ]
+    ],
+    "ipa": {
+      "uk": "/slˈəʊ dˈaʊn/",
+      "us": "/ˈsɫoʊ ˈdaʊn/"
+    }
   },
   {
     "id": 72,
@@ -5045,7 +5301,11 @@
     "track_type_label": "📖 Historia en Contexto",
     "formal_synonyms": [
       "decelerate"
-    ]
+    ],
+    "ipa": {
+      "uk": "/slˈəʊ dˈaʊn/",
+      "us": "/ˈsɫoʊ ˈdaʊn/"
+    }
   },
   {
     "id": 73,
@@ -5124,7 +5384,11 @@
     "track_type_label": "🎯 Práctica Guiada",
     "formal_synonyms": [
       "relax"
-    ]
+    ],
+    "ipa": {
+      "uk": "/kˈɑːm dˈaʊn/",
+      "us": "/ˈkɑɫm ˈdaʊn/"
+    }
   },
   {
     "id": 74,
@@ -5182,7 +5446,11 @@
     "track_type_label": "📖 Historia en Contexto",
     "formal_synonyms": [
       "relax"
-    ]
+    ],
+    "ipa": {
+      "uk": "/kˈɑːm dˈaʊn/",
+      "us": "/ˈkɑɫm ˈdaʊn/"
+    }
   },
   {
     "id": 75,
@@ -5258,7 +5526,11 @@
     "formal_synonyms": [
       "decrease",
       "reject"
-    ]
+    ],
+    "ipa": {
+      "uk": "/tˈɜːn dˈaʊn/",
+      "us": "/ˈtɝn ˈdaʊn/"
+    }
   },
   {
     "id": 76,
@@ -5315,7 +5587,11 @@
     "formal_synonyms": [
       "decrease",
       "reject"
-    ]
+    ],
+    "ipa": {
+      "uk": "/tˈɜːn dˈaʊn/",
+      "us": "/ˈtɝn ˈdaʊn/"
+    }
   },
   {
     "id": 77,
@@ -5391,7 +5667,11 @@
     "track_type_label": "🎯 Práctica Guiada",
     "formal_synonyms": [
       "transcribe"
-    ]
+    ],
+    "ipa": {
+      "uk": "/kˈɒpi dˈaʊn/",
+      "us": "/ˈkɑpi ˈdaʊn/"
+    }
   },
   {
     "id": 78,
@@ -5443,7 +5723,11 @@
     "track_type_label": "📖 Historia en Contexto",
     "formal_synonyms": [
       "transcribe"
-    ]
+    ],
+    "ipa": {
+      "uk": "/kˈɒpi dˈaʊn/",
+      "us": "/ˈkɑpi ˈdaʊn/"
+    }
   },
   {
     "id": 79,
@@ -5519,7 +5803,11 @@
     "track_type_label": "🎯 Práctica Guiada",
     "formal_synonyms": [
       "record"
-    ]
+    ],
+    "ipa": {
+      "uk": "/nˈəʊt dˈaʊn/",
+      "us": "/ˈnoʊt ˈdaʊn/"
+    }
   },
   {
     "id": 80,
@@ -5570,7 +5858,11 @@
     "track_type_label": "📖 Historia en Contexto",
     "formal_synonyms": [
       "record"
-    ]
+    ],
+    "ipa": {
+      "uk": "/nˈəʊt dˈaʊn/",
+      "us": "/ˈnoʊt ˈdaʊn/"
+    }
   },
   {
     "id": 81,
@@ -5647,7 +5939,11 @@
     "track_type_label": "🎯 Práctica Guiada",
     "formal_synonyms": [
       "record"
-    ]
+    ],
+    "ipa": {
+      "uk": "/ɹˈaɪt dˈaʊn/",
+      "us": "/ˈɹaɪt ˈdaʊn/"
+    }
   },
   {
     "id": 82,
@@ -5704,7 +6000,11 @@
     "story_title": "Story: Peter and his Post-it notes",
     "formal_synonyms": [
       "record"
-    ]
+    ],
+    "ipa": {
+      "uk": "/ɹˈaɪt dˈaʊn/",
+      "us": "/ˈɹaɪt ˈdaʊn/"
+    }
   },
   {
     "id": 83,
@@ -5783,7 +6083,11 @@
     "formal_synonyms": [
       "malfunction",
       "collapse"
-    ]
+    ],
+    "ipa": {
+      "uk": "/bɹˈeɪk dˈaʊn/",
+      "us": "/ˈbɹeɪk ˈdaʊn/"
+    }
   },
   {
     "id": 84,
@@ -5844,7 +6148,11 @@
     "formal_synonyms": [
       "malfunction",
       "collapse"
-    ]
+    ],
+    "ipa": {
+      "uk": "/bɹˈeɪk dˈaʊn/",
+      "us": "/ˈbɹeɪk ˈdaʊn/"
+    }
   },
   {
     "id": 85,
@@ -5918,7 +6226,11 @@
     "track_type_label": "🎯 Práctica Guiada",
     "formal_synonyms": [
       "disappoint"
-    ]
+    ],
+    "ipa": {
+      "uk": "/lˈɛt dˈaʊn/",
+      "us": "/ˈɫɛt ˈdaʊn/"
+    }
   },
   {
     "id": 86,
@@ -5963,7 +6275,11 @@
     "track_type_label": "📖 Historia en Contexto",
     "formal_synonyms": [
       "disappoint"
-    ]
+    ],
+    "ipa": {
+      "uk": "/lˈɛt dˈaʊn/",
+      "us": "/ˈɫɛt ˈdaʊn/"
+    }
   },
   {
     "id": 87,
@@ -6042,7 +6358,11 @@
     "formal_synonyms": [
       "malfunction",
       "collapse"
-    ]
+    ],
+    "ipa": {
+      "uk": "/bɹˈeɪk dˈaʊn/",
+      "us": "/ˈbɹeɪk ˈdaʊn/"
+    }
   },
   {
     "id": 88,
@@ -6107,7 +6427,11 @@
     "formal_synonyms": [
       "malfunction",
       "collapse"
-    ]
+    ],
+    "ipa": {
+      "uk": "/bɹˈeɪk dˈaʊn/",
+      "us": "/ˈbɹeɪk ˈdaʊn/"
+    }
   },
   {
     "id": 89,
@@ -6184,7 +6508,11 @@
     "track_type_label": "🎯 Práctica Guiada",
     "formal_synonyms": [
       "terminate"
-    ]
+    ],
+    "ipa": {
+      "uk": "/ʃˈʌt dˈaʊn/",
+      "us": "/ˈʃət ˈdaʊn/"
+    }
   },
   {
     "id": 90,
@@ -6248,7 +6576,11 @@
     "track_type_label": "📖 Historia en Contexto",
     "formal_synonyms": [
       "terminate"
-    ]
+    ],
+    "ipa": {
+      "uk": "/ʃˈʌt dˈaʊn/",
+      "us": "/ˈʃət ˈdaʊn/"
+    }
   },
   {
     "id": 91,
@@ -6326,7 +6658,11 @@
     "formal_synonyms": [
       "decrease",
       "reject"
-    ]
+    ],
+    "ipa": {
+      "uk": "/tˈɜːn dˈaʊn/",
+      "us": "/ˈtɝn ˈdaʊn/"
+    }
   },
   {
     "id": 92,
@@ -6383,7 +6719,11 @@
     "formal_synonyms": [
       "decrease",
       "reject"
-    ]
+    ],
+    "ipa": {
+      "uk": "/tˈɜːn dˈaʊn/",
+      "us": "/ˈtɝn ˈdaʊn/"
+    }
   },
   {
     "id": 93,
@@ -6457,7 +6797,11 @@
     "track_type_label": "🎯 Práctica Guiada",
     "formal_synonyms": [
       "enter"
-    ]
+    ],
+    "ipa": {
+      "uk": "/kˈʌm ˈɪn/",
+      "us": "/ˈkəm ˈɪn/"
+    }
   },
   {
     "id": 94,
@@ -6512,7 +6856,11 @@
       }
     ],
     "pair_id": 93,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "ipa": {
+      "uk": "/kˈʌm ˈɪn/",
+      "us": "/ˈkəm ˈɪn/"
+    }
   },
   {
     "id": 95,
@@ -6588,7 +6936,11 @@
     "track_type_label": "🎯 Práctica Guiada",
     "formal_synonyms": [
       "enter"
-    ]
+    ],
+    "ipa": {
+      "uk": "/ɡˈɛt ˈɪn/",
+      "us": "/ˈɡɛt ˈɪn/"
+    }
   },
   {
     "id": 96,
@@ -6662,7 +7014,11 @@
     "track_type_label": "📖 Historia en Contexto",
     "formal_synonyms": [
       "enter"
-    ]
+    ],
+    "ipa": {
+      "uk": "/ɡˈɛt ˈɪntʊ/",
+      "us": "/ˈɡɛt ˈɪntu/"
+    }
   },
   {
     "id": 97,
@@ -6737,7 +7093,11 @@
     "track_type_label": "🎯 Práctica Guiada",
     "formal_synonyms": [
       "enter"
-    ]
+    ],
+    "ipa": {
+      "uk": "/ɹˈʌn ˈɪn/",
+      "us": "/ˈɹən ˈɪn/"
+    }
   },
   {
     "id": 98,
@@ -6781,7 +7141,11 @@
     ],
     "type": "story",
     "pair_id": 97,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "ipa": {
+      "uk": "/ɹˈʌn ɐɹˈaʊnd/",
+      "us": "/ˈɹən ɝˈaʊn/"
+    }
   },
   {
     "id": 99,
@@ -6856,7 +7220,11 @@
     "track_type_label": "🎯 Práctica Guiada",
     "formal_synonyms": [
       "enter"
-    ]
+    ],
+    "ipa": {
+      "uk": "/wˈɔːk ˈɪn/",
+      "us": "/ˈwɑk ˈɪn/"
+    }
   },
   {
     "id": 100,
@@ -6919,7 +7287,11 @@
     "story_title": "Story: A man walks into a bar",
     "formal_synonyms": [
       "enter"
-    ]
+    ],
+    "ipa": {
+      "uk": "/wˈɔːk ˈɪn/",
+      "us": "/ˈwɑk ˈɪn/"
+    }
   },
   {
     "id": 101,
@@ -6994,7 +7366,11 @@
     "track_type_label": "🎯 Práctica Guiada",
     "formal_synonyms": [
       "intrude"
-    ]
+    ],
+    "ipa": {
+      "uk": "/bɹˈeɪk ˈɪn/",
+      "us": "/ˈbɹeɪk ˈɪn/"
+    }
   },
   {
     "id": 102,
@@ -7042,7 +7418,11 @@
     "track_type_label": "📖 Historia en Contexto",
     "formal_synonyms": [
       "intrude"
-    ]
+    ],
+    "ipa": {
+      "uk": "/bɹˈeɪk ˈɪn/",
+      "us": "/ˈbɹeɪk ˈɪn/"
+    }
   },
   {
     "id": 103,
@@ -7117,7 +7497,11 @@
     "track_type_label": "🎯 Práctica Guiada",
     "formal_synonyms": [
       "comprehend"
-    ]
+    ],
+    "ipa": {
+      "uk": "/tˈeɪk ˈɪn/",
+      "us": "/ˈteɪk ˈɪn/"
+    }
   },
   {
     "id": 104,
@@ -7174,7 +7558,11 @@
     "track_type_label": "📖 Historia en Contexto",
     "formal_synonyms": [
       "comprehend"
-    ]
+    ],
+    "ipa": {
+      "uk": "/tˈeɪk ˈɪn/",
+      "us": "/ˈteɪk ˈɪn/"
+    }
   },
   {
     "id": 105,
@@ -7252,7 +7640,11 @@
     "track_type_label": "🎯 Práctica Guiada",
     "formal_synonyms": [
       "assimilate"
-    ]
+    ],
+    "ipa": {
+      "uk": "/sˈɪŋk ˈɪn/",
+      "us": "/ˈsɪŋk ˈɪn/"
+    }
   },
   {
     "id": 106,
@@ -7311,7 +7703,11 @@
     "track_type_label": "📖 Historia en Contexto",
     "formal_synonyms": [
       "assimilate"
-    ]
+    ],
+    "ipa": {
+      "uk": "/sˈɪŋk ˈɪn/",
+      "us": "/ˈsɪŋk ˈɪn/"
+    }
   },
   {
     "id": 107,
@@ -7388,7 +7784,11 @@
     "track_type_label": "🎯 Práctica Guiada",
     "formal_synonyms": [
       "substitute"
-    ]
+    ],
+    "ipa": {
+      "uk": "/fˈɪl ˈɪn/",
+      "us": "/ˈfɪɫ ˈɪn/"
+    }
   },
   {
     "id": 108,
@@ -7517,7 +7917,11 @@
     "track_type_label": "🎯 Práctica Guiada",
     "formal_synonyms": [
       "substitute"
-    ]
+    ],
+    "ipa": {
+      "uk": "/stˈænd ˈɪn/",
+      "us": "/ˈstænd ˈɪn/"
+    }
   },
   {
     "id": 110,
@@ -7660,7 +8064,11 @@
     "track_type_label": "🎯 Práctica Guiada",
     "formal_synonyms": [
       "submit"
-    ]
+    ],
+    "ipa": {
+      "uk": "/hˈænd ˈɪn/",
+      "us": "/ˈhænd ˈɪn/"
+    }
   },
   {
     "id": 112,
@@ -7705,7 +8113,11 @@
       }
     ],
     "pair_id": 111,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "ipa": {
+      "uk": "/hˈænd ˈɪn/",
+      "us": "/ˈhænd ˈɪn/"
+    }
   },
   {
     "id": 113,
@@ -7781,7 +8193,11 @@
     "track_type_label": "🎯 Práctica Guiada",
     "formal_synonyms": [
       "submit"
-    ]
+    ],
+    "ipa": {
+      "uk": "/sˈɛnd ˈɪn/",
+      "us": "/ˈsɛnd ˈɪn/"
+    }
   },
   {
     "id": 114,
@@ -7835,7 +8251,11 @@
     "story_title": "Story: Hiring and Job Applications (send in, set up, deal with, narrow down)",
     "formal_synonyms": [
       "submit"
-    ]
+    ],
+    "ipa": {
+      "uk": "/sˈɛnd ˈɪn/",
+      "us": "/ˈsɛnd ˈɪn/"
+    }
   },
   {
     "id": 115,
@@ -7911,7 +8331,11 @@
     "track_type_label": "🎯 Práctica Guiada",
     "formal_synonyms": [
       "visit"
-    ]
+    ],
+    "ipa": {
+      "uk": "/pˈɒp ˈɪn/",
+      "us": "/ˈpɑp ˈɪn/"
+    }
   },
   {
     "id": 116,
@@ -7962,7 +8386,11 @@
     "track_type_label": "📖 Historia en Contexto",
     "formal_synonyms": [
       "visit"
-    ]
+    ],
+    "ipa": {
+      "uk": "/pˈɒp ˈɪn/",
+      "us": "/ˈpɑp ˈɪn/"
+    }
   },
   {
     "id": 117,
@@ -8037,7 +8465,11 @@
     "track_type_label": "🎯 Práctica Guiada",
     "formal_synonyms": [
       "visit"
-    ]
+    ],
+    "ipa": {
+      "uk": "/dɹˈɒp ˈɪn/",
+      "us": "/ˈdɹɑp ˈɪn/"
+    }
   },
   {
     "id": 118,
@@ -8304,7 +8736,11 @@
     "track_type_label": "🎯 Práctica Guiada",
     "formal_synonyms": [
       "visit"
-    ]
+    ],
+    "ipa": {
+      "uk": "/pˈɒp ˈɪn/",
+      "us": "/ˈpɑp ˈɪn/"
+    }
   },
   {
     "id": 122,
@@ -8372,7 +8808,11 @@
     "track_type_label": "📖 Historia en Contexto",
     "formal_synonyms": [
       "visit"
-    ]
+    ],
+    "ipa": {
+      "uk": "/pˈɒp ˈɪn/",
+      "us": "/ˈpɑp ˈɪn/"
+    }
   },
   {
     "id": 123,
@@ -8453,7 +8893,11 @@
     "track_type_label": "🎯 Práctica Guiada",
     "formal_synonyms": [
       "insert"
-    ]
+    ],
+    "ipa": {
+      "uk": "/stˈʌf ˈɪn/",
+      "us": "/ˈstəf ˈɪn/"
+    }
   },
   {
     "id": 124,
@@ -8517,7 +8961,11 @@
     "track_type_label": "📖 Historia en Contexto",
     "formal_synonyms": [
       "insert"
-    ]
+    ],
+    "ipa": {
+      "uk": "/stˈʌf ˈɪn/",
+      "us": "/ˈstəf ˈɪn/"
+    }
   },
   {
     "id": 125,
@@ -8599,7 +9047,11 @@
     "track_type_label": "🎯 Práctica Guiada",
     "formal_synonyms": [
       "connect"
-    ]
+    ],
+    "ipa": {
+      "uk": "/plˈʌɡ ˈɪn/",
+      "us": "/ˈpɫəɡ ˈɪn/"
+    }
   },
   {
     "id": 126,
@@ -8670,7 +9122,11 @@
     "track_type_label": "📖 Historia en Contexto",
     "formal_synonyms": [
       "connect"
-    ]
+    ],
+    "ipa": {
+      "uk": "/plˈʌɡ ˈɪn/",
+      "us": "/ˈpɫəɡ ˈɪn/"
+    }
   },
   {
     "id": 127,
@@ -8742,7 +9198,11 @@
       }
     ],
     "pair_id": 128,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "ipa": {
+      "uk": "/pˈʊʃ ˈɪn/",
+      "us": "/ˈpʊʃ ˈɪn/"
+    }
   },
   {
     "id": 128,
@@ -8801,7 +9261,11 @@
     ],
     "pair_id": 127,
     "track_type_label": "📖 Historia en Contexto",
-    "story_title": "Story: Push in"
+    "story_title": "Story: Push in",
+    "ipa": {
+      "uk": "/pˈʊʃ ˈɪn/",
+      "us": "/ˈpʊʃ ˈɪn/"
+    }
   },
   {
     "id": 129,
@@ -8877,7 +9341,11 @@
     "track_type_label": "🎯 Práctica Guiada",
     "formal_synonyms": [
       "interrupt"
-    ]
+    ],
+    "ipa": {
+      "uk": "/bˈʌt ˈɪn/",
+      "us": "/ˈbət ˈɪn/"
+    }
   },
   {
     "id": 130,
@@ -8933,7 +9401,11 @@
     "track_type_label": "📖 Historia en Contexto",
     "formal_synonyms": [
       "interrupt"
-    ]
+    ],
+    "ipa": {
+      "uk": "/bˈʌt ˈɪn/",
+      "us": "/ˈbət ˈɪn/"
+    }
   },
   {
     "id": 131,
@@ -9010,7 +9482,11 @@
     "track_type_label": "🎯 Práctica Guiada",
     "formal_synonyms": [
       "encounter"
-    ]
+    ],
+    "ipa": {
+      "uk": "/bˈʌmp ˈɪntʊ/",
+      "us": "/ˈbəmp ˈɪntu/"
+    }
   },
   {
     "id": 132,
@@ -9068,7 +9544,11 @@
     "track_type_label": "📖 Historia en Contexto",
     "formal_synonyms": [
       "encounter"
-    ]
+    ],
+    "ipa": {
+      "uk": "/bˈʌmp ˈɪntʊ/",
+      "us": "/ˈbəmp ˈɪntu/"
+    }
   },
   {
     "id": 133,
@@ -9160,7 +9640,11 @@
     "formal_synonyms": [
       "transform",
       "convert"
-    ]
+    ],
+    "ipa": {
+      "uk": "/tˈɜːn ˈɪntʊ/",
+      "us": "/ˈtɝn ˈɪntu/"
+    }
   },
   {
     "id": 134,
@@ -9211,7 +9695,11 @@
     "formal_synonyms": [
       "transform",
       "convert"
-    ]
+    ],
+    "ipa": {
+      "uk": "/tˈɜːn ˈɪntʊ/",
+      "us": "/ˈtɝn ˈɪntu/"
+    }
   },
   {
     "id": 135,
@@ -9288,7 +9776,11 @@
     "track_type_label": "🎯 Práctica Guiada",
     "formal_synonyms": [
       "investigate"
-    ]
+    ],
+    "ipa": {
+      "uk": "/lˈʊk ˈɪntʊ/",
+      "us": "/ˈɫʊk ˈɪntu/"
+    }
   },
   {
     "id": 136,
@@ -9348,7 +9840,11 @@
     "track_type_label": "📖 Historia en Contexto",
     "formal_synonyms": [
       "investigate"
-    ]
+    ],
+    "ipa": {
+      "uk": "/lˈʊk ˈɪntʊ/",
+      "us": "/ˈɫʊk ˈɪntu/"
+    }
   },
   {
     "id": 137,
@@ -9424,7 +9920,11 @@
     "track_type_label": "🎯 Práctica Guiada",
     "formal_synonyms": [
       "relocate"
-    ]
+    ],
+    "ipa": {
+      "uk": "/mˈuːv ˈɪn/",
+      "us": "/ˈmuv ˈɪn/"
+    }
   },
   {
     "id": 138,
@@ -9558,7 +10058,11 @@
     "track_type_label": "🎯 Práctica Guiada",
     "formal_synonyms": [
       "introduce"
-    ]
+    ],
+    "ipa": {
+      "uk": "/bɹˈɪŋ ˈɪn/",
+      "us": "/ˈbɹɪŋ ˈɪn/"
+    }
   },
   {
     "id": 140,
@@ -9611,7 +10115,11 @@
     "track_type_label": "📖 Historia en Contexto",
     "formal_synonyms": [
       "introduce"
-    ]
+    ],
+    "ipa": {
+      "uk": "/bɹˈɪŋ ˈɪn/",
+      "us": "/ˈbɹɪŋ ˈɪn/"
+    }
   },
   {
     "id": 141,
@@ -9745,7 +10253,11 @@
     "track_type_label": "📖 Historia en Contexto",
     "formal_synonyms": [
       "substitute"
-    ]
+    ],
+    "ipa": {
+      "uk": "/fˈɪl ˈɪn/",
+      "us": "/ˈfɪɫ ˈɪn/"
+    }
   },
   {
     "id": 143,
@@ -9823,7 +10335,11 @@
     "track_type_label": "🎯 Práctica Guiada",
     "formal_synonyms": [
       "register"
-    ]
+    ],
+    "ipa": {
+      "uk": "/tʃˈɛk ˈɪn/",
+      "us": "/ˈtʃɛk ˈɪn/"
+    }
   },
   {
     "id": 144,
@@ -9875,7 +10391,11 @@
     "track_type_label": "📖 Historia en Contexto",
     "formal_synonyms": [
       "register"
-    ]
+    ],
+    "ipa": {
+      "uk": "/tʃˈɛk ˈɪn/",
+      "us": "/ˈtʃɛk ˈɪn/"
+    }
   },
   {
     "id": 145,
@@ -9951,7 +10471,11 @@
     "track_type_label": "🎯 Práctica Guiada",
     "formal_synonyms": [
       "distribute"
-    ]
+    ],
+    "ipa": {
+      "uk": "/hˈænd ˈaʊt/",
+      "us": "/ˈhænd ˈaʊt/"
+    }
   },
   {
     "id": 146,
@@ -10004,7 +10528,11 @@
     "track_type_label": "📖 Historia en Contexto",
     "formal_synonyms": [
       "distribute"
-    ]
+    ],
+    "ipa": {
+      "uk": "/hˈænd ˈaʊt/",
+      "us": "/ˈhænd ˈaʊt/"
+    }
   },
   {
     "id": 147,
@@ -10085,7 +10613,11 @@
     "track_type_label": "🎯 Práctica Guiada",
     "formal_synonyms": [
       "distribute"
-    ]
+    ],
+    "ipa": {
+      "uk": "/ɡˈɪv ˈaʊt/",
+      "us": "/ˈɡɪv ˈaʊt/"
+    }
   },
   {
     "id": 148,
@@ -10148,7 +10680,11 @@
     "track_type_label": "📖 Historia en Contexto",
     "formal_synonyms": [
       "distribute"
-    ]
+    ],
+    "ipa": {
+      "uk": "/ɡˈɪv ˈaʊt/",
+      "us": "/ˈɡɪv ˈaʊt/"
+    }
   },
   {
     "id": 149,
@@ -10224,7 +10760,11 @@
     "track_type_label": "🎯 Práctica Guiada",
     "formal_synonyms": [
       "distribute"
-    ]
+    ],
+    "ipa": {
+      "uk": "/sˈɛnd ˈaʊt/",
+      "us": "/ˈsɛnd ˈaʊt/"
+    }
   },
   {
     "id": 150,
@@ -10279,7 +10819,11 @@
     "track_type_label": "📖 Historia en Contexto",
     "formal_synonyms": [
       "distribute"
-    ]
+    ],
+    "ipa": {
+      "uk": "/sˈɛnd ˈaʊt/",
+      "us": "/ˈsɛnd ˈaʊt/"
+    }
   },
   {
     "id": 151,
@@ -10483,7 +11027,11 @@
     "track_type_label": "🎯 Práctica Guiada",
     "formal_synonyms": [
       "escape"
-    ]
+    ],
+    "ipa": {
+      "uk": "/ɡˈɛt ˈaʊt/",
+      "us": "/ˈɡɛt ˈaʊt/"
+    }
   },
   {
     "id": 154,
@@ -10539,7 +11087,11 @@
       }
     ],
     "pair_id": 153,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "ipa": {
+      "uk": "/ɡˈɛt ˈaʊt/",
+      "us": "/ˈɡɛt ˈaʊt/"
+    }
   },
   {
     "id": 155,
@@ -10754,7 +11306,11 @@
     "formal_synonyms": [
       "depart",
       "abandon"
-    ]
+    ],
+    "ipa": {
+      "uk": "/wˈɔːk ˈaʊt/",
+      "us": "/ˈwɑk ˈaʊt/"
+    }
   },
   {
     "id": 158,
@@ -10821,7 +11377,11 @@
     "formal_synonyms": [
       "depart",
       "abandon"
-    ]
+    ],
+    "ipa": {
+      "uk": "/wˈɔːk ˈaʊt/",
+      "us": "/ˈwɑk ˈaʊt/"
+    }
   },
   {
     "id": 159,
@@ -10902,7 +11462,11 @@
     "track_type_label": "🎯 Práctica Guiada",
     "formal_synonyms": [
       "extinguish"
-    ]
+    ],
+    "ipa": {
+      "uk": "/ɡˈəʊ ˈaʊt/",
+      "us": "/ˈɡoʊ ˈaʊt/"
+    }
   },
   {
     "id": 160,
@@ -10979,7 +11543,11 @@
     "story_title": "Story: In the Dark",
     "formal_synonyms": [
       "extinguish"
-    ]
+    ],
+    "ipa": {
+      "uk": "/ɡˈəʊ ˈaʊt/",
+      "us": "/ˈɡoʊ ˈaʊt/"
+    }
   },
   {
     "id": 161,
@@ -11204,7 +11772,11 @@
     "formal_synonyms": [
       "release",
       "publish"
-    ]
+    ],
+    "ipa": {
+      "uk": "/bɹˈɪŋ ˈaʊt/",
+      "us": "/ˈbɹɪŋ ˈaʊt/"
+    }
   },
   {
     "id": 164,
@@ -11264,7 +11836,11 @@
     "formal_synonyms": [
       "release",
       "publish"
-    ]
+    ],
+    "ipa": {
+      "uk": "/bɹˈɪŋ ˈaʊt/",
+      "us": "/ˈbɹɪŋ ˈaʊt/"
+    }
   },
   {
     "id": 165,
@@ -11343,7 +11919,11 @@
     "formal_synonyms": [
       "emerge",
       "release"
-    ]
+    ],
+    "ipa": {
+      "uk": "/kˈʌm ˈaʊt/",
+      "us": "/ˈkəm ˈaʊt/"
+    }
   },
   {
     "id": 166,
@@ -11402,7 +11982,11 @@
     "formal_synonyms": [
       "emerge",
       "release"
-    ]
+    ],
+    "ipa": {
+      "uk": "/kˈʌm ˈaʊt/",
+      "us": "/ˈkəm ˈaʊt/"
+    }
   },
   {
     "id": 167,
@@ -11486,7 +12070,11 @@
     "track_type_label": "🎯 Práctica Guiada",
     "formal_synonyms": [
       "withdraw"
-    ]
+    ],
+    "ipa": {
+      "uk": "/bˈæk ˈaʊt/",
+      "us": "/ˈbæk ˈaʊt/"
+    }
   },
   {
     "id": 168,
@@ -11544,7 +12132,11 @@
     "track_type_label": "📖 Historia en Contexto",
     "formal_synonyms": [
       "withdraw"
-    ]
+    ],
+    "ipa": {
+      "uk": "/bˈæk ˈaʊt/",
+      "us": "/ˈbæk ˈaʊt/"
+    }
   },
   {
     "id": 169,
@@ -11631,7 +12223,11 @@
     "track_type_label": "🎯 Práctica Guiada",
     "formal_synonyms": [
       "withdraw"
-    ]
+    ],
+    "ipa": {
+      "uk": "/dɹˈɒp ˈaʊt/",
+      "us": "/ˈdɹɑp ˈaʊt/"
+    }
   },
   {
     "id": 170,
@@ -11693,7 +12289,11 @@
     "track_type_label": "📖 Historia en Contexto",
     "formal_synonyms": [
       "withdraw"
-    ]
+    ],
+    "ipa": {
+      "uk": "/dɹˈɒp ˈaʊt/",
+      "us": "/ˈdɹɑp ˈaʊt/"
+    }
   },
   {
     "id": 171,
@@ -11774,7 +12374,11 @@
     "track_type_label": "🎯 Práctica Guiada",
     "formal_synonyms": [
       "withdraw"
-    ]
+    ],
+    "ipa": {
+      "uk": "/pˈʊl ˈaʊt/",
+      "us": "/ˈpʊɫ ˈaʊt/"
+    }
   },
   {
     "id": 172,
@@ -11828,7 +12432,11 @@
     "track_type_label": "📖 Historia en Contexto",
     "formal_synonyms": [
       "withdraw"
-    ]
+    ],
+    "ipa": {
+      "uk": "/pˈʊl ˈaʊt/",
+      "us": "/ˈpʊɫ ˈaʊt/"
+    }
   },
   {
     "id": 173,
@@ -11903,7 +12511,11 @@
     "track_type_label": "🎯 Práctica Guiada",
     "formal_synonyms": [
       "exclude"
-    ]
+    ],
+    "ipa": {
+      "uk": "/kˈaʊnt ˈaʊt/",
+      "us": "/ˈkaʊnt ˈaʊt/"
+    }
   },
   {
     "id": 174,
@@ -12054,7 +12666,11 @@
     "formal_synonyms": [
       "eliminate",
       "exclude"
-    ]
+    ],
+    "ipa": {
+      "uk": "/ɹˈuːl ˈaʊt/",
+      "us": "/ˈɹuɫ ˈaʊt/"
+    }
   },
   {
     "id": 176,
@@ -12111,7 +12727,11 @@
     "formal_synonyms": [
       "eliminate",
       "exclude"
-    ]
+    ],
+    "ipa": {
+      "uk": "/ɹˈuːl ˈaʊt/",
+      "us": "/ˈɹuɫ ˈaʊt/"
+    }
   },
   {
     "id": 177,
@@ -12186,7 +12806,11 @@
     "track_type_label": "🎯 Práctica Guiada",
     "formal_synonyms": [
       "expel"
-    ]
+    ],
+    "ipa": {
+      "uk": "/kˈɪk ˈaʊt/",
+      "us": "/ˈkɪk ˈaʊt/"
+    }
   },
   {
     "id": 178,
@@ -12248,7 +12872,11 @@
     "track_type_label": "📖 Historia en Contexto",
     "formal_synonyms": [
       "expel"
-    ]
+    ],
+    "ipa": {
+      "uk": "/kˈɪk ˈaʊt/",
+      "us": "/ˈkɪk ˈaʊt/"
+    }
   },
   {
     "id": 179,
@@ -12328,7 +12956,11 @@
     "track_type_label": "🎯 Práctica Guiada",
     "formal_synonyms": [
       "expel"
-    ]
+    ],
+    "ipa": {
+      "uk": "/dɹˈaɪv ˈaʊt/",
+      "us": "/ˈdɹaɪv ˈaʊt/"
+    }
   },
   {
     "id": 180,
@@ -12406,7 +13038,11 @@
     "track_type_label": "📖 Historia en Contexto",
     "formal_synonyms": [
       "expel"
-    ]
+    ],
+    "ipa": {
+      "uk": "/dɹˈaɪv ˈaʊt/",
+      "us": "/ˈdɹaɪv ˈaʊt/"
+    }
   },
   {
     "id": 181,
@@ -12483,7 +13119,11 @@
     "track_type_label": "🎯 Práctica Guiada",
     "formal_synonyms": [
       "resolve"
-    ]
+    ],
+    "ipa": {
+      "uk": "/ˈaɪən ˈaʊt/",
+      "us": "/ˈaɪɝn ˈaʊt/"
+    }
   },
   {
     "id": 182,
@@ -12542,7 +13182,11 @@
     "track_type_label": "📖 Historia en Contexto",
     "formal_synonyms": [
       "resolve"
-    ]
+    ],
+    "ipa": {
+      "uk": "/ˈaɪən ˈaʊt/",
+      "us": "/ˈaɪɝn ˈaʊt/"
+    }
   },
   {
     "id": 183,
@@ -12622,7 +13266,11 @@
     "formal_synonyms": [
       "resolve",
       "organize"
-    ]
+    ],
+    "ipa": {
+      "uk": "/sˈɔːt ˈaʊt/",
+      "us": "/ˈsɔɹt ˈaʊt/"
+    }
   },
   {
     "id": 184,
@@ -12694,7 +13342,11 @@
     "formal_synonyms": [
       "resolve",
       "organize"
-    ]
+    ],
+    "ipa": {
+      "uk": "/sˈɔːt ˈaʊt/",
+      "us": "/ˈsɔɹt ˈaʊt/"
+    }
   },
   {
     "id": 185,
@@ -12772,7 +13424,11 @@
     "formal_synonyms": [
       "determine",
       "decipher"
-    ]
+    ],
+    "ipa": {
+      "uk": "/fˈɪɡɐ ˈaʊt/",
+      "us": "/ˈfɪɡjɝ ˈaʊt/"
+    }
   },
   {
     "id": 186,
@@ -12824,7 +13480,11 @@
     "formal_synonyms": [
       "determine",
       "decipher"
-    ]
+    ],
+    "ipa": {
+      "uk": "/fˈɪɡɐ ˈaʊt/",
+      "us": "/ˈfɪɡjɝ ˈaʊt/"
+    }
   },
   {
     "id": 187,
@@ -12900,7 +13560,11 @@
     "track_type_label": "🎯 Práctica Guiada",
     "formal_synonyms": [
       "withdraw"
-    ]
+    ],
+    "ipa": {
+      "uk": "/pˈʊl ˈaʊt/",
+      "us": "/ˈpʊɫ ˈaʊt/"
+    }
   },
   {
     "id": 188,
@@ -12988,7 +13652,11 @@
     "track_type_label": "📖 Historia en Contexto",
     "formal_synonyms": [
       "withdraw"
-    ]
+    ],
+    "ipa": {
+      "uk": "/pˈʊl ˈaʊt/",
+      "us": "/ˈpʊɫ ˈaʊt/"
+    }
   },
   {
     "id": 189,
@@ -13067,7 +13735,11 @@
     "formal_synonyms": [
       "extract",
       "remove"
-    ]
+    ],
+    "ipa": {
+      "uk": "/tˈeɪk ˈaʊt/",
+      "us": "/ˈteɪk ˈaʊt/"
+    }
   },
   {
     "id": 190,
@@ -13134,7 +13806,11 @@
     "formal_synonyms": [
       "extract",
       "remove"
-    ]
+    ],
+    "ipa": {
+      "uk": "/tˈeɪk ˈaʊt/",
+      "us": "/ˈteɪk ˈaʊt/"
+    }
   },
   {
     "id": 191,
@@ -13213,7 +13889,11 @@
     "track_type_label": "🎯 Práctica Guiada",
     "formal_synonyms": [
       "escape"
-    ]
+    ],
+    "ipa": {
+      "uk": "/ɡˈɛt ˈaʊt/",
+      "us": "/ˈɡɛt ˈaʊt/"
+    }
   },
   {
     "id": 192,
@@ -13277,7 +13957,11 @@
     "story_title": "Story: The red wine stain",
     "formal_synonyms": [
       "escape"
-    ]
+    ],
+    "ipa": {
+      "uk": "/ɡˈɛt ˈaʊt/",
+      "us": "/ˈɡɛt ˈaʊt/"
+    }
   },
   {
     "id": 193,
@@ -13357,7 +14041,11 @@
     "track_type_label": "🎯 Práctica Guiada",
     "formal_synonyms": [
       "discover"
-    ]
+    ],
+    "ipa": {
+      "uk": "/fˈaɪnd ˈaʊt/",
+      "us": "/ˈfaɪnd ˈaʊt/"
+    }
   },
   {
     "id": 194,
@@ -13414,7 +14102,11 @@
     "track_type_label": "📖 Historia en Contexto",
     "formal_synonyms": [
       "discover"
-    ]
+    ],
+    "ipa": {
+      "uk": "/fˈaɪnd ˈaʊt/",
+      "us": "/ˈfaɪnd ˈaʊt/"
+    }
   },
   {
     "id": 195,
@@ -13498,7 +14190,11 @@
     "formal_synonyms": [
       "expire",
       "deplete"
-    ]
+    ],
+    "ipa": {
+      "uk": "/ɹˈʌn ˈaʊt/",
+      "us": "/ˈɹən ˈaʊt/"
+    }
   },
   {
     "id": 196,
@@ -13676,7 +14372,11 @@
     "track_type_label": "🎯 Práctica Guiada",
     "formal_synonyms": [
       "result"
-    ]
+    ],
+    "ipa": {
+      "uk": "/tˈɜːn ˈaʊt/",
+      "us": "/ˈtɝn ˈaʊt/"
+    }
   },
   {
     "id": 198,
@@ -13725,7 +14425,11 @@
     "track_type_label": "📖 Historia en Contexto",
     "formal_synonyms": [
       "result"
-    ]
+    ],
+    "ipa": {
+      "uk": "/tˈɜːn ˈaʊt/",
+      "us": "/ˈtɝn ˈaʊt/"
+    }
   },
   {
     "id": 199,
@@ -13801,7 +14505,11 @@
     "track_type_label": "🎯 Práctica Guiada",
     "formal_synonyms": [
       "omit"
-    ]
+    ],
+    "ipa": {
+      "uk": "/lˈiːv ˈaʊt/",
+      "us": "/ˈɫiv ˈaʊt/"
+    }
   },
   {
     "id": 200,
@@ -13859,7 +14567,11 @@
     "track_type_label": "📖 Historia en Contexto",
     "formal_synonyms": [
       "omit"
-    ]
+    ],
+    "ipa": {
+      "uk": "/lˈiːv ˈaʊt/",
+      "us": "/ˈɫiv ˈaʊt/"
+    }
   },
   {
     "id": 201,
@@ -14085,7 +14797,11 @@
     "track_type_label": "🎯 Práctica Guiada",
     "formal_synonyms": [
       "dispute"
-    ]
+    ],
+    "ipa": {
+      "uk": "/fˈɔːl ˈaʊt/",
+      "us": "/ˈfɑɫ ˈaʊt/"
+    }
   },
   {
     "id": 204,
@@ -14138,7 +14854,11 @@
       }
     ],
     "pair_id": 203,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "ipa": {
+      "uk": "/fˈɔːl ˈaʊt/",
+      "us": "/ˈfɑɫ ˈaʊt/"
+    }
   },
   {
     "id": 205,
@@ -14219,7 +14939,11 @@
     "track_type_label": "🎯 Práctica Guiada",
     "formal_synonyms": [
       "activate"
-    ]
+    ],
+    "ipa": {
+      "uk": "/tˈɜːn ˈɒn/",
+      "us": "/ˈtɝn ˈɑn/"
+    }
   },
   {
     "id": 206,
@@ -14295,7 +15019,11 @@
     "story_title": "Story: The Greens and their electricity consumption",
     "formal_synonyms": [
       "activate"
-    ]
+    ],
+    "ipa": {
+      "uk": "/tˈɜːn ˈɒn/",
+      "us": "/ˈtɝn ˈɑn/"
+    }
   },
   {
     "id": 207,
@@ -14369,7 +15097,11 @@
       }
     ],
     "pair_id": 208,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "ipa": {
+      "uk": "/lˈiːv ˈɒn/",
+      "us": "/ˈɫiv ˈɑn/"
+    }
   },
   {
     "id": 208,
@@ -14440,7 +15172,11 @@
       }
     ],
     "pair_id": 207,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "ipa": {
+      "uk": "/lˈiːv ˈɒn/",
+      "us": "/ˈɫiv ˈɑn/"
+    }
   },
   {
     "id": 209,
@@ -14673,7 +15409,11 @@
     "track_type_label": "🎯 Práctica Guiada",
     "formal_synonyms": [
       "board"
-    ]
+    ],
+    "ipa": {
+      "uk": "/ɡˈɛt ˈɒn/",
+      "us": "/ˈɡɛt ˈɑn/"
+    }
   },
   {
     "id": 212,
@@ -14750,7 +15490,11 @@
     "track_type_label": "📖 Historia en Contexto",
     "formal_synonyms": [
       "board"
-    ]
+    ],
+    "ipa": {
+      "uk": "/ɡˈɛt ˈɒn/",
+      "us": "/ˈɡɛt ˈɑn/"
+    }
   },
   {
     "id": 213,
@@ -14988,7 +15732,11 @@
     "track_type_label": "🎯 Práctica Guiada",
     "formal_synonyms": [
       "mount"
-    ]
+    ],
+    "ipa": {
+      "uk": "/klˈaɪm ˈɒn/",
+      "us": "/ˈkɫaɪm ˈɑn/"
+    }
   },
   {
     "id": 216,
@@ -15071,7 +15819,11 @@
     "story_title": "Story: Where did we park? (climb on, get off, walk around)",
     "formal_synonyms": [
       "mount"
-    ]
+    ],
+    "ipa": {
+      "uk": "/klˈaɪm ˈɒn/",
+      "us": "/ˈkɫaɪm ˈɑn/"
+    }
   },
   {
     "id": 217,
@@ -15147,7 +15899,11 @@
     "track_type_label": "🎯 Práctica Guiada",
     "formal_synonyms": [
       "persist"
-    ]
+    ],
+    "ipa": {
+      "uk": "/hˈæŋ ˈɒn/",
+      "us": "/ˈhæŋ ˈɑn/"
+    }
   },
   {
     "id": 218,
@@ -15239,7 +15995,11 @@
     "track_type_label": "📖 Historia en Contexto",
     "formal_synonyms": [
       "persist"
-    ]
+    ],
+    "ipa": {
+      "uk": "/hˈəʊld ˈɒn/",
+      "us": "/ˈhoʊɫd ˈɑn/"
+    }
   },
   {
     "id": 219,
@@ -15316,7 +16076,11 @@
     "track_type_label": "🎯 Práctica Guiada",
     "formal_synonyms": [
       "remain"
-    ]
+    ],
+    "ipa": {
+      "uk": "/stˈeɪ ˈɒn/",
+      "us": "/ˈsteɪ ˈɑn/"
+    }
   },
   {
     "id": 220,
@@ -15382,7 +16146,11 @@
     "track_type_label": "📖 Historia en Contexto",
     "formal_synonyms": [
       "remain"
-    ]
+    ],
+    "ipa": {
+      "uk": "/stˈeɪ ˈɒn/",
+      "us": "/ˈsteɪ ˈɑn/"
+    }
   },
   {
     "id": 221,
@@ -15460,7 +16228,11 @@
     "track_type_label": "🎯 Práctica Guiada",
     "formal_synonyms": [
       "append"
-    ]
+    ],
+    "ipa": {
+      "uk": "/ˈæd ˈɒn/",
+      "us": "/ˈæd ˈɑn/"
+    }
   },
   {
     "id": 222,
@@ -15533,7 +16305,11 @@
     "track_type_label": "📖 Historia en Contexto",
     "formal_synonyms": [
       "append"
-    ]
+    ],
+    "ipa": {
+      "uk": "/ˈæd ˈɒn/",
+      "us": "/ˈæd ˈɑn/"
+    }
   },
   {
     "id": 223,
@@ -15786,7 +16562,11 @@
     "track_type_label": "🎯 Práctica Guiada",
     "formal_synonyms": [
       "adhere"
-    ]
+    ],
+    "ipa": {
+      "uk": "/stˈɪk ˈɒn/",
+      "us": "/ˈstɪk ˈɑn/"
+    }
   },
   {
     "id": 226,
@@ -15842,7 +16622,11 @@
     "track_type_label": "📖 Historia en Contexto",
     "formal_synonyms": [
       "adhere"
-    ]
+    ],
+    "ipa": {
+      "uk": "/stˈɪk ˈɒn/",
+      "us": "/ˈstɪk ˈɑn/"
+    }
   },
   {
     "id": 227,
@@ -15919,7 +16703,11 @@
     "formal_synonyms": [
       "continue",
       "persist"
-    ]
+    ],
+    "ipa": {
+      "uk": "/kˈæɹi ˈɒn/",
+      "us": "/ˈkæɹi ˈɑn/"
+    }
   },
   {
     "id": 228,
@@ -15975,7 +16763,11 @@
     "formal_synonyms": [
       "continue",
       "persist"
-    ]
+    ],
+    "ipa": {
+      "uk": "/kˈæɹi ˈɒn/",
+      "us": "/ˈkæɹi ˈɑn/"
+    }
   },
   {
     "id": 229,
@@ -16050,7 +16842,11 @@
     "track_type_label": "🎯 Práctica Guiada",
     "formal_synonyms": [
       "continue"
-    ]
+    ],
+    "ipa": {
+      "uk": "/kˈiːp ˈɒn/",
+      "us": "/ˈkip ˈɑn/"
+    }
   },
   {
     "id": 230,
@@ -16107,7 +16903,11 @@
     "track_type_label": "📖 Historia en Contexto",
     "formal_synonyms": [
       "continue"
-    ]
+    ],
+    "ipa": {
+      "uk": "/kˈiːp ˈɒn/",
+      "us": "/ˈkip ˈɑn/"
+    }
   },
   {
     "id": 231,
@@ -16185,7 +16985,11 @@
     "track_type_label": "🎯 Práctica Guiada",
     "formal_synonyms": [
       "continue"
-    ]
+    ],
+    "ipa": {
+      "uk": "/ɡˈəʊ ˈɒn/",
+      "us": "/ˈɡoʊ ˈɑn/"
+    }
   },
   {
     "id": 232,
@@ -16257,7 +17061,11 @@
     "track_type_label": "📖 Historia en Contexto",
     "formal_synonyms": [
       "continue"
-    ]
+    ],
+    "ipa": {
+      "uk": "/ɡˈəʊ ˈɒn/",
+      "us": "/ˈɡoʊ ˈɑn/"
+    }
   },
   {
     "id": 233,
@@ -16405,7 +17213,11 @@
     "track_type_label": "📖 Historia en Contexto",
     "formal_synonyms": [
       "access"
-    ]
+    ],
+    "ipa": {
+      "uk": "/lˈɒɡ ˈɒn/",
+      "us": "/ˈɫɔɡ ˈɑn/"
+    }
   },
   {
     "id": 235,
@@ -16482,7 +17294,11 @@
     "track_type_label": "🎯 Práctica Guiada",
     "formal_synonyms": [
       "register"
-    ]
+    ],
+    "ipa": {
+      "uk": "/klˈɒk ˈɒn/",
+      "us": "/ˈkɫɑk ˈɑn/"
+    }
   },
   {
     "id": 236,
@@ -16543,7 +17359,11 @@
     "track_type_label": "📖 Historia en Contexto",
     "formal_synonyms": [
       "register"
-    ]
+    ],
+    "ipa": {
+      "uk": "/klˈɒk ˈɒn/",
+      "us": "/ˈkɫɑk ˈɑn/"
+    }
   },
   {
     "id": 237,
@@ -16772,7 +17592,11 @@
       }
     ],
     "pair_id": 240,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "ipa": {
+      "uk": "/tɹˈaɪ ˈɒn/",
+      "us": "/ˈtɹaɪ ˈɑn/"
+    }
   },
   {
     "id": 240,
@@ -16846,7 +17670,11 @@
       }
     ],
     "pair_id": 239,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "ipa": {
+      "uk": "/tɹˈaɪ ˈɒn/",
+      "us": "/ˈtɹaɪ ˈɑn/"
+    }
   },
   {
     "id": 241,
@@ -17086,7 +17914,11 @@
     "track_type_label": "🎯 Práctica Guiada",
     "formal_synonyms": [
       "concur"
-    ]
+    ],
+    "ipa": {
+      "uk": "/ɐɡɹˈiː ˈɒn/",
+      "us": "/əˈɡɹi ˈɑn/"
+    }
   },
   {
     "id": 244,
@@ -17148,7 +17980,11 @@
     "track_type_label": "📖 Historia en Contexto",
     "formal_synonyms": [
       "concur"
-    ]
+    ],
+    "ipa": {
+      "uk": "/ɐɡɹˈiː ˈɒn/",
+      "us": "/əˈɡɹi ˈɑn/"
+    }
   },
   {
     "id": 245,
@@ -17221,7 +18057,11 @@
       }
     ],
     "pair_id": 246,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "ipa": {
+      "uk": "/kˈætʃ ˈɒn/",
+      "us": "/ˈkætʃ ˈɑn/"
+    }
   },
   {
     "id": 246,
@@ -17284,7 +18124,11 @@
       }
     ],
     "pair_id": 245,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "ipa": {
+      "uk": "/kˈætʃ ˈɒn/",
+      "us": "/ˈkætʃ ˈɑn/"
+    }
   },
   {
     "id": 247,
@@ -17428,7 +18272,11 @@
       }
     ],
     "pair_id": 247,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "ipa": {
+      "uk": "/ɡˈɛt ˈɒn/",
+      "us": "/ˈɡɛt ˈɑn/"
+    }
   },
   {
     "id": 249,
@@ -17507,7 +18355,11 @@
     "formal_synonyms": [
       "reveal",
       "disclose"
-    ]
+    ],
+    "ipa": {
+      "uk": "/lˈɛt ˈɒn/",
+      "us": "/ˈɫɛt ˈɑn/"
+    }
   },
   {
     "id": 250,
@@ -17579,7 +18431,11 @@
     "formal_synonyms": [
       "reveal",
       "disclose"
-    ]
+    ],
+    "ipa": {
+      "uk": "/lˈɛt ˈɒn/",
+      "us": "/ˈɫɛt ˈɑn/"
+    }
   },
   {
     "id": 251,
@@ -17656,7 +18512,11 @@
     "track_type_label": "🎯 Práctica Guiada",
     "formal_synonyms": [
       "assume"
-    ]
+    ],
+    "ipa": {
+      "uk": "/tˈeɪk ˈɒn/",
+      "us": "/ˈteɪk ˈɑn/"
+    }
   },
   {
     "id": 252,
@@ -17725,7 +18585,11 @@
     "track_type_label": "📖 Historia en Contexto",
     "formal_synonyms": [
       "assume"
-    ]
+    ],
+    "ipa": {
+      "uk": "/tˈeɪk ˈɒn/",
+      "us": "/ˈteɪk ˈɑn/"
+    }
   },
   {
     "id": 253,
@@ -17804,7 +18668,11 @@
     "formal_synonyms": [
       "detonate",
       "activate"
-    ]
+    ],
+    "ipa": {
+      "uk": "/ɡˈəʊ ˈɒf/",
+      "us": "/ˈɡoʊ ˈɔf/"
+    }
   },
   {
     "id": 254,
@@ -17881,7 +18749,11 @@
     "formal_synonyms": [
       "detonate",
       "activate"
-    ]
+    ],
+    "ipa": {
+      "uk": "/ɡˈəʊ ˈɒf/",
+      "us": "/ˈɡoʊ ˈɔf/"
+    }
   },
   {
     "id": 255,
@@ -17960,7 +18832,11 @@
     "formal_synonyms": [
       "trigger",
       "detonate"
-    ]
+    ],
+    "ipa": {
+      "uk": "/sˈɛt ˈɒf/",
+      "us": "/ˈsɛt ˈɔf/"
+    }
   },
   {
     "id": 256,
@@ -18043,7 +18919,11 @@
     "formal_synonyms": [
       "trigger",
       "detonate"
-    ]
+    ],
+    "ipa": {
+      "uk": "/sˈɛt ˈɒf/",
+      "us": "/ˈsɛt ˈɔf/"
+    }
   },
   {
     "id": 257,
@@ -18121,7 +19001,11 @@
     "track_type_label": "🎯 Práctica Guiada",
     "formal_synonyms": [
       "succeed"
-    ]
+    ],
+    "ipa": {
+      "uk": "/kˈʌm ˈɒf/",
+      "us": "/ˈkəm ˈɔf/"
+    }
   },
   {
     "id": 258,
@@ -18192,7 +19076,11 @@
     "track_type_label": "📖 Historia en Contexto",
     "formal_synonyms": [
       "succeed"
-    ]
+    ],
+    "ipa": {
+      "uk": "/kˈʌm ˈɒf/",
+      "us": "/ˈkəm ˈɔf/"
+    }
   },
   {
     "id": 259,
@@ -18269,7 +19157,11 @@
     "track_type_label": "🎯 Práctica Guiada",
     "formal_synonyms": [
       "succeed"
-    ]
+    ],
+    "ipa": {
+      "uk": "/pˈeɪ ˈɒf/",
+      "us": "/ˈpeɪ ˈɔf/"
+    }
   },
   {
     "id": 260,
@@ -18333,7 +19225,11 @@
     "story_title": "Story: Pay off",
     "formal_synonyms": [
       "succeed"
-    ]
+    ],
+    "ipa": {
+      "uk": "/pˈeɪ ˈɒf/",
+      "us": "/ˈpeɪ ˈɔf/"
+    }
   },
   {
     "id": 261,
@@ -18411,7 +19307,11 @@
     "track_type_label": "🎯 Práctica Guiada",
     "formal_synonyms": [
       "achieve"
-    ]
+    ],
+    "ipa": {
+      "uk": "/pˈʊl ˈɒf/",
+      "us": "/ˈpʊɫ ˈɔf/"
+    }
   },
   {
     "id": 262,
@@ -18473,7 +19373,11 @@
     "track_type_label": "📖 Historia en Contexto",
     "formal_synonyms": [
       "achieve"
-    ]
+    ],
+    "ipa": {
+      "uk": "/pˈʊl ˈɒf/",
+      "us": "/ˈpʊɫ ˈɔf/"
+    }
   },
   {
     "id": 263,
@@ -18748,7 +19652,11 @@
     "formal_synonyms": [
       "disconnect",
       "interrupt"
-    ]
+    ],
+    "ipa": {
+      "uk": "/kˈʌt ˈɒf/",
+      "us": "/ˈkət ˈɔf/"
+    }
   },
   {
     "id": 266,
@@ -18815,7 +19723,11 @@
     "formal_synonyms": [
       "disconnect",
       "interrupt"
-    ]
+    ],
+    "ipa": {
+      "uk": "/kˈʌt ˈɒf/",
+      "us": "/ˈkət ˈɔf/"
+    }
   },
   {
     "id": 267,
@@ -18893,7 +19805,11 @@
     "track_type_label": "🎯 Práctica Guiada",
     "formal_synonyms": [
       "obstruct"
-    ]
+    ],
+    "ipa": {
+      "uk": "/blˈɒk ˈɒf/",
+      "us": "/ˈbɫɑk ˈɔf/"
+    }
   },
   {
     "id": 268,
@@ -18977,7 +19893,11 @@
     "track_type_label": "📖 Historia en Contexto",
     "formal_synonyms": [
       "obstruct"
-    ]
+    ],
+    "ipa": {
+      "uk": "/blˈɒk ˈɒf/",
+      "us": "/ˈbɫɑk ˈɔf/"
+    }
   },
   {
     "id": 269,
@@ -19195,7 +20115,11 @@
     "formal_synonyms": [
       "disconnect",
       "interrupt"
-    ]
+    ],
+    "ipa": {
+      "uk": "/kˈʌt ˈɒf/",
+      "us": "/ˈkət ˈɔf/"
+    }
   },
   {
     "id": 272,
@@ -19262,7 +20186,11 @@
     "formal_synonyms": [
       "disconnect",
       "interrupt"
-    ]
+    ],
+    "ipa": {
+      "uk": "/kˈʌt ˈɒf/",
+      "us": "/ˈkət ˈɔf/"
+    }
   },
   {
     "id": 273,
@@ -19340,7 +20268,11 @@
     "track_type_label": "🎯 Práctica Guiada",
     "formal_synonyms": [
       "succeed"
-    ]
+    ],
+    "ipa": {
+      "uk": "/kˈʌm ˈɒf/",
+      "us": "/ˈkəm ˈɔf/"
+    }
   },
   {
     "id": 274,
@@ -19417,7 +20349,11 @@
     "track_type_label": "📖 Historia en Contexto",
     "formal_synonyms": [
       "succeed"
-    ]
+    ],
+    "ipa": {
+      "uk": "/kˈʌm ˈɒf/",
+      "us": "/ˈkəm ˈɔf/"
+    }
   },
   {
     "id": 275,
@@ -19489,7 +20425,11 @@
       }
     ],
     "pair_id": 276,
-    "track_type_label": "🎯 Práctica Guiada"
+    "track_type_label": "🎯 Práctica Guiada",
+    "ipa": {
+      "uk": "/fˈɔːl ˈɒf/",
+      "us": "/ˈfɑɫ ˈɔf/"
+    }
   },
   {
     "id": 276,
@@ -19587,7 +20527,11 @@
       }
     ],
     "pair_id": 275,
-    "track_type_label": "📖 Historia en Contexto"
+    "track_type_label": "📖 Historia en Contexto",
+    "ipa": {
+      "uk": "/fˈɔːl ˈɒf/",
+      "us": "/ˈfɑɫ ˈɔf/"
+    }
   },
   {
     "id": 277,
@@ -19663,7 +20607,11 @@
     "track_type_label": "🎯 Práctica Guiada",
     "formal_synonyms": [
       "remove"
-    ]
+    ],
+    "ipa": {
+      "uk": "/tˈeɪk ˈɒf/",
+      "us": "/ˈteɪk ˈɔf/"
+    }
   },
   {
     "id": 278,
@@ -19726,7 +20674,11 @@
     "story_title": "Story: Clutter and taking off clothes",
     "formal_synonyms": [
       "remove"
-    ]
+    ],
+    "ipa": {
+      "uk": "/tˈeɪk ˈɒf/",
+      "us": "/ˈteɪk ˈɔf/"
+    }
   },
   {
     "id": 279,
@@ -19802,7 +20754,11 @@
     "track_type_label": "🎯 Práctica Guiada",
     "formal_synonyms": [
       "extract"
-    ]
+    ],
+    "ipa": {
+      "uk": "/ɹˈɪp ˈɒf/",
+      "us": "/ˈɹɪp ˈɔf/"
+    }
   },
   {
     "id": 280,
@@ -19860,7 +20816,11 @@
     "story_title": "Story: The Storm (rip off)",
     "formal_synonyms": [
       "extract"
-    ]
+    ],
+    "ipa": {
+      "uk": "/ɹˈɪp ˈɒf/",
+      "us": "/ˈɹɪp ˈɔf/"
+    }
   },
   {
     "id": 281,
@@ -19935,7 +20895,11 @@
     "track_type_label": "🎯 Práctica Guiada",
     "formal_synonyms": [
       "achieve"
-    ]
+    ],
+    "ipa": {
+      "uk": "/pˈʊl ˈɒf/",
+      "us": "/ˈpʊɫ ˈɔf/"
+    }
   },
   {
     "id": 282,
@@ -20023,7 +20987,11 @@
     "track_type_label": "📖 Historia en Contexto",
     "formal_synonyms": [
       "achieve"
-    ]
+    ],
+    "ipa": {
+      "uk": "/pˈʊl ˈɒf/",
+      "us": "/ˈpʊɫ ˈɔf/"
+    }
   },
   {
     "id": 283,
@@ -20103,7 +21071,11 @@
     "track_type_label": "🎯 Práctica Guiada",
     "formal_synonyms": [
       "remove"
-    ]
+    ],
+    "ipa": {
+      "uk": "/tˈeɪk ˈɒf/",
+      "us": "/ˈteɪk ˈɔf/"
+    }
   },
   {
     "id": 284,
@@ -20174,7 +21146,11 @@
     "track_type_label": "📖 Historia en Contexto",
     "formal_synonyms": [
       "remove"
-    ]
+    ],
+    "ipa": {
+      "uk": "/tˈeɪk ˈɒf/",
+      "us": "/ˈteɪk ˈɔf/"
+    }
   },
   {
     "id": 285,
@@ -20250,7 +21226,11 @@
     "track_type_label": "🎯 Práctica Guiada",
     "formal_synonyms": [
       "flee"
-    ]
+    ],
+    "ipa": {
+      "uk": "/ɹˈʌn ˈɒf/",
+      "us": "/ˈɹən ˈɔf/"
+    }
   },
   {
     "id": 286,
@@ -20323,7 +21303,11 @@
     "track_type_label": "📖 Historia en Contexto",
     "formal_synonyms": [
       "flee"
-    ]
+    ],
+    "ipa": {
+      "uk": "/ɹˈʌn ˈɒf/",
+      "us": "/ˈɹən ˈɔf/"
+    }
   },
   {
     "id": 287,
@@ -20400,7 +21384,11 @@
     "formal_synonyms": [
       "trigger",
       "detonate"
-    ]
+    ],
+    "ipa": {
+      "uk": "/sˈɛt ˈɒf/",
+      "us": "/ˈsɛt ˈɔf/"
+    }
   },
   {
     "id": 288,
@@ -20461,7 +21449,11 @@
     "formal_synonyms": [
       "trigger",
       "detonate"
-    ]
+    ],
+    "ipa": {
+      "uk": "/sˈɛt ˈɒf/",
+      "us": "/ˈsɛt ˈɔf/"
+    }
   },
   {
     "id": 289,
@@ -20538,7 +21530,11 @@
     "track_type_label": "🎯 Práctica Guiada",
     "formal_synonyms": [
       "depart"
-    ]
+    ],
+    "ipa": {
+      "uk": "/dɹˈaɪv ˈɒf/",
+      "us": "/ˈdɹaɪv ˈɔf/"
+    }
   },
   {
     "id": 290,
@@ -20609,7 +21605,11 @@
     "track_type_label": "📖 Historia en Contexto",
     "formal_synonyms": [
       "depart"
-    ]
+    ],
+    "ipa": {
+      "uk": "/dɹˈaɪv ˈɒf/",
+      "us": "/ˈdɹaɪv ˈɔf/"
+    }
   },
   {
     "id": 291,
@@ -20690,7 +21690,11 @@
     "track_type_label": "🎯 Práctica Guiada",
     "formal_synonyms": [
       "cancel"
-    ]
+    ],
+    "ipa": {
+      "uk": "/kˈɔːl ˈɒf/",
+      "us": "/ˈkɔɫ ˈɔf/"
+    }
   },
   {
     "id": 292,
@@ -20758,7 +21762,11 @@
     "track_type_label": "📖 Historia en Contexto",
     "formal_synonyms": [
       "cancel"
-    ]
+    ],
+    "ipa": {
+      "uk": "/kˈɔːl ˈɒf/",
+      "us": "/ˈkɔɫ ˈɔf/"
+    }
   },
   {
     "id": 293,
@@ -21143,7 +22151,11 @@
     "track_type_label": "🎯 Práctica Guiada",
     "formal_synonyms": [
       "calm"
-    ]
+    ],
+    "ipa": {
+      "uk": "/kˈuːl ˈɒf/",
+      "us": "/ˈkuɫ ˈɔf/"
+    }
   },
   {
     "id": 298,
@@ -21199,7 +22211,11 @@
     "track_type_label": "📖 Historia en Contexto",
     "formal_synonyms": [
       "calm"
-    ]
+    ],
+    "ipa": {
+      "uk": "/kˈuːl ˈɒf/",
+      "us": "/ˈkuɫ ˈɔf/"
+    }
   },
   {
     "id": 299,
@@ -21289,7 +22305,11 @@
     "formal_synonyms": [
       "decrease",
       "decline"
-    ]
+    ],
+    "ipa": {
+      "uk": "/dɹˈɒp ˈɒf/",
+      "us": "/ˈdɹɑp ˈɔf/"
+    }
   },
   {
     "id": 300,
@@ -21368,7 +22388,11 @@
     "formal_synonyms": [
       "decrease",
       "decline"
-    ]
+    ],
+    "ipa": {
+      "uk": "/dɹˈɒp ˈɒf/",
+      "us": "/ˈdɹɑp ˈɔf/"
+    }
   },
   {
     "id": 301,
@@ -21444,7 +22468,11 @@
     "formal_synonyms": [
       "detonate",
       "activate"
-    ]
+    ],
+    "ipa": {
+      "uk": "/ɡˈəʊ ˈɒf/",
+      "us": "/ˈɡoʊ ˈɔf/"
+    }
   },
   {
     "id": 302,
@@ -21526,7 +22554,11 @@
     "formal_synonyms": [
       "detonate",
       "activate"
-    ]
+    ],
+    "ipa": {
+      "uk": "/ɡˈəʊ ˈɒf/",
+      "us": "/ˈɡoʊ ˈɔf/"
+    }
   },
   {
     "id": 303,
@@ -21602,7 +22634,11 @@
     "formal_synonyms": [
       "decrease",
       "decline"
-    ]
+    ],
+    "ipa": {
+      "uk": "/dɹˈɒp ˈɒf/",
+      "us": "/ˈdɹɑp ˈɔf/"
+    }
   },
   {
     "id": 304,
@@ -21664,7 +22700,11 @@
     "formal_synonyms": [
       "decrease",
       "decline"
-    ]
+    ],
+    "ipa": {
+      "uk": "/dɹˈɒp ˈɒf/",
+      "us": "/ˈdɹɑp ˈɔf/"
+    }
   },
   {
     "id": 305,
@@ -21746,7 +22786,11 @@
     "track_type_label": "🎯 Práctica Guiada",
     "formal_synonyms": [
       "emit"
-    ]
+    ],
+    "ipa": {
+      "uk": "/ɡˈɪv ˈɒf/",
+      "us": "/ˈɡɪv ˈɔf/"
+    }
   },
   {
     "id": 306,
@@ -21804,6 +22848,10 @@
     "track_type_label": "📖 Historia en Contexto",
     "formal_synonyms": [
       "emit"
-    ]
+    ],
+    "ipa": {
+      "uk": "/ɡˈɪv ˈɒf/",
+      "us": "/ˈɡɪv ˈɔf/"
+    }
   }
 ]

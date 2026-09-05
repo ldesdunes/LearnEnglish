@@ -1,8 +1,9 @@
-const CACHE_NAME = 'phrasals-pwa-v4';
+const CACHE_NAME = 'phrasals-pwa-v5';
 const ASSETS = [
   './',
   './index.html',
   './data.js',
+  './srs.js',
   './manifest.json',
   './icon.svg'
 ];
