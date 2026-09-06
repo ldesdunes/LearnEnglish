@@ -44,8 +44,8 @@ Los 306 archivos de audio (`malditos_phrasal/`) cubren 153 phrasal verbs organiz
 
 ### 2. En Casa con ChatGPT o Claude (Entrenamiento por Voz)
 Optimizado para no consumir tokens generando audio con IA cuando ya tienes los MP3s:
-1. Sube el archivo **`phrasal_verbs_knowledge.txt`** a tu **Custom GPT (Knowledge)** o a tu **Claude Project (Knowledge)**.
-2. Copia las instrucciones de **`ai-prompt.md`** en las instrucciones del sistema.
+1. Sube **`phrasal_verbs_knowledge.txt`** y **`pwa_guide.txt`** a tu **Custom GPT (Knowledge)** o a tu **Claude Project (Knowledge)**.
+2. Copia las instrucciones de **`ai-prompt.md`** en las instrucciones del sistema (se mantiene deliberadamente bajo 8.000 caracteres; el detalle de las herramientas de la PWA y de los vicios fonéticos vive en `pwa_guide.txt`, referenciado desde el prompt).
 3. Abre la app móvil o de escritorio de ChatGPT o Claude, activa el modo voz y dile:
    * *"Vamos con el phrasal verb 45"*
    * *"Quiero practicar phrasal verbs para reuniones de trabajo"*
@@ -64,7 +64,8 @@ Optimizado para no consumir tokens generando audio con IA cuando ya tienes los M
 | `data.js` | Base de datos embebida con los 306 registros para carga ultrarrápida offline. |
 | `phrasal_verbs_data.json` | Base de datos completa en JSON: metadatos, tags, pares bilingües, sinónimos formales, IPA y nivel CEFR. |
 | `phrasal_verbs_knowledge.txt` | Archivo de conocimiento maestro estructurado para subir a Claude y ChatGPT. |
-| `ai-prompt.md` | Prompt de sistema del tutor de voz: dinámica de shadowing, comandos rápidos y detección de vicios fonéticos. |
+| `ai-prompt.md` | Prompt de sistema del tutor de voz (< 8.000 caracteres): dinámica de shadowing, comandos rápidos y detección de vicios fonéticos. |
+| `pwa_guide.txt` | Referencia de Knowledge complementaria a `ai-prompt.md`: detalle de cada herramienta de la PWA (cuándo recomendarla) y de los 4 vicios fonéticos con ejemplos IPA. |
 | `srs.js` | Módulo de repaso espaciado (SM-2 ligero) que calcula solo *cuándo* repasar cada verbo; el estado de dominio sigue viviendo en `cardStatuses`. |
 | `malditos_phrasal/` | Carpeta con los 306 audios originales en formato MP3 (~190 MB). |
 | `manifest.json` + `sw.js` + `icon.svg` | Configuración PWA para instalación en iOS y Android. |
